@@ -35,6 +35,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Eldara** — élite militar de Coria. Eris es comandante. Llevan Nexalita y tatuajes de manos.
 - **Elkorn** — Silmarita de la Caza, albino, en Túnderor. Amenaza Deengar.
 - **Enorian** — antigua unificación imperial onírica (lore histórico).
+- **Erion** — estudiante de segundo curso de la Sandrie. Naggar primer-ciento, rubio, ojos azul Haiz saturados. Mencionado en Cap 2; Lirae lo cruza en el rellano de Norel.
 
 ## F
 

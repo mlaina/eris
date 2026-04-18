@@ -4,15 +4,15 @@ La anomalía se repitió por quinta vez a media tarde.
 
 Lirae lo anotó en el cuaderno de mediciones sin apartar los ojos del péndulo. Cinco veces en seis horas. Horas más o menos constantes: cada setenta u ochenta minutos. La aguja del péndulo no se movía —era una buena aguja, hecha para no moverse—, pero el peso, debajo, oscilaba hacia el norte con una fuerza que no debería existir en la meseta.
 
-Veinte mililitros de desviación. Había días que llegaba a treinta.
+Apoyó la yema del índice derecho en el borde de la mesa y abrió un foco contra el plomo del péndulo. La red fina de venas azuladas que le recorría la cara interna del antebrazo izquierdo se marcó un poco más, como cada vez que canalizaba; la dejó. El Poisé respondió debajo, indiferente y exacto, con la misma desviación que la aguja había escrito por sí sola. Veinte mililitros. Había días que llegaba a treinta.
 
-Escribió el número. Cerró el cuaderno. Se apartó del péndulo.
+Escribió el número. Cerró el cuaderno. Cerró el foco. Se apartó del péndulo.
 
-La sala del segundo piso de Norel daba al norte, hacia el palacio. Pequeña, cuadrada, con tres mesas largas, instrumentos de medición alineados en estantes, y en el centro de la sala un soporte circular donde descansaba el péndulo. Ese péndulo era suyo desde hacía sesenta años. Lo había construido con un maestro Mirisar viejo que ya estaba muerto. Hoy era el único péndulo así en Coria.
+La sala del segundo piso de Norel daba al norte, hacia el palacio. Pequeña, cuadrada, con tres mesas largas, instrumentos de medición alineados en estantes, y en el centro de la sala un soporte circular donde descansaba el péndulo. Ese péndulo era suyo desde hacía sesenta años. Lo había construido con Oren, su maestro, Mirisar gravitatorio de cuatrocientos años que ya no estaba. Hoy era el único péndulo así en Coria.
 
 Afuera, las cascadas del oeste seguían cayendo. El sonido llegaba distinto según la hora y el viento. A media tarde, como ahora, llegaba limpio.
 
-Lirae se frotó la nuca con el canto de la mano. Llevaba desde el amanecer delante del péndulo. Cinco anomalías: una a las ocho, otra a las nueve y veinte, una tercera a media mañana, la cuarta a las doce, y esta a las tres. Si la pauta se mantenía, la sexta sería sobre las cuatro y diez. Se quedaría a verlo.
+Lirae se frotó la nuca con el canto de la mano. Había subido y bajado al péndulo entre firmas y audiencias a lo largo del día, como cualquier otro día de los últimos meses; en ese turno se había quedado arriba a ver el ciclo completo. Cinco anomalías: una a las ocho, otra a las nueve y veinte, una tercera a media mañana, la cuarta a las doce, y esta a las tres. Si la pauta se mantenía, la sexta sería sobre las cuatro y diez. Se quedaría a verlo. La Sandrie podía esperar una hora.
 
 Había pensado que iba a ver a Eris esa tarde. Pero no iba a verla.
 
@@ -30,29 +30,33 @@ Más anomalías. Más frecuencia. Más intensidad.
 
 Lirae cerró el libro.
 
-Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Uno de los estudiantes de segundo curso —un chico joven, rubio, un primer-ciento— la saludó con una reverencia al cruzarse con ella en el rellano. Lirae asintió. No se acordaba del nombre. Nunca era un problema: la biblioteca los absorbía y los escupía cada veinte años.
+Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Uno de los estudiantes de segundo curso la saludó con una reverencia al cruzarse con ella en el rellano. Erion. Primer-ciento, rubio, los ojos todavía azul saturado de haber canalizado por la mañana. Había firmado entrada hacía catorce meses y había sobrevivido los doce primeros, que eran los duros. Lirae le devolvió el saludo. Algunos nombres se quedaban más rato.
 
 En la planta baja, Tirva la estaba esperando.
 
 Tirva era la archivista jefe. Naggar de trescientos cincuenta años, cara delgada, cejas grises muy marcadas. Lirae la apreciaba por dos cosas: no decía nunca nada que no hiciera falta decir, y sabía exactamente dónde estaba cada documento de la biblioteca aunque ella misma no lo hubiera archivado.
 
-—Lyris la está esperando en el patio de los robles —dijo Tirva.
-
-—¿Lyris?
-
-—Ella misma. Ha venido a pie. Hace un cuarto de hora.
+—Lyris la está esperando en el patio de los robles —dijo Tirva—. Y ha llegado un preso esta mañana. Mirisar de contrato, sin manos. Está abajo en la celda chica.
 
 Lirae se quedó un instante quieta al pie de la escalera.
 
-—¿Ha dicho para qué?
+—¿De dónde viene?
 
-—No dice nunca para qué.
+—Indra. Por la Arteria de Jomla, dos guardias, una carta. Lo manda Eris. La carta dice que lo querrían entero y hablando en dos días.
+
+—¿Lyris sabe lo del preso?
+
+—Lyris sabe siempre. Saque sus conclusiones, Mirisar.
 
 Lirae asintió despacio.
 
-—Dile que voy.
+—¿Hace cuánto que está ahí?
 
-—Le dije hace diez minutos que irías. No se ha movido del banco.
+—Un cuarto de hora. Le dije hace diez minutos que iría. No se ha movido del banco.
+
+—Lyris primero.
+
+—Bien. El preso lleva tres horas en la celda y no se va a ir.
 
 Lirae salió.
 
@@ -112,17 +116,43 @@ Lyris dejó pasar un momento antes de volver a hablar.
 
 Lyris miró hacia el palacio. Era la primera vez en los cuatro siglos que Lirae la conocía que le veía mirar el palacio como un edificio. No con la mirada de mayordomo. Sino como miraría una torre cualquiera, una ciudad cualquiera, una cosa que alguien había puesto ahí en un momento determinado.
 
-—¿Hay algo que yo deba saber? —preguntó Lirae con cautela.
+Lirae se decidió a empujar.
 
-—No.
+—¿Es por el preso?
 
-—Mayordomo.
+Lyris no contestó al instante. Una de las dos esferas de luz se le acercó al hombro y se quedó suspendida ahí, casi quieta. Era —Lirae lo sabía sin tener que pensarlo— el equivalente, en lumínica, de tomar aire antes de hablar. Lyris había sido lumínica graduada hacía siglos, antes del cargo, antes del palacio. Las esferas eran lo que aún hacía sin pensarlo, como un tic de oficio.
 
-—Mirisar.
+—También —dijo Lyris.
 
-Las dos esferas de luz de Lyris se juntaron un instante y luego volvieron a separarse. Era, si Lirae no se equivocaba, el equivalente de un suspiro. Lyris no suspiraba en público.
+—¿También?
 
-—Sólo le diría una cosa. Si me la permite.
+—Ha llegado por la mañana. Lo sé. Lo cortaron en Indra: la derecha por los dedos, la izquierda por la muñeca.
+
+—Diez focos cerrados, entonces.
+
+—Diez. Y quemadura fina en el cuello, supongo.
+
+—Supone bien. No la he visto. Lo dice la carta.
+
+—Es de los nuestros, entonces. Expulsado, no ajeno.
+
+—Sí.
+
+Lyris ladeó la cara medio centímetro. La sombra del banco, debajo, se inclinó con ella un instante más de lo que correspondía. Lirae lo registró sin comentar. La maestra no había perdido el oficio, sólo el ejercicio.
+
+—¿Qué quiere de él?
+
+—Nada por ahora —dijo Lyris—. Sólo que quede aquí. Bajo su firma, no la mía. Que el palacio no entre en esto hasta que Eris vuelva y pueda cerrar el círculo ella misma.
+
+—¿Y si Eris no vuelve?
+
+—Volverá.
+
+Lyris no añadió por qué.
+
+Las dos esferas de luz se juntaron un instante y luego volvieron a separarse. Era, si Lirae no se equivocaba, el equivalente de un suspiro. Lyris no suspiraba en público.
+
+—Hay otra cosa —dijo Lyris—. Si me la permite.
 
 —Permitida.
 
@@ -146,15 +176,17 @@ Lyris se levantó. Las esferas de luz ajustaron su órbita. Se ajustó una arrug
 
 —Buenas tardes, mayordomo.
 
-Lyris cruzó el patio con el paso exacto de siempre. Al pasar bajo uno de los robles, una hoja dorada le cayó en la túnica. Lyris la retiró con dos dedos, la depositó en el banco que acababa de dejar, y siguió caminando. Lirae vio desaparecer la túnica tras las puertas del palacio.
+Una hoja dorada cayó desde uno de los robles y se posó en la túnica de Lyris antes de que diera el primer paso. Lyris la retiró con dos dedos, la puso sobre el banco donde había estado sentada, y la rozó un instante con una de las esferas de luz. Después cruzó el patio con el paso exacto de siempre. Lirae vio desaparecer la túnica tras las puertas del palacio.
 
-Se quedó sentada. La hoja dorada, entre los dos sitios donde habían estado sentadas, brillaba con una luz que ya no era del sol.
+Se quedó sentada. La hoja dorada, sobre el banco, brillaba con una luz que ya no era del sol.
 
 ---
 
 Volvió a Norel despacio.
 
 Le dolía un poco la espalda. Era una tontería —los Naggar no solían tener dolores de espalda antes de los quinientos años— pero le dolía desde hacía dos meses, concretamente desde las cuatro anomalías al día. Lirae no creía en las coincidencias médicas. Sabía que su cuerpo, sin que ella le diera permiso, estaba empezando a reaccionar a algo que ella se negaba a reaccionar con la cabeza.
+
+Se frotó el antebrazo por dentro. La red azul se había aplacado mientras hablaba con Lyris; ahora, otra vez sola, volvía a dibujarse despacio. La conocía desde hacía ochenta años: era el mapa de algo que había dejado de hacer hacía mucho y que su cuerpo nunca había olvidado del todo.
 
 Tirva estaba en el mostrador. No levantó la vista cuando Lirae pasó.
 
@@ -176,7 +208,7 @@ Las anomalías eran bajo esa masa. Esa masa. Eso.
 
 Lirae cerró los ojos.
 
-Pensó en Eris. La imaginó en la Arteria, yendo al sur. Con la misma cara de siempre, el ceño ligero, los pulgares rozando el cinturón sin darse cuenta. Era absurdo echarla de menos: si hubiera vuelto esa tarde, habrían cenado dos horas, y Eris, cansada, se habría dormido en el sofá antes de la segunda copa de agua. No era por la cena. Era por saber que estaba.
+Pensó en Eris. La imaginó en la Arteria, yendo al sur. Con la misma cara de siempre, el ceño ligero, los dedos de una mano amasándose los tatuajes grises de la otra sin darse cuenta. Era absurdo echarla de menos: si hubiera vuelto esa tarde, habrían cenado dos horas, y Eris, cansada, se habría dormido en el sofá antes de la segunda copa de vino. No era por la cena. Era por saber que estaba.
 
 Luego pensó que Eris, en Valdara, estaría viendo otra niebla. Y que Valdara, en todas las historias que Lirae conocía de Valdara, no solía ser el lugar donde nadie pasaba una buena noche.
 
@@ -198,9 +230,21 @@ El único libro con los datos reales quedaba en el armario cerrado, con hojas co
 
 Tirva le subió la cena a las siete en punto. Pescado frío con aceite. Un pan negro algo duro. Una jarra de agua con limón. Dos copas, aunque sólo una iba a beber.
 
-Lirae cenó en el suelo, frente al ventanal, mirando al palacio.
+Lirae cenó frente al ventanal, mirando al palacio.
 
 Las ventanas negras de las plantas inferiores seguían sin iluminarse. Como no se iluminaban nunca. Como no se habían iluminado desde que Lirae tenía memoria.
+
+Después de cenar, apartó el plato. Cruzó las piernas en el centro de la sala, sacó la lasca de plomo del cinturón y la dejó en la palma.
+
+Levantó el índice y el corazón. Dos focos. Uno lo fijó sobre la lasca y la dejó suspendida a dos dedos por encima de su mano. El otro se lo aplicó a sí misma. Se invirtió despacio: la túnica le resbaló a los hombros, el pelo le cayó hacia el suelo, las piernas siguieron cruzadas. Se quedó a un palmo del techo, bocabajo, los dos focos sostenidos sin esfuerzo visible. Abrió los ojos.
+
+Desde ahí, el ventanal le devolvía el palacio del revés. La masa blanca invertida, los huecos oscuros, los jardines colgados hacia arriba. La lasca, entre ella y el palacio, temblaba muy levemente hacia el norte.
+
+Así medía mejor, cuando el cuerpo también estaba en un foco. Era oficio viejo, inventado por ella con el tiempo; Oren le habría dicho que para qué. Habría dicho también que cuidara la espalda, que cien años no eran quinientos.
+
+Se quedó un rato. La red azul del antebrazo se le encendió y no hizo nada por bajarla.
+
+Bajó el cuerpo despacio. Cerró su propio foco primero, luego el de la lasca. El plomo le cayó en la palma.
 
 ---
 
@@ -212,7 +256,7 @@ Le dolía la espalda. Se apoyó en la baranda.
 
 Kiral Ree, delante, parecía flotar.
 
-Lirae se llevó una mano al cinturón. En el cinturón, enganchada siempre, llevaba una lasca de plomo pequeña —regalo del maestro Mirisar viejo muerto—, una piedra de ajustar el peso del mundo cuando era necesario. No la solía sacar. Hoy la sacó.
+Lirae se llevó una mano al cinturón. En el cinturón, enganchada siempre, llevaba la lasca de plomo —regalo de Oren—, una piedra de ajustar el peso del mundo cuando era necesario. No la solía sacar al aire. Esa noche la sacó.
 
 La sostuvo a un brazo de distancia, entre los dedos, sobre la baranda.
 
@@ -228,7 +272,7 @@ Lirae cerró la mano. Guardó la lasca en el cinturón.
 
 Dentro de la habitación, la vela en el candil se movió con una corriente que no venía de ninguna ventana abierta.
 
-Lirae se quedó un rato más en el balcón. El aire estaba frío. Abajo, las cascadas seguían.
+Lirae se quedó un rato más en el balcón. El aire estaba frío. Abajo, las cascadas seguían. Más abajo todavía, en la celda chica de la planta baja, el preso sin manos dormía o no dormía. Lirae no había bajado a verlo. Ya bajaría por la mañana.
 
 Pensó, por primera vez en meses, que igual no era una tontería contarle a Eris lo del péndulo con todas las letras cuando volviera. Ya no como curiosidad de Mirisar. Como otra cosa.
 

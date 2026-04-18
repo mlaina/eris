@@ -17,7 +17,8 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 - ❌ **No hacerla dudar demasiado pronto.**
 - En Acto I y II es **orgullosa de Coria**. Su disciplina es real, su fe en el régimen es real.
 - Las grietas son **sensoriales y emocionales** antes que racionales.
-- La primera duda política real es **Acto II** (Plaza Ocre). La primera duda estructural es **Acto III** (tritón).
+- Primera grieta **sensorial** en Acto I (Plaza Ocre, Cap 3): primer *tum tum*, Valagost, el coste de matar a la mujer de la bandera. Eris todavía no duda políticamente — sólo registra.
+- Primera duda **política** real en **Acto II** (Nurn / Misión 135). La primera duda **estructural** en **Acto III** (tritón).
 - No adelantarle al lector lo que Eris ya "sospechaba".
 
 ## Sobre los rebeldes

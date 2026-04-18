@@ -1,11 +1,20 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-04-18. En curso: revisión de caps 2–4 con Marcos antes de escribir Acto II. **Sistema mágico Mirisar/Poisé definido en canon esta sesión.**
+**Última sesión**: 2026-04-18. En curso: revisión de caps 2–4 con Marcos antes de escribir Acto II. **Sistema mágico Mirisar/Poisé definido en canon esta sesión. Cap 2 revisado para introducirlo en escena.**
 
 **Ajustes puntuales ya hechos esta sesión**:
 - Eliminada la idea de "Nexalita real" como canal de mensajes imperiales (la Nexalita es sistema Eldara). La redirección del prólogo llega ahora por mensajero con papel firmado y sello de Kiral Ree en lacre rojo.
 - Reemplazado "palomo" por "mensajero" en prólogo, Cap 2 y canon `nexalita.md`. Persona física con papel, no ave.
 - Reemplazado "tablilla" por "papel" / "hoja" / "cuaderno" / "parte" según contexto (cuaderno de mediciones de Lirae, parte del día en Orio, papel firmado de palacio). Sello de Kiral Ree ahora **en lacre rojo** (no quemado, que era de tablilla de madera/cera).
+
+**Cap 2 revisado** (sin canonizar excepción de voz; voz híbrida puntual con frases más largas en interior de Lirae):
+- Apertura del péndulo: Lirae abre un foco con el índice y el Poisé responde. Introduce **canalización**, **foco** y **Poisé** ejecutados, no de ficha.
+- **Erion**, primer-ciento rubio, segundo curso de la Sandrie. Ojos azul Haiz saturados de la canalización de la mañana. Establece efecto del Haiz visible.
+- Tirva entrega dos noticias: Lyris en el patio, **y** preso Mirisar de contrato en la celda chica (sin manos, llegado por la mañana, "lo manda Eris"). Cierra el arco Cap 1 ↔ Cap 2.
+- Conversación con Lyris en tres movimientos: anomalías → preso → libro doble. Lyris demuestra control lumínico fino (esfera quieta, sombra del banco que se inclina). Lirae piensa que Lyris fue lumínica graduada hace siglos.
+- "Diez focos cerrados, entonces" — la regla **un dedo = un foco** ejecutada en diálogo, no explicada.
+- Lirae se frota la cara interna del antebrazo izquierdo y aparece la **red de venas azuladas**: marca corporal del Haiz, ochenta años, "el mapa de algo que había dejado de hacer hacía mucho".
+- Cierre del balcón: Lirae piensa por un instante en el preso sin manos en la celda chica abajo. Bajará por la mañana.
 
 **Sistema mágico Mirisar / Poisé — fijado en canon**:
 - **Poisé**: plano de energía bruta. Sustrato del mundo. Los Mirisar canalizan de ahí.
@@ -23,10 +32,11 @@
 - `canon/sistemas/mirisar.md` (nuevo, reemplaza `magia-sandrie.md` borrado).
 - `canon/lugares/sandrie.md` (nuevo — la academia).
 - `canon/personajes/nino-prodigio.md` (nuevo, nombre pendiente).
-- `canon/personajes/lirae.md` (actualizado con cargo y pasado Haiz).
+- `canon/personajes/lirae.md` (actualizado con cargo, pasado Haiz **y red de venas azuladas en antebrazo izquierdo**).
 - `canon/personajes/lyris.md` (actualizado con ex-Mirisar lumínica, 400+ años).
-- `canon/glosario.md` (actualizado con Poisé, Primer Mirisar, Sandrie, Mirisar, Mirisar de contrato, Haiz con tres efectos).
+- `canon/glosario.md` (actualizado con Poisé, Primer Mirisar, Sandrie, Mirisar, Mirisar de contrato, Haiz con tres efectos, **Erion**).
 - Canon actualizado en `canon/sistemas/nexalita.md` con sección **"Lo que la Nexalita NO es"**.
+- `estructura/capitulos/02-helisil-lirae.md` revisado (seis parches puntuales — ver bloque "Cap 2 revisado" arriba).
 **Objetivo global**: draft de ~300 páginas, 22 capítulos, 5 actos. Ver `estructura/outline-5actos.md`.
 
 ---
@@ -49,8 +59,8 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 | # | Archivo | Validado por Marcos |
 |---|---|---|
 | 1 | `estructura/capitulos/01-prologo.md` | ✅ **Totalmente validado**. Reescrito varias veces con feedback: tono Sicario, ruta Indra → Thuay → Loroa → Helisil, redirección a Valdara, duelo con mirisar gravitatorio reescrito para consistencia, diálogo Haris/Eris en barco, intercambio Eris/Ravys en Loroa, reflexión sobre el habla Eldara vs corte. |
-| 2 | `estructura/capitulos/02-helisil-lirae.md` | ⏳ **Pendiente de revisión**. Escrito. POV Lirae sola en Helisil, en paralelo al prólogo. Péndulo gravitatorio + visita de Lyris + lasca de plomo. |
-| 3 | `estructura/capitulos/03-plaza-ocre.md` | ⏳ **Pendiente de revisión**. Escrito. Operación Valdara. Primer *tum tum*. Valagost piel azul. Muerte de la mujer de la bandera. |
+| 2 | `estructura/capitulos/02-helisil-lirae.md` | ⏳ **Pendiente de revisión por Marcos** (versión revisada 2026-04-18: introducción del sistema Mirisar/Poisé en escena, Erion, marca corporal Haiz de Lirae, llegada del preso del Cap 1 a la Sandrie, Lyris con lumínica activa). Voz híbrida puntual sin canonizar. |
+| 3 | `estructura/capitulos/03-plaza-ocre.md` | ⏳ **Pendiente de revisión por Marcos** (versión revisada 2026-04-18: ficha del equipamiento retirada, discurso de Eris recortado a registro Sicario, Nagani sin traducción pegada, "Horda Oscura" → "Invasión Oscura", gramática, repeticiones. **Canon actualizado**: Plaza Ocre fijado en Acto I como primera grieta sensorial; la duda política real se traslada al Acto II — Nurn / Misión 135). |
 | 4 | `estructura/capitulos/04-libro-pequeno.md` | ⏳ **Pendiente de revisión**. Escrito. Vuelta a Helisil tras Valdara. Informe a Lyris ("cuide el pensamiento, comandante"). Lirae le enseña el libro pequeño con las lecturas reales. |
 
 **Antes de escribir Acto II**: pasar por la revisión de Cap 2, 3 y 4 con Marcos. Puede haber cambios de canon, tono o continuidad que afecten a Acto II.

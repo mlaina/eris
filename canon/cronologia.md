@@ -59,8 +59,8 @@ Esta crisis continental **justifica la militarización** de Coria y hace creíbl
 ### Línea de tiempo compacta
 
 - **Año 0** — comienzo narrativo del libro. Eris en Helisil, misión de rutina.
-- **+ semanas** — Valdara / Plaza Ocre (Acto II).
-- **+ semanas** — Nurn, Elerian (Acto II).
+- **+ días** — Valdara / Plaza Ocre (Acto I). Primera grieta **sensorial** en Eris: primer *tum tum*, Valagost piel azul, muerte de la mujer de la bandera.
+- **+ semanas** — Nurn, Elerian (Acto II). Primera duda **política** real.
 - **+ meses** — Corte en Helisil, descubrimiento del tritón (Acto III).
 - **+ semanas** — cena con Faree, huida con Haris, Ygoran (Acto IV).
 - **+ semanas** — desaparición de Lirae (Acto IV).

@@ -14,6 +14,7 @@
 
 - Apariencia Naggar discreta, sin ostentación.
 - **Ojos con veta azul residual**: marca del cruce del puente con el Poisé. El azul le recorre el iris como agua clara; se nota a poca distancia. No lo oculta.
+- **Red fina de venas azuladas en la cara interna del antebrazo izquierdo**. Marca corporal del Haiz: la zona por la que el cuerpo procesó la droga durante el período de consumo. Más oscura que la veta del iris, casi cobalto. Se le marca cuando canaliza fuerte o cuando está cansada; en reposo casi no se ve. La conoce desde hace ochenta años. **No la oculta**, pero tampoco la enseña: las mangas de sus túnicas y batas la cubren por defecto. Solo el círculo íntimo (Eris, Lyris, algún maestro de la Sandrie) la habrá visto sin manga.
 - Lleva un **anillo fino de graduada** con piedra azul gris (forma gravitatoria) en el índice dominante. Además, como Primer Mirisar, un segundo anillo más grueso de cargo.
 
 ## Pasado con el Haiz

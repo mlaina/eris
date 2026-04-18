@@ -15,7 +15,7 @@
 
 ## Presencia en la novela
 
-- **Plaza Ocre (Acto II)**: una mujer Valagost de piel azul aparece entre la multitud reprimida en Valdara. Primera imagen potente de lo **no-Naggar humanizado** para Eris.
+- **Plaza Ocre (Acto I, Cap 3)**: una mujer Valagost de piel azul aparece entre la multitud reprimida en Valdara. Primera imagen potente de lo **no-Naggar humanizado** para Eris.
 - **Ygoran (Acto IV–V)**: presencia probable en la ciudad portuaria (mestiza), entre rebeldes o contrabandistas.
 - **Motivo "tum tum"**: posible conexión con percepción Valagost (hipótesis pendiente de fijar).
 
