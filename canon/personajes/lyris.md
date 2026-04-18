@@ -7,7 +7,7 @@
 - **Raza**: Naggar.
 - **Género**: femenino (fijado en escritura: Cap 2 y Cap 4).
 - **Edad**: **400+ años**. Cuatro siglos de servicio como Mayordoma Real.
-- **Cargo actual**: **Mayordoma Real del Rey Faree Numari**. Máxima autoridad protocolaria y política en el Kiral Ree tras el propio rey.
+- **Cargo actual**: **Mayordoma Real del Rey Faree Numari** — en Nagani: **Kirala**. Máxima autoridad protocolaria y política en el Kiral Ree tras el propio rey.
 - **Formación**: **Mirisar lumínica graduada en la Sandrie**, pero acabó sus estudios hace mucho tiempo. No ejerce activamente: usa la canalización lumínica solo en funciones ceremoniales.
 
 ## Pasado con el Haiz

@@ -34,7 +34,7 @@ Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia polític
 
 ## Cómo se organiza el trabajo
 
-- **Capítulos escritos**: `estructura/capitulos/NN-titulo.md`.
+- **Capítulos escritos**: `estructura/capitulos/acto-N/NN-titulo.md` (agrupados por acto: `acto-I/`, `acto-II/`, `acto-III/`, `acto-IV/`, `acto-V/`).
 - **Outline**: `estructura/outline-5actos.md`.
 - **Canon**: `canon/personajes/`, `canon/lugares/`, `canon/razas/`, `canon/sistemas/`, `canon/glosario.md`, `canon/cronologia.md`, `canon/nagani.md`.
 - **Estilo**: `estilo/tono.md`, `estilo/restricciones.md`.

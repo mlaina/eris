@@ -43,6 +43,11 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 - **Sira, rilan** — fórmula.
 - **Tisar lisel, nel irisar, risana lir. Liran, nel senal.** — frase completa canónica (traducción precisa por fijar durante escritura, pero usar tal cual en momentos solemnes).
 
+## Títulos
+
+- **Kalari** — vocativo y tratamiento Nagani para **comandante Eldara**. Raíz **kal-** (honor/reconocimiento, la misma de *Kalaree*) + sufijo **-ari** (rango/femenino). Lo usan los Eldara entre sí al dirigirse a su comandante. Lo pueden usar también otros Naggar de rango en registro ceremonial (Lyris, Faree en audiencia). **Los no-Naggar (humanos, otras razas) nunca lo usan** — ellos dicen "comandante" en común. Plural: *Kalarina*.
+- **Kirala** — tratamiento Nagani para **Mayordoma/o Real de Coria** (actualmente Lyris). Raíz **Kiral-** (real, de Kiral Ree, la casa del rey) + sufijo **-a** (femenino, o neutral para el cargo). Lo usan los Naggar en la corte y los Eldara en audiencia formal. Humanos dicen "mayordomo" en común. Masc: *Kiralo*. Plural neutro: *Kirali*.
+
 ---
 
 ## Uso correcto en la prosa

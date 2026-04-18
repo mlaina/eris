@@ -8,7 +8,7 @@
 - **Edad**: **poco más de 100 años**. **Joven en términos Naggar** — apenas adulta para su raza.
 - **Origen**: nacida en **Itsu**.
 - **Título familiar**: "Hija del Señor del Desierto".
-- **Rango actual**: comandante Eldara (élite militar de Coria).
+- **Rango actual**: comandante Eldara (élite militar de Coria). Tratamiento Nagani: **Kalari**. Ver `canon/nagani.md`.
 - **Lealtad inicial**: absoluta al Rey Faree Numari y al orden Naggar.
 
 ## Historia previa

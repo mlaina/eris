@@ -73,6 +73,8 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 
 ## K
 
+- **Kalari** — vocativo y tratamiento Nagani para el **comandante Eldara**. Lo usan los Eldara entre sí y los Naggar de rango en ceremonial. Humanos dicen "comandante". Ver `canon/nagani.md`.
+- **Kirala** — vocativo y tratamiento Nagani para la **Mayordoma Real de Coria** (actualmente Lyris). Humanos dicen "mayordomo". Ver `canon/nagani.md`.
 - **Kiral Ree** — palacio real de Helisil. Bajo él, el tritón.
 - **Klivian** — región de los Moruntyr.
 - **Koan** — Silmarita de la Piedra (Geoda).

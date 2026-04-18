@@ -10,7 +10,7 @@ El gobernador había mandado una guardia humana a recibirlos. Cuatro hombres cor
 
 —Suban ustedes —dijo Eris—. Nosotros primero recorremos.
 
-Eran siete. Los ocho del segundo turno venían por la Arteria de Jomla y llegarían en la siguiente ventana, tres horas después. Se incorporarían a los puestos ya preparados, sin tocar el dispositivo inicial. El reloj no se paraba por media formación: corría, y ellos ocupaban lo que tocaba.
+Eran quince. La redirección desde Orio los había metido a todos en la misma ventana y la Arteria los había dejado juntos.
 
 El oficial dudó un instante. Muoro, a la derecha de Eris, no se movió. El oficial terminó la duda por donde empieza: asintió.
 
@@ -30,13 +30,13 @@ El oficial dudó un instante. Muoro, a la derecha de Eris, no se movió. El ofic
 
 —Botellas —repitió Eris.
 
-—Con pintura, señora. Se las tiran a los cascos.
+—Con pintura, comandante. Se las tiran a los cascos.
 
 Eris miró a Muoro un segundo. Muoro levantó una ceja una milésima. Ni humor ni reproche. Cuando el enemigo tiraba pintura, la lección cambiaba de forma.
 
-—Dispérsenos a la plaza —dijo Eris—. Por rutas separadas. Quiero tejados, esquinas y la fuente. Dos de los míos en el balcón del gobernador con Ravys. Los demás, conmigo.
+—Dispérsenos —dijo Eris—. Por rutas separadas. Tejados, flancos, esquinas. Dos conmigo al balcón del gobernador. Haris entre la gente.
 
-—Sí, señora.
+—Sí, comandante.
 
 Se pusieron en marcha.
 
@@ -46,7 +46,7 @@ La niebla ya llevaba un rato dentro de la ciudad. Venía del mar, subía por los
 
 Eris la recordaba. La había visto por primera vez hacía casi un siglo, siendo cadete, el día que Coria entró en Targo a romper la Invasión Oscura. Muchos compañeros de entonces tardaron décadas en superar el primer contacto con la niebla. Ella, no. Ella había tardado menos.
 
-Subieron por callejuelas laterales. El escuadrón se iba fragmentando por indicación suya: parejas a los tejados, parejas a las esquinas, parejas entre la multitud sin yelmo ni capa. Sin yelmo, un Eldara joven pasaba por ciudadano cualquiera. Haris era uno.
+Subieron por callejuelas laterales. El escuadrón se iba fragmentando por indicación suya: la pareja de tejados a los edificios altos, los gemelos a los flancos, Muoro al pie del balcón con dos más. Haris, sin yelmo, se metió entre la multitud: pasaba por ciudadano cualquiera.
 
 —Ten cuidado —le dijo Eris por la Nexalita.
 
@@ -56,9 +56,17 @@ La plaza central de Valdara ocupaba un rectángulo amplio, rodeada de edificios 
 
 La multitud ocupaba los cuatro lados. Cientos de personas. Mil, como había dicho el oficial, quizá más. Antorchas. Carteles. Capas grises entre la gente, repartidas como lunares. Voces en coro: *Valdara libre. Targo libre. Sin capa, sin libertad.*
 
-Eris se asomó desde el balcón del despacho del gobernador, una planta por encima del nivel de la multitud. Ravys estaba a su izquierda, dos soldados más a su derecha. Muoro, debajo, ya ocupando el flanco oeste con tres más. Illia en el flanco este. Dos Eldara en los tejados, con línea visual sobre toda la plaza.
+Eris miró a los de las capas grises. El gobernador las había prohibido hacía meses; por eso las llevaban. La capa era la bandera pequeña, la que se plegaba bajo la camisa cuando hacía falta y se volvía a sacar: más útil, en una plaza, que el kraken del mástil.
 
-Eris cerró los ojos un segundo. La Nexalita le trajo el mapa entero: las parejas en los tejados, las parejas en las esquinas, los gemelos cada uno en un flanco.
+Jóvenes, casi todos. Hijos o nietos de los que ella había visto en Targo hacía un siglo, tirados en las calles, con la piel cubierta por las pústulas de la Invasión, gritando por agua. Los Eldara los habían sacado de ahí. Ella entre ellos, cadete todavía, tres noches seguidas sin relevo en la niebla.
+
+Ellos no se acordaban. Sus abuelos sí. Sus padres menos. Esta generación cantaba *Targo libre* sin saber lo que había querido decir libre antes de Coria.
+
+No era asunto suyo explicárselo. Había venido por oficio, no por memoria.
+
+Eris se asomó desde el balcón del despacho del gobernador, una planta por encima del nivel de la multitud. Dos Eldara a sus costados. Muoro, al pie del balcón, con otros dos esperando. Ravys cubría el flanco oeste con dos más; Illia el este, otros dos con él. Dos Eldara en los tejados, con línea visual sobre toda la plaza. Haris, entre la gente, sin yelmo, pasando por uno más.
+
+Eris cerró los ojos un segundo. La Nexalita le trajo el mapa entero: Muoro al pie, los gemelos en los flancos, los dos de los tejados, Haris entre la gente.
 
 Abrió los ojos.
 
@@ -72,11 +80,11 @@ Eris parpadeó una vez. La multitud seguía gritando. La niebla seguía subiendo
 
 *Tum. Tum.*
 
-—Estás tensa —dijo Muoro por la Nexalita.
+—Estás tensa —dijo Haris por la Nexalita.
 
 —No estoy tensa.
 
-—Como diga.
+—Pues respira.
 
 Eris se llevó dos dedos a la sien. Otra vez no. Era la tercera vez esa noche. La primera en el Orio, la segunda al cruzar el primer callejón. Y ahora, aquí. Tres veces en dos horas. Nunca le había pasado antes.
 
@@ -112,7 +120,7 @@ La multitud seguía moviéndose. La niebla seguía subiendo. La mujer Valagost h
 
 Eris se quedó quieta un instante más.
 
-—¿Señora? —preguntó Ravys.
+—¿Kalari? —preguntó uno de los suyos.
 
 —Nada.
 
@@ -124,11 +132,11 @@ Y bajó.
 
 ---
 
-Eris se descolgó por la balaustrada del balcón, saltó a una repisa dos pisos más abajo, rodó en el aire y cayó de cuclillas en el adoquinado, amortiguando el golpe con las rodillas. Dos de sus compañeros la esperaban allí, ya en posición. Uno le tendió la lanza. El otro, el escudo.
+Eris se descolgó de la balaustrada. Una planta de distancia no era mucho para ella. Se apoyó un instante en el alféizar de la ventana de debajo, lo usó de trampolín, y cayó en el adoquinado con las dos rodillas amortiguando. Muoro y los suyos ya estaban ahí, esperándola. Uno le tendió la lanza. Otro, el escudo.
 
 Los recogió. Leve agradecimiento por la Nexalita. Pasó el escudo al brazo izquierdo con un gesto aprendido.
 
-Avanzaron. En pareja por un flanco, Muoro por el otro, las parejas del sur y el este aproximándose al centro. Eris lo iba midiendo por la Nexalita. Los infiltrados entre la multitud permanecían quietos, señalándoles desde dentro a los líderes de la protesta.
+Avanzaron. Muoro y los dos del pie rodeando a Eris, la formación cerrada hacia la fuente. Ravys empezó a cerrar desde el oeste; Illia desde el este. Eris lo iba midiendo por la Nexalita. Haris, entre la multitud, permanecía quieto, señalándoles desde dentro a los líderes de la protesta.
 
 A medio camino de la fuente, un frasco de cristal cortó el aire. Eris lo siguió con la mirada.
 
@@ -136,7 +144,7 @@ El frasco reventó contra el casco de Muoro. Una nube de líquido rojo explotó,
 
 La Nexalita transmitió una oleada instantánea. La humillación del veterano recorrió a los catorce como si la hubieran sentido en su propio cuello. Eris notó que se le endurecía la mandíbula.
 
-Haris, entre la multitud, detectó al culpable: un hombre joven con capa gris, el brazo aún en alto. Se movió rápido. Lo inmovilizó con una llave en el codo, lo empujó tres pasos hacia el flanco oeste, lo entregó al grupo de Muoro.
+Haris, entre la multitud, detectó al culpable: un hombre joven con capa gris, el brazo aún en alto. Se movió rápido. Lo inmovilizó con una llave en el codo, lo empujó tres pasos hasta la formación y lo entregó al grupo de Muoro.
 
 Muoro ni siquiera se quitó la pintura. Le rompió la nariz con el borde del escudo en un único golpe. El hombre se derrumbó. Dos soldados lo arrastraron hacia la celda más próxima.
 
@@ -172,9 +180,11 @@ Bajó lentamente la lanza. La punta quedó orientada al suelo, un gesto que era 
 
 Un segundo. Dos. Tres.
 
-Un tumulto se levantó en los bordes de la plaza. Gritos. Una oleada de manifestantes empujó contra la primera línea de los Eldara en el flanco sur. Los soldados aguantaron sin ceder. La presión era alta pero contenida.
+En el borde oeste de la plaza, la guardia humana se movió antes de que lo hiciera Eris. Un oficial empujó a un manifestante con la porra; el manifestante cayó sobre los de atrás; se armó una cadena de empujones hacia el centro. Gritos. La multitud, hasta entonces tensa pero quieta, quebró. La guardia los había picado por donde no tocaba, cuando no tocaba.
 
-Otro frasco cruzó el aire.
+Eris vio venir el desorden. La guardia local llevaba semanas con esa gente: ya no esperaba. Empujaba por empujar.
+
+Otro frasco cruzó el aire, aprovechado por el caos.
 
 Eris lo vio venir un segundo antes de que llegara. Fue un segundo que no le alcanzó. El cristal se estrelló contra su visera. La pintura roja le cubrió los ojos. Perdió la referencia, perdió el equilibrio, se cayó de la tribuna.
 
@@ -184,7 +194,7 @@ El suelo le llegó con el ángulo malo. Se golpeó el costado contra los listone
 
 No ahora. No.
 
-Los sonidos llegaban a través de un filtro: el rugido de la multitud, lejano; las voces por la Nexalita, distantes. *¿Señora?* *¿Eris?* *¡Cerrad filas!*
+Los sonidos llegaban a través de un filtro: el rugido de la multitud, lejano; las voces por la Nexalita, distantes. *¿Kalari?* *¿Eris?* *¡Cerrad filas!*
 
 Intentó limpiarse la visera con el dorso del guante. La pintura se corrió.
 

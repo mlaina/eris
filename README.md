@@ -15,12 +15,14 @@ eris/
 ├── canon/                             ← fuente única de verdad
 │   ├── personajes/
 │   │   ├── eris.md
+│   │   ├── escuadron-eris.md
 │   │   ├── faree.md
 │   │   ├── theim.md
 │   │   ├── haris.md
 │   │   ├── lirae.md
 │   │   ├── lyris.md
 │   │   ├── muoro.md
+│   │   ├── nino-prodigio.md
 │   │   ├── nyree.md
 │   │   ├── velerian.md
 │   │   └── elerian.md
@@ -30,6 +32,7 @@ eris/
 │   │   ├── nurn.md
 │   │   ├── ygoran.md
 │   │   ├── valdara.md
+│   │   ├── sandrie.md
 │   │   └── anira-geografia.md
 │   ├── razas/
 │   │   ├── naggar.md
@@ -43,18 +46,23 @@ eris/
 │   │   ├── nexalita.md
 │   │   ├── triton.md
 │   │   ├── silmaritas.md
-│   │   └── magia-sandrie.md
+│   │   └── mirisar.md
 │   ├── glosario.md                    ← términos A-Z
 │   ├── cronologia.md                  ← línea de tiempo
-│   └── nagani.md                      ← reglas del idioma
+│   └── nagani.md                      ← reglas del idioma (Kalari, Kirala, fórmulas)
 │
 ├── estilo/
 │   ├── tono.md                        ← voz, registro, prosa por escenario
 │   └── restricciones.md               ← prohibiciones del brief
 │
 ├── estructura/
-│   ├── outline-5actos.md              ← 24 capítulos organizados
-│   └── capitulos/                     ← (vacía por ahora; un .md por capítulo al escribir)
+│   ├── outline-5actos.md              ← 22 capítulos organizados
+│   └── capitulos/                     ← un .md por capítulo, agrupados por acto
+│       ├── acto-I/                    ← Gloria (caps 1-4 escritos)
+│       ├── acto-II/                   ← Grietas
+│       ├── acto-III/                  ← Revelación
+│       ├── acto-IV/                   ← Fuga
+│       └── acto-V/                    ← Tragedia
 │
 └── draft/                             ← (vacía; prosa final por acto)
 ```
@@ -98,7 +106,7 @@ eris/
 ## Contradicciones conocidas del material original
 
 - **Borrador (Eris.docx)** tiene a Eris con escuadrón "Kretus" (Kyle, Kurt, Mae, Nat'nei, Ellion) — esos nombres son Kretus de Amaroth según la wiki, no Eldara. **Resolución**: reescribir el borrador como Eldara; conservar Haris.
-- **Lirae vs Lyris** — personajes distintos, no confundir. Lirae = amiga, Mirisar gravitatoria. Lyris = mayordomo, reflejista lumínica.
+- **Lirae vs Lyris** — personajes distintos, no confundir. Lirae = amiga, Primer Mirisar de Coria (gravitatoria). Lyris = Kirala (Mayordoma Real), Mirisar lumínica graduada hace siglos y retirada del ejercicio.
 - **Anira vs Aniradnam** — son el mismo mundo. Aniradnam = completo; Anira = habitual.
 
 Ver `estructura/outline-5actos.md` para la resolución detallada.

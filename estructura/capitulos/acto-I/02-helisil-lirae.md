@@ -66,7 +66,7 @@ El patio de los robles estaba al oeste del palacio. Dos robles inmensos, de made
 
 Lyris estaba sentada muy recta. Las manos juntas sobre el regazo. Las dos pequeñas esferas de luz blanca que giraban en órbita a su alrededor estaban hoy más lentas que de costumbre. Los ojos, azulados. Túnica de ceremonia ligera, no la gruesa de audiencia.
 
-—Mayordomo real.
+—Kirala.
 
 —Mirisar.
 
@@ -114,7 +114,7 @@ Lyris dejó pasar un momento antes de volver a hablar.
 
 —Ocho. O diez. Si la progresión se mantiene. Pero podría acelerarse.
 
-Lyris miró hacia el palacio. Era la primera vez en los cuatro siglos que Lirae la conocía que le veía mirar el palacio como un edificio. No con la mirada de mayordomo. Sino como miraría una torre cualquiera, una ciudad cualquiera, una cosa que alguien había puesto ahí en un momento determinado.
+Lyris miró hacia el palacio. Era la primera vez en los cuatro siglos que Lirae la conocía que le veía mirar el palacio como un edificio. No con la mirada de Kirala. Sino como miraría una torre cualquiera, una ciudad cualquiera, una cosa que alguien había puesto ahí en un momento determinado.
 
 Lirae se decidió a empujar.
 
@@ -174,7 +174,7 @@ Lyris se levantó. Las esferas de luz ajustaron su órbita. Se ajustó una arrug
 
 —Buenas tardes.
 
-—Buenas tardes, mayordomo.
+—Buenas tardes, Kirala.
 
 Una hoja dorada cayó desde uno de los robles y se posó en la túnica de Lyris antes de que diera el primer paso. Lyris la retiró con dos dedos, la puso sobre el banco donde había estado sentada, y la rozó un instante con una de las esferas de luz. Después cruzó el patio con el paso exacto de siempre. Lirae vio desaparecer la túnica tras las puertas del palacio.
 
