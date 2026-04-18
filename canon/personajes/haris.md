@@ -1,0 +1,35 @@
+# Haris
+
+**Compañero cercano de Eris.** La parte humana, joven y luminosa de la historia. Su muerte es uno de los golpes decisivos.
+
+## Identidad
+
+- **Raza**: por definir (probablemente Naggar joven o mestizo — a decidir con Marcos).
+- **Edad**: joven, probablemente el más joven del círculo cercano de Eris.
+- **Rol**: miembro del escuadrón o aliado cercano a Eris. Idealista.
+
+## Rasgos
+
+- Talentoso, brillante en algo concreto (combate, magia, intuición — por definir).
+- **Ilusión y brillo juvenil** — alegría contagiosa, inocencia.
+- Vínculo íntimo con Eris (¿hermano de armas? ¿amor no declarado? — por decidir).
+- Sirve de **espejo emocional del lector**: lo que siente Haris es lo que debería sentir el lector.
+
+## Arco narrativo
+
+- **I Gloria**: presencia luminosa en los primeros capítulos. Eris lo mira con cariño de hermana mayor/cuidadora.
+- **II–III**: testigo cercano de las grietas. Hace preguntas que Eris todavía no se atreve a hacer.
+- **IV Fuga**: huye con Eris a Ygoran. Lealtad absoluta. Es lo único que queda cuando todo se rompe.
+- **V Tragedia**: **asesinado por Theim** en el piso franco de Ygoran. Decapitación brutal. Marca la pérdida definitiva de la humanidad en la vida de Eris.
+
+## Función narrativa
+
+- Humanizar a Eris: solo a través de Haris vemos la ternura que ella ya no puede permitirse mostrar de otro modo.
+- Su muerte es **el punto de no retorno emocional**: a partir de ahí, Eris ya no tiene nada que defender salvo la memoria.
+- El lector debe **querer a Haris profundamente** antes de perderlo.
+
+## Notas de escritura
+
+- No hacerle demasiado inocente ni demasiado trágico desde el inicio. Debe ser joven, pero competente.
+- Su diálogo es más directo y afectivo que el de Eris.
+- Tiene sentido del humor — único personaje que hace reír a Eris.

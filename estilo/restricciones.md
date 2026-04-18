@@ -1,0 +1,109 @@
+# Restricciones — lo que NO se debe hacer
+
+Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada escena.
+
+---
+
+## Sobre Faree
+
+- ❌ **No convertirlo en villano obvio demasiado pronto.**
+- Hasta Acto III debe ser **genuinamente admirable**.
+- La revelación del tritón es su primer crack visible.
+- Incluso después, su monstruosidad se revela **con elegancia**, no con crueldad obvia.
+- No poner diálogos "malvados" que revelen sus intenciones de antemano.
+
+## Sobre Eris
+
+- ❌ **No hacerla dudar demasiado pronto.**
+- En Acto I y II es **orgullosa de Coria**. Su disciplina es real, su fe en el régimen es real.
+- Las grietas son **sensoriales y emocionales** antes que racionales.
+- La primera duda política real es **Acto II** (Plaza Ocre). La primera duda estructural es **Acto III** (tritón).
+- No adelantarle al lector lo que Eris ya "sospechaba".
+
+## Sobre los rebeldes
+
+- ❌ **No idealizarlos.**
+- Nyree y su red son **humanos imperfectos** — oportunismo, disputas internas, idealismo mezclado con venganza.
+- Preferibles a Coria, sí, pero **no heroicos**.
+- La decepción de Eris con ellos **es parte del tema**.
+
+## Sobre el worldbuilding
+
+- ❌ **No explicarlo como enciclopedia.**
+- Que emerja **por uso**, no por exposición.
+- Nada de párrafos tipo "los Naggar son una raza de..." salvo en diálogo natural y breve.
+- Las reglas del mundo se demuestran en escena, no se listan.
+
+## Sobre el Nagani
+
+- ❌ **No usarlo en exceso.**
+- Solo en saludos, órdenes formales, momentos solemnes.
+- **Prestigioso, no decorativo**.
+- Evitar la tentación de "salpicarlo" para que quede exótico.
+
+## Sobre el tritón
+
+- ❌ **No convertirlo en criatura de fantasía estándar.**
+- No es kraken, no es dragón, no es serpiente gigante.
+- Debe sentirse **arcaico, incomprensible, fundacional**.
+- **El lector nunca lo ve del todo** — fragmentos, sombras, efectos.
+- No debe hablar en lenguaje humano.
+
+## Sobre la tragedia de Eris
+
+- ❌ **No melodrama.**
+- **Contención emocional**. Cuanto más grave, más sobria la prosa.
+- No lágrimas cinematográficas, no discursos finales.
+- La muerte es un **hecho físico**. El drama está en la inevitabilidad, no en la dramatización.
+
+## Sobre la dimensión política
+
+- ❌ **No perderla.**
+- La historia íntima de Eris está **pegada al sistema imperial**.
+- No reducirla a drama personal. Cada escena debe tener **conciencia política** implícita, aunque sea sensorial.
+
+## Sobre el género y los tropos
+
+- ❌ **No "héroe elegido".** Eris no tiene destino especial, no hay profecía.
+- ❌ **No "buenos vs malos" claro.** La tragedia está en la indistinción moral.
+- ❌ **No triunfalismo final.** El epílogo **promete** continuidad, no la da.
+- ❌ **No romances melodramáticos.** Las relaciones (Eris-Haris, Eris-Lirae) son cargadas pero **contenidas**, no sentimentales.
+
+## Sobre la violencia
+
+- ❌ **No gratuita.**
+- No detalle gráfico sostenido por sí mismo.
+- La violencia debe **costar** — al lector, a los personajes.
+- Theim es letal sin ser caricatura gore.
+- La muerte de Haris y la de Eris son **brutales** pero **rápidas y quirúrgicas** — el horror es la **frialdad** del procedimiento, no la carnicería.
+
+## Sobre las edades y la longevidad
+
+- ❌ **No confundir longevidad Naggar con juventud eterna.**
+- Faree parece joven **por el tritón**, no por defecto Naggar.
+- Muoro es Naggar muy viejo — se nota en cómo habla, piensa, se mueve.
+- Los Naggar envejecen, solo que más lento. No son elfos eternos.
+
+## Sobre los Silmaritas
+
+- ❌ **No hacerlos aparecer en persona salvo en momentos míticos graves.**
+- Su presencia es **geopolítica en el tejido** (movilizaciones, referencias), no escénica.
+- Excepción: Theim como manifestación indirecta del Silmarita de la Sangre.
+
+## Sobre los capítulos "tipo Misión"
+
+- ❌ **No convertir la novela en sucesión de misiones episódicas.**
+- Las misiones son **una tipología** de capítulo dentro del arco mayor de 5 actos.
+- Cada misión debe **avanzar la trama o el arco emocional** de Eris, no ser relleno de aventura.
+
+---
+
+## Checklist rápida antes de escribir una escena
+
+- [ ] ¿Respeta el acto en el que estamos (Eris no duda antes de tiempo)?
+- [ ] ¿Faree sigue siendo admirable (si aparece, Acto I-II)?
+- [ ] ¿El Nagani está dosificado con sentido?
+- [ ] ¿El worldbuilding emerge por uso y no por exposición?
+- [ ] ¿La prosa está al servicio del tono del escenario (Helisil sobrio, Nurn sensorial, Ygoran visceral)?
+- [ ] ¿La dimensión política sigue presente?
+- [ ] ¿Hay melodrama? (si sí: contener)
