@@ -196,7 +196,7 @@ Ese no decir nada fue peor que lo que habría podido decir. Eris lo sabía. Muor
 
 Volvieron a Loroa con el cuerpo de Sirel envuelto en una capa del escuadrón y cargado en una parihuela que Illia y Ravys se turnaron a llevar. Eris podría haber pedido que lo llevara la guardia de la Liga Kovax. No lo pidió. Un Eldara muerto lo llevan Eldara, le había dicho Lorin a los veinte años, y había costumbres que no se rompían aunque la comandante hubiera contribuido a la necesidad.
 
-En la Arteria, de vuelta a Helisil, Eris se sentó en el banco del Glóbulo enfrente del cuerpo envuelto. No lo miró durante las dos horas de viaje. No apartó la mirada tampoco. Se quedó en una posición entre las dos.
+En la Arteria, de vuelta a Helisil, Eris flotó cerca del Glóbulo donde envolvieron el cuerpo de Sirel. No lo miró durante las dos horas de viaje. No apartó la mirada tampoco. Se quedó en una posición entre las dos.
 
 Haris al lado, sin hablar. Los demás, cada uno en su banco.
 

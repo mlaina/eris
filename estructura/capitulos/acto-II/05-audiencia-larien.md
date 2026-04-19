@@ -144,7 +144,7 @@ El segundo peticionario fue el embajador de la Liga Kovax — humano alto, pelo 
 
 —¿Bajas.
 
-—Treinta y cuatro comerciantes. Dos guardianes de Orio heridos. Una Globo entera interceptada — los pasajeros desaparecieron.
+—Treinta y cuatro comerciantes. Dos guardianes de Orio heridos. Un tramo entero de Arteria interceptado — los pasajeros desaparecieron, el Glóbulo de carga vacío.
 
 —¿Cuándo.
 

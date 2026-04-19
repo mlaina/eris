@@ -160,9 +160,9 @@ No porque no tuviera la respuesta. Porque la tenía, y de golpe le pareció meno
 
 ---
 
-En el Orio del norte los esperaban los guardianes con la Globo lista. Faree subió primero, como había subido el primer día. Kroma detrás, los cuatro brazos ajustándose al hueco. Theim. Lyris. Los delegados. Eris con Haris, los gemelos, Therel y Nerei al final. La rejilla del Orio se cerró sobre ellos con el zumbido grave de las Arterias cuando arrancan.
+En el Orio del norte los esperaban los guardianes con el Glóbulo cargado y la rejilla abierta. Faree pisó primero, como había pisado el primer día. Kroma detrás, los cuatro brazos ajustándose al hueco. Theim. Lyris. Los delegados. Eris con Haris, los gemelos, Therel y Nerei al final. La rejilla del Orio se cerró sobre ellos con el zumbido grave de las Arterias cuando arrancan.
 
-Dos horas después, el Glóbulo los dejó en el Orio de Helisil.
+Dos horas después, la Arteria los dejó en el Orio de Helisil.
 
 Roe estaba en la puerta de desembarque. Hizo la reverencia al rey — una inclinación larga, ceremonial, la que se daba sólo a Faree — y después, al pasar Eris, la media sonrisa pequeña.
 
