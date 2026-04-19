@@ -162,7 +162,7 @@ Bajaron por el pasadizo trasero hasta el nivel de la arena y de ahí por un corr
 
 Theim estaba en el umbral del vestuario.
 
-Maelor, al otro lado del banco, se pasaba una tela por el cuello. Tenía la espada corta apoyada en el banco, al alcance. No se sorprendió al ver al Naggar alto de túnica sin color plantado en su puerta. Lo miró con la calma con la que un caballo mira a quien entra en el establo.
+Maelor, al otro lado del banco, se pasaba una tela por el cuello. Tenía la espada corta apoyada en el banco, al alcance. No se sorprendió al ver al Naggar alto de túnica blanca sin mangas plantado en su puerta, los brazos a la vista con cicatrices y tatuajes rojos. Lo miró con la calma con la que un caballo mira a quien entra en el establo.
 
 Eris y Haris se quedaron cinco pasos atrás, contra la pared del corredor. No estorbando. Observando.
 
