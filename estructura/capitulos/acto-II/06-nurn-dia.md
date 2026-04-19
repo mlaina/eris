@@ -2,13 +2,11 @@
 
 La Arteria los dejó en el Orio de Nerath al mediodía del tercer día — extramuros de la capital del Imperio Nurn, en la llanura inmediata a la gran muralla.
 
-Faree salió primero del Glóbulo común. Lo había dicho en Helisil antes del viaje: *yo salgo primero; lo que se vea desde el umbral ya es nuestro*. Kroma iba detrás a dos pasos. Los dos brazos superiores al nivel del hombro, los dos inferiores colgando. El Anvur medía veintidós palmos; la silueta ocupaba el umbral entero. Detrás Theim, silencioso, con la hoz de hueso cruzada al torso. Después Lyris, las dos esferas de luz blanca lentas por la túnica de viaje. Al final, en formación suelta, Eris con los cinco Eldara del encargo — Haris, los gemelos, Therel y Nerei. Capas sin pintura, yelmos en la mano, escudos a la espalda. No era operación militar. Era visita de Estado.
+Faree salió primero de la arteria. Lo había dicho en Helisil antes del viaje: *yo salgo primero; lo que se vea desde el umbral ya es nuestro*. Kroma iba detrás a dos pasos. Los dos brazos superiores al nivel del hombro, los dos inferiores colgando. El Anvur medía veintidós palmos; la silueta ocupaba el umbral entero. Detrás Theim, silencioso, con la hoz de hueso cruzada al torso. Después Lyris, las dos esferas de luz blanca lentas por la túnica de viaje. Al final, en formación suelta, Eris con los cinco Eldara del encargo — Haris, los gemelos, Therel y Nerei. Capas sin pintura, yelmos en la mano, escudos a la espalda. No era operación militar. Era visita de Estado.
 
 Nerath olió antes de verse. Fue lo primero que Eris registró al pisar la rejilla — un olor que no era Helisil: especia caliente, grasa de puesto de calle, sudor, agua vieja de un canal cercano. Más allá de la llanura del Orio, la muralla de Nerath se alzaba gruesa y parda, con torres cada medio estadio. A través del arco principal de la Puerta del Sur se veía la ciudad escalonada hacia el río, sin eje, sin centro claro, con los tejados de colores distintos apelotonados unos contra otros. Las campanas de los mercados sonaban las unas contra otras, cada una a su compás, amortiguadas por la piedra de la muralla.
 
-Faree se detuvo un segundo en el umbral. Cerró los ojos y olió la ciudad con atención de cocinero que prueba un caldo ajeno. Luego abrió los ojos y siguió.
-
-A Eris le pareció, sin decirlo, que el rey olía Nerath como se huele un plato que se va a probar después.
+Faree se detuvo un segundo en el umbral. Olió el aire — despacio, sin comentarios — y siguió.
 
 ---
 

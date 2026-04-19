@@ -206,13 +206,9 @@ El escriba no supo qué contestar. Miró a Lyris, que no movió un músculo. Vol
 
 —Majestad.
 
-—Pequeña delegación. Tres días allá. Ceremonia mínima. Quiero oler la ciudad.
+—Pequeña delegación. Tres días allá. Ceremonia mínima. Quiero ver qué ven desde dentro.
 
-Hizo una pausa.
-
-—Y quiero probar la cocina.
-
-Una sonrisa brevísima en Lyris. No en Faree. Faree ya había pasado a otra cosa.
+Lyris inclinó la cabeza, medio grado. Faree ya había pasado a otra cosa.
 
 —Kalari.
 
@@ -242,7 +238,7 @@ Theim asintió una sola vez, sin hablar. Tampoco tenía que hablar.
 
 Faree miró una última vez al escriba.
 
-—Dígale al consulado que el rey va a tomarse un té a Nerath. Que lo preparen con tiempo.
+—Dígale al consulado que el rey va a pasarse por Nerath. Que lo preparen con tiempo.
 
 —Majestad.
 
