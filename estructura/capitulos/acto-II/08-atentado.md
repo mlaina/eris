@@ -96,7 +96,7 @@ Los seis cuerpos estaban sobre el adoquín. Ninguno se movía. En el aire quedab
 
 Faree no se había movido un palmo en todo el intercambio. Kroma tampoco, porque no había hecho falta. Theim había hecho el trabajo solo.
 
-El rey se acercó al segundo cuerpo. El del pecho abierto. Se agachó sobre una rodilla con la facilidad de un hombre joven — efecto del tritón, recordó Eris desde muy lejos — y apartó con el dedo índice la capucha medio caída del muerto. La espiral doble roja quedó a la vista.
+El rey se acercó al segundo cuerpo. El del pecho abierto. Se agachó sobre una rodilla con la facilidad de un hombre joven — rareza que Eris había aprendido a no subrayar en el rey — y apartó con el dedo índice la capucha medio caída del muerto. La espiral doble roja quedó a la vista.
 
 Faree se volvió hacia Theim sin levantarse.
 

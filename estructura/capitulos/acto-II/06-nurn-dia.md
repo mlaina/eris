@@ -1,6 +1,6 @@
 # Capítulo 6 — Nerath, día
 
-La Arteria los dejó en el Orio de Nerath al mediodía del tercer día — extramuros de la capital del Imperio Nurn, en la llanura inmediata a la gran muralla.
+La Arteria los dejó en el Orio de Nerath al mediodía — extramuros de la capital del Imperio Nurn, en la llanura inmediata a la gran muralla.
 
 Faree pisó primero la rejilla. Lo había dicho en Helisil antes del viaje: *yo salgo primero; lo que se vea desde el umbral ya es nuestro*. Kroma iba detrás a dos pasos. Los dos brazos superiores al nivel del hombro, los dos inferiores colgando. El Anvur medía veintidós palmos; la silueta ocupaba el umbral entero. Detrás Theim, silencioso, con la hoz de hueso cruzada al torso. Después Lyris, las dos esferas de luz blanca lentas por la túnica de viaje. Al final, en formación suelta, Eris con los cinco Eldara del encargo — Haris, los gemelos, Therel y Nerei. Capas sin pintura, yelmos en la mano, escudos a la espalda. No era operación militar. Era visita de Estado.
 
@@ -136,13 +136,7 @@ Theim, detrás del rey, había apoyado la mano en el mango de la hoz. No como qu
 
 Maelor saludó a la grada con un gesto mínimo. Apenas levantó la espada corta una pulgada. El público rugió más. Maelor se dio la vuelta y caminó hacia el portón del sur como quien vuelve del baño.
 
-En el trayecto, algo pasó.
-
-Maelor levantó la vista del suelo. Miró al palco real. La cabeza giró con lentitud, como si llevara tiempo calculando qué haría al pasar por debajo. Los ojos —Eris no vio el color exacto desde el palco, pero sintió la dirección— se clavaron un instante en ella. No en Faree. No en Theim. En ella.
-
-Fue un segundo largo.
-
-Maelor volvió la cabeza al suelo y siguió caminando. Salió por el portón del sur. Los cuerpos quedaron donde habían caído hasta que la guardia del foso entró a retirarlos.
+Antes de cruzar el portón, Maelor levantó una vez la vista del suelo. Miró el palco real sin detener el paso — una mirada barrida, la que se echa a cualquier autoridad sentada arriba cuando se pasa debajo. No se fijó en nadie concreto. Volvió la cabeza al suelo y salió por el portón del sur. Los cuerpos quedaron donde habían caído hasta que la guardia del foso entró a retirarlos.
 
 Theim se movió.
 
@@ -188,7 +182,7 @@ Una sola sílaba. Maelor acompañó la sílaba de un gesto mínimo de cabeza —
 
 Theim no respondió.
 
-Maelor cogió la capa colgada y se la puso sobre los hombros. Pasó al lado de Theim sin tocarlo pero sin hacerse a un lado — el que se hizo a un lado fue Theim, medio centímetro. Maelor abrió la puerta doble y salió a la calle. La luz del sol poniente entró un segundo y se fue con él. La puerta se cerró sola por peso.
+Maelor cogió la capa colgada y se la puso sobre los hombros. Caminó hacia la puerta con la misma cadencia con la que había cruzado la arena. No aceleró ni midió el hombro al pasar — no había sopesado a Theim como obstáculo. El que dio medio paso atrás fue Theim. Maelor abrió la puerta doble y salió a la calle. La luz del sol poniente entró un segundo y se fue con él. La puerta se cerró sola por peso.
 
 Theim se quedó en el umbral, la hoz cruzada al torso, la mano en el mango.
 

@@ -1,6 +1,64 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-04-19. **Acto II completo en borrador (6 caps)**. Pendiente relectura de Marcos. Acto I cerrado (prólogo validado + caps 2-4 revisados).
+**Última sesión**: 2026-04-20. **LIBRO COMPLETO EN BORRADOR — 22 capítulos escritos.**
+
+- **Acto I** (caps 1–4): ✅ validado.
+- **Acto II** (caps 5–10): cap 5 ✅ validado, cap 6 ✅ validado tras retoques, caps 7–10 retocados esta sesión (pendiente relectura final).
+- **Acto III** (caps 11–15): escritos esta sesión, primera pasada.
+- **Acto IV** (caps 16–19): escritos esta sesión, primera pasada.
+- **Acto V** (caps 20–22): escritos esta sesión, primera pasada.
+
+**Siguiente paso**: relectura global de Marcos y Q&A para sesión 2026-04-21. Ver `Q&A-marcos-2026-04-20.md`.
+
+**Decisiones grandes tomadas esta sesión** (detalle completo en Q&A):
+- Velerian aparece sólo en cap 22 (sin siembra previa).
+- Lirae baja sola al ala oeste cinco días después de la partida de Eris. El tritón la mata a distancia. Muere sin herida en Norel dos horas después.
+- Eris NO sabe que Lirae ha muerto hasta el cap 21; se lo dice Theim tras cortarle las manos. Última palabra de Lirae: *"ahora sí."*
+- Nyree es valagost (piel azul, marcas rojas de Ygoran).
+- Ygoran fiel a la wiki: gobierno valagost, Apnio en Igie hueco, Ssilvaris de Sacrio, Igies.
+- Móvil de Eris hacia Ygoran triple: Faree siembra el nombre en cap 11, Lyris fija el destino en cap 17 (fórmula "asunto de las velas" + Vanir de Tegro), Eris razona en cap 18 que es el único lugar donde la Kalari podría ser recibida sin ser entregada.
+- Elerian llega a Kiral Ree tres días antes de la cena del cap 16 (trasladado desde Nerath).
+- Faree = equilibrador-prisionero del pacto con el tritón. Cena con Lyris al final del libro: ella pregunta "¿Duele", él responde "Sí".
+- Lyris = aliada silenciosa ambigua ("No sirvo a Faree Numari. Sirvo a Coria").
+- Muoro sabe del pacto hace doscientos años. Lealtad al orden > aprecio. "Lo siento" final en el muelle.
+- Padre de Eris: difunto, sin nombre propio (pista de Daerin en cap 11).
+
+**Acto II retoques aplicados esta sesión**:
+- Cap 6: 3 retoques (timeline del viaje, mirada de Maelor, afrenta de Theim) — validado.
+- Cap 8: quitado "efecto del tritón" — Eris no debía saberlo aún.
+- Cap 9: "Globo" → "Glóbulo" / "tramo de Arteria interceptado".
+- Canon Nagani: "Lisar" fijado = avanzar.
+
+**Archivos nuevos esta sesión**:
+- 12 archivos de capítulo en `estructura/capitulos/acto-III/`, `acto-IV/`, `acto-V/`.
+- `Q&A-marcos-2026-04-20.md` (raíz).
+- `draft/estructura-caps-11-22.md` (referencia de sesión).
+
+---
+
+## Arco del libro (resumen operativo para relectura)
+
+**Acto III — El secreto bajo el palacio**
+- Cap 11: La corte hueca. Faree mide a Eris. Siembra Ygoran. Daerin le da pista sobre el padre.
+- Cap 12: Recepción Liga Kovax. Atentado a Daerin (no a Faree). Theim silencia al agresor con la hoz. Eris recoge hoja con mapa al ala oeste.
+- Cap 13: Bajo el palacio. Eris y Haris ven a Faree ritualizar con el tritón. Tritón fragmentario. Rejuvenecimiento visible.
+- Cap 14: Lirae y la pared. Ruptura silenciosa (Lirae no cruza sin medir).
+- Cap 15: Aislamiento. Faree la convoca a audiencia privada, le ofrece cuatro semanas de "hospitalidad". Eris decide salir.
+
+**Acto IV — Fuga y rebelión**
+- Cap 16: La cena. Faree, Lyris, Daerin. Elerian cocina los platos de Nerath como aviso. Eris y Haris salen esa misma noche.
+- Cap 17: Huida. Despedida con Lirae viva. Lyris da sobre "asunto de las velas". Extracción de Nexalita en la Arteria.
+- Cap 18: Al norte. Trece días de ruta. Eris y Haris hablan con voz por primera vez sin Nexalita. El tum tum los alcanza en Liga Kovax.
+- Cap 19: Ygoran. Nyree los acepta con reservas. 23 días de integración. Eris no recibe noticias de Helisil.
+
+**Acto V — Tragedia**
+- Cap 20: Asalto. Muoro lidera con Theim al frente. Muoro deja pasar a Eris ("Theim tiene esta parte"). Theim mata a Haris (pierna + decapitación). Eris huye a los muelles. Muoro la hiere en la pierna pero no la remata.
+- Cap 21: Muelle al amanecer. Theim la alcanza. Corte de las dos manos (Las Manos de Coria literales en el suelo). Theim le dice que Lirae bajó sola y murió. Eris asiente. Decapitación en elipsis. Último pensamiento: pan de Itsu, *"Hambre era lo de abajo"*. Silencio del tum tum.
+- Cap 22 — **POV Nyree**. 22 muertos. Velerian aparece fresh, propone alianza: apagar el tritón para "apagar al andamio del reino". Nyree acepta con condiciones. "Me llamo Velerian." Escena paralela en Helisil: Faree cena con Lyris, ella pregunta "¿Duele", él responde "Sí". Cierre ambiguo, promesa de guerra más larga.
+
+---
+
+**Acto II escrito en sesiones previas (para contexto)**:
 
 **Acto II escrito en esta sesión**:
 - Cap 5: Audiencia del Larien (Faree en esplendor, cinco peticiones, anuncio del viaje a Nurn).
@@ -102,12 +160,25 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 
 | # | Archivo | Validado por Marcos |
 |---|---|---|
-| 1 | `estructura/capitulos/acto-I/01-prologo.md` | ✅ **Totalmente validado**. Ruta Indra → Thuay → Loroa → Helisil, redirección a Valdara. Duelo con mirisar gravitatorio (regla un dedo = un foco). |
-| 2 | `estructura/capitulos/acto-I/02-helisil-lirae.md` | ⏳ **Pendiente de relectura final por Marcos** (versión 2026-04-18/19). Introducción del sistema Mirisar/Poisé en escena. Ver bloque "Cap 2" arriba. |
-| 3 | `estructura/capitulos/acto-I/03-plaza-ocre.md` | ⏳ **Pendiente de relectura final por Marcos** (versión 2026-04-19, 2ª pasada). Primera grieta sensorial. Ver bloque "Cap 3" arriba. |
-| 4 | `estructura/capitulos/acto-I/04-libro-pequeno.md` | ⏳ **Pendiente de relectura final por Marcos** (versión 2026-04-19, reescritura ancha). Lorin, Theim, Manos de Coria, corte, Kirala, levitación conjunta, Mirisar sónica. Ver bloque "Cap 4" arriba. |
+| 1 | `estructura/capitulos/acto-I/01-prologo.md` | ✅ **Validado**. Ruta Indra → Thuay → Loroa → Helisil, redirección a Valdara. Duelo con mirisar gravitatorio (regla un dedo = un foco). |
+| 2 | `estructura/capitulos/acto-I/02-helisil-lirae.md` | ✅ **Validado**. Introducción del sistema Mirisar/Poisé en escena. Ver bloque "Cap 2" arriba. |
+| 3 | `estructura/capitulos/acto-I/03-plaza-ocre.md` | ✅ **Validado**. Primera grieta sensorial. Ver bloque "Cap 3" arriba. |
+| 4 | `estructura/capitulos/acto-I/04-libro-pequeno.md` | ✅ **Validado**. Lorin, Theim, Manos de Coria, corte, Kirala, levitación conjunta, Mirisar sónica. Ver bloque "Cap 4" arriba. |
 
-**Antes de escribir Acto II**: pasar por la revisión de Cap 2, 3 y 4 con Marcos. Puede haber cambios de canon, tono o continuidad que afecten a Acto II.
+**Acto I cerrado.** Ajustes que surjan de lecturas posteriores se aplican en pasadas de revisión global.
+
+---
+
+## Estado del Acto II
+
+| # | Archivo | Validado por Marcos |
+|---|---|---|
+| 5 | `estructura/capitulos/acto-II/05-audiencia-larien.md` | ✅ **Validado**. Faree en esplendor, cinco peticiones, anuncio del viaje a Nurn. |
+| 6 | `estructura/capitulos/acto-II/06-nurn-dia.md` | 🔄 **En revisión ahora** — Nurn día: llegada + coliseo + Maelor + afrenta Theim-Maelor en vestuario de gladiadores. |
+| 7 | `estructura/capitulos/acto-II/07-cena-elerian.md` | ⏳ Pendiente. Cena con Elerian, plato de Itsu, flashback del asedio del séptimo año, vuelta por tejados al alba. |
+| 8 | `estructura/capitulos/acto-II/08-atentado-tintoreros.md` | ⏳ Pendiente. Lyris apaga la calle, Theim dispatcha seis con espiral roja de Silmarita de la Sangre disidente. |
+| 9 | `estructura/capitulos/acto-II/09-mision-135-iretha.md` | ⏳ Pendiente. Eris vacila medio segundo, muere Sirel, ceremonia en Lorin. |
+| 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | ⏳ Pendiente. Tum tum se hace Helisil; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |
 
 ---
 

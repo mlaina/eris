@@ -8,7 +8,7 @@ Fue en el despacho interior de Lorin — sala pequeña, cuadrada, una mesa con e
 
 —Sí.
 
-—Bandas norte de Loroa. Las de la Globo interceptada hace dos meses. Hemos localizado el campamento principal en un pueblo llamado **Iretha**, en los cerros al este de la Arteria. No es un campamento militar, es un pueblo con gente normal donde la banda se ha incrustado. Jefe: un humano llamado Durek. Treinta combatientes nominales. Civiles mezclados.
+—Bandas norte de Loroa. Las del tramo de Arteria interceptado hace dos meses. Hemos localizado el campamento principal en un pueblo llamado **Iretha**, en los cerros al este de la Arteria. No es un campamento militar, es un pueblo con gente normal donde la banda se ha incrustado. Jefe: un humano llamado Durek. Treinta combatientes nominales. Civiles mezclados.
 
 —Civiles.
 
@@ -18,7 +18,7 @@ Eris miró el mapa. Iretha no estaba grabado — Virim lo señaló con la uña d
 
 —Orden de combate.
 
-—Neutralizar a Durek y el núcleo de la banda. Daños civiles mínimos, pero la operación tiene prioridad. Recuperar lo que se pueda de la carga de la Globo si queda algo.
+—Neutralizar a Durek y el núcleo de la banda. Daños civiles mínimos, pero la operación tiene prioridad. Recuperar lo que se pueda de la carga del Glóbulo si queda algo.
 
 —¿Muoro.
 

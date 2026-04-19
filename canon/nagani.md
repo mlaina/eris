@@ -39,7 +39,7 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 
 - **Ilare, Kalaree** — saludo ceremonial. Fórmula formal de reconocimiento.
 - **Nara** — forma breve, posiblemente exclamación o interjección ritual.
-- **Lisar** — palabra ceremonial (significado contextual).
+- **Lisar** — verbo ceremonial. Traducción: *avanzar*. Se usa en sentido amplio: dar un paso adelante, adelantarse (un movimiento, un destino, una pieza). Faree lo murmura al ver el movimiento de Maelor en el coliseo de Nerath (cap 6) — registro de que algo se ha movido hacia adelante sin que él lo haya iniciado.
 - **Sira, rilan** — fórmula.
 - **Tisar lisel, nel irisar, risana lir. Liran, nel senal.** — frase completa canónica (traducción precisa por fijar durante escritura, pero usar tal cual en momentos solemnes).
 
