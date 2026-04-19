@@ -6,9 +6,9 @@ El vestíbulo era oscuro y amplio. Las paredes curvas, redondeadas, ocultaban a 
 
 Avanzó hacia las columnas del Larien.
 
-Llevaba la armadura de siempre: negra, ceñida, flexible. Los Eldara no tenían otra. Cuando uno iba al Larien iba con lo mismo con lo que bajaría a una plaza; la distinción la ponía Coria entre otros, no entre ellos mismos. Detrás, tres pasos, iban Haris, Illia y Ravys como escolta. En el umbral del Larien se detendrían. Eris pasaría sola.
+Llevaba la armadura de siempre: negra, ceñida, flexible. Los Eldara no tenían otra. Cuando uno iba al Larien iba con lo mismo con lo que bajaría a una plaza; la distinción la ponía Coria entre otros, no entre ellos mismos. Venía sola. Las Manos cruzaban Kiral Ree sin escolta — no hacía falta, el palacio ya era escolta.
 
-Dos guardias reales flanqueaban el umbral. Armaduras negras impecables — no eran Eldara, pero lo parecían a la vista del que no sabía mirar de cerca. Hicieron la inclinación mínima al paso de Eris. Haris, Illia y Ravys se quedaron a un paso fuera del umbral, en la posición que les correspondía. Eris entró sola.
+Dos guardias reales flanqueaban el umbral del Larien. Armaduras negras impecables — no eran Eldara, pero lo parecían a la vista del que no sabía mirar de cerca. Hicieron la inclinación mínima al paso de Eris. Eris entró.
 
 ---
 
