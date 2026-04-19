@@ -90,7 +90,7 @@ Por el portón del sur entró un hombre solo.
 
 ---
 
-Era más alto que los luchadores anteriores. No por mucho — quizás un palmo — pero parecía más por la manera de moverse. La piel negra, cubierta de polvo del coliseo y algo de sudor ya. El pelo en rastas largas, blancas, pesadas, atadas hacia atrás con una cuerda. No llevaba armadura. Llevaba una especie de falda de cuero y dos brazales en los antebrazos. En cada mano, un arma distinta: una espada corta en la derecha, una especie de maza corta con púas en la izquierda. No tenía escudo.
+Era más alto que los luchadores anteriores. No por mucho — quizás un palmo — pero parecía más por la manera de moverse. La piel negra, cubierta de polvo del coliseo y algo de sudor ya. El pelo en rastas largas, blancas, pesadas, atadas hacia atrás con una cuerda. Llevaba armadura: placas segmentadas de metal negro, pectoral ceñido, pauldrones en los hombros, faldón de cuero con tiras de metal. En el pectoral, grabado al relieve, la silueta de un lobo. En la mano derecha, una espada corta. Nada en la izquierda. No tenía escudo.
 
 El público lo conocía. Lo gritaban por un nombre:
 
@@ -122,7 +122,7 @@ Eran dos. Humanos los dos, entrenados los dos, armados los dos con lanza y escud
 
 Cuando los dos estaban a diez pasos, Maelor se movió.
 
-No hubo silbido ni grito. Fue preciso. La espada corta cortó la primera lanza a la altura del puño, y el puño con ella. El hombre cayó sobre una rodilla. La maza corta subió por debajo del yelmo del segundo hombre y le entró por debajo de la mandíbula hacia arriba. El segundo hombre no tuvo tiempo de caer — Maelor lo sostenía con la maza clavada mientras remataba al primero con la espada corta, tajo horizontal bajo las costillas. El primero cayó por fin. Maelor retiró la maza con cuidado, casi con respeto, del cráneo del segundo y lo dejó caer. Los dos cuerpos en el suelo en menos tiempo del que se tarda en decirlo.
+No hubo silbido ni grito. Fue preciso. Se agachó por debajo del alcance de la primera lanza, casi al ras del suelo, y le cortó al hombre la mano armada por la muñeca. El hombre cayó con un alarido que se apagó contra el polvo. Maelor giró sobre el mismo pie. El segundo levantaba el escudo tarde. La espada corta le entró por debajo del borde, le cruzó el costado, salió al otro lado. El segundo se plegó en dos. Maelor le remató con un tajo al cuello. Después volvió al primero, todavía hundido de rodillas, y le dio un golpe seco en la base del cráneo. Los dos cuerpos en el suelo en menos tiempo del que se tarda en decirlo.
 
 La arena se silenció un medio segundo.
 
@@ -144,29 +144,69 @@ Fue un segundo largo.
 
 Maelor volvió la cabeza al suelo y siguió caminando. Salió por el portón del sur. Los cuerpos quedaron donde habían caído hasta que la guardia del foso entró a retirarlos.
 
-Eris no movió un músculo.
+Theim se movió.
 
-Haris a su lado, muy bajo por la Nexalita:
+Fue el rey quien lo registró primero. Faree no giró la cabeza, no dijo nada — sólo inclinó un centímetro el hombro izquierdo. Era un gesto que en el protocolo sin palabras de Kiral Ree significaba *permitido*. Theim dejó el palco sin saludar a nadie y bajó las escaleras de piedra tan deprisa como subieron los demás en media hora.
 
-—¿Te ha mirado.
+Faree, sin mirar a Eris, con la mirada todavía en la arena vacía:
 
-—Sí.
+—Kalari. Con él.
 
-—¿Sabe quién eres.
+—Majestad.
 
-—No.
-
-—Entonces.
-
-—No sé.
-
-Haris dejó caer la conversación ahí. Era lo que sabía hacer.
+Eris se movió. Haris detrás. Los gemelos se quedaron en la puerta del palco — ya lo sabían sin haberlo hablado.
 
 ---
 
-Faree se tomó dos minutos más antes de levantarse. Cuando lo hizo, todo el coliseo se levantó también. Se fueron.
+Bajaron por el pasadizo trasero hasta el nivel de la arena y de ahí por un corredor subterráneo hacia la puerta de los gladiadores — un pasillo bajo de piedra seca, iluminado con cinco antorchas mal colgadas, olor a cuero viejo y sudor rancio. El rugido de la multitud llegaba amortiguado desde arriba. Al final del corredor, una doble puerta de madera gruesa con el cerrojo abierto y, contigua, una especie de vestuario sin tabique: un banco, un cubo de agua, una capa colgada.
 
-En la escalera de bajada del palco, a media voz, Faree le dijo a Lyris:
+Theim estaba en el umbral del vestuario.
+
+Maelor, al otro lado del banco, se pasaba una tela por el cuello. Tenía la espada corta apoyada en el banco, al alcance. No se sorprendió al ver al Naggar alto de túnica sin color plantado en su puerta. Lo miró con la calma con la que un caballo mira a quien entra en el establo.
+
+Eris y Haris se quedaron cinco pasos atrás, contra la pared del corredor. No estorbando. Observando.
+
+Theim habló. Fue la primera vez en dos meses que Eris le oía una frase entera.
+
+—Por fin. Alguien digno.
+
+Lo dijo grave, seco, sin urgencia. Como quien saluda a un viejo par tras mucho tiempo.
+
+Maelor no contestó de inmediato. Se acabó de limpiar el cuello. Dobló la tela con las dos manos y la dejó en el banco, al lado de la espada. Luego levantó los ojos.
+
+—¿Y tú quién eres.
+
+Fue una pregunta plana. Sin cortesía. Sin interés. Como se pregunta a un desconocido que se ha metido en el vestuario propio por equivocación.
+
+Theim no movió la cara. Pero el silencio que siguió fue de una clase distinta que los silencios que Theim solía producir. Este pesaba de otro lado.
+
+—Theim.
+
+—No.
+
+Una sola sílaba. Maelor acompañó la sílaba de un gesto mínimo de cabeza — la negación que se usa cuando alguien te ofrece una fruta que no comes.
+
+Theim no respondió.
+
+Maelor cogió la capa colgada y se la puso sobre los hombros. Pasó al lado de Theim sin tocarlo pero sin hacerse a un lado — el que se hizo a un lado fue Theim, medio centímetro. Maelor abrió la puerta doble y salió a la calle. La luz del sol poniente entró un segundo y se fue con él. La puerta se cerró sola por peso.
+
+Theim se quedó en el umbral, la hoz cruzada al torso, la mano en el mango.
+
+Haris, a un lado de Eris, apretó los labios muy levemente por dentro. No sonrió — Eris lo habría notado si hubiera sonreído. Pero notó que Haris se estaba aguantando un gesto. Lo agradeció. Ella tampoco sonreía en Nurn.
+
+Por dentro, durante medio segundo, algo suyo se calmó.
+
+Theim se dio la vuelta sin mirar a Eris ni a Haris, y subió los escalones del corredor de vuelta hacia el palco. No dijo palabra. No había nada que decir.
+
+Eris y Haris lo siguieron tres pasos atrás.
+
+---
+
+Arriba, en el palco, Faree esperaba con Lyris de pie a su lado. Kroma en posición. Cuando entraron Theim primero y después Eris, Faree no preguntó. Dejó un silencio que podría haber durado un aliento o tres, midiéndolos. Después se levantó.
+
+Todo el coliseo se levantó con ellos.
+
+En la escalera de bajada, a media voz, Faree le dijo a Lyris:
 
 —El kretus del norte del Orsila. El tajo de Velmer.
 
@@ -176,17 +216,7 @@ En la escalera de bajada del palco, a media voz, Faree le dijo a Lyris:
 
 —Aparentemente.
 
-—Dígale al prefecto, al despedirnos, que querría cenar otro día con él.
-
-Lyris asintió con media sonrisa.
-
-—¿Con el prefecto, majestad, o con el luchador.
-
-—Con el luchador.
-
-—Tomaré nota.
-
-Theim, detrás, escuchó. No dijo nada. Nunca decía.
+Faree no añadió nada más.
 
 Eris caminó todo el trayecto de vuelta por la calle empedrada sin acordarse del olor a especia, sin acordarse de la sangre de la arena, sin acordarse del rey. Se acordó del hombre que en un fuego de campamento hacía un siglo había dicho *un cazador de los de antes de los hombres*. Se acordó del paso de Velmer y de no haber visto la cara. Se acordó de la cara ahora.
 

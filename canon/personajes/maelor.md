@@ -7,7 +7,9 @@
 - **Raza**: humano.
 - **Origen**: incierto (probablemente zona fronteriza del imperio Nurn).
 - **Apodo público**: *el Kretus* — por su ferocidad y su silencio animal en combate.
-- **Rasgo físico**: piel negra, rastas blancas largas, altura por encima de la media humana.
+- **Rasgo físico**: piel negra, rastas blancas largas atadas hacia atrás, altura por encima de la media humana.
+- **Armadura**: placas segmentadas de metal negro (estilo gladiador), pectoral ceñido, pauldrones, faldón de cuero con tiras de metal. **En el pectoral, el símbolo del lobo grabado al relieve** (siembra su vínculo con el Kretus que lo marcó).
+- **Armamento**: una sola **espada corta**. Sin maza, sin escudo. Todo lo resuelve con una hoja.
 
 ## Historia
 
@@ -29,8 +31,8 @@ Eris lo vio desde lejos durante la Invasión Oscura. Posiblemente lucharon en el
 
 ## Función narrativa
 
-- **Acto II (Cap 6, Nurn día)**: primer avistaje. En el coliseo. Eris lo ve luchar. Intercambio mínimo o ninguno. La imagen se le queda.
-- **Acto IV/V (posible)**: puede reaparecer en Ygoran o como aliado inesperado de la rebelión. **No fijado todavía**. Es una pieza que se puede jugar cuando haga falta.
+- **Acto II (Cap 6, Nurn día)**: primer avistaje. En el coliseo. Eris lo ve luchar y lo reconoce del campamento de la Invasión Oscura (le abrió el paso de Velmer). Maelor mira al palco al salir — a Eris, no a Faree, no a Theim. Después, en el corredor de gladiadores, **Theim lo intercepta** con respeto entre pares: *"Por fin. Alguien digno."* Maelor responde con indiferencia absoluta: *"¿Y tú quién eres."* Se presenta Theim. Maelor dice *"No."* y sigue. Humillación silenciosa del ejecutor del rey. Eris y Haris lo presencian; por dentro les cae algo de gracia contenida.
+- **Acto IV/V (posible)**: puede reaparecer en Ygoran o como aliado inesperado de la rebelión. **No fijado todavía**. Es una pieza que se puede jugar cuando haga falta. La afrenta al ejecutor del rey hace posible una alianza futura con Eris cuando ella también rompa con Coria.
 
 ## Notas de escritura
 
