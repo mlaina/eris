@@ -138,7 +138,7 @@ El segundo peticionario fue el embajador de la Liga Kovax — humano alto, pelo 
 
 —Embajador.
 
-—Majestad. Traigo queja de la Liga Kovax.
+—Majestad. Traigo una queja de la Liga Kovax.
 
 —Escucho.
 
