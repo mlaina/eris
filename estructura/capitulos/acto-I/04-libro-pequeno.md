@@ -160,11 +160,11 @@ En un recodo, otra de las Manos de Coria — Eldara vieja, pelo gris atado muy t
 
 Y al final del corredor, en la bajada del ala oeste, vio pasar a Theim.
 
-Theim no la miró. Theim nunca miraba a los Eldara en corredor: miraba el corredor. Cuerpo alto, túnica sin color, la **hoz de hueso** colgada de una correa cruzada al torso. La hoz tintineaba al paso. Eris lo vio de reojo como se ve pasar un caballo grande por un callejón estrecho: lo reconoces, te apartas medio pie, no saludas. Theim tampoco saludaba. Iba donde fuera que Theim iba. No era amigo de los Eldara. No lo era de nadie. Estaba al servicio del rey.
+Theim no la miró. Pasaba a los Eldara por los corredores como quien pasa una pared: sin verla. Cuerpo alto, túnica sin color, la **hoz de hueso** colgada de una correa en la cadera derecha. Eris lo vio de reojo como se ve pasar un caballo grande por un callejón estrecho: lo reconoces, te apartas medio pie, no saludas. Theim tampoco saludaba. Iba donde fuera que Theim iba. No era amigo de los Eldara. No lo era de nadie. Era el guarda espaldas del rey, su campeón.
 
 Eris siguió.
 
-Pasó cerca de la puerta del despacho privado de Faree. La puerta estaba cerrada. Dentro se oían dos voces quedas — una más grave que la otra, las dos Naggar. Faree estaba con alguien. Eris no supo con quién. No se detuvo.
+Pasó cerca de la puerta de los aposentos privados de Faree. La puerta estaba cerrada. Dentro se oían dos voces quedas — una más grave que la otra, las dos Naggar. Faree estaba con alguien. Eris no supo con quién. No se detuvo.
 
 ---
 
@@ -226,7 +226,7 @@ Eris bebió.
 
 Eris rió muy poco. Un escape corto por la nariz.
 
-Lirae se sentó a su lado, no enfrente. Las rodillas casi tocándose.
+Lirae se sentó a su lado.
 
 —¿Cuándo has dormido.
 
@@ -248,7 +248,7 @@ Se quedaron un rato en silencio. Fuera, las cascadas seguían su sonido de fondo
 
 —Bien.
 
-—Dice cuide el pensamiento.
+—Dice que cuide el pensamiento.
 
 —Eso siempre te lo dice.
 
@@ -286,7 +286,7 @@ Un tercer dedo. Lirae se elevó también, un palmo de la alfombra, sin hacerlo v
 
 —¿Oren.
 
-—Tampoco. Yo. Años.
+—Tampoco. A veces aprendo cosas yo solita.
 
 —Es absurdo.
 
@@ -306,11 +306,7 @@ Silencio bueno.
 
 Más tarde —no sabrían cuánto más tarde— Lirae se levantó, fue al armario del fondo, volvió con el libro pequeño. Las hojas cosidas a mano. Lo puso en el sofá entre las dos. Puso también la lasca de plomo.
 
-—Esto te iba a enseñar antes del truco.
-
-—No era truco barato.
-
-—Mira.
+—Esto te iba a enseñar antes...
 
 Eris miró. La página llena de columnas. Fechas, horas, milímetros. Firmadas. Dos meses.
 
@@ -318,7 +314,7 @@ Eris miró. La página llena de columnas. Fechas, horas, milímetros. Firmadas. 
 
 —¿Dónde.
 
-—Prefiero no decirlo esta noche.
+—Prefiero no decirtelo aún.
 
 —Lirae.
 
@@ -340,73 +336,93 @@ Eris no insistió. Puso dos dedos sobre el borde del libro.
 
 Eris asintió.
 
-—¿Lyris sabe.
+—¿Lo sabe Lyris?
 
 —Sabe que mido. Ayer, mientras tú volvías de Indra, me pidió que dejara de ponerlo en el libro grande. Firmé las entradas como error de calibración. Lo real está aquí.
 
-—¿Por qué accediste.
+—¿Por qué accediste?
 
 —Porque Lyris nunca me ha pedido nada que no fuera razonable. Y por primera vez me ha pedido algo que lo es pero no lo suena.
 
-Lirae cerró el libro pequeño y lo devolvió al armario. Recogió la lasca del sofá y se la volvió a enganchar al cinturón. Hoy no cerró con llave: la llave entre ellas no hacía falta.
+Lirae cerró el libro pequeño y lo devolvió al armario. Recogió la lasca del sofá y se la volvió a enganchar al cinturón.
 
 Se volvió a sentar. Eris la miró con los ojos casi cerrados.
 
-—Yo te traigo una también.
+—Yo también te traigo algo.
 
-—¿Tú qué.
+—¿El qué?
 
 —Tum tum.
 
-—¿Qué.
+—¿Qué?
 
-—En Valdara. Tres veces. Dentro de la cabeza. Dos golpes cortos.
+—En Valdara. Lo escuché tres veces. Dentro de la cabeza. Dos golpes cortos. Tum tum.
 
 Lirae se giró despacio.
 
 —Cuéntame.
 
-Eris le contó. El balcón, el primer golpe. El callejón antes. La plaza, con la multitud, el segundo. La Valagost con capucha mirándola desde abajo, formando las palabras con los labios. La tercera vez después, con la plaza vacía. El rato breve en el Orio esta mañana al pisar la rejilla.
+Eris le contó. El Orio de Valdara al llegar, el primer golpe. El callejón de subida, el segundo. El balcón del gobernador, el tercero. Y luego la Valagost encapuchada mirándola desde abajo, los labios formando *tum tum* sin sonido, y otra vez dentro de la cabeza. La última al final, con la plaza vacía. Y el rato breve esta mañana al pisar la rejilla del Orio de Helisil: un segundo, como un recuerdo mal colocado.
 
-Lirae escuchó sin interrumpir.
+Lirae escuchó sin interrumpir. Tenía la copa entre las manos, sin beber.
 
-Al final se quedó un minuto en silencio, con los ojos cerrados. Era raro. Eris la había visto pensar otras veces, pero siempre en voz alta, con una pluma en la mano. Esta vez no. Esta vez tenía los ojos cerrados como si estuviera escuchando algo.
+Al final no dijo nada durante un buen rato. Cerró los ojos. Era raro. Eris la había visto pensar otras veces, pero siempre en voz alta, con una pluma en la mano o frotándose el puente de la nariz. Esta vez estaba quieta, como si afinara un instrumento por dentro.
 
-Abrió los ojos.
+Los abrió.
 
-—Sónica.
+—¿Y si fuera sónica.
 
-—¿Qué.
+—¿Quién.
 
-—La mujer. No era Valagost sin más. Piel azul, sí, pero sónica.
+—La mujer. La piel azul puede ser Valagost, puede ser Mirisar, puede ser las dos a la vez. Lo raro no es la piel. Lo raro es que te eligiera a ti en una plaza.
 
-—Una Mirisar.
+—¿Una Mirisar.
 
-—Una Mirisar sónica. Es una forma rara. La Sandrie gradúa pocas al siglo. Pero existen. Meten sonidos en la cabeza de otro si saben la frecuencia. Un sonido limpio, sin palabras, corto. Como dos golpes.
+—Sónica. Gradúan a pocas al siglo en la Sandrie. Tan pocas que las conocemos por el nombre. Pero existen. Y hacen eso — meterte un sonido corto, limpio, en la oreja de dentro, sin que nadie alrededor oiga nada. Un dedo, un foco, un instante.
 
-Eris se quedó un segundo mirando el techo.
+Eris dejó la copa en el brazo del sofá.
 
-—Desde abajo. Entre mil personas.
+—Desde abajo. En medio de mil personas.
 
-—Desde abajo. Un dedo, un foco, un instante. Lo bastante corto como para no dejar eco.
+—Desde abajo. No necesita mucho.
 
-—No me conoce. No sabe mi frecuencia.
+—Tendría que conocerme. Saber cómo vibro.
 
-—Esa parte no la tengo. Pero la sónica entra por lo posible antes que por lo raro. Lo simple es lo probable hasta que deje de serlo. Es disciplina Mirisar.
+—Esa parte no la tengo.
 
-Eris no contestó enseguida.
+Se quedaron un momento sin hablar. Lirae se frotó el antebrazo izquierdo, distraída, como si la red azul le escociera sin escocer.
+
+—Puede que no hiciera falta —siguió—. Una frecuencia no es una contraseña. Es una forma de vibrar. Se lee desde fuera si la persona está cerca y llevas tiempo mirándola. Un minuto. Dos.
+
+—Me miró un minuto.
+
+—Te miró un minuto.
+
+Silencio.
 
 —¿Y lo de esta mañana en el Orio.
 
-—Eso ya no sé. O te sigue sola en la cabeza, o alguien lo sigue contigo.
+Lirae abrió la boca, se paró, la cerró. Le salió después, más bajo:
 
-—Quizás sólo quería provocarme. En la plaza.
+—No lo sé. Pueden pasar dos cosas. Una: te lo has quedado tú, y volverá cuando el cuerpo esté cansado. Dos: la mujer sigue cerca y tira cuando le conviene. Desde aquí no las distingo.
 
-—Quizás. Pero prefiero creer que oía lo mismo que tú antes de creer que se pasó la noche buscando exactamente esa palabra para cazarte.
+Eris asintió despacio.
 
-Eris asintió muy lentamente.
+—¿Y si sólo quería provocarme.
 
-Lirae le pasó la copa. Eris bebió.
+—Podría.
+
+—¿Lo crees.
+
+Lirae tardó en contestar. Dio un sorbo, dejó la copa. Miró la mesa.
+
+—No. Prefiero pensar que oía lo mismo que tú antes de pensar que se pasó la noche buscando exactamente la palabra para cazarte. Ninguna es probable. Pero una es la primera que miraría.
+
+—Disciplina Mirisar.
+
+—Es lo que me enseñaron.
+
+Le acercó la copa otra vez. Eris bebió.
 
 ---
 
@@ -422,7 +438,7 @@ Lirae apagó dos de las tres candelas de la habitación. Se subió otra vez al s
 
 —No.
 
-—Yo tampoco.
+—Yo tampoco...
 
 Silencio.
 
