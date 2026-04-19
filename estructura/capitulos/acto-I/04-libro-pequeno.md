@@ -76,7 +76,7 @@ Eris le tocó el hombro al pasar. Una vez. Salió de Lorin sola, por la puerta e
 
 ---
 
-Entró en Helisil por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron una pulgada más de la que se habrían apartado otro día. La pintura seca del casco y del escudo los explicaba todo. Ella los dejó apartarse. No le pesaba.
+Entró en Helisil por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron una pulgada más de la que se habrían apartado otro día. La pintura seca del casco y del escudo lo explicaba todo. Ella los dejó apartarse. No le pesaba.
 
 Al mediodía estaba en Kiral Ree.
 
@@ -154,7 +154,7 @@ Lyris salió la primera. Las dos esferas de luz la siguieron por el corredor y s
 
 En el corredor largo del ala sur, antes del jardín, cruzó con tres figuras.
 
-Dos cortesanas Naggar jóvenes, con túnicas claras, riéndose por lo bajo bajo los frescos del techo. Una le sostuvo la mirada dos segundos y se volvió a reír. La pintura seca del casco las explicaba todo.
+Dos cortesanas Naggar jóvenes, con túnicas claras, riéndose por lo bajo bajo los frescos del techo. Una le sostuvo la mirada dos segundos y se volvió a reír. La pintura seca del casco lo explicaba todo.
 
 En un recodo, otra de las Manos de Coria — Eldara vieja, pelo gris atado muy tirante, tatuajes grises en los antebrazos — iba hacia el Larien. Se cruzaron un instante. Un dedo levantado. Uno devuelto. Una Mano reconociendo a otra. Habría tiempo para algo más largo otra tarde.
 
