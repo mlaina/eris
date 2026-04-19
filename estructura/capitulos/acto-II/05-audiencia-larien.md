@@ -1,6 +1,6 @@
 # Capítulo 5 — El Larien
 
-Dos semanas después de Valdara, Eris cruzó el vestíbulo de Kiral Ree por tercera vez en su vida.
+Dos semanas después de Valdara, Eris cruzó el vestíbulo de Kiral Ree con el paso de siempre.
 
 El vestíbulo era oscuro y amplio. Las paredes curvas, redondeadas, ocultaban a los vigías reales que observaban desde la penumbra sin ser vistos — Eris sabía dónde estaban los nichos por costumbre de oficio, aunque nadie los señalara. Los ecos de los pasos eran largos. El silencio, también.
 
