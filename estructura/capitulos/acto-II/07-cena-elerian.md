@@ -316,4 +316,4 @@ Se quitó la capa. Se dejó la armadura puesta. Se acostó en la cama sin haberl
 
 Fuera, en algún tejado de Nerath, un perro ladraba una sola vez cada veinte segundos.
 
-Salían al Orio a las ocho.
+Salían al Orio a las siete y cuarto.

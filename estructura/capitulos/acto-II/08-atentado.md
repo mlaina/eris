@@ -4,7 +4,7 @@ A las siete de la mañana la comitiva estaba formada en el patio de la casa de h
 
 Faree había desayunado poco — una fruta y un vaso de algo caliente — y ya tenía la capa de viaje al hombro. Lyris a su lado, en posición. Kroma detrás, los dos brazos superiores sueltos. Theim a un paso del Anvur, la hoz cruzada al torso igual que la noche anterior. Había algo en Theim esa mañana que Eris registró sin mirarlo directamente: no estaba quieto como otras veces. Estaba quieto con otro peso. El encuentro con Maelor se le había enganchado en alguna parte y no se le había ido durmiendo.
 
-Eris llegó la última al patio. Armadura ceremonial bien ajustada, yelmo bajo el brazo, cara lavada. Nadie comentó. Haris le echó una mirada de reojo al entrar — no la de la noche, la habitual — y eso fue todo. Los gemelos ya estaban en la puerta de la calle. Therel y Nerei en las esquinas del patio. Los dos delegados civiles, un paso atrás de Lyris, nerviosos sin querer estarlo.
+Eris llegó la última al patio. Armadura bien ajustada, yelmo bajo el brazo, cara lavada. Nadie comentó. Haris le echó una mirada de reojo al entrar — no la de la noche, la habitual — y eso fue todo. Los gemelos ya estaban en la puerta de la calle. Therel y Nerei en las esquinas del patio. Los dos delegados civiles, un paso atrás de Lyris, nerviosos sin querer estarlo.
 
 —Orden de marcha —dijo Lyris—. Gemelos delante. Kroma conmigo al rey. Theim detrás del Anvur. Kalari y Haris en el lateral izquierdo. Therel y Nerei lateral derecho. Delegados en el medio con los del consulado. Al Orio por la calle de los tintoreros.
 
