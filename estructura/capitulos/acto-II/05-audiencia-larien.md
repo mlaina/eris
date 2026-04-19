@@ -30,7 +30,7 @@ Al lado del trono, de pie, estaba el rey.
 
 Faree Numari no se sentaba antes de que empezara la audiencia. Era una costumbre suya. Llevaba más de mil años vivos y sin embargo la apariencia era la de un Naggar en la plenitud de la juventud — cara serena, sonrisa tranquila, cabello completamente blanco cayendo con suavidad sobre los hombros, ojos vivaces con el brillo particular que no tenía ningún otro Naggar del imperio. Túnica sencilla, impecable. Ningún ornamento visible aparte de la banda dorada cruzada al hombro.
 
-A su lado, manteniendo la prudente distancia que Theim mantenía siempre con el rey, **Theim**.
+**Theim**, dos pasos a la izquierda del rey, a la distancia prudente de siempre.
 
 La armadura oscura, ceñida, grabada con símbolos intrincados que Eris había intentado leer años atrás y había dejado de intentar. Capa gris tormenta con toques de verde profundo, según le caía la luz. Rostro marcado por una severa violencia contenida. Ojos intensos — cuando Theim canalizaba algo dentro, lo que fuera que fuera, los iris le destellaban con un rojo leve. Hoy destellaban, aunque muy poco. En las dos manos, apoyada en el suelo como un bastón, **la enorme espada curva** — hoja larga y encorvada, la suficiente como para que la llamaran *gran hoz*, y mango extenso, tallado en el hueso de una criatura desconocida, cubierto de marcas y vendas de combates viejos. Theim reposaba las dos manos sobre el mango. No estaba listo para atacar. Estaba listo para estarlo.
 
