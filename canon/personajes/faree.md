@@ -9,9 +9,10 @@
 - **Edad**: más de mil años.
 - **Apariencia**: joven (efecto del tritón).
 - **Título**: Rey de Coria.
-- **Hermanos**: dos, ambos menores.
-  - **Kaelen Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente pero dinásticamente vinculado a Coria. No Mano de Coria (gobierna su propio reino).
-  - **Iren Numari**, hermano pequeño — gobernador de **Zenit** (provincia de Coria), unos 900 años. **Mano de Coria**. Más pragmático y militar que Faree; menos retórico, más directo.
+- **Hermanos**: dos, ambos menores. Ninguno es Mano de Coria.
+  - **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente pero dinásticamente vinculado a Coria.
+  - **Iren Numari**, hermano pequeño — gobernador de **Zenit** (ciudad-provincia con amplia autonomía dentro de Coria), unos 900 años. Más pragmático y militar que Faree; menos retórico, más directo. No Mano por ser representante de Zenit.
+- **Primo**: **Daerin Numari** — cabeza de la rama colateral del linaje. ~800 años. Historiador y guardián del archivo dinástico. **Mano de Coria** por peso familiar e histórico (no representa a ningún estado).
 
 ## Rasgos
 

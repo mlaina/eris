@@ -24,6 +24,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Daarigath** — región Düregar.
 - **Deengar** — región del bosque de Irithin, hogar de Yll y Deorn. Ver `canon/razas/yll-deorn.md`.
 - **Deorn** — raza del bosque con rodillas invertidas, silenciosa.
+- **Daerin Numari** — primo del rey Faree, cabeza de la rama colateral del linaje. Historiador y guardián del archivo dinástico. ~800 años. **Mano de Coria**. Ver `canon/personajes/manos-de-coria.md`.
 - **Dérula** — líder Ochoa, aliada del Silmarita del Hielo.
 - **Drakkar**, **Laeknir**, **Valder** — castas Úrenor.
 - **Düregar** — raza orgullosa y cazadora de Túnderor.
@@ -67,7 +68,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Ilare, Kalaree** — fórmula ceremonial Nagani.
 - **Ilir** — "de / posesión" en Nagani.
 - **Indra** — capital de Kelios, Valagost.
-- **Iren Numari** — hermano pequeño del rey Faree, gobernador de Zenit. Mano de Coria. ~900 años. Ver `canon/personajes/manos-de-coria.md`.
+- **Iren Numari** — hermano pequeño del rey Faree, gobernador de Zenit. ~900 años. **No Mano de Coria** (representa la provincia de Zenit). Ver `canon/personajes/faree.md`.
 - **Invasión Oscura** / **Horda Oscura** — conflicto histórico contra los Uxos de la luna negra.
 - **Irithin** — bosque/Silmarita del Bosque (Deengar).
 - **Itsu** — desierto de origen de Eris. Ver `canon/lugares/itsu.md`.
@@ -79,7 +80,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Kiral Ree** — palacio real de Helisil. Bajo él, el tritón.
 - **Klivian** — región de los Moruntyr.
 - **Koan** — Silmarita de la Piedra (Geoda).
-- **Kaelen Numari** — hermano mediano del rey Faree. Rey de Neidimia, reino vecino independiente.
+- **Turtei Numari** — hermano mediano del rey Faree. Rey de Neidimia, reino vecino independiente.
 - **Kovax (Liga)** — federación multirracial (Amaroth, Anfiros, Eco, Loroa, Federación).
 - **Loroa** — ciudad de la Liga Kovax, nodo de Arteria. Su canal interior desemboca en el **lago blanco**: agua lechosa por un disolvente que sueltan las raíces de los árboles cercanos. Aire cálido, luz difusa sobre la superficie. Punto intermedio habitual entre la Arteria Thuay–Kovax y la Arteria de Jomla (Kovax↔Coria).
 - **Kretus** — lobos criatura; también élite multirracial de Amaroth.
@@ -114,7 +115,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Nat'nei** — Yll heredera de Deengar (lore — probablemente no protagoniza la novela de Eris).
 - **Nel** — negación en Nagani.
 - **Nexalita** — implante en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
-- **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Kaelen Numari**, hermano mediano del rey Faree.
+- **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Turtei Numari**, hermano mediano del rey Faree.
 - **Ni, Na, Nar, Nina, Nana, Narna** — pronombres Nagani.
 - **Norel** — torre-biblioteca en Helisil.
 - **Numari** — dinastía real de Coria. Faree es Numari.

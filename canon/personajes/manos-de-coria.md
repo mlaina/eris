@@ -41,10 +41,14 @@ Administra **de facto las finanzas del imperio**. No tiene título oficial; el T
 ### 8. Aluren
 **General del ejército regular de Coria** — los miles de soldados Naggar y humanos que guarnicionan fronteras y regiones. **No Eldara**. Naggar, **450+ años**. Uniforme siempre impecable, mentón fuerte, pocas palabras en público y bastantes en privado. **Relación con Eris**: han coordinado tres operaciones mixtas (Eldara + regular) en los últimos diez años. Aluren la respeta profesionalmente y la considera la mejor táctica viva del imperio, aunque jamás lo diría en sala.
 
-### 9. Iren Numari
-**Hermano pequeño del rey Faree. Gobernador de Zenit** (ciudad-provincia mayor del centro-sur de Coria). Naggar, **~900 años** — más joven que Faree pero ya lejos de la juventud. Pelo rubio ceniza, la misma mandíbula de los Numari pero la expresión más directa, menos calibrada. Pragmático donde Faree es retórico, militar donde Faree es diplomático. Ha gobernado Zenit cien años y lo ha convertido en una ciudad próspera y callada. **Relación con Eris**: se vieron por primera vez cuando Eris, recién Kalari, escoltó una delegación de Zenit en Helisil. Iren le dijo entonces: *"Mi hermano tiene buen ojo."* Desde entonces se cruzan en audiencias y en cenas de palacio. Hay entre ellos una cortesía militar que ninguno de los dos llama amistad, y que ninguno de los dos dejaría de honrar. **Está en Las Manos por sangre y por peso propio**: ha demostrado que sabe gobernar.
+### 9. Daerin Numari
+**Primo del rey Faree. Cabeza de la rama colateral de los Numari** — los tíos y primos del linaje real. Administra las tierras dinásticas y los vasallos de la casa fuera de los tres hermanos. Naggar, **~800 años**. Pelo plateado, porte erudito, voz baja. **Sin cargo oficial de Estado**: su peso viene del linaje y de la memoria del archivo dinástico (del que es, de facto, guardián). Es la voz consultada cuando una decisión tiene precedente histórico, y casi ninguna decisión grande en Coria carece de precedente. **Relación con Eris**: la conoce desde que Eris entró en Las Manos. Le ha explicado tres veces la historia de su propia casa de Itsu — *"Tu padre y el conde Gabara cenaron tres veces. La tercera fue la víspera de la firma del pacto."* Eris lo aprecia por eso. No hay afecto expansivo entre ellos; hay algo parecido a la gratitud muda.
 
-**Nota sobre la dinastía Numari**: el rey Faree tiene **dos hermanos** menores. El mediano, **Kaelen Numari**, es rey de **Neidimia** — reino vecino, independiente de Coria aunque en términos dinásticos estrechos. No es Mano de Coria (gobierna su propio reino). Iren es el pequeño, dentro del imperio, por eso es Mano.
+**Nota sobre la dinastía Numari**: el rey Faree tiene **dos hermanos** menores, **ninguno de los dos Mano de Coria**:
+- **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente. No Mano (gobierna su propio reino).
+- **Iren Numari**, hermano pequeño — gobernador de **Zenit** (ciudad-provincia dentro de Coria, con amplia autonomía). No Mano por ser representante del estado de Zenit — se consideraría conflicto de intereses sentar al gobernador de una provincia en el círculo de confianza del rey. Asiste a audiencias cuando los asuntos conciernen a Zenit, pero como invitado, no como Mano.
+
+Daerin, en cambio, **no representa a ningún estado ni provincia**. Su peso es puramente familiar e histórico. Por eso puede ser Mano.
 
 ## Notas para la escritura
 
@@ -52,7 +56,7 @@ Administra **de facto las finanzas del imperio**. No tiene título oficial; el T
 - Entre ellos se reconocen con **gestos mínimos** — un dedo levantado, una ceja, una inclinación de medio grado. Discutir en sala sería indecoroso.
 - **No hay jerarquía interna formal** entre Manos. En la práctica, Lyris tiene más peso (por estar siempre cerca del rey) y Virim por antigüedad diplomática.
 - Las ausencias se notan: si un miembro no asiste a una audiencia que le atañe, el rey suele preguntar después por qué.
-- **Todos han hablado con Eris**. Ninguno le es desconocido. El afecto varía: Lyris frío/protocolar, Muoro/Lirae íntimo, Virim respetuoso, Iralen afectuoso, Telaia calculador, Aluren profesional, Iren cortés-militar.
+- **Todos han hablado con Eris**. Ninguno le es desconocido. El afecto varía: Lyris frío/protocolar, Muoro/Lirae íntimo, Virim respetuoso, Iralen afectuoso, Telaia calculador, Aluren profesional, Daerin gratitud muda.
 
 ## Función narrativa en la novela
 
