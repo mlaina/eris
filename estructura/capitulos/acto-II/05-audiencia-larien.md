@@ -172,23 +172,7 @@ Aluren, desde la grada, no hizo ningún gesto visible, pero ya tenía la operaci
 
 ---
 
-La tercera petición fueron dos casas Naggar que llevaban once meses bloqueándose un matrimonio por un detalle de dote. Bajaron a la zona de audiencia las dos cabezas de casa con sus asesores. La dote en cuestión era una viña de sesenta hectáreas en la ladera sur del segundo arroyo. Una casa decía que la viña iba con la novia; la otra, que la viña quedaba con la familia de origen hasta el tercer hijo.
-
-Faree los dejó hablar tres minutos cada uno. A la cuarta frase del segundo, los paró con un gesto.
-
-—¿Puedo sugerir.
-
-—Por favor, majestad.
-
-—Que la viña se divida en dos mitades exactas. Que una vaya con la novia al matrimonio. Que la otra quede en fideicomiso hasta el primer hijo. Si no hay primer hijo en seis años, vuelve a la familia de origen. Si lo hay, pasa al hijo directamente, sin pasar por los padres. Mi sugerencia les ahorra un contrato nuevo: basta con firmar un anexo a los dos ya existentes.
-
-Las dos casas se miraron. Asintieron. Era, evidentemente, una solución que ninguno había visto.
-
-—Gracias, majestad —dijeron a la vez, y casi se rieron de haberlo dicho juntos.
-
-Faree les dio permiso para retirarse con un gesto de dos dedos.
-
-En la grada de las Manos, Telaia movió la cabeza muy poco. Era su manera de aprobar.
+La tercera petición fueron dos casas Naggar que llevaban once meses bloqueándose un matrimonio por un detalle de dote — una viña al sur del segundo arroyo. Faree los escuchó el tiempo justo y les propuso una partición con fideicomiso al primer hijo que ninguna de las dos casas había considerado. Se fueron casi riéndose de haberse ahorrado un contrato nuevo. En la grada, Telaia movió la cabeza muy poco. Era su manera de aprobar.
 
 ---
 
@@ -200,7 +184,7 @@ Entró un escriba, no un diplomático. Un Naggar joven con la túnica gris de la
 
 Faree se había inclinado un grado. Era el primer gesto físico desde que había bajado los dos escalones.
 
-En la grada, Theim —que no se había movido desde el principio— apretó casi imperceptiblemente las manos sobre el mango de la espada curva. Eris lo registró de reojo. Lyris también.
+Junto al trono, Theim —que no se había movido desde el principio— apretó casi imperceptiblemente las manos sobre el mango de la espada curva. Eris lo registró de reojo. Lyris también.
 
 —¿Qué dice el consulado.
 
@@ -236,7 +220,7 @@ Eris se levantó del sexto sitio.
 
 —Majestad.
 
-—Escolta Eldara reducida. Usted más cinco del escuadrón. Haris y los gemelos incluidos. Muoro se queda en Lorin con el preso, que sigue hablando poco. Salimos pasado mañana al mediodía.
+—Escolta Eldara reducida. Usted más cinco del escuadrón. Salimos pasado mañana al mediodía.
 
 —Sí, majestad.
 
@@ -296,7 +280,7 @@ En el corredor del ala sur, Iralen la alcanzó a los treinta pasos.
 
 —¿El culto.
 
-—El culto. Theim baja de la grada cuando oye ese nombre. Eso no lo había oído yo nunca.
+—El culto. Theim baja de la grada cuando oye ese nombre. Eso no lo había visto nunca.
 
 Eris no contestó. Iralen le apretó el hombro un segundo — medio gesto, medio despedida — y siguió por el corredor hacia el ala norte sin esperar respuesta. Había oficios más urgentes que el de esperar.
 
