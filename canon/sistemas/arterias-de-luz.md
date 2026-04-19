@@ -64,7 +64,7 @@ En Orio, al aterrizar: los guardianes asisten a los soldados (los mareos son com
 ## Uso narrativo
 
 - **Acto I**: **propaganda del poder** (en vuelta tras misión). Los Eldara vuelven a Coria flotando en la Arteria — privación sensorial, nostalgia, calma entrenada. No es por donde entran al objetivo (infiltración normalmente por barco u otra vía discreta).
-- **Acto II**: las Arterias son **símbolo de civilización y control**. Quien está fuera de ellas está fuera del imperio.
+- **Acto II**: las Arterias son **símbolo de civilización y control**. Quien está fuera de ellas está fuera del reino.
 - **Acto IV**: **herramienta logística militar** — Coria las usa para mover tropas rápidamente. También **mecanismo perfecto para fugas y persecuciones** (Eris y Haris pueden escapar o ser perseguidos por Arterias).
 - **Acto V**: su presencia se siente como amenaza — cualquier llegada podría ser Theim.
 

@@ -60,7 +60,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 ## Sobre la dimensión política
 
 - ❌ **No perderla.**
-- La historia íntima de Eris está **pegada al sistema imperial**.
+- La historia íntima de Eris está **pegada al sistema del reino**.
 - No reducirla a drama personal. Cada escena debe tener **conciencia política** implícita, aunque sea sensorial.
 
 ## Sobre el género y los tropos

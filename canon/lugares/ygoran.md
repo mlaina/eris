@@ -40,9 +40,9 @@
 - Disputas internas.
 - Tráfico de drogas (Haiz).
 - Oportunismo y venganza.
-- Incapacidad de enfrentar la maquinaria imperial.
+- Incapacidad de enfrentar la maquinaria del reino.
 
-La decepción de Eris con los rebeldes es **parte esencial del tema**: la mera oposición no tumba un imperio.
+La decepción de Eris con los rebeldes es **parte esencial del tema**: la mera oposición no tumba un reino.
 
 ## Notas de escritura
 

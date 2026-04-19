@@ -35,7 +35,7 @@
 **Post-Invasión**:
 - **Faree la invita personalmente** a formar parte de su escuadrón de élite Eldara.
 - Años de misiones y logros — asciende hasta comandante (**Kalari**).
-- Más adelante es aceptada en **Las Manos de Coria**: organización pequeña y selecta de Naggar muy poderosos que preservan los intereses profundos del imperio.
+- Más adelante es aceptada en **Las Manos de Coria**: organización pequeña y selecta de Naggar muy poderosos que preservan los intereses profundos del reino.
 
 Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — Theim se las corta en el final para destruir simbólicamente su pertenencia.
 

@@ -28,7 +28,7 @@ El Anvur vigilaba. Era el único Anvur del continente al servicio de un rey Nagg
 
 Al lado del trono, de pie, estaba el rey.
 
-Faree Numari no se sentaba antes de que empezara la audiencia. Era una costumbre suya. Llevaba más de mil años vivos y sin embargo la apariencia era la de un Naggar en la plenitud de la juventud — cara serena, sonrisa tranquila, cabello completamente blanco cayendo con suavidad sobre los hombros, ojos vivaces con el brillo particular que no tenía ningún otro Naggar del imperio. Túnica sencilla, impecable. Ningún ornamento visible aparte de la banda dorada cruzada al hombro.
+Faree Numari no se sentaba antes de que empezara la audiencia. Era una costumbre suya. Llevaba más de mil años vivos y sin embargo la apariencia era la de un Naggar en la plenitud de la juventud — cara serena, sonrisa tranquila, cabello completamente blanco cayendo con suavidad sobre los hombros, ojos vivaces con el brillo particular que no tenía ningún otro Naggar del reino. Túnica sencilla, impecable. Ningún ornamento visible aparte de la banda dorada cruzada al hombro.
 
 **Theim**, dos pasos a la izquierda del rey, a la distancia prudente de siempre.
 
@@ -48,13 +48,13 @@ Eris los fue registrando al subir, sin girar la cabeza.
 
 **Daerin Numari** en el primer sitio — privilegio de sangre. Primo de Faree, cabeza de la rama colateral del linaje Numari. Naggar de unos ochocientos años. Pelo plateado, porte erudito, voz baja; en la mano izquierda, el anillo antiguo del archivo dinástico. Sin cargo de Estado: peso de linaje y memoria. De él Eris había aprendido una línea que no olvidaba: *"Tu padre y el conde Gabara cenaron tres veces. La tercera fue la víspera de la firma del pacto."* Daerin le hizo una inclinación mínima de barbilla al entrar. Eris la devolvió.
 
-**Virim** en el segundo sitio. Naggar seco de quinientos años, embajador principal del imperio con Nurn, Ygoran, Trei y la Liga Kovax. Las manos sobre las rodillas, la mirada al centro. Se respetaban por oficio.
+**Virim** en el segundo sitio. Naggar seco de quinientos años, embajador principal del reino con Nurn, Ygoran, Trei y la Liga Kovax. Las manos sobre las rodillas, la mirada al centro. Se respetaban por oficio.
 
 **Iralen** en el tercer sitio, relajada, con una pierna cruzada sobre la otra como si estuviera en el patio de su casa y no en el Larien. Pelo gris atado muy tirante, túnica gris plateada impecable. Naggar de más de seiscientos años. Magnate comercial — casas de banca, rutas de caravana, participaciones en astilleros de Valdara. En Las Manos por peso económico y por lectura política afilada. La llamaba *chica* y Eris no protestaba. Le devolvió un guiño minúsculo. Nadie más del Larien lo habría visto.
 
-**Telaia** en el cuarto sitio, sin guiños. Naggar delgada de quinientos cincuenta años, pelo ceniza atado atrás, voz aguda. Administraba de facto las finanzas del imperio sin cargo oficial. El día que Faree había nombrado a Eris Kalari, Telaia le había dicho al salir del Larien: *"Espero que sepa lo que el rey le pagará por esto."* Desde entonces se habían cruzado en tres audiencias y en dos pasillos. Telaia inclinó la cabeza medio grado al ver entrar a Eris. Era reconocimiento, pero sin calor.
+**Telaia** en el cuarto sitio, sin guiños. Naggar delgada de quinientos cincuenta años, pelo ceniza atado atrás, voz aguda. Administraba de facto las finanzas del reino sin cargo oficial. El día que Faree había nombrado a Eris Kalari, Telaia le había dicho al salir del Larien: *"Espero que sepa lo que el rey le pagará por esto."* Desde entonces se habían cruzado en tres audiencias y en dos pasillos. Telaia inclinó la cabeza medio grado al ver entrar a Eris. Era reconocimiento, pero sin calor.
 
-**Aluren** en el quinto sitio. General del ejército regular de Coria — no Eldara, uniforme impecable, mentón fuerte, pocas palabras. La consideraba, sin decirlo, la mejor táctica viva del imperio. Le dio el asentimiento breve que reservaba a los colegas que respetaba.
+**Aluren** en el quinto sitio. General del ejército regular de Coria — no Eldara, uniforme impecable, mentón fuerte, pocas palabras. La consideraba, sin decirlo, la mejor táctica viva del reino. Le dio el asentimiento breve que reservaba a los colegas que respetaba.
 
 Dos sitios vacíos. **Muoro** estaba en Lorin con el preso del mes pasado, que seguía hablando poco. **Lirae** estaba en Norel, midiendo — Lirae no asistía casi nunca, y cuando lo hacía era por materia mística, no política.
 

@@ -13,7 +13,7 @@
 
 ## Lo que la Nexalita NO es
 
-- **No es un sistema de comunicación imperial**. No llegan órdenes de palacio por Nexalita. Las órdenes, mensajes y redirecciones de la corte hacia los Eldara en misión llegan por **mensajero** — persona a caballo o a pie con **papel firmado y sello de Kiral Ree en lacre rojo**, entregado a los guardianes de los Orios o al escuadrón directamente. Formal, físico, trazable.
+- **No es un sistema de comunicación del reino**. No llegan órdenes de palacio por Nexalita. Las órdenes, mensajes y redirecciones de la corte hacia los Eldara en misión llegan por **mensajero** — persona a caballo o a pie con **papel firmado y sello de Kiral Ree en lacre rojo**, entregado a los guardianes de los Orios o al escuadrón directamente. Formal, físico, trazable.
 - **No es telepatía universal**. Sólo funciona entre Eldara enlazados a la misma red del escuadrón. Dos Eldara de escuadrones distintos no comparten Nexalita salvo reconfiguración específica.
 - **No es radio ni señal a distancia arbitraria**. Requiere proximidad razonable (la distancia exacta no está fijada en canon; depende de la escena).
 - **No la gestiona la corte ni Lyris**. Es un sistema **Eldara**: se administra en Lorin, se coloca en los cadetes al entrar al cuerpo, se desconfigura al morir o ser expulsado.

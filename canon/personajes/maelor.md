@@ -13,7 +13,7 @@
 
 ## Historia
 
-- **Héroe de la Invasión Oscura** (hace ~100 años): luchó con la resistencia aliada. Gesta suficiente para seguir vivo en la memoria popular aunque el imperio Naggar no lo haya entronizado.
+- **Héroe de la Invasión Oscura** (hace ~100 años): luchó con la resistencia aliada. Gesta suficiente para seguir vivo en la memoria popular aunque el reino Naggar no lo haya entronizado.
 - Durante la guerra, **un Kretus estuvo a punto de matarlo**. Sobrevivió — caso raro: los Kretus **cazan en la mente de la víctima antes de comérsela**, rastreando sus miedos y sus atajos. Casi nadie aguanta la caza mental.
 - Algo del Kretus se le **quedó dentro**. No se transforma. No es licántropo en el sentido clásico. Pero conserva una **marca oscura**: intuiciones casi predatorias, silencio largo, olfato raro para el miedo ajeno. Nunca lo ha nombrado. Los que lo conocen no lo preguntan.
 - Acabó en Nurn, en el coliseo. Por dinero al principio. Por oficio ahora. Lleva décadas ganando combates que no deberían ganarse.

@@ -2,7 +2,7 @@
 
 **Corazón político y estético de la historia.** Símbolo del poder bello por fuera y monstruoso por dentro.
 
-## Coria (el imperio)
+## Coria (el reino)
 
 Régimen del continente Anira dominado por los **Naggar** (ver `canon/razas/naggar.md`).
 

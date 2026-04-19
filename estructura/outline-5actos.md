@@ -263,7 +263,7 @@ Acto I: **~80 páginas**.
 
 ### Capítulo 18 — *Vuelta a Coria (tipo: "Perspectiva invertida")*
 
-- **POV todavía en Eris**, pero el capítulo muestra la **maquinaria imperial activándose contra ella**.
+- **POV todavía en Eris**, pero el capítulo muestra la **maquinaria del reino activándose contra ella**.
 - Los Eldara en Helisil reciben órdenes. **Muoro lidera** — mencionar su rostro, su silencio, su decisión.
 - **Theim se incorpora** a la fuerza — aparición completa por primera vez.
 - Transmitimos esto por fragmentos: rumores en Ygoran, un contacto que llega herido, una señal visual lejana de Arterias militares moviéndose.

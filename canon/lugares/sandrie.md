@@ -43,7 +43,7 @@ Las seis formas canónicas (ver `canon/sistemas/mirisar.md`): gravitatoria, lum�
 
 ## Rol político
 
-- **Dependencia mutua con la corte**: la Sandrie necesita la protección del rey (los Mirisar son demasiado poderosos para vivir sin régimen que los tolere). El rey necesita la Sandrie (es la única fuente estable de Mirisar formados para el imperio).
+- **Dependencia mutua con la corte**: la Sandrie necesita la protección del rey (los Mirisar son demasiado poderosos para vivir sin régimen que los tolere). El rey necesita la Sandrie (es la única fuente estable de Mirisar formados para el reino).
 - La Sandrie suministra a Coria: guardias Mirisar de palacio, asesores científicos, especialistas militares asignables. Pero conserva **autonomía formal** — el Primer Mirisar responde directamente al rey, no a Lyris, y tiene peso político propio en Kiral Ree.
 - En la corte hay un **escaño reservado** en las audiencias grandes para el Primer Mirisar.
 

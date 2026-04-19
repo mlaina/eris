@@ -17,7 +17,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 ## C
 
 - **Caedras** — región de los Maos, jinetes de Dereks y Vulks.
-- **Coria** — imperio Naggar, régimen central de la novela. Ver `canon/lugares/coria-helisil.md`.
+- **Coria** — reino Naggar, régimen central de la novela. Ver `canon/lugares/coria-helisil.md`.
 
 ## D
 

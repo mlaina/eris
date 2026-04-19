@@ -27,7 +27,7 @@
 ## Función temática
 
 - Humaniza Nurn frente al mármol de Helisil.
-- Su captura por Faree demuestra que **el imperio no solo reprime: también seduce e incorpora**.
+- Su captura por Faree demuestra que **el reino no solo reprime: también seduce e incorpora**.
 - Espejo alternativo de Eris: ambos son "talentos brillantes" cortejados por el poder. Uno cede (aparentemente), la otra se rompe.
 
 ## Notas de escritura
