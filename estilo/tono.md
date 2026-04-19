@@ -66,6 +66,8 @@ Los Eldara hablan entre sí con **una o dos palabras por frase**. No es frialdad
 
 Es **orgullo de cuerpo militar**: *"no malgastamos aliento. El aliento es para las cosas que cuestan."* (Lorin). Ver `canon/sistemas/nexalita.md`.
 
+**Entre Eldara se tutean**: el registro es **tú / vosotros**, nunca *usted / ustedes*. La jerarquía (comandante / segundo / joven) existe en el vocativo (Kalari), en el silencio y en la Nexalita, no en la distancia gramatical. El *usted* queda para el trato Eldara ↔ corte (Lyris, Faree), Eldara ↔ civil humano (oficial de Valdara), y cualquier cruce ceremonial fuera del cuerpo.
+
 ### Contraste con la corte Naggar
 
 Los Naggar de Helisil se enorgullecen **de lo contrario**: soltura, retórica, subordinada larga, construcción elaborada. **Dos orgullos contrapuestos en el mismo pueblo**. Faree es el epítome de la soltura; Eris del oficio lacónico. Cuando se cruzan en audiencia es conflicto estilístico con carga política.

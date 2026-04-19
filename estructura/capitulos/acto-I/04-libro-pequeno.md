@@ -34,7 +34,7 @@ Illia soltó el Glóbulo común con un golpe sordo. Ravys le tendió a Eris una 
 
 Eris dejó la jarra. Le pesaban los hombros.
 
-—Pulan los cascos. Coman. Duerman. Cuarenta y ocho horas. Libres.
+—Pulid los cascos. Comed. Dormid. Cuarenta y ocho horas. Libres.
 
 Nadie dijo nada. La libertad, en Lorin, era un artículo tan infrecuente que la mayoría no sabía cómo recibirla sin recelo.
 
