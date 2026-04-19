@@ -82,8 +82,6 @@ El mayor tenía la cara angulosa de los vyries mestizos de las tierras bajas. El
 
 —Halen Atalar, por la casa Atalar de Itsu —dijo el mayor—. Y mi sobrino Remi, también de la casa.
 
-Eris había oído el nombre Atalar una vez, hacía mucho. Su padre había cenado con un Atalar una noche antes de algo importante. No recordaba qué.
-
 —Su petición.
 
 —Queja formal contra el conde Gabara, mayoral de la región sur de Itsu. Por abuso tributario y por contratación de tropa irregular para cobrar tierras que no le corresponden por título.
