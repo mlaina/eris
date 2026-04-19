@@ -2,7 +2,13 @@
 
 **Imperio/ciudad en decadencia.** Lo **opuesto a Helisil**. Humanidad, mezcla, ruido, olor.
 
-## Atmósfera
+## Imperio vs. capital
+
+- **Nurn** es el **imperio** entero — amplio territorio que ocupa gran parte del continente centro-sur, con muchas metrópolis y una red administrativa compleja.
+- **Nerath** es la **capital** del imperio — ciudad amurallada donde se encuentran el salón del trono (con Tyrus en coma), el coliseo, el consulado Naggar, los barrios de mercados y tintoreros, el río.
+- **El Orio está extramuros** de Nerath, en la llanura inmediata a las puertas de la ciudad. No está dentro de las murallas: llegar a Nerath implica cruzar la muralla por una de las puertas tras desembarcar del Glóbulo. Es una particularidad del imperio respecto de Coria (donde el Orio de Helisil está en el corazón de la ciudad).
+
+## Atmósfera (de Nerath como ciudad)
 
 - **Mezcla racial** — muchas razas conviven abiertamente.
 - **Ruido** — mercados, tráfico, voces.

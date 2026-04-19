@@ -114,6 +114,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Nara** — fórmula Nagani.
 - **Nat'nei** — Yll heredera de Deengar (lore — probablemente no protagoniza la novela de Eris).
 - **Nel** — negación en Nagani.
+- **Nerath** — capital del Imperio Nurn. Ciudad amurallada. En el salón del trono yace Tyrus en coma. El Orio está extramuros. Ver `canon/lugares/nurn.md`.
 - **Nexalita** — implante en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
 - **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Turtei Numari**, hermano mediano del rey Faree.
 - **Ni, Na, Nar, Nina, Nana, Narna** — pronombres Nagani.
@@ -164,7 +165,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 ## T
 
 - **Tyr** — enredadera azul alucinógena (Klivian, Moruntyr).
-- **Tyrus** — Silmarita de la Sangre. Herido gravemente en la batalla final de la Invasión Oscura; yace **en coma en el salón del trono del Imperio Nurn** desde entonces. Otros gestionan el imperio mientras el Silmarita duerme — el declive burocrático de Nurn es consecuencia. Su juramentado: Theim. Marca de su culto: espiral doble roja en el cuello. Ver `canon/sistemas/silmaritas.md`.
+- **Tyrus** — Silmarita de la Sangre. Herido gravemente en la batalla final de la Invasión Oscura; yace **en coma en el salón del trono del Imperio Nurn**, en la capital Nerath. Otros gestionan el imperio mientras el Silmarita duerme — el declive burocrático de Nurn es consecuencia. Su juramentado: Theim. Marca de su culto: espiral doble roja en el cuello. Ver `canon/sistemas/silmaritas.md`.
 - **Ti-** — prefijo futuro en Nagani.
 - **Targo** — antiguo nombre de Valdara.
 - **Táos** — capital submarina Valagost (La Grieta).

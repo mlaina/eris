@@ -1,20 +1,22 @@
-# Capítulo 6 — Nurn, día
+# Capítulo 6 — Nerath, día
 
-La Arteria los dejó en el Orio de Nurn al mediodía del tercer día.
+La Arteria los dejó en el Orio de Nerath al mediodía del tercer día — extramuros de la capital del Imperio Nurn, en la llanura inmediata a la gran muralla.
 
 Faree salió primero del Glóbulo común. Lo había dicho en Helisil antes del viaje: *yo salgo primero; lo que se vea desde el umbral ya es nuestro*. Kroma iba detrás a dos pasos. Los dos brazos superiores al nivel del hombro, los dos inferiores colgando. El Anvur medía veintidós palmos; la silueta ocupaba el umbral entero. Detrás Theim, silencioso, con la hoz de hueso cruzada al torso. Después Lyris, las dos esferas de luz blanca lentas por la túnica de viaje. Al final, en formación suelta, Eris con los cinco Eldara del encargo — Haris, los gemelos, Therel y Nerei. Capas sin pintura, yelmos en la mano, escudos a la espalda. No era operación militar. Era visita de Estado.
 
-Nurn olió antes de verse. Fue lo primero que Eris registró al pisar la rejilla — un olor que no era Helisil: especia caliente, grasa de puesto de calle, sudor, agua vieja de un canal cercano. Bajo el Orio se extendía la ciudad escalonada hacia el río, sin eje, sin centro claro, con los tejados de colores distintos apelotonados unos contra otros. Las campanas de los mercados sonaban las unas contra otras, cada una a su compás.
+Nerath olió antes de verse. Fue lo primero que Eris registró al pisar la rejilla — un olor que no era Helisil: especia caliente, grasa de puesto de calle, sudor, agua vieja de un canal cercano. Más allá de la llanura del Orio, la muralla de Nerath se alzaba gruesa y parda, con torres cada medio estadio. A través del arco principal de la Puerta del Sur se veía la ciudad escalonada hacia el río, sin eje, sin centro claro, con los tejados de colores distintos apelotonados unos contra otros. Las campanas de los mercados sonaban las unas contra otras, cada una a su compás, amortiguadas por la piedra de la muralla.
 
 Faree se detuvo un segundo en el umbral. Cerró los ojos y olió la ciudad con atención de cocinero que prueba un caldo ajeno. Luego abrió los ojos y siguió.
 
-A Eris le pareció, sin decirlo, que el rey olía Nurn como se huele un plato que se va a probar después.
+A Eris le pareció, sin decirlo, que el rey olía Nerath como se huele un plato que se va a probar después.
 
 ---
 
 El prefecto local esperaba en la plaza baja del Orio con doce guardias propios. Era un humano mayor, barba rizada, túnica parda de funcionario cansado. La reverencia fue correcta. Faree respondió con una inclinación mínima, le intercambió tres frases que Eris no alcanzó a oír del todo, y durante la segunda el prefecto se puso nervioso. Faree le apoyó dos dedos en el antebrazo como quien tranquiliza a un caballo, y la tercera frase deshizo el nervio.
 
 No era la primera vez que Eris veía a Faree convertir protocolo en amabilidad. Era la primera vez fuera de palacio.
+
+Cruzaron la Puerta del Sur al paso. El arco era alto, de piedra ocre, con dos guardianes humanos de capa roja vigilando arriba sin llamar la atención sobre sí mismos. Del otro lado del umbral, Nerath los recibió con el olor acumulado de siglos — más denso que el que habían probado desde fuera.
 
 Caminaron por calles estrechas que la guardia local había despejado sin pompa — carteles retirados a medias, vecinos mirando desde las ventanas sin esconderse. Nadie los aclamó. Nadie los insultó. Los miraron, y eso bastaba. Faree miraba todo a su vez. Se detuvo dos veces: una ante un puesto de especia roja que un hombre había dejado abierto al huir, otra ante una pared con tres frases pintadas en una lengua que Eris no reconocía. Los delegados civiles —dos Naggar jóvenes que habían viajado con ellos en el Glóbulo— se ofrecieron a traducir. Faree negó con la cabeza.
 
@@ -60,7 +62,7 @@ Eris no contestó. Pero esa frase le hizo descansar el hombro.
 
 Comieron poco y pronto. El coliseo a esa hora iba por la mitad de la jornada; las ejecuciones de la mañana ya habían pasado y quedaban los combates libres de la tarde. A las cuatro en punto una escolta de seis humanos con uniforme ocre vino a llamar a la puerta. Faree salió con Lyris, Kroma y Theim. Eris los siguió tres pasos atrás con Haris y los gemelos. Therel y Nerei se quedaron en la casa de huéspedes. No hacían falta dentro del coliseo — los palcos se guardaban solos.
 
-El coliseo de Nurn estaba en el sur de la ciudad, en un óvalo bajo que había sido foso de agua dulce hace tres siglos. Ahora era piedra blanca gastada por las botas de tres siglos. Desde fuera ya se oía el rugido. Era un sonido distinto del de Plaza Ocre — allí había habido rabia, aquí había hambre. Hambre de espectáculo, de sangre, de apuesta. Miles de personas gritaban al mismo tempo y sin embargo ninguna decía lo mismo.
+El coliseo de Nerath estaba en el sur de la ciudad, en un óvalo bajo que había sido foso de agua dulce hace tres siglos. Ahora era piedra blanca gastada por las botas de tres siglos. Desde fuera ya se oía el rugido. Era un sonido distinto del de Plaza Ocre — allí había habido rabia, aquí había hambre. Hambre de espectáculo, de sangre, de apuesta. Miles de personas gritaban al mismo tempo y sin embargo ninguna decía lo mismo.
 
 Entraron por la puerta noble, subieron por escaleras de piedra al palco real. El palco era amplio, cubierto con tela roja, con cinco sillas de respaldo alto. El prefecto los recibió en la entrada, se retiró al fondo. Faree se sentó en la silla del centro. Lyris a su derecha. Kroma y Theim de pie detrás — Kroma imponente, Theim inmóvil. Eris y los suyos se colocaron a un lado del palco, de pie, en posición de escolta protocolaria. Haris quedó a la altura de su hombro izquierdo. Los gemelos en la puerta del palco, cubriendo la entrada.
 
@@ -192,7 +194,7 @@ Maelor cogió la capa colgada y se la puso sobre los hombros. Pasó al lado de T
 
 Theim se quedó en el umbral, la hoz cruzada al torso, la mano en el mango.
 
-Haris, a un lado de Eris, apretó los labios muy levemente por dentro. No sonrió — Eris lo habría notado si hubiera sonreído. Pero notó que Haris se estaba aguantando un gesto. Lo agradeció. Ella tampoco sonreía en Nurn.
+Haris, a un lado de Eris, apretó los labios muy levemente por dentro. No sonrió — Eris lo habría notado si hubiera sonreído. Pero notó que Haris se estaba aguantando un gesto. Lo agradeció. Ella tampoco sonreía en Nerath.
 
 Por dentro, durante medio segundo, algo suyo se calmó.
 
@@ -226,7 +228,7 @@ Y Coria no lo había recogido.
 
 Eris entró en la casa de huéspedes con Haris y los gemelos. Subió a su habitación. Se sentó un minuto en el borde de la cama con el yelmo en las rodillas. No pensó. Respiró.
 
-Abajo, en el patio, alguien había encendido una primera vela — ya era más de tarde de lo que Eris había creído. La noche en Nurn bajaba rápido.
+Abajo, en el patio, alguien había encendido una primera vela — ya era más de tarde de lo que Eris había creído. La noche en Nerath bajaba rápido.
 
 —¿A qué hora la cena del cocinero? —preguntó por la Nexalita a Haris.
 

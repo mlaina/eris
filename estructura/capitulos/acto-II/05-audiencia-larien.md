@@ -200,7 +200,7 @@ Nadie rió. No se esperaba que nadie riera.
 
 Faree se tomó un momento. Dos. El Larien entero esperó.
 
-—Iré yo —dijo—. A Nurn. En persona.
+—Iré yo —dijo—. A Nerath. En persona.
 
 El escriba no supo qué contestar. Miró a Lyris, que no movió un músculo. Volvió a Faree.
 
@@ -242,7 +242,7 @@ Theim asintió una sola vez, sin hablar. Tampoco tenía que hablar.
 
 Faree miró una última vez al escriba.
 
-—Dígale al consulado que el rey va a tomarse un té a Nurn. Que lo preparen con tiempo.
+—Dígale al consulado que el rey va a tomarse un té a Nerath. Que lo preparen con tiempo.
 
 —Majestad.
 

@@ -20,7 +20,7 @@ Eris leyó los tejados por costumbre. No había nadie en los tejados tampoco.
 
 Pero había algo.
 
-Lo notó antes que nadie — el silencio de la hora tenía un peso distinto del que debía. Nurn despertaba con ruido. Los panaderos hacían ruido. Los tintoreros hacían ruido. Esa mañana, sólo el perro y el panadero. Nada más.
+Lo notó antes que nadie — el silencio de la hora tenía un peso distinto del que debía. Nerath despertaba con ruido. Los panaderos hacían ruido. Los tintoreros hacían ruido. Esa mañana, sólo el perro y el panadero. Nada más.
 
 Abrió la boca para avisar a Lyris.
 

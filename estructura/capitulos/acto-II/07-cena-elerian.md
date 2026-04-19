@@ -364,7 +364,7 @@ La armadura era incómoda para dormir. No importaba. No tenía intención.
 
 Haris dormía en el suelo contra la pared junto a la puerta. No se había movido desde que ella había salido. Cuando Eris entró, él abrió los ojos un instante, la vio, los cerró otra vez. No preguntó. No iba a preguntar. Ese gesto, ese no-preguntar, fue lo único que a Eris le dio ganas de llorar esa noche, y no lloró tampoco.
 
-Fuera, en algún tejado de Nurn, un perro ladraba una sola vez cada veinte segundos.
+Fuera, en algún tejado de Nerath, un perro ladraba una sola vez cada veinte segundos.
 
 El cielo por la ventana se estaba haciendo gris.
 
