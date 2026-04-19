@@ -12,7 +12,7 @@ Faree se detuvo un segundo en el umbral. Olió el aire — despacio, sin comenta
 
 El prefecto local esperaba en la plaza baja del Orio con doce guardias propios. Era un humano mayor, barba rizada, túnica parda de funcionario cansado. La reverencia fue correcta. Faree respondió con una inclinación mínima, le intercambió tres frases que Eris no alcanzó a oír del todo, y durante la segunda el prefecto se puso nervioso. Faree le apoyó dos dedos en el antebrazo como quien tranquiliza a un caballo, y la tercera frase deshizo el nervio.
 
-No era la primera vez que Eris veía a Faree convertir protocolo en amabilidad. Era la primera vez fuera de palacio.
+No era la primera vez que Eris veía a Faree convertir protocolo en amabilidad.
 
 Cruzaron la Puerta del Sur al paso. El arco era alto, de piedra ocre, con dos guardianes humanos de capa roja vigilando arriba sin llamar la atención sobre sí mismos. Del otro lado del umbral, Nerath los recibió con el olor acumulado de siglos — más denso que el que habían probado desde fuera.
 
@@ -42,11 +42,11 @@ Se fue.
 
 En el patio, ya a solas con los suyos, Faree se quitó los guantes con lentitud y los dejó sobre la mesa baja. Miró a Eris.
 
-—¿Ha estado nunca en un coliseo, Kalari.
+—¿Ha estado alguna vez en un coliseo, Kalari?
 
 —No, majestad.
 
-—Pues hoy pisa uno.
+—Hoy pisarás uno.
 
 Eris hizo la reverencia mínima. No dijo nada más. Faree no esperaba respuesta.
 
@@ -54,7 +54,7 @@ Haris, detrás de Eris, le susurró muy bajo por la Nexalita:
 
 —Ponte el yelmo. Huele fatal.
 
-Eris no contestó. Pero esa frase le hizo descansar el hombro.
+Eris no contestó. Pero esa frase le ayudó un poco a relajarse.
 
 ---
 
