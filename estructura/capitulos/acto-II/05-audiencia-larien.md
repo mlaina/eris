@@ -38,23 +38,25 @@ Eris subió por la galería lateral.
 
 ---
 
-La grada alta de las Manos estaba al lado derecho del trono, a la altura intermedia entre la zona baja y el trono mismo. Seis bancos en semi-círculo, separados por un palmo cada uno. Ocho sitios, como las Manos que eran.
+La grada alta de las Manos estaba al lado derecho del trono, a la altura intermedia entre la zona baja y el trono mismo. Seis bancos en semi-círculo, separados por un palmo cada uno. Nueve sitios, como las Manos que eran.
 
-Hoy había cinco ocupados. Tres vacíos.
+Hoy había siete ocupados. Dos vacíos.
 
 Eris los fue registrando al subir, sin girar la cabeza.
 
-**Lyris** estaba en el sitio más cercano al trono, como siempre — la Kirala no se sentaba exactamente en los bancos de las Manos, tenía su propio estrado pequeño entre la grada y el trono, pero protocolariamente contaba como presente. Las dos esferas de luz blanca le giraban lentas por la túnica.
+**Lyris** estaba en su estrado propio, entre la grada y el trono — la Kirala no se sentaba exactamente en los bancos de las Manos, tenía protocolo aparte, pero protocolariamente contaba como presente. Las dos esferas de luz blanca le giraban lentas por la túnica.
+
+**Iren Numari** en el primer sitio de la grada, el más cercano al trono — privilegio de sangre. Hermano pequeño de Faree, gobernador de Zenit desde hacía cien años. Naggar de unos novecientos años. El mismo pelo rubio ceniza de los Numari, aunque con menos luz que el de su hermano; la misma línea de mandíbula, pero la expresión más directa. La primera vez que se había cruzado con Eris, recién Kalari, escoltando una delegación de Zenit, le había dicho: *"Mi hermano tiene buen ojo."* Eris nunca había sabido si era cumplido o advertencia. Al entrar hoy Eris al Larien, Iren le hizo el saludo breve que se daba entre comandantes: puño sobre el corazón, un instante. Eris lo devolvió.
 
 **Virim** en el segundo sitio, sentado, las manos sobre las rodillas, la mirada al centro. Naggar seco de quinientos años, embajador principal del imperio con Nurn, Ygoran, Trei y la Liga Kovax. Había convocado tres veces a Eris en diez años para misiones que pedían músculo Eldara detrás de su diplomacia. Se respetaban por oficio.
 
-**Iralen** en el tercero, relajada, con una pierna cruzada sobre la otra como si estuviera en el patio de su casa y no en el Larien. Eldara retirada del servicio — los tatuajes grises de los antebrazos se le marcaban todavía bajo la manga de la túnica. Ahora dirigía una red comercial Naggar que iba desde Itsu hasta Trei. Eris había cenado con ella dos veces en Norel y una en el Larien; la llamaba *chica* y Eris no protestaba. Al verla, Iralen le devolvió un guiño minúsculo. Nadie más del Larien lo habría visto.
+**Iralen** en el tercer sitio, relajada, con una pierna cruzada sobre la otra como si estuviera en el patio de su casa y no en el Larien. Pelo gris atado muy tirante, túnica gris plateada impecable. Naggar de más de seiscientos años. Nunca militar — magnate comercial: dirigía una red que iba desde Itsu hasta Trei, casas de banca, rutas de caravana, participaciones en astilleros de Valdara. En Las Manos por peso económico y por lectura política afilada — sabía antes que nadie cuándo una casa empezaba a caer. Eris había cenado con ella dos veces en Norel y una en el Larien; la llamaba *chica* y Eris no protestaba. Al verla, Iralen le devolvió un guiño minúsculo. Nadie más del Larien lo habría visto.
 
-**Telaia** en el cuarto, sin guiños. Naggar delgada de quinientos cincuenta años, pelo ceniza atado atrás, voz aguda. Administraba de facto las finanzas del imperio sin cargo oficial. El día que Faree había nombrado a Eris Kalari, Telaia le había dicho al salir del Larien: *"Espero que sepa lo que el rey le pagará por esto."* Desde entonces se habían cruzado en tres audiencias y en dos pasillos. Telaia inclinó la cabeza medio grado al ver entrar a Eris. Era reconocimiento, pero sin calor.
+**Telaia** en el cuarto sitio, sin guiños. Naggar delgada de quinientos cincuenta años, pelo ceniza atado atrás, voz aguda. Administraba de facto las finanzas del imperio sin cargo oficial. El día que Faree había nombrado a Eris Kalari, Telaia le había dicho al salir del Larien: *"Espero que sepa lo que el rey le pagará por esto."* Desde entonces se habían cruzado en tres audiencias y en dos pasillos. Telaia inclinó la cabeza medio grado al ver entrar a Eris. Era reconocimiento, pero sin calor.
 
 **Aluren** en el quinto sitio. General del ejército regular de Coria — no Eldara, uniforme impecable, mentón fuerte, pocas palabras. Había coordinado tres operaciones mixtas con Eris en diez años. La consideraba, aunque nunca lo dijera en sala, la mejor táctica viva del imperio. Al entrar Eris, Aluren le dio el asentimiento breve que reservaba a los colegas que respetaba.
 
-Tres sitios vacíos. Muoro estaba en Lorin con el preso del mes pasado, que seguía hablando poco. Lirae estaba en Norel, midiendo — Lirae no asistía casi nunca, y cuando lo hacía era por materia mística, no política. El octavo sitio también quedaba vacío. Eris no preguntaba por el octavo sitio. La Mano que lo ocupaba estaba habitualmente fuera del imperio por razones que nadie había detallado en diez años.
+Dos sitios vacíos. **Muoro** estaba en Lorin con el preso del mes pasado, que seguía hablando poco. **Lirae** estaba en Norel, midiendo — Lirae no asistía casi nunca, y cuando lo hacía era por materia mística, no política.
 
 Eris ocupó el sexto sitio. Los demás no la saludaron con palabras; saludarse en la grada era indecoroso. El reconocimiento iba con la mirada.
 

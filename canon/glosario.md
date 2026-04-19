@@ -67,6 +67,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Ilare, Kalaree** — fórmula ceremonial Nagani.
 - **Ilir** — "de / posesión" en Nagani.
 - **Indra** — capital de Kelios, Valagost.
+- **Iren Numari** — hermano pequeño del rey Faree, gobernador de Zenit. Mano de Coria. ~900 años. Ver `canon/personajes/manos-de-coria.md`.
 - **Invasión Oscura** / **Horda Oscura** — conflicto histórico contra los Uxos de la luna negra.
 - **Irithin** — bosque/Silmarita del Bosque (Deengar).
 - **Itsu** — desierto de origen de Eris. Ver `canon/lugares/itsu.md`.
@@ -78,6 +79,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Kiral Ree** — palacio real de Helisil. Bajo él, el tritón.
 - **Klivian** — región de los Moruntyr.
 - **Koan** — Silmarita de la Piedra (Geoda).
+- **Kaelen Numari** — hermano mediano del rey Faree. Rey de Neidimia, reino vecino independiente.
 - **Kovax (Liga)** — federación multirracial (Amaroth, Anfiros, Eco, Loroa, Federación).
 - **Loroa** — ciudad de la Liga Kovax, nodo de Arteria. Su canal interior desemboca en el **lago blanco**: agua lechosa por un disolvente que sueltan las raíces de los árboles cercanos. Aire cálido, luz difusa sobre la superficie. Punto intermedio habitual entre la Arteria Thuay–Kovax y la Arteria de Jomla (Kovax↔Coria).
 - **Kretus** — lobos criatura; también élite multirracial de Amaroth.
@@ -112,7 +114,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Nat'nei** — Yll heredera de Deengar (lore — probablemente no protagoniza la novela de Eris).
 - **Nel** — negación en Nagani.
 - **Nexalita** — implante en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
-- **Neidimia** — región aliada/satélite de Coria.
+- **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Kaelen Numari**, hermano mediano del rey Faree.
 - **Ni, Na, Nar, Nina, Nana, Narna** — pronombres Nagani.
 - **Norel** — torre-biblioteca en Helisil.
 - **Numari** — dinastía real de Coria. Faree es Numari.
@@ -161,6 +163,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 ## T
 
 - **Tyr** — enredadera azul alucinógena (Klivian, Moruntyr).
+- **Tyrus** — Silmarita de la Sangre. Herido gravemente en la batalla final de la Invasión Oscura; yace **en coma en el salón del trono del Imperio Nurn** desde entonces. Otros gestionan el imperio mientras el Silmarita duerme — el declive burocrático de Nurn es consecuencia. Su juramentado: Theim. Marca de su culto: espiral doble roja en el cuello. Ver `canon/sistemas/silmaritas.md`.
 - **Ti-** — prefijo futuro en Nagani.
 - **Targo** — antiguo nombre de Valdara.
 - **Táos** — capital submarina Valagost (La Grieta).
@@ -201,6 +204,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 ## Z
 
 - **Zear** — Silmarita de la Muerte, lugar extasiado.
+- **Zenit** — ciudad-provincia mayor del centro-sur de Coria. Gobernada desde hace cien años por **Iren Numari**, hermano pequeño del rey Faree.
 - **Zoocantes** — leviatanes gigantes, monturas/hogares de los Úrenor.
 - **Zona extasiada** — lugar anómalo donde se concentra poder (Sauce Llorón, Ciénaga de la Sangre, etc.).
 

@@ -156,7 +156,7 @@ En el corredor largo del ala sur, antes del jardín, cruzó con tres figuras.
 
 Dos cortesanas Naggar jóvenes, con túnicas claras, riéndose por lo bajo bajo los frescos del techo. Una le sostuvo la mirada dos segundos y se volvió a reír. La pintura seca del casco lo explicaba todo.
 
-En un recodo, otra de las Manos de Coria — Eldara vieja, pelo gris atado muy tirante, tatuajes grises en los antebrazos — iba hacia el Larien. Se cruzaron un instante. Un dedo levantado. Uno devuelto. Una Mano reconociendo a otra. Habría tiempo para algo más largo otra tarde.
+En un recodo, otra de las Manos de Coria — Naggar mayor, pelo gris atado muy tirante, túnica gris plateada de viaje — iba hacia el Larien. Se cruzaron un instante. Un dedo levantado. Uno devuelto. Una Mano reconociendo a otra. Habría tiempo para algo más largo otra tarde.
 
 Y al final del corredor, en la bajada del ala oeste, vio pasar a Theim.
 

@@ -16,7 +16,8 @@
 
 - **Imperio Nurn**: una de las grandes potencias del continente, ahora en declive.
 - Relación con Coria: civilización rival/paralela, respetada pero vista como "humana" frente a la supremacía Naggar.
-- Bajo presión desde varios frentes (Silmarita de la Sangre, movimientos internos).
+- **Causa profunda del declive**: **Tyrus — el Silmarita de la Sangre — yace en coma en el salón del trono del imperio desde la batalla final de la Invasión Oscura**. La regencia la ejercen ministros y nobles humanos; ninguno tiene el peso del Silmarita ausente. El imperio se administra; ya no se gobierna.
+- Bajo presión desde varios frentes: la regencia fatigada, el propio culto de Tyrus con una rama disidente, movimientos internos, Coria al acecho diplomático.
 
 ## Lugares y figuras
 

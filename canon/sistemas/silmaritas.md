@@ -27,7 +27,7 @@
 
 | Silmarita | Ámbito | Ubicación | Relevancia narrativa |
 |---|---|---|---|
-| **Silmarita de la Sangre** (Urius/Huma/disperso) | Sangre, violencia ritual | Nurn, Tulgur | **Theim es su juramentado**. Identidad del ejecutor. |
+| **Tyrus — Silmarita de la Sangre** (en coma en Nurn desde la Invasión Oscura) | Sangre, violencia ritual | **Salón del trono del Imperio Nurn** (cuerpo) + culto disperso en Nurn, Tulgur | **Theim es su juramentado**. Identidad del ejecutor. El culto se marca con una **espiral doble roja** en el cuello. Tyrus fue **herido de gravedad en la batalla final de la Invasión Oscura**; desde entonces yace en éxtasis — coma — en el salón del trono de Nurn, y **la regencia del imperio la ejercen otros** (de ahí el declive burocrático: nadie tiene el peso del Silmarita en el asiento). Su culto tiene una **rama disidente** que ataca a Coria y a Faree (atentado de Nurn, Cap 8). |
 | **Silmarita de la Piedra** (Koan) | Tierra, piedra | Geoda | Aliado militar de Coria. Hijo: Krod. |
 | **Silmarita Sesset** | Ssilvaris | Siphias | Unifica tribus para invasión masiva. Amenaza geopolítica. |
 | **Silmarita del Hielo** (Lurk) | Hielo | Aret | Moviliza ejército. Crisis continental. |
@@ -40,7 +40,7 @@
 ## Inhumanos juramentados
 
 - **Guerreros inmortales** ligados a Silmaritas mediante **pacto de sangre**.
-- **Theim** es el paradigma — juramentado del Silmarita de la Sangre.
+- **Theim** es el paradigma — juramentado del Silmarita de la Sangre (Tyrus).
 - Otros mencionados: **Girastar** ("sin lengua", guardaespaldas del rey de Fireon).
 - No envejecen o lo hacen muy lentamente.
 - Pueden perder el pacto (consecuencias no definidas).
