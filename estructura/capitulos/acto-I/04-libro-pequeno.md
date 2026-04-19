@@ -388,15 +388,13 @@ Eris dejó la copa en el brazo del sofá.
 
 —Tendría que conocerme. Saber cómo vibro.
 
-—Esa parte no la tengo.
+—No necesariamente...
 
 Se quedaron un momento sin hablar. Lirae se frotó el antebrazo izquierdo, distraída, como si la red azul le escociera sin escocer.
 
 —Puede que no hiciera falta —siguió—. Una frecuencia no es una contraseña. Es una forma de vibrar. Se lee desde fuera si la persona está cerca y llevas tiempo mirándola. Un minuto. Dos.
 
 —Me miró un minuto.
-
-—Te miró un minuto.
 
 Silencio.
 
@@ -410,13 +408,13 @@ Eris asintió despacio.
 
 —¿Y si sólo quería provocarme.
 
-—Podría.
+—Podría ser.
 
 —¿Lo crees.
 
 Lirae tardó en contestar. Dio un sorbo, dejó la copa. Miró la mesa.
 
-—No. Prefiero pensar que oía lo mismo que tú antes de pensar que se pasó la noche buscando exactamente la palabra para cazarte. Ninguna es probable. Pero una es la primera que miraría.
+—No. Prefiero creer que oía lo mismo que tú. Creer lo otro — que una desconocida pasara la noche buscando exactamente esa palabra para cazarte — pide demasiada intención. Ninguna de las dos es probable. Pero la simple se mira primero.
 
 —Disciplina Mirisar.
 
