@@ -1,6 +1,16 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-04-19. En curso: revisión de caps 2–4 con Marcos antes de escribir Acto II. **Acto I cerrado como bloque: prólogo validado + caps 2, 3 y 4 revisados en profundidad**. Pendiente: relectura final de Marcos.
+**Última sesión**: 2026-04-19. **Acto II completo en borrador (6 caps)**. Pendiente relectura de Marcos. Acto I cerrado (prólogo validado + caps 2-4 revisados).
+
+**Acto II escrito en esta sesión**:
+- Cap 5: Audiencia del Larien (Faree en esplendor, cinco peticiones, anuncio del viaje a Nurn).
+- Cap 6: Nurn día (llegada + coliseo + Maelor + afrenta Theim-Maelor en el vestuario de gladiadores).
+- Cap 7: Cena con Elerian (maestro humano sin magia, plato de Itsu con flashback del asedio del séptimo año, intimidad adulta sin vínculo emocional, vuelta por los tejados al alba).
+- Cap 8: Atentado en la calle de los tintoreros (Lyris apaga la calle, Theim dispatcha a seis atacantes marcados con la espiral roja del Silmarita de la Sangre disidente).
+- Cap 9: Misión 135 — Iretha (grieta operativa, Eris vacila medio segundo al ver un chico que le recuerda a su hermano, muere Sirel, ceremonia en Lorin).
+- Cap 10: Pesadillas (el tum tum se hace Helisil, las mediciones del péndulo explotan, Lirae: "Entonces está aquí debajo", Eris pide tres días de permiso con mentira para empezar a investigar bajo palacio).
+
+Cierre Acto II: **Eris ya no cree en Coria. Sigue sirviendo. Empieza a mirar abajo**.
 
 **Estructura de capítulos reorganizada esta sesión**: `estructura/capitulos/` ahora agrupa los capítulos por acto en subcarpetas `acto-I/`, `acto-II/`, `acto-III/`, `acto-IV/`, `acto-V/`. Los 4 capítulos escritos del Acto I están en `acto-I/`.
 
