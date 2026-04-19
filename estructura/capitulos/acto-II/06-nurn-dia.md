@@ -234,7 +234,7 @@ Abajo, en el patio, alguien había encendido una primera vela — ya era más de
 
 —Bien.
 
-Eris se dejó caer en la cama sin quitarse la armadura ceremonial. El techo del cuarto era bajo, de madera. Tenía una viga con un nudo que parecía un ojo cerrado.
+Eris se dejó caer en la cama sin quitarse la armadura. El techo del cuarto era bajo, de madera. Tenía una viga con un nudo que parecía un ojo cerrado.
 
 Lo miró un rato.
 

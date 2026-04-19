@@ -206,7 +206,7 @@ Eris casi sonrió. Casi. Le apretó el hombro un segundo.
 
 —Sí, Kalari.
 
-Eris salió del cuartel sola, por la puerta este, otra vez. La armadura ceremonial le pesaba en los hombros como si fuera tres veces más pesada que al salir de Helisil. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Helisil, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
+Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesaba en los hombros como si fuera tres veces más pesada que al salir de Helisil. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Helisil, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
 
 En algún sitio de adentro, lejos, muy bajo, Eris oyó el *tum*.
 

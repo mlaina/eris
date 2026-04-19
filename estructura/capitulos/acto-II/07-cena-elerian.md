@@ -310,7 +310,7 @@ Se acercó ella primero.
 
 ---
 
-Fue largo sin ser lento. No hablaron mucho. Las correas de la armadura ceremonial eran cinco y Elerian conoció los cinco broches sin tener que buscarlos. Era la primera vez en mucho tiempo que alguien le quitaba la armadura a Eris y eso le ocupó un momento más de lo que esperaba. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
+Fue largo sin ser lento. No hablaron mucho. Las correas de la armadura Eldara eran cinco y Elerian conoció los cinco broches sin tener que buscarlos. Era la primera vez en mucho tiempo que alguien le quitaba la armadura a Eris y eso le ocupó un momento más de lo que esperaba. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
 
 La cama era baja, dura. La luz, baja también. Las dos velas al fondo se consumieron un cuarto.
 
@@ -348,7 +348,7 @@ No durmió. Pero descansó. Que era otra cosa.
 
 Se levantó antes del alba. Eran las cuatro de la mañana en el reloj del péndulo de madera que había encima de la estantería. El cielo por la ventana seguía negro pero con un azul muy bajo debajo que anunciaba el cambio.
 
-Se vistió sola. La armadura ceremonial era complicada, pero Elerian la había dejado ordenada sobre la silla como se deja la ropa de un invitado de respeto. Eris se la ajustó en siete u ocho movimientos aprendidos. Al final, el yelmo. Se lo puso debajo del brazo.
+Se vistió sola. La armadura Eldara era complicada, pero Elerian la había dejado ordenada sobre la silla como se deja la ropa de un invitado de respeto. Eris se la ajustó en siete u ocho movimientos aprendidos. Al final, el yelmo. Se lo puso debajo del brazo.
 
 Elerian dormía todavía. Era un sueño profundo, tranquilo — el sueño de un hombre que ha hecho bien su trabajo del día. Eris lo miró un segundo. Sin sentimentalismo. Sin afecto excesivo. Con una especie de respeto técnico que era todo lo que la escena admitía.
 
@@ -360,7 +360,7 @@ Salió sin hacer ruido. La puerta, en vez de cerrarse con golpe, se cerró por p
 
 La calle de los tintoreros estaba vacía. Olía a tinte seco y a humedad. Eris subió dos tejados con las manos y los pies — el entrenamiento de Lorin — y cruzó por las techumbres hasta la colina del norte. Entró en la casa de huéspedes por la ventana del patio, bajó a su habitación, y se acostó en la cama vestida.
 
-La armadura ceremonial era incómoda para dormir. No importaba. No tenía intención.
+La armadura era incómoda para dormir. No importaba. No tenía intención.
 
 Haris dormía en el suelo contra la pared junto a la puerta. No se había movido desde que ella había salido. Cuando Eris entró, él abrió los ojos un instante, la vio, los cerró otra vez. No preguntó. No iba a preguntar. Ese gesto, ese no-preguntar, fue lo único que a Eris le dio ganas de llorar esa noche, y no lloró tampoco.
 
