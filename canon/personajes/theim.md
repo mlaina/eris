@@ -15,9 +15,17 @@
 - Maestría absoluta en combate.
 - **Sabe más de Faree de lo que parece** — posible conocimiento del tritón.
 
+## Apariencia
+
+- Cuerpo alto, musculatura densa.
+- **Túnica blanca sin mangas**, ceñida al torso y al talle — en otro cuerpo parecería vestimenta de templo; en Theim es armadura también.
+- **Brazos al descubierto**: cubiertos de cicatrices finas y gruesas del muñeco al hombro, mezcladas con **tatuajes del juramento** — símbolos en rojo apagado del pacto con Tyrus que ningún foráneo ha conseguido descifrar.
+- **Sin capa**.
+- Rostro marcado por una severa violencia contenida. Ojos intensos — cuando canaliza algo dentro, los iris le destellan con un **rojo leve**.
+
 ## Arma
 
-- **Hoz de hueso** — arma ceremonial/ritual, no solo funcional. Asociada al Silmarita de la Sangre.
+- **Gran espada curva / hoz de hueso**. Hoja larga y encorvada, lo suficiente como para que muchos la llamen *gran hoz*. Mango extenso —permite reposar las dos manos sobre él— tallado en el hueso de una criatura desconocida, cubierto de marcas y vendas de combates viejos. Arma ceremonial/ritual además de funcional. Asociada al Silmarita de la Sangre (Tyrus). En tránsito la lleva colgada de la cadera derecha o cruzada al torso; en audiencia formal la apoya en el suelo como bastón delante de sí, las dos manos sobre el mango.
 
 ## Función narrativa
 

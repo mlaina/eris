@@ -160,7 +160,7 @@ En un recodo, otra de las Manos de Coria — Naggar mayor, pelo gris atado muy t
 
 Y al final del corredor, en la bajada del ala oeste, vio pasar a Theim.
 
-Theim no la miró. Pasaba a los Eldara por los corredores como quien pasa una pared: sin verla. Cuerpo alto, túnica sin color, la **hoz de hueso** colgada de una correa en la cadera derecha. Eris lo vio de reojo como se ve pasar un caballo grande por un callejón estrecho: lo reconoces, te apartas medio pie, no saludas. Theim tampoco saludaba. Iba donde fuera que Theim iba. No era amigo de los Eldara. No lo era de nadie. Era el guarda espaldas del rey, su campeón.
+Theim no la miró. Pasaba a los Eldara por los corredores como quien pasa una pared: sin verla. Cuerpo alto, túnica blanca sin mangas, los brazos al descubierto con cicatrices viejas y tatuajes rojos del juramento, la **hoz de hueso** colgada de una correa en la cadera derecha. Eris lo vio de reojo como se ve pasar un caballo grande por un callejón estrecho: lo reconoces, te apartas medio pie, no saludas. Theim tampoco saludaba. Iba donde fuera que Theim iba. No era amigo de los Eldara. No lo era de nadie. Era el guarda espaldas del rey, su campeón.
 
 Eris siguió.
 
