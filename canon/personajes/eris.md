@@ -11,15 +11,33 @@
 - **Rango actual**: comandante Eldara (élite militar de Coria). Tratamiento Nagani: **Kalari**. Ver `canon/nagani.md`.
 - **Lealtad inicial**: absoluta al Rey Faree Numari y al orden Naggar.
 
-## Historia previa
+## Historia previa — familia de Itsu
 
-- **Luchó en la Invasión Oscura** (hace ~100 años) siendo casi recién formada — ese combate forjó su reputación y aceleró su ingreso en los Eldara.
-- Tras la Invasión, **más de 100 años** de servicio activo: campañas, misiones, ascenso hasta comandante.
-- Paradoja que la define: **demasiado joven** para el peso que carga. Ha visto más combate que muchos Naggar de siglos.
-- Ha servido a reyes de Coria.
-- Vencido hordas, salvado ciudades.
-- Arrastra un **pasado traumático familiar y bélico** en Itsu (definir concreción durante escritura).
-- Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — Theim se las corta en el final para destruir simbólicamente su pertenencia.
+**Madre** murió cuando Eris era muy joven.
+
+**Padre**: **GoEtsu**, el "Señor del Desierto" — jefe de la ciudad de Itsu. Político hábil: **rebajó la violencia** en la región por negociación, llegó a **acuerdos con el Conde Gabara** (noble Naggar con gran influencia en Itsu). Reinado largo por contención, no por guerra.
+
+**Hermanos** — tres mayores que Eris:
+- Dos **gemelos** mayores, que dirigían la ciudad junto al padre.
+- Un **tercer hermano** (no gemelo), el más cercano a Eris.
+
+**El evento traumático**:
+1. Uno de los gemelos, inconforme con la vía conciliadora de GoEtsu, **se rebela** con miembros de la banda local.
+2. En el caos de la rebelión **muere GoEtsu** (caído por su propio hijo rebelde).
+3. El otro gemelo, al enterarse, **lucha contra su gemelo y lo mata** (fratricidio por venganza).
+4. La familia queda destruida en una sola noche: padre muerto, un hermano asesinado por el otro, la ciudad sin cabeza.
+5. El **tercer hermano saca a Eris de la ciudad** esa misma noche. La educa él durante unos años en el desierto.
+
+**Infancia: hambruna y pan de harina negra**. Antes de todo eso, asedio / hambruna largas en Itsu. La madre racionaba pan de harina negra con los tres hermanos pequeños. Eris recuerda la mano de su madre partiendo el pan en cuatro trozos desiguales, el más grande para quien ese día más hubiera caminado. Olor del pan y sabor de él: los dos trabajando como anclas sensoriales que la persiguen.
+
+**Invasión Oscura** (hace ~100 años): ella y el tercer hermano se alistan con la resistencia de Coria. Luchan juntos. **El tercer hermano muere en el campo de batalla**. Ella sobrevive y protagoniza proezas.
+
+**Post-Invasión**:
+- **Faree la invita personalmente** a formar parte de su escuadrón de élite Eldara.
+- Años de misiones y logros — asciende hasta comandante (**Kalari**).
+- Más adelante es aceptada en **Las Manos de Coria**: organización pequeña y selecta de Naggar muy poderosos que preservan los intereses profundos del imperio.
+
+Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — Theim se las corta en el final para destruir simbólicamente su pertenencia.
 
 ## Rasgos
 

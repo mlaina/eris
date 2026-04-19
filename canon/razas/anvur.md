@@ -18,6 +18,7 @@
 ## Presencia en Coria
 
 - Al menos **un Anvur guarda el trono** en Helisil (mención del brief).
+- **Kroma**: Anvur guardaespaldas personal de Faree. Cuatro brazos, dos armas a la vez, silencio absoluto. No mercenario — juramentado. Su presencia vale por diez. Acompaña al rey en viajes (Nurn, Acto II). Canónicamente: el escudo humano de Faree.
 - Pueden servir como guardias reales de élite, mercenarios de alto nivel.
 - Su presencia en Coria implica tolerancia específica (excepción al supremacismo Naggar) — o contrato explícito.
 
