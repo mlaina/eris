@@ -97,6 +97,29 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 - Las misiones son **una tipología** de capítulo dentro del arco mayor de 5 actos.
 - Cada misión debe **avanzar la trama o el arco emocional** de Eris, no ser relleno de aventura.
 
+## Sobre las referencias temporales en años
+
+- ❌ **No abusar de "hace X años", "X años más tarde", "llevaba X años sin..."**.
+- El recurso es útil puntualmente — fija edad, longevidad Naggar, peso histórico — pero los borradores lo **saturaron**. Cuando aparece en cada escena, deja de pesar y empieza a sonar a tic.
+- Antes de poner una cifra en años, **preguntarse si la frase funciona sin ella**. Casi siempre funciona.
+- **Alternativas a usar**:
+  - **Sensorial / corporal**: *"le pesaban los hombros como cuando volvía de Targo"* en vez de *"hacía noventa años desde Targo"*.
+  - **Acción concreta**: *"lo había hecho antes"* en vez de *"lo había hecho once veces"*.
+  - **Comparación implícita**: *"como hace mucho", "desde que era cadete", "antes de la Invasión"* en lugar de cifra exacta.
+  - **Elipsis**: dejar la duración implícita por contexto y por la edad del personaje.
+- **Reservar la cifra para cuando cargue peso narrativo**:
+  - Edad de Eris (100+, joven Naggar) — primera mención por capítulo.
+  - Siglos de Faree, Muoro, Lyris — sólo cuando contrasten con algo concreto.
+  - Hitos personales con valor dramático: la muerte del hermano de Eris hace noventa y cuatro años cuando el chico de Iretha la hace dudar.
+- **Regla práctica**: **máximo dos métricas en años por capítulo**. Si necesitas una tercera, busca una alternativa de las de arriba.
+- **No revisar lo ya escrito** por esta regla — aplicar en escritura nueva y en la pasada de revisión global futura.
+
+**Mal** (saturado):
+> Llevaba cien años hablando. Ravys había caído de seis metros. Su hermano había muerto hacía noventa y cuatro años. Eris no había sido mirada así en un siglo. La última persona que la había leído así había sido el viejo maestro de Lorin, hacía noventa años.
+
+**Bien** (una métrica con peso, el resto implícito):
+> Su hermano había muerto hacía noventa y cuatro años. Eris no había sido mirada así desde antes de Targo. La última persona que la había leído así había sido el viejo maestro de Lorin, cuando ella era cadete.
+
 ---
 
 ## Checklist rápida antes de escribir una escena

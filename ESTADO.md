@@ -237,6 +237,12 @@ Opcionales/no bloqueantes:
 **Duelo mirisar gravitatorio** (regla establecida):
 - **Un dedo = un foco.** Cada dedo levantado marca un punto donde mete peso. Con dos dedos, dos focos simultáneos. Máximo diez. Pero cuanto más sujeta, menos ve.
 
+**Referencias temporales en años** (regla nueva, sesión 2026-04-22):
+- **No abusar de "hace X años", "X años más tarde", "llevaba X años sin..."**. Recurso útil puntual, pero los borradores lo saturaron.
+- Máximo **dos métricas en años por capítulo**. Preferir alternativas sensoriales/corporales, comparaciones implícitas o elipsis.
+- No revisar capítulos ya escritos por esto — aplicar en escritura nueva y en pasada global futura.
+- Detalle, ejemplos y alternativas en `estilo/restricciones.md`.
+
 **Personajes canónicos fijados**:
 - Eris: 100+ años, joven Naggar, luchó en Invasión Oscura (hace ~100 años), nacida en Itsu, tatuajes grises en manos.
 - Muoro: segundo al mando, 400+ años, calvo (inusual Naggar), ojos negros, mandíbula afilada.

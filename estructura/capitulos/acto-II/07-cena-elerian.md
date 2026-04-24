@@ -4,7 +4,7 @@ Eris salió de la casa de huéspedes a medianoche, sola, por la ventana del pati
 
 No le pesaba escaparse — pesaban el día, el coliseo, la sombra de Theim todavía colgándole en la nuca, el *tum tum* que había empezado a murmurarle debajo del esternón desde el portón del sur del coliseo. Necesitaba aire. Necesitaba no ver a Faree ni a Kroma ni a Theim un rato. Necesitaba Nerath sola.
 
-Salir era fácil. Lorin la había entrenado para cruzar dos tejados sin hacer ruido a los quince años; veinte años más tarde cruzaba seis. Dejó el yelmo en su habitación. Se echó por encima de la armadura la capa oscura sin insignia que llevaban los Eldara en infiltración — bajo la capa la armadura quedaba invisible al que no supiera mirar de cerca. Haris dormía en el suelo junto a la puerta. No se despertó al paso. Lo agradecería más tarde, por dentro.
+Salir era fácil. Lorin la había entrenado para cruzar dos tejados sin hacer ruido a los quince años; ochenta años más tarde cruzaba seis. Dejó el yelmo en su habitación. Se echó por encima de la armadura la capa oscura sin insignia que llevaban los Eldara en infiltración — bajo la capa la armadura quedaba invisible al que no supiera mirar de cerca. Haris dormía en el suelo junto a la puerta. No se despertó al paso. Lo agradecería más tarde, por dentro.
 
 Del patio al tejado vecino, del tejado vecino a la calle trasera — tres minutos. Cuando Eris pisó Nerath a ras de suelo, la casa de huéspedes ya estaba a dos manzanas detrás.
 
@@ -56,7 +56,7 @@ Le señaló la mesa del fondo, la pegada a la pared. Eris se sentó. Dejó la ca
 
 No preguntó si era Eldara. No preguntó si era Naggar. No preguntó si estaba de paso. No preguntó si era comandante. Entró en la cocina.
 
-Eris se quedó en la mesa con las manos sobre la madera. La madera estaba tibia, por el uso. La armadura le pesaba en los hombros con el peso exacto que le pesaba cada noche desde Valdara. La cabeza, por primera vez en horas, no tenía *tum*.
+Eris se quedó en la mesa con las manos sobre la madera. La madera estaba tibia, por el uso. La armadura le pesaba en los hombros con el peso exacto que le pesaba cada noche desde Valdara. La cabeza, por primera vez en horas, no tenía *tum tum*.
 
 Era raro.
 
@@ -218,7 +218,7 @@ Dejó pasar el amargor entero antes de levantar los ojos.
 
 Lo que siguió no fue complicado.
 
-Elerian cerró la puerta de la calle y echó el cerrojo. Apagó una de las dos velas. Recogió la bandeja, dejó el pan — lo que quedaba del pan — en la mesa por si acaso. Le ofreció a Eris la mano con la misma precisión con la que había ajustado la flor un cuarto de giro.
+Elerian cerró la puerta de la calle y echó el cerrojo. Apagó una de las dos velas. Recogió la bandeja, dejó el pan — lo que quedaba del pan — en la mesa por si acaso. Le ofreció a Eris la mano con el mismo cálculo con que había ajustado la flor un cuarto de giro.
 
 Eris no pensó en razones.
 
@@ -244,7 +244,7 @@ Sirvió una copa, se la dio. Eris bebió un sorbo. Era un vino ligero, el mismo 
 
 Eris rió muy poco. Un escape corto por la nariz. La primera risa entera en dos días.
 
-Elerian cogió la copa de Eris sin pedirla, la dejó en la mesa, con cuidado de que no se volcara. Le puso dos dedos bajo el mentón — uno en cada lado — y le levantó apenas la cara. No con fuerza. Con la misma precisión con la que había ajustado la flor.
+Elerian cogió la copa de Eris sin pedirla, la dejó en la mesa, con cuidado de que no se volcara. Le puso dos dedos bajo el mentón — uno en cada lado — y le levantó apenas la cara. No con fuerza. Con el mismo gesto medido.
 
 Eris le dejó hacerlo.
 
