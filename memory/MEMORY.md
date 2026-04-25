@@ -1,0 +1,3 @@
+- [No detalles operativos de barrio en alto rango](feedback_rango_detalles.md) — reyes/Kirala miran de arriba; el detalle concreto lo trae quien lo vivió.
+- [No contador de experiencia acumulada de Eris](feedback_no_contador_experiencia.md) — evitar "era la N-ésima vez en X años"; tono Sicario = presente, no balance.
+- [Nexalita es sensorial, no verbal](feedback_nexalita_sensorial.md) — nada de preguntas o frases largas por Nexalita; para conversación, voz.
