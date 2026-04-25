@@ -1,24 +1,38 @@
 # Capítulo 7 — El cocinero
 
-Eris salió de la casa de huéspedes a medianoche, sola, por la ventana del patio.
+Eris salió de la casa de huéspedes a eso de las diez, sola, por la ventana del patio.
 
-No le pesaba escaparse — pesaban el día, el coliseo, la sombra de Theim todavía colgándole en la nuca, el *tum tum* que había empezado a murmurarle debajo del esternón desde el portón del sur del coliseo. Necesitaba aire. Necesitaba no ver a Faree ni a Kroma ni a Theim un rato. Necesitaba Nerath sola.
+No le pesaba escaparse — pesaban el día, el coliseo, la sombra de Theim todavía colgándole en la nuca, el *tum tum* que había empezado a murmurarle debajo del esternón desde el portón del sur del coliseo. Necesitaba aire. Necesitaba no ver a Faree ni a Kroma ni a Theim un rato. Necesitaba estar sola fuera.
 
-Salir era fácil. Lorin la había entrenado para cruzar dos tejados sin hacer ruido a los quince años; ochenta años más tarde cruzaba seis. Dejó el yelmo en su habitación. Se echó por encima de la armadura la capa oscura sin insignia que llevaban los Eldara en infiltración — bajo la capa la armadura quedaba invisible al que no supiera mirar de cerca. Haris dormía en el suelo junto a la puerta. No se despertó al paso. Lo agradecería más tarde, por dentro.
+Se quitó la armadura pieza por pieza. La dejó ordenada sobre la silla del cuarto, el yelmo encima, las dos dagas cruzadas al lado. Vistió la túnica civil oscura que llevaba siempre en el fondo de la mochila de viaje — sencilla, de corte Naggar común, sin insignia —, una capa encima, una sola daga corta bajo el cinturón por costumbre. Nada de lo que llevaba decía Kalari. Nada decía Coria.
+
+Haris dormía en el suelo junto a la puerta. No se despertó al paso. O sí se despertó y decidió no abrir los ojos; Eris no habría sabido decir cuál de las dos cosas, y Haris no se lo iba a aclarar. Lo agradecería más tarde, por dentro.
 
 Del patio al tejado vecino, del tejado vecino a la calle trasera — tres minutos. Cuando Eris pisó Nerath a ras de suelo, la casa de huéspedes ya estaba a dos manzanas detrás.
 
 ---
 
-La calle a medianoche era otra calle. Menos gente, luces amarillas de lámparas de aceite colgadas cada diez pasos, pasos solitarios de vez en cuando. Olía a pan del día que se enfriaba. A vino derramado en adoquines. A pescado de última hora que nadie había terminado de vender.
+La calle a esa hora era otra calle.
 
-Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. No sabía qué buscaba. Sabía que lo reconocería al encontrarlo.
+Nerath a las diez de la noche era Nerath celebrando. No una fiesta organizada — celebrando por oficio, celebrando porque era viernes o porque no lo era, celebrando porque había terminado la jornada y el vino estaba abierto. Las avenidas principales tenían más gente que por la tarde. En cada tercera esquina, un grupo de músicos — un humano con un tambor, una mujer Valagost con una flauta de hueso, dos niños mestizos con cascabeles en los tobillos — tocaba algo bailable. Había gente bailando en mitad de la calle sin que a nadie le sorprendiera. Dos mujeres viejas cantaban una canción de barco a la puerta de una taberna. Un chico tiraba dados contra una pared. Tres hombres borrachos discutían sobre el pescado del día sin llegar a pelearse.
 
-Dos calles más abajo, en un callejón interior del barrio de los tintoreros, se detuvo.
+Olía a todo a la vez. A fritura de aceite caliente, a vino de segunda, a cuerpo de gente que había trabajado y que ahora descansaba con el calor del día metido en la ropa, a especia fermentando en los puestos que seguían abiertos, a humo de leña de las cocinas.
 
-Había una puerta de madera oscura entornada, con la madera gastada por los dedos de quienes la habían abierto mucho. Sin letrero. Sin reclamo. Dentro, una luz baja y un olor — uno que Eris no había sentido en semanas, o nunca del todo — salía por la rendija. Un olor a caldo lento, a pan que había estado cociendo desde media tarde, a algo más abajo que Eris no supo nombrar de inmediato.
+Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. Nadie la miró dos veces. Una mujer Naggar de túnica oscura a las diez de la noche en Nerath era una mujer Naggar de túnica oscura. Eris agradeció, sin ponerle palabra, esa indiferencia.
 
-Se detuvo un segundo. Por oficio, por costumbre, por no saber por qué.
+Dos calles más abajo, en un callejón interior del barrio de los tintoreros — más silencioso que la avenida, menos fiesta y más oficios cerrando puertas —, un olor distinto la detuvo.
+
+No era el olor de fritura. No era el olor de vino. Era un olor más abajo: caldo lento que había estado en el fuego desde media tarde, pan con corteza gruesa, algo más que Eris no supo nombrar en seguida pero que le subió desde la nariz al esternón en dos segundos y se le instaló dentro.
+
+Eris no tenía hambre al salir de la casa de huéspedes.
+
+La tuvo ahora.
+
+Siguió el olor hasta la puerta de donde salía.
+
+Había una puerta de madera oscura entornada, con la madera gastada por los dedos de quienes la habían abierto mucho. Sin letrero. Sin reclamo. Dentro, una luz baja. Fuera, sólo el olor y la rendija.
+
+Se detuvo un segundo. Por oficio. Por curiosidad. Por hambre.
 
 Empujó.
 
@@ -44,7 +58,7 @@ El hombre asintió.
 
 —Ahí.
 
-Le señaló la mesa del fondo, la pegada a la pared. Eris se sentó. Dejó la capa al respaldo. La armadura negra quedó a la vista, reflejando muy levemente la luz de las dos velas bajas que iluminaban la sala. El cliente del cuenco no levantó la vista. Elerian tampoco se detuvo a mirarla dos veces.
+Le señaló la mesa del fondo, la pegada a la pared. Eris se sentó. Dejó la capa al respaldo. La túnica oscura quedó a la vista, sencilla, sin ornamento, alumbrada muy levemente por las dos velas bajas que iluminaban la sala. El cliente del cuenco no levantó la vista. El hombre tampoco se detuvo a mirarla dos veces.
 
 —Hoy sólo cocino un menú. No pregunto preferencias.
 
@@ -56,7 +70,7 @@ Le señaló la mesa del fondo, la pegada a la pared. Eris se sentó. Dejó la ca
 
 No preguntó si era Eldara. No preguntó si era Naggar. No preguntó si estaba de paso. No preguntó si era comandante. Entró en la cocina.
 
-Eris se quedó en la mesa con las manos sobre la madera. La madera estaba tibia, por el uso. La armadura le pesaba en los hombros con el peso exacto que le pesaba cada noche desde Valdara. La cabeza, por primera vez en horas, no tenía *tum tum*.
+Eris se quedó en la mesa con las manos sobre la madera. La madera estaba tibia, por el uso. Los hombros, sin armadura encima se le hacían ligeros y descansados. La cabeza, por primera vez en horas, no tenía *tum tum*.
 
 Era raro.
 
@@ -74,9 +88,9 @@ El segundo plato vino en una taza pequeña. Caldo tibio, verde oscuro, una rodaj
 
 Eris la cogió.
 
-—¿Zurda o diestra? — preguntó Elerian, muy bajo, sin detenerse.
+—¿Diestra? — preguntó Elerian, muy bajo, sin detenerse.
 
-—Diestra.
+—Hum, sí.
 
 —Me lo parecía.
 
@@ -100,9 +114,7 @@ Eris se dio cuenta.
 
 El cliente del cuenco pagó, salió. No había nadie más en la sala que ellos dos.
 
-Eris podría haber parado el juego. No lo paró. La lectura no era invasiva — era atenta. Y hacía mucho que nadie la leía así. La última persona que la había leído con esa clase de precisión había sido el viejo maestro de Lorin, con el arco, hacía noventa años.
-
-Elerian no tenía arco.
+Eris podría haber parado el juego. No lo paró. La lectura no era invasiva — era atenta. Y hacía mucho que nadie la leía así.
 
 Elerian entró otra vez en la cocina y volvió con la cuarta bandeja.
 
@@ -258,7 +270,7 @@ Se acercó ella primero.
 
 ---
 
-Fue largo sin ser lento. No hablaron mucho. Las correas de la armadura Eldara eran cinco y Elerian conoció los cinco broches sin tener que buscarlos — como si la armadura también hubiera sido un plato que ajustar, y él lo hubiera ajustado ya mentalmente antes de tocarla. Era la primera vez en mucho tiempo que alguien le quitaba la armadura a Eris y eso le ocupó un momento más de lo que esperaba. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
+Fue largo sin ser lento. No hablaron mucho. La túnica oscura se abrochaba en el hombro con un único cierre, y bajaba con un solo gesto; Elerian lo hizo con la misma precisión con la que había ajustado la flor — como si la tela también hubiera sido un plato, y él lo hubiera ajustado ya mentalmente antes de tocarlo. Era la primera vez en mucho tiempo que alguien le quitaba la ropa a Eris sin que hubiera sido ella la que había acabado de desarmarse antes. Eso le ocupó un momento más de lo que esperaba. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
 
 La cama era baja, dura. La luz, baja también. Las dos velas al fondo se consumieron un cuarto.
 
@@ -296,7 +308,7 @@ No durmió. Pero descansó. Que era otra cosa.
 
 Se levantó antes del alba. Eran las cuatro y media de la mañana en el pequeño reloj de madera que había sobre la estantería. El cielo por la ventana seguía negro pero con un azul muy bajo debajo que anunciaba el cambio.
 
-Se vistió sola. La armadura Eldara era complicada, pero Elerian la había dejado ordenada sobre la silla como se deja la ropa de un invitado de respeto. Eris se la ajustó en siete u ocho movimientos aprendidos. Al final, la capa oscura por encima.
+Se vistió sola. Elerian había dejado la túnica y la capa dobladas sobre la silla, como se deja la ropa de un invitado al que se respeta. Eris se vistió en dos movimientos y se echó la capa por encima.
 
 Elerian dormía todavía. Era un sueño profundo, tranquilo — el sueño de un hombre que ha hecho bien su trabajo del día. Eris lo miró un segundo. Sin sentimentalismo. Sin afecto excesivo. Con una especie de respeto técnico que era todo lo que la escena admitía.
 
@@ -312,7 +324,7 @@ Ese gesto, ese no-preguntar, fue lo único que a Eris le dio ganas de llorar esa
 
 No lloró.
 
-Se quitó la capa. Se dejó la armadura puesta. Se acostó en la cama sin haberlo pretendido.
+Se quitó la capa. Se acostó en la cama sin haberlo pretendido. La armadura seguía ordenada sobre la silla del cuarto donde la había dejado horas antes, el yelmo encima, como si hubiera estado esperando a que volviera a ocuparla.
 
 Fuera, en algún tejado de Nerath, un perro ladraba una sola vez cada veinte segundos.
 

@@ -7,9 +7,18 @@
 - **Raza**: humano.
 - **Origen**: incierto (probablemente zona fronteriza del imperio Nurn).
 - **Apodo público**: *el Kretus* — por su ferocidad y su silencio animal en combate.
-- **Rasgo físico**: piel negra, rastas blancas largas atadas hacia atrás, altura por encima de la media humana.
-- **Armadura**: placas segmentadas de metal negro (estilo gladiador), pectoral ceñido, pauldrones, faldón de cuero con tiras de metal. **En el pectoral, el símbolo del lobo grabado al relieve** (siembra su vínculo con el Kretus que lo marcó).
-- **Armamento**: una sola **espada corta**. Sin maza, sin escudo. Todo lo resuelve con una hoja.
+- **Rasgo físico**: piel negra, rastas blancas largas atadas hacia atrás, altura **media humana** (no destaca por estatura; ocupa espacio por la manera de moverse).
+- **Ojos**: grises. Ocasionalmente, en combate o cuando la marca del Kretus se le activa, le destellan **violeta** un instante — el mismo violeta que tienen los Kretus cuando rastrean dentro de la cabeza de la presa.
+- **Rostro**: tranquilo. Violencia implícita en la mirada.
+- **Armadura**: placas segmentadas de metal negro (estilo gladiador), pectoral ceñido, pauldrones, faldón de cuero con tiras de metal. **En el pectoral, el símbolo del lobo grabado al relieve**: registro del Kretus al que mató, no trofeo.
+- **Armamento**: una sola **espada corta**, pero singular — hoja más corta que un antebrazo, gruesa, de metal oscuro con una veta clara corriendo por el lomo. Un arma que ningún herrero conocido sabría forjar; nadie sabe de dónde salió. Sin maza, sin escudo, sin capa. Todo lo resuelve con esa hoja.
+
+## Carácter
+
+- **No guarda respeto a nadie**. Rey de Coria, ejecutor juramentado, apostadores, público: le da igual. Su indiferencia es total, no selectiva.
+- **Tiene moral propia** (elige qué hacer, no mata gratuitamente), pero la tiene interna — no la justifica hacia fuera. Cuando mata de más es por razón privada que nunca explicará.
+- **Silencio absoluto** en el coliseo. Fuera, poca palabra. Mucha mirada.
+- **Ferocidad controlada** — no por civilidad, por economía. Mata rápido cuando toca; mata espectacular cuando algo le ha tocado.
 
 ## Historia
 

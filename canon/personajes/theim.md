@@ -11,9 +11,13 @@
 ## Rasgos
 
 - Imponente, letal, severo.
-- Frío, sin furia — mata **sin odio**, como parte de un procedimiento.
-- Maestría absoluta en combate.
-- **Sabe más de Faree de lo que parece** — posible conocimiento del tritón.
+- **Desprende odio** como emanación del cuerpo — constante, independiente de la ocasión, un olor que no se va con la túnica blanca. El odio está siempre. La diferencia entre sus momentos no es si odia o no, sino si el odio tiene objeto concreto donde posarse.
+- **Inmortal o casi inmortal**, y **aburrido por la inmortalidad**. Ha visto demasiado. Solo lo que requiere maestría lo despierta.
+- **Sádico brutal en la ejecución** — no verbalmente, no psicológicamente en el sentido de discursos: el sadismo está en el combate mismo, en la precisión gozada, en la muerte limpia. Disfruta el trabajo bien hecho en carne ajena.
+- **Perfeccionista del combate hasta el extremo**. Cuatro siglos de ajustarse. No le queda nada humano por aprender como guerrero.
+- Maestría absoluta. Cualquier adversario razonable le aburre al segundo intercambio. Un adversario real — Maelor, a la altura — le despierta una furia distinta: la del que por fin ha encontrado algo, y se le niega.
+- **Sabe más de Faree de lo que parece** — conocimiento del pacto con el tritón confirmado.
+- Cuando mata por ceremonial, la precisión es fría. Cuando algo le importa de veras, el cuerpo se le rompe la compostura (venas, puños, dedos que se abren y cierran, respiración alterada).
 
 ## Apariencia
 
@@ -39,8 +43,11 @@
 
 Encarna el tema del brief: "la maquinaria del poder no se detiene por vínculos humanos". Mata a Eris no por odio sino porque **el sistema así lo dicta**. Esa impersonalidad es el horror.
 
+**Theim como espejo retórico de Faree**: Faree lo tiene cerca en público para que la corte vea el contraste — la brutalidad del poder ejecutada visiblemente por Theim hace destacar, por oposición, la elegancia política del rey. Theim no es solo herramienta: es **escenografía**. La gente perdona al rey sus decisiones sabiendo que detrás hay alguien peor; y el rey sabe que perdonar a un rey refinado es más fácil que perdonar al brazo sin refinar que lo acompaña.
+
 ## Notas de escritura
 
 - Voz parca, frases cortas, registro ceremonial cuando habla.
 - Violencia **rápida, no barroca**. Precisión quirúrgica.
-- No es sádico en el sentido psicológico: es un **instrumento**.
+- **Sadismo en la ejecución, no en el discurso** — no hace monólogos de villano, pero disfruta el combate perfecto como disfrutaría un orfebre su pieza.
+- El aburrimiento de la inmortalidad se le escapa por los ojos — demasiada espera entre una cosa interesante y la siguiente.
