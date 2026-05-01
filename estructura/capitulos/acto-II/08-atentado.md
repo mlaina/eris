@@ -1,170 +1,262 @@
 # Capítulo 8 — La calle de los tintoreros
 
-A las siete de la mañana la comitiva estaba formada en el patio de la casa de huéspedes.
+A las nueve de la mañana, en el comedor del primer piso de la casa de huéspedes, Faree todavía no se había levantado de la mesa.
 
-Faree había desayunado poco — una fruta y un vaso de algo caliente — y ya tenía la capa de viaje al hombro. Lyris a su lado, en posición. Kroma detrás, los dos brazos superiores sueltos. Theim a un paso del Anvur, la hoz cruzada al torso igual que la noche anterior. Había algo en Theim esa mañana que Eris registró sin mirarlo directamente: no estaba quieto como otras veces. Estaba quieto con otro peso. El encuentro con Maelor se le había enganchado en alguna parte y no se le había ido durmiendo.
+La luz entraba por el ventanal sobre la calle, tibia, sin terminar de calentar el suelo de madera. A la derecha del rey, el embajador del Senescal — humano de unos sesenta años, barba gris recortada, el broche imperial sujeto al pecho de la túnica gris diplomática. A la izquierda, su segunda — una mujer humana algo más joven, oscura de pelo, los ojos vivos, la insignia de los tribunales prendida en el hombro. Frente al rey, los dos delegados Naggar que habían viajado por la Arteria con la comitiva: él, joven, de los archivos del reino; ella, algo mayor, con la trenza fina de los administradores de comercio. Hablaban poco. Escuchaban mucho.
 
-Eris llegó la última al patio. Armadura bien ajustada, yelmo bajo el brazo, cara lavada. Nadie comentó. Haris le echó una mirada de reojo al entrar — no la de la noche, la habitual — y eso fue todo. Los gemelos ya estaban en la puerta de la calle. Therel y Nerei en las esquinas del patio. Los dos delegados civiles, un paso atrás de Lyris, nerviosos sin querer estarlo.
+Lyris no estaba sentada. La Kirala se había mantenido de pie un paso por detrás del rey desde el principio, como hacía siempre en mesas formales fuera de Helisil. Las dos esferas de luz blanca le orbitaban alrededor de la cabeza, lentas, atentas. No bebía. No comía. Era su costumbre.
 
-—Orden de marcha —dijo Lyris—. Gemelos delante. Kroma conmigo al rey. Theim detrás del Anvur. Kalari y Haris en el lateral izquierdo. Therel y Nerei lateral derecho. Delegados en el medio con los del consulado. Al Orio por la calle de los tintoreros.
+Kroma, en la pared del fondo, los cuatro brazos sueltos, no se había movido en una hora.
 
-—Sí, Kirala —dijo Eris, y los demás.
+Theim no estaba en el comedor. Theim no desayunaba con embajadores.
 
-Salieron a las siete y cuarto.
+Eris bajó al comedor en el último cuarto de hora, armadura ajustada, yelmo bajo el brazo, la cara lavada con agua fría dos veces. Aceptó la silla más alejada del rey con un gesto del servicio. Una taza de té muy cargado. Pan duro de campaña que le habían traído sin pedirlo — alguien de la casa la había atendido al entrar —. No comió nada. Escuchó.
+
+Faree hablaba con el embajador del Senescal sobre un tratado pesquero del año anterior que ninguno de los dos había firmado y al que ambos parecían tener apego sentimental. Lo decían como dos viejos hablando del trigo de un verano. La embajadora de los tribunales intervino dos veces. La primera, sobre una cláusula que había caído por desuso. La segunda, sobre la fecha de la próxima reunión consular en la capital. Las dos veces lo hizo con frases cortas, precisas, sin ornamento. Faree la miró un segundo más de la cuenta cuando habló. Eris lo registró sin comentarlo. Faree solía mirar así a quien decía cosas en pocas palabras.
+
+A Eris le costó seguir el hilo más de lo que le habría costado dos noches antes. Le pesaban los párpados. La cabeza le iba un grado más lenta de lo habitual. Se obligó a no apoyar la espalda en el respaldo más de lo que correspondía y a no quitarse los guantes en la mesa. Eran detalles de oficio. Si el cuerpo iba a estar a medio gas, la postura no podía estar también.
+
+Faree la miró una vez por encima de la taza. No dijo nada. Eris no supo si la había leído.
+
+A las nueve y veinte, Faree dejó la taza en el plato.
+
+—Excelencias. Los hemos retenido lo bastante. Gracias por acompañarme esta bonita mañana, pero me temo que la Arteria nos espera, y con ella un largo viaje.
+
+Los embajadores se levantaron a la vez. La de los tribunales lo hizo medio segundo después que el mayor — el protocolo exacto del cuerpo diplomático imperial entre pares.
+
+—Me alegro de haberles visto —dijo Faree—. Nos mantendremos en contacto por la Arteria.
+
+—Será un honor, majestad. El imperio agradece la visita.
+
+Faree se volvió a la embajadora.
+
+—Excelencia. La cláusula que ha mencionado antes. Mande nota a Helisil cuando tenga la fecha definitiva. Yo personalmente leeré.
+
+Ella inclinó la cabeza un grado más profundo de lo que el protocolo le pedía.
+
+—Majestad.
+
+Las dos cortesías cruzadas. Las dos respuestas. La despedida cabía en cuatro frases y las cuatro frases ya estaban dichas. Los embajadores no salieron al patio. El protocolo imperial los pedía dentro hasta que la comitiva del visitante hubiera abandonado la casa.
+
+Eris fue la última en levantarse. Hizo a los embajadores la inclinación corta que correspondía a una Eldara despidiéndose de civiles imperiales. La embajadora le devolvió el gesto. El mayor, con la mano sobre el broche, también.
+
+Bajó la escalera al patio.
 
 ---
 
-La calle de los tintoreros era estrecha y alta. Los edificios de tres pisos se inclinaban ligeramente uno hacia el otro por la vejez de la madera; entre los tejados se veía una franja de cielo gris-azul que a esa hora aún no tenía sol. Las lámparas de aceite que los tintoreros dejaban encendidas toda la noche no se habían apagado todavía — seguían goteando luz amarilla desde las fachadas, una cada veinte pasos. Había muy poca gente fuera. Un panadero acarreaba un saco grande al fondo. Un perro miraba desde un umbral. Nadie más.
+En el patio, Theim ya estaba esperando. La hoz cruzada al torso. Esa mañana había algo en él que Eris registró sin mirarlo directamente: el encuentro con Maelor le seguía colgando de algún sitio interior y no se le había ido durmiendo.
 
-Eris leyó los tejados por costumbre. No había nadie en los tejados tampoco.
+Faree, Lyris, Kroma y los dos delegados Naggar bajaron al patio detrás de ella. La Kirala tomó posición a la izquierda del rey con sus dos esferas. Kroma medio paso por detrás, los cuatro brazos sueltos. Los delegados, con la túnica de viaje al hombro recogida del perchero del comedor, se colocaron al centro de la formación.
 
-Pero había algo.
+Le dolía a Eris la cabeza un grado, no más. Llevaba dentro la noche entera — la cena, el cigarrillo, el azul de los iris en el espejo, el pan con la sensación olvidada, la vuelta por los tejados. El cuerpo le respondía pero a un compás más lento de lo habitual. Los hombros pesaban distinto. Los párpados estaban donde tenían que estar y un poco más abajo.
 
-Lo notó antes que nadie — el silencio de la hora tenía un peso distinto del que debía. Nerath despertaba con ruido. Los panaderos hacían ruido. Los tintoreros hacían ruido. Esa mañana, sólo el perro y el panadero. Nada más.
+Eris registró todo eso al cruzar el patio y lo dejó atrás. Tenía día por delante.
 
-Abrió la boca para avisar a Lyris.
+Haris la miró al entrar. La habitual. Después siguió mirando los tejados.
 
-Lyris ya lo había notado.
+Eris se acercó al rey. Inclinó la cabeza.
 
-Las dos esferas que giraban por la túnica de la Kirala se detuvieron medio segundo. La luz de las dos bajó a un filamento. Lyris separó apenas las dos manos del regazo, los dedos ligeros, como quien afina un instrumento de cuerda sin tocarlo.
+—Majestad. Orden de marcha.
 
-Eris puso la mano en la empuñadura de la daga.
+Faree asintió un grado. La seguridad correspondía a la Kalari. Faree no entraba en cómo se movían los Eldara cuando sus Eldara la rodeaban a él.
 
-—*Kroma.*
+—Le escucho, Kalari.
 
-La palabra fue de Faree, baja, dentro del patrón normal. Kroma se puso medio paso delante del rey. Theim no se movió un palmo.
+Eris lo dijo en voz baja, sin alzar la mirada del patio.
 
-Ocurrió en el segundo siguiente.
+—Con su permiso, majestad. Cubriremos los flancos durante el trayecto y evitaremos aglomeraciones dentro de lo posible. Saldremos por la calle de los tintoreros hacia el Orio.
+
+—Bien, Kalari.
+
+Eris se volvió medio cuerpo hacia el Anvur.
+
+—Kroma. No se separe de su majestad.
+
+Kroma asintió levemente con un destello de compañerismo en su mirada.
+
+Theim no se volvió. Eris no se dirigió a él. A Theim no se le daban órdenes.
+
+Salieron a las nueve y media.
 
 ---
 
-Vino una flecha primero.
+Nerath llevaba una hora despierta.
 
-Venía del tejado de la izquierda a unos quince metros — el ángulo era limpio, tiro de un arco compuesto, apuntando al cuello de Faree. Kroma la recogió con el brazo superior derecho. No la atrapó. La paró con el antebrazo, brazal contra madera, y la flecha rebotó y cayó en el adoquín, rota por el centro.
+Los tintoreros estaban en sus cubas. El olor del tinte rojo subía denso por las puertas semiabiertas — aprendices con los brazos hundidos hasta el codo, removiendo tela con palos largos, las gotas oscuras salpicando los delantales. Los panaderos habían cerrado los hornos hacía dos horas y el aire olía a humo y a corteza enfriándose en cestas. Una mujer pasaba un trapo por la fachada de una taberna. Tres niños mestizos jugaban con una piedra en una esquina más adelante. En el fondo de la calle una carreta de cebollas dejó pasar a la comitiva sin que el carretero levantara la mirada del suelo.
 
-Casi al mismo tiempo, de los dos tejados adyacentes y del fondo de la calle, bajaron hombres.
+Las lámparas de aceite seguían encendidas. Una cada veinte pasos, en las fachadas. Los tintoreros las dejaban toda la noche y las apagaban tarde, cuando se acordaban. Encima, entre los tejados que se inclinaban uno hacia el otro por la vejez de la madera, el sol entraba en franjas oblicuas hasta el adoquín.
 
-Eris los contó sin pensar: seis. Cinco con hachas cortas o dagas, uno con el arco todavía sin descargar del segundo tiro. Humanos. Capuchas oscuras. Túnicas cortas sin insignia visible. Ninguno hablaba.
+Lámparas amarillas abajo. Sol blanco arriba. La calle tenía dos luces a la vez. A Eris, que venía de Helisil, le pareció raro.
 
-Theim ya se había movido.
+Caminaron despacio.
 
-Eris no vio el movimiento. Theim estaba junto a Faree, luego estaba en la calle tres pasos por delante, la hoz de hueso suelta en la mano derecha, la izquierda abierta como si equilibrara un peso invisible.
+Faree retomó la conversación con el delegado de archivos a los pocos pasos de salir, a media voz. Algo sobre un protocolo de inventario que tendría que actualizarse al volver. La delegada de comercio caminaba al lado del rey en silencio, las manos en las mangas de la túnica al estilo viejo. Faree respondía midiendo. Era el tono de la mañana — lo justo de cordial para que se notara que tres días en Nerath le habían bastado y le habían sobrado dos.
 
-Lyris cerró la túnica contra el pecho y extendió las dos manos hacia los lados con los dedos separados de un modo concreto.
+La Nexalita, en el cuello de Eris, llevaba el ritmo bajo de la escuadra de seis. Los Eldara despiertos, atentos sin estarlo.
+
+Eris caminaba por el lateral izquierdo. Haris a su altura, los ojos en los tejados por oficio.
+
+Por dentro, una parte de ella seguía despierta dos manzanas atrás, en la calle pequeña que daba al callejón del local sin letrero. Otra parte seguía en el cuarto de arriba con el espejo de marco oscuro. Otra, en el postigo de madera que había abierto antes del amanecer. Eris se obligó a recoger esas tres partes y a meterlas detrás del esternón. Las recogió. Aguantaron media calle.
+
+A media calle, la Nexalita pulsó.
+
+---
+
+No fue una palabra. Fue un golpe sordo, exacto, en la nuca de la escuadra: el pulso de Haris, una alerta limpia, un *aquí* sin sílabas, un *ya*. Los Eldara lo recibieron en el mismo instante y giraron la cabeza al unísono al callejón de la izquierda.
+
+Un hombre encapuchado salía a la carrera del callejón con un cuchillo curvo en la mano derecha. No miró a quién atacaba. Iba al rey.
+
+Haris ya estaba en el aire. Dos pasos de carrera, la lanza armada al hombro, y antes de que Eris terminara de seguirle el movimiento, Haris había clavado al hombre por debajo del esternón. El cuchillo curvo cayó al adoquín. El hombre cayó después, con la lanza todavía dentro. Haris la sacó con un giro corto.
+
+El segundo pulso llegó por el otro lado.
+
+Lo soltó uno de los gemelos — Ravys, por la cadencia. Más alto. Más urgente. *Tejado*. Eris giró la cabeza al tejado de la derecha. Un arquero encapuchado ya tenía la flecha en la cuerda.
+
+Eris ni siquiera había alzado la lanza.
+
+La flecha cortó el aire.
+
+Iba al cuello del rey.
+
+—Kroma.
+
+Fue una sola palabra, por la voz, sin alzar el tono. El Anvur la oyó antes de que Eris la terminara. El brazo superior derecho subió en arco corto. La flecha rebotó contra el brazal de Kroma con un golpe seco, partió en dos, cayó al adoquín.
+
+Faree no se movió.
+
+Lyris cerró las dos manos delante del pecho y separó los dedos de un modo concreto.
 
 Se apagó la calle.
 
-Las lámparas de aceite, las esferas suyas, la poca luz del cielo entre los tejados — todo se fue a oscuro al mismo tiempo, como si alguien hubiera soplado encima de la mañana. Durante medio segundo Eris no vio nada. Oyó. Oyó la respiración de Kroma, oyó los pies de Theim sobre el adoquín, oyó el crujido de cuero de los atacantes al aterrizar desde los tejados.
+---
 
-Después se encendió la luz otra vez. Pero no toda. Lyris había abierto los dedos de una manera precisa: dos esferas blancas muy concentradas, cada una sobre un atacante distinto. Los seis fueron apareciendo uno a uno en los segundos siguientes, iluminados como piezas de un altar. Todo lo demás seguía en negro. La calle era un teatro de recortes contra la oscuridad y sólo los atacantes tenían forma.
+Las lámparas de aceite, las propias esferas de Lyris, la franja de sol entre los tejados, la mañana entera — todo se fue a oscuro al mismo tiempo, como si alguien hubiera soplado encima del día. Durante medio segundo Eris no vio nada. Oyó. Oyó la respiración de Kroma, oyó los pies de los gemelos retrocediendo a posición, oyó la respiración entrecortada de la delegada de comercio, oyó el crujido de cuero de los atacantes al aterrizar desde los tejados.
 
-Theim empezó por el del arco.
+Cuando la luz volvió, no volvió toda. Lyris había abierto los dedos de manera precisa: una sola esfera blanca concentrada, sobre un atacante. El resto seguía en negro. La calle era un teatro de un solo recorte contra la oscuridad. Lyris estaba marcando.
 
-Recorrió los ocho pasos que los separaban en dos zancadas. La hoz le subió desde la cadera derecha hasta el cuello del hombre en un arco ancho. La hoja entró por un lado y salió por el otro. La cabeza cayó antes que el cuerpo. La flecha, a medio cargar, cayó más tarde que la cabeza.
+El hombre iluminado: encapuchado, hacha corta, las dos manos al frente.
 
-Lyris movió la luz. Iluminó al segundo.
+La esfera se apagó.
 
-Theim giró sobre el pie izquierdo. La hoz dibujó una curva que subía del suelo al pecho. Pasó por encima de la guardia que el hombre había intentado levantar — no era alta, el hombre había estado dudando — y le entró por debajo del esternón, le salió por el hombro contrario. El hombre cayó doblado en dos como un muñeco al que le hubieran cortado el hilo central.
+Eris no vio el golpe. Lo oyó — la hoz cortando aire y carne en un solo movimiento continuo, el ruido bajo y húmedo de una hoja entrando entera. El cuerpo cayó al adoquín antes de que el hacha que llevaba terminara de soltarse de la mano. Un latido entero. No más.
 
-En la luz de la segunda esfera, durante ese segundo que el cuerpo tardó en caer, Eris lo vio.
+Lyris encendió otra esfera a unos pasos a la derecha.
 
-El hombre llevaba el pecho abierto por la hoz y, debajo de la capucha medio caída, la piel del cuello tenía un tatuaje en espiral. Una espiral doble, abierta. Roja, casi negra. La marca la conocía Eris por los informes — era el sello antiguo del culto al Silmarita de la Sangre.
+El segundo llevaba una daga corta y estaba retrocediendo medio paso — había visto al primero caer y había decidido que no iba a estar tan cerca. Eso fue lo que vio Eris en el medio segundo de luz: la cara medio girada, el medio paso atrás, la daga al frente.
 
-Eris levantó la vista a Theim.
+Oscuridad.
 
-Theim también la había visto. No se paró. Lyris movió la luz otra vez y Theim siguió.
+El silbido de la hoz cruzando el aire. Un golpe corto. Un cuerpo cayendo. Más rápido que el primero. Dos en menos tiempo del que tarda la respiración en cambiar de ciclo.
+
+El tercero, el último, fue distinto.
+
+Lyris encendió la tercera esfera contra la pared del fondo. El arquero estaba pegado allí — el mismo que había disparado al rey desde el tejado, ahora abajo, intentando cargar una flecha. El cuerpo agachado. Era más joven que los otros dos. Eris lo registró sin pensarlo: humano joven, capucha caída, túnica común sin insignia, la cara con la palidez del que entiende lo que va a pasar.
+
+Esta vez, Lyris no apagó la esfera.
+
+Theim no fue rápido con éste.
+
+El arquero buscó con los ojos a quien le iba a matar. No lo encontró. La esfera iluminaba sólo a él — el resto seguía en negro. Tenía arco al frente y nadie a quién apuntar. Movió la cabeza una vez a la izquierda, otra a la derecha. No vio. La voz le falló cuando intentó decir algo. No le salió palabra entera.
+
+La hoz entró en la esfera primero. Bajó sobre las dos piernas del hombre a la altura de las rodillas — un solo arco, ancho. Los cortes se abrieron a la vez. El arquero cayó hacia atrás contra la pared, las piernas dobladas debajo en el ángulo equivocado, sin poder sostenerse en ninguna parte.
+
+Sólo entonces Theim entró en la luz, detrás de la hoja, ya con la hoz medio recogida, los tatuajes rojos del antebrazo destellando un grado en el contraluz.
+
+No gritó. La sorpresa siempre llega antes que el dolor. Pero los ojos se le abrieron mucho.
+
+Theim se agachó sobre una rodilla.
+
+Le pasó la hoz por la garganta de lado a lado. Despacio. No fue rápido. La hoja era afilada y entró sin esfuerzo, pero Theim le dio el tiempo justo para que el corte fuera limpio. Cuando la sacó, la sangre subió un segundo y bajó después con el ruido que hacía la tráquea cortada al intentar respirar a través de algo que ya no era tráquea. Un gorgoteo largo, bajo, mojado, que nadie en la calle iba a olvidar pronto. Duró más de lo que pareció decente que durara. El joven se ahogó dos veces antes de quedarse quieto.
+
+Theim se levantó. Limpió la hoz con el borde de la capucha del muerto, dos pasadas. La devolvió a la correa.
+
+Lyris apagó la última esfera.
+
+La luz volvió. Las lámparas de aceite, la franja de sol entre los tejados, la mañana entera. Como si nunca hubieran dejado de estar.
 
 ---
 
-El tercero intentó correr. La hoz lo alcanzó en la nuca a mitad de zancada. Cayó hacia adelante, sobre los adoquines, sin grito.
+Cuatro cuerpos. En el aire, el olor nuevo: metal, sangre caliente, aceite quemado.
 
-Cuarto. Un golpe de hoz de arriba abajo, otro de lado. Cayó en tres pedazos grandes.
+Faree no se había movido un palmo. Kroma tampoco. Theim había hecho el trabajo.
 
-El quinto tiró el arma antes de que Theim llegara a él. Levantó las dos manos. Dijo algo en una lengua que Eris no entendió — una frase corta, ritual, con la cadencia de un verso viejo. Theim se detuvo medio paso al oírla. No más. La hoz cruzó la garganta del quinto y le cortó las dos manos a la vez. El hombre cayó sobre los muñones sin los muñones.
+Detrás del rey, los dos delegados Naggar habían retrocedido medio paso hacia el centro de la formación. La cara compuesta, los dos: la expresión que se enseñaba en palacio para estos momentos — no horror, no aprobación, una ausencia de gesto que un humano podía leer como serenidad y que de hecho era entrenamiento. La delegada de comercio tenía las manos todavía dentro de las mangas. El delegado de archivos tenía la mandíbula un grado más tensa de lo que correspondía. Eris los registró sin mirarlos directamente.
 
-Sexto y último. Este saltó. Saltó hacia atrás, hacia la oscuridad que Lyris todavía sostenía al fondo de la calle, para perderse. Lyris no le dejó perderse. La esfera lo siguió en el aire, más rápido de lo que él saltaba. Lo encendió contra una pared. Theim le lanzó la hoz — un giro limpio, la hoja a tres metros — y la hoz le entró por el pecho y lo clavó contra la pared detrás. El hombre se quedó colgado ahí con la hoz atravesada, como un cuadro nuevo.
+El rey caminó hasta el último cuerpo — el del joven, contra la pared — y se detuvo a dos pasos. No se agachó. Miró la cara del hombre durante un segundo. Después la pared detrás. Después se volvió hacia Eris.
 
-Theim caminó hasta la pared. Sacó la hoz de un tirón. Dejó caer el cuerpo. Se limpió la hoja con el borde de la capucha del muerto, dos pasadas, limpias.
+La cara de Faree, en ese segundo, no era la sonrisa de la mesa del desayuno.
 
-Lyris apagó las dos esferas de atacante y encendió otra vez las dos pequeñas habituales sobre Faree. Las lámparas de aceite volvieron en el mismo instante, amarillo tibio, como si nunca se hubieran apagado.
+Era otra. Una expresión dura, contenida, sin teatro. La que le salía cuando algo le había costado tres minutos en lugar de los dos que tenía calculados.
 
-La calle volvió a tener luz normal.
+—Kalari.
 
----
+—Majestad.
 
-Los seis cuerpos estaban sobre el adoquín. Ninguno se movía. En el aire quedaba un olor nuevo — metal, sangre caliente, aceite quemado — que Eris conocía y que Faree, aparentemente, no percibía.
-
-Faree no se había movido un palmo en todo el intercambio. Kroma tampoco, porque no había hecho falta. Theim había hecho el trabajo solo.
-
-El rey se acercó al segundo cuerpo. El del pecho abierto. Se agachó sobre una rodilla con la facilidad de un hombre joven — rareza que Eris había aprendido a no subrayar en el rey — y apartó con el dedo índice la capucha medio caída del muerto. La espiral doble roja quedó a la vista.
-
-Faree se volvió hacia Theim sin levantarse.
-
-—¿La conoce.
-
-Theim miró la marca.
-
-—Sí.
-
-—¿De los suyos.
-
-—De los suyos.
-
-Fue una sola palabra repetida, pero en la boca de Theim pesó más que en la de Faree. Theim no añadió aclaración.
-
-Faree se levantó despacio.
-
-—Entonces su Silmarita tiene una rama suelta.
-
-—Eso parece, majestad.
-
-—Discutiremos. En Helisil.
+—Caza-recompensas, disidentes locales, alguien cobrando por alguien — la guardia local lo sabrá antes que nosotros. Pero quiero saberlo yo. Déjeme dos aquí, Kalari, hasta que cierren el caso.
 
 —Sí, majestad.
 
-Faree se volvió hacia Lyris.
+Eris registró un segundo. Los gemelos cubrían los flancos. Haris había probado los tejados. Ella misma se quedaba con el rey. Therel y Nerei eran los que mejor podía soltar.
 
-—Al Orio.
+—Therel. Nerei.
+
+Los dos Eldara se apartaron de la formación tres pasos atrás.
+
+—Os quedáis en el Orio. Cierre del caso, declaraciones, identificación si es posible. Parte por Arteria a Helisil cuando esté. Coordinad con el prefecto. Reportad al consulado.
+
+—Sí, Kalari.
+
+—Sí, Kalari.
+
+Faree se volvió otra vez a Eris.
+
+—Sigan.
 
 —Sí, majestad.
 
----
-
-Siguieron.
-
-La calle de los tintoreros se había despertado durante el combate. Algunas ventanas estaban abiertas ya, con caras asomándose sin atreverse a salir del todo. El panadero había dejado caer el saco. El perro del umbral se había quedado en el umbral. La guardia local, avisada por alguien, llegó cuando ya no había nada que atender. El prefecto tardaría más. Faree no los esperó a ninguno — dio orden a Lyris de enviar después una nota oficial desde la embajada explicando lo justo, y siguió caminando como si el atentado hubiera sido un puesto de especia cerrado al paso.
-
-Eris caminó detrás del rey el resto del trayecto con el peso de la noche anterior y el peso del atentado mezclados. No era agotamiento simple. Era otra cosa. Algo que se había acomodado por dentro y ya no estaba en el mismo sitio que al salir de Helisil tres días antes.
-
-A su lado, Haris caminaba en silencio, los ojos en los tejados por oficio.
-
-—*Theim ha matado a los suyos* —dijo Eris por la Nexalita, muy bajo.
-
-—*Sí.*
-
-—*No ha dudado.*
-
-—*No.*
-
-Haris se tomó un segundo.
-
-—*¿Tú.*
-
-—*¿Yo qué.*
-
-—*Si te pidieran.*
-
-Eris no contestó.
-
-No porque no tuviera la respuesta. Porque la tenía, y de golpe le pareció menos clara que el día anterior.
+Eris se ajustó el yelmo. Por dentro, la nuca le había dado un latido de más al ver a Theim agacharse sobre el tercer hombre. Ya se le había pasado.
 
 ---
 
-En el Orio del norte los esperaban los guardianes con el Glóbulo cargado y la rejilla abierta. Faree pisó primero, como había pisado el primer día. Kroma detrás, los cuatro brazos ajustándose al hueco. Theim. Lyris. Los delegados. Eris con Haris, los gemelos, Therel y Nerei al final. La rejilla del Orio se cerró sobre ellos con el zumbido grave de las Arterias cuando arrancan.
+Therel y Nerei quedaron en la calle con la guardia local — que llegó cuando ya no había nada que atender salvo cuerpos — y con el prefecto, que llegó después. Eris cruzó un par de frases más con ellos antes de irse. Sin Nexalita: voz, baja.
+
+—Declaraciones simples. Lo que visteis, no lo que pensasteis.
+
+—Sí, Kalari.
+
+—Si pasa algo raro, parte sin esperar a que cierren.
+
+—Sí, Kalari.
+
+—*Lirana.*
+
+—*Lirana, Kalari.*
+
+Theim los miró pasar al irse. No dijo nada. Eris notó la ausencia.
+
+Siguieron al Orio sin los dos. La comitiva quedó algo más corta en el lateral derecho. El delegado de archivos hizo el resto del trayecto en silencio, mirando el suelo. La delegada de comercio mantuvo el paso al lado del rey sin abrir la conversación de antes. Faree tampoco. La calle, dos manzanas más adelante, recuperó su ruido sin pedir permiso a nadie: la mujer del trapo seguía con su trapo, los aprendices del tinte seguían en las cubas, la carreta de las cebollas dobló por una esquina y se perdió.
+
+Eris caminó esas dos manzanas con la cabeza más despejada de lo que había estado al desayunar. La adrenalina del ataque le había barrido el cansancio durante los tres minutos del intercambio. Ahora, mientras la calle volvía a ser calle, el cansancio empezó a volver despacio, capa a capa. Eris lo dejó. Tenía un cuarto de hora hasta el Orio. Se permitió no negociar con el cuerpo.
+
+---
+
+En el Orio del norte los esperaban los guardianes con el Glóbulo cargado y la rejilla abierta. Por encima, el halo de luz azul subía denso — el aire de las Arterias, cálido y gravitatorio al revés, esperando a quien lo pisara. Faree pisó la rejilla sin más cortesía. La luz lo cogió: los pies se separaron del suelo, la capa quedó atrás un segundo y el cuerpo subió al haz. Kroma detrás, los cuatro brazos extendidos por el equilibrio que el ancho del Anvur le pedía a la entrada. Theim. Lyris, las esferas apagándose al entrar al haz por costumbre vieja. Los delegados Naggar pisaron en silencio. Eris con Haris y los gemelos.
+
+---
+
+El aire dentro de la Arteria de Jomla era el mismo que en las demás Arterias, pero a Eris le pareció esa mañana más denso de lo habitual. La ingravidez la cogió con el cansancio ya volviendo a los hombros, y por un momento — un momento solo — tuvo la tentación de cerrar los ojos enteros y dormirse durante las dos horas.
+
+No lo hizo. La Kalari de Coria no dormía en una Arteria con el rey a tres metros. Eris cerró los ojos a medias y dejó que el cuerpo fuera al ralentí natural de la ingravidez sin entregarse del todo.
+
+Faree, al otro lado del haz, miraba un punto en el aire. No hablaba con nadie. Lyris tampoco, las dos esferas suyas apagadas durante el tránsito como hacía siempre por costumbre vieja. Theim se había quedado inmóvil contra la pared interior del haz. Kroma, los cuatro brazos extendidos por el equilibrio.
+
+Eris registró el silencio del tránsito como un descanso parcial. No era el primero. No iba a ser el último de la semana.
 
 Dos horas después, la Arteria los dejó en el Orio de Helisil.
 
-Roe estaba en la puerta de desembarque. Hizo la reverencia al rey — una inclinación larga, ceremonial, la que se daba sólo a Faree — y después, al pasar Eris, la media sonrisa pequeña.
+---
+
+Roe estaba en la plataforma cuando llegaron. Hizo la reverencia al rey — la inclinación larga, ceremonial, la que se daba sólo a Faree — y después, al pasar Eris, la media sonrisa pequeña.
 
 —Kalari.
 
@@ -172,19 +264,19 @@ Roe estaba en la puerta de desembarque. Hizo la reverencia al rey — una inclin
 
 —*Ilare.*
 
-—*Ilare.*
+—*Nara.*
 
-Roe no preguntó por Nurn. Nadie preguntaba por Nurn todavía. Los partes oficiales tardarían algunos días en circular. Los no oficiales, probablemente esa misma tarde.
+Roe no preguntó por Nerath. Nadie preguntaba por Nerath todavía. Los partes oficiales tardarían algunos días en circular. Los no oficiales, esa misma tarde.
 
-La comitiva se deshizo en el patio exterior. Faree se fue al palacio con Kroma, Theim, Lyris y los delegados. Kroma, al pasar junto a Eris, hizo un gesto pequeñísimo con el brazo superior izquierdo — un movimiento de un centímetro que Eris no supo leer del todo. Tal vez era reconocimiento. Tal vez era recordatorio. Tal vez era nada. Los Anvur no hablaban y por eso sus gestos costaban.
+La comitiva se deshizo en el patio exterior. Faree se fue al palacio con Kroma, Theim, Lyris y los delegados. Kroma, al pasar junto a Eris, hizo un gesto pequeñísimo con el brazo superior izquierdo — un movimiento de un centímetro que Eris no supo leer del todo. Tal vez era reconocimiento. Tal vez era recordatorio. Tal vez era nada. Los Anvur a veces eran difíciles de interpretar.
 
 Theim no la miró al pasar.
 
-Eris los vio irse hacia la colina del palacio. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
+Eris los vio irse hacia la colina del palacio. El sol estaba en lo alto sobre Kiral Ree y la torre principal cortaba la luz en un ángulo que Eris conocía sin tener que mirar. Helisil al mediodía no era Nerath: aquí no había dos luces, había una. Limpia, blanca, alta. Eris la registró sin comentar. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
 
 ---
 
-En Lorin, Haris se quedó un segundo más de lo necesario en el patio del armero antes de separarse. Los gemelos ya habían entrado. Therel y Nerei también. Eris y él quedaron solos junto al banco donde se dejaban las correas.
+En Lorin, Haris se quedó un segundo más de lo necesario en el patio del armero antes de separarse. Los gemelos ya habían entrado.
 
 —Descansa, Kalari.
 
@@ -194,22 +286,42 @@ En Lorin, Haris se quedó un segundo más de lo necesario en el patio del armero
 
 No era pregunta. Eris no contestó.
 
-—Está bien —dijo Haris—. Pregunta por ella cuando subas a Norel. Lirae estaba preocupada antes de irnos.
+Haris bajó la voz.
 
-—¿Te lo dijo.
+—Theim.
 
-—Me lo miró. Es peor que decírmelo.
+Eris esperó. Haris no era de los que dejaban una palabra sola sin haberlo decidido.
 
-Eris casi sonrió. Casi. Le apretó el hombro un segundo.
+—El último —siguió—. Lo de las piernas. El gorgoteo. No tenía falta.
+
+—No.
+
+—Los Naggar — Haris dudó un grado, le costaba decirlo —. Los Naggar somos otra cosa. Maelor ayer fue brutal pero limpio. Es... es el arte de la lucha. Pero lo de hoy no fue así.
+
+—No... no lo fue —dijo Eris, con una mueca al recordar el gorgoteo del arquero humano.
+
+—Algo de Theim me inquieta más de lo que sé colocar.
+
+Eris lo miró un segundo. La cara de Haris a un siglo recién cumplido era todavía una cara que se permitía el reparo y lo decía. Eris se permitió un segundo más de lo que le correspondía a la jerarquía. Le puso la mano en el hombro un instante. Después la quitó.
+
+Le pasó por el cuerpo el recordatorio. Haris era el junior de su equipo, no su confesor. Theim era el brazo del rey. La Kalari no comentaba al campeón del rey con sus Eldara, ni siquiera con éste.
+
+Haris notó la mano que se iba antes de la frase. Movió un grado la cabeza — un gesto de quien recibe el silencio sin pedir más — y cambió de tema él mismo.
+
+—Pregunta por ella cuando subas a Norel. Lirae estaba preocupada antes de irnos.
+
+—¿Te lo dijo?
+
+—Vi su preocupación en su mirada. Cuando mira así, no hacen falta palabras.
+
+Eris casi sonrió. Casi.
 
 —Duerme, Haris.
 
 —Sí, Kalari.
 
-Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesaba en los hombros como si fuera tres veces más pesada que al salir de Helisil. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Helisil, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
+Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesaba en los hombros como si fuera tres veces más pesada que al salir de Helisil tres días antes. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Helisil, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
 
-En algún sitio de adentro, lejos, muy bajo, Eris oyó el *tum*.
+Eris oyó el *tum*.
 
 No se detuvo a escucharlo.
-
-Entró en Norel.

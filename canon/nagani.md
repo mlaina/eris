@@ -42,6 +42,7 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 - **Lisar** — verbo ceremonial. Traducción: *avanzar*. Se usa en sentido amplio: dar un paso adelante, adelantarse (un movimiento, un destino, una pieza). Faree lo murmura al ver el movimiento de Maelor en el coliseo de Nerath (cap 6) — registro de que algo se ha movido hacia adelante sin que él lo haya iniciado.
 - **Sira, rilan** — fórmula.
 - **Tisar lisel, nel irisar, risana lir. Liran, nel senal.** — frase completa canónica (traducción precisa por fijar durante escritura, pero usar tal cual en momentos solemnes).
+- **Lirana** — despedida ritual entre Eldara. Equivalente aproximado a *cuidaos / vivid / que volváis*. Raíz **lir-** (vinculada a permanencia/vida, presente también en *Liran*) + sufijo plural **-na**. Lo dice un Eldara de rango a sus hombres cuando los deja en una posición de riesgo y se separa de ellos. La respuesta canónica es repetir la palabra con el vocativo de respeto: *Lirana, Kalari* (cap 8 — Eris a Therel y Nerei al dejarlos en el Orio de Nerath).
 
 ## Títulos
 

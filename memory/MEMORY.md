@@ -2,3 +2,4 @@
 - [No contador de experiencia acumulada de Eris](feedback_no_contador_experiencia.md) — evitar "era la N-ésima vez en X años"; tono Sicario = presente, no balance.
 - [Nexalita es sensorial, no verbal](feedback_nexalita_sensorial.md) — nada de preguntas o frases largas por Nexalita; para conversación, voz.
 - [No tautologías reflexivas tipo "X era X"](feedback_no_tautologias.md) — *"el caldo sabía al caldo"* etc. son frases vacías que rompen el Sicario.
+- [Reescribir, no editar](feedback_reescribir_no_editar.md) — si las indicaciones cambian estructura/ritmo/personajes, tirar el archivo y partir del brief, no engordar el texto previo.

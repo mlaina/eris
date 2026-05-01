@@ -12,26 +12,53 @@ Character sheet of Eris, elven commander (Naggar) of the Eldara corps, adult fem
 
 ---
 
-## 2. Muoro — Naggar veteran, second in command
+## 2. Muoro — Naggar veterano, segundo al mando
 
 ```
-Character sheet of Muoro, elder Naggar warrior, four hundred years old, bald (rare among his kin), sharp jawline, black eyes, stoic worn expression. Front and side views, full body plus bust study. Wears the same uniform Eldara kit as Eris: tight black articulated plate armor, flat-visored helmet held under the arm, oblong shield on back, spear with black and gold ribbons gripped near the butt-spike, two daggers at lumbar belt, Nexalita device on the nape. Shoulders slightly lowered from centuries of duty. Detail inset: spear butt-spike used as breaching tool. white background, antique pen and ink sketch, technical character sheet, orthographic views, renaissance anatomical drawing, cross hatching, fantasy warrior concept art, clean parchment style
+Vamos a hacer una ficha similar para Muoro, varón similar a Eris con las manos igual, es calvo veterano, con cicatrices en la cara.
+
+Panel inferior:
+INFORMACIÓN
+RAZA: NAGGAR
+ORIGEN: SIN REGISTRO / ANTERIOR AL ARCHIVO
+ROL: SEGUNDO AL MANDO DEL ESCUADRÓN DE ERIS
+HABILIDADES: COMBATE CON LANZA / DISCIPLINA DE SIGLOS / SILENCIO TÁCTICO
+CARÁCTER: ESTOICO, IMPONENTE / LEAL AL ORDEN, SENTENCIOSO
+CREE EN: LA CADENA DE MANDO Y EL ORDEN DE CORIA
 ```
 
 ---
 
-## 3. Haris — young Eldara
+## 3. Haris — Eldara joven
 
 ```
-Character sheet of Haris, young Naggar warrior, just turned one hundred, dark hair, slim build, features visibly less weathered than his comrades, half-ironic half-attentive expression. Full body front view, three-quarter view, seated reading pose. Wears standard Eldara kit identical to the rest: tight black articulated plate armor, flat-visored black helmet tucked under one arm, oblong shield on back, spear, two daggers at lumbar belt, Nexalita at nape. Holds an open small leather-bound book (a human treatise on sailing) in his free hand, fingers marking a page. Detail inset: the small book with handwritten nautical terms. white background, antique pen and ink sketch, technical character sheet, orthographic views, renaissance anatomical drawing, cross hatching, fantasy warrior concept art, clean parchment style
+Vamos a hacer una ficha similar para Haris, varón similar a Eris, joven Naggar de un siglo recién cumplido, pelo oscuro corto sin trenzas, complexión esbelta, rasgos menos curtidos, expresión entre irónica y atenta. En la mano libre lleva un libro pequeño de cuero abierto (tratado humano de navegación) con un dedo marcando la página.
+
+Panel inferior:
+INFORMACIÓN
+RAZA: NAGGAR
+ORIGEN: VALDARA, HIJO DE COMERCIANTES DE TELAS
+ROL: ELDARA DEL ESCUADRÓN DE ERIS
+HABILIDADES: COMBATE CON LANZA / VOZ Y RETÓRICA / LECTURA EMPÁTICA
+CARÁCTER: LUMINOSO, IRÓNICO / LEAL, CURIOSO
+CREE EN: ERIS, EN LO QUE LE CABE EN LA BOCA
 ```
 
 ---
 
-## 4. Lirae — Primer Mirisar of the Sandrie
+## 4. Lirae — Primer Mirisar de la Sandrie
 
 ```
-Character sheet of Lirae, elven Mirisar scholar (Naggar), around one hundred years old (exceptionally young for her rank), slender, intelligent eyes, hair pulled back. Civilian scholarly long tunic, sober, not ceremonial, left forearm bared to show a distinctive fine network of bluish veins mapping the forearm (permanent residue of graduated magic use). Small lead plate hanging from the belt on a leather cord. Three views: standing front, seated at a measuring desk, close-up of the left forearm with veins pronounced. Beside her a gravitational pendulum on a circular wooden base: lead bob on fine thread, graduated plate, thin marking needle. Open ledger showing columns of dates and millimeter deviations. Extra callout: single finger raised with projected downward force vector (one finger equals one focal point). white background, antique pen and ink sketch, technical character sheet, orthographic views, renaissance anatomical drawing, cross hatching, fantasy warrior concept art, clean parchment style
+Vamos a hacer una ficha similar para Lirae, mujer Naggar de un siglo, sin armadura, con túnica de trabajo Mirisar discreta (no ceremonial), pelo recogido, esbelta, mirada inteligente. Ojos con una veta azul residual visible en el iris. Manga izquierda subida hasta el codo, mostrando una red fina de venas azuladas casi cobalto recorriéndole la cara interna del antebrazo (marca corporal del Haiz). Anillo fino de graduada con piedra azul gris en el índice dominante y un segundo anillo más grueso de cargo. Lasca de plomo pequeña colgada del cinturón con cordón de cuero. En lugar del detalle de arma, el detalle inferior derecho es un péndulo gravitatorio sobre base circular de madera con plomada fina y plato graduado.
+
+Panel inferior:
+INFORMACIÓN
+RAZA: NAGGAR
+ORIGEN: HELISIL / FORMADA EN LA SANDRIE
+ROL: PRIMER MIRISAR DE CORIA / DIRECTORA DE LA SANDRIE
+HABILIDADES: CANALIZACIÓN GRAVITATORIA / MEDICIÓN DE ANOMALÍAS / DISCIPLINA SANDRIE
+CARÁCTER: ANALÍTICA, AFECTIVA / ESCÉPTICA DE LO MÍTICO
+CREE EN: LO QUE SE PUEDE MEDIR
 ```
 
 ---

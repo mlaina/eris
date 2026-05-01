@@ -96,7 +96,7 @@ Los Naggar de Helisil se enorgullecen **de lo contrario**: soltura, retórica, s
 - Frases elegantes, pausadas, que parecen sabias. **Nunca hace villano monólogo**.
 
 ### Theim
-- Parco, ritual, impersonal. Habla como quien recita instrucciones.
+- Parco pero **no mudo**. Habla — sólo de combate: guardia de un oponente, peso de un arma, quién venció a quién, quién vale la pena medir. Frases cortas, técnicas, frías. No ceremonial. Cuando *no* habla durante un día entero es lo notable.
 
 ### Lirae
 - Calidez afectiva con Eris, pero razonamiento científico cuando se le presenta "lo imposible".

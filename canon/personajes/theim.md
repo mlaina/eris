@@ -47,7 +47,10 @@ Encarna el tema del brief: "la maquinaria del poder no se detiene por vínculos 
 
 ## Notas de escritura
 
-- Voz parca, frases cortas, registro ceremonial cuando habla.
-- Violencia **rápida, no barroca**. Precisión quirúrgica.
+- **No es callado por norma** (canon ajustado en cap 8). Theim sí habla — pero **sólo de combate**: la guardia de un oponente, el peso de un arma, quién venció a quién y cómo, quién vale la pena medir y quién no. Es el único registro que le interesa. No habla de oficio profesional, no habla de enseñar a cadetes, no habla de política. Habla de pelea.
+- Cuando Theim **no habla** durante un día entero, eso es lo notable: significa que tiene algo dentro que no acaba de soltar (cap 8: silencio total tras el cruce con Maelor del cap 6).
+- Frases cortas, registro afilado cuando habla. No ceremonial — ceremonial es Faree. Theim es directo, técnico, frío.
+- Violencia **rápida, no barroca**. Precisión quirúrgica los dos primeros golpes. El último se permite tiempo si la víctima merece tiempo (cap 8: corte de piernas + garganta con gorgoteo lento).
 - **Sadismo en la ejecución, no en el discurso** — no hace monólogos de villano, pero disfruta el combate perfecto como disfrutaría un orfebre su pieza.
+- **Solo respeta a quien es mejor que él**. Maelor es el primer humano en cuatro siglos que le hace sentir que hay algo a su altura. Esa búsqueda obsesiva de un par a quien medirse es el único motor que aún lo mueve.
 - El aburrimiento de la inmortalidad se le escapa por los ojos — demasiada espera entre una cosa interesante y la siguiente.
