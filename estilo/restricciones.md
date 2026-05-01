@@ -122,6 +122,25 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 
 ---
 
+## Sobre tautologías reflexivas "X era X" / "X sabía a X"
+
+- ❌ **No usar tautologías del tipo** *"el caldo sabía al caldo"*, *"una mujer Naggar de túnica oscura era una mujer Naggar de túnica oscura"*, *"un hombre era un hombre"*.
+- Aparentan profundidad y son frases vacías. Rompen la cadencia Sicario sin pagar nada — ocupan línea, no entregan información, no entregan imagen.
+- Si la idea es *"es lo que es, sin más / sin secreto / sin truco"*, hay alternativas mejores:
+  - *"No tenía secreto."*
+  - *"Era caldo, sin más."*
+  - *"Sin truco."*
+  - O cortar la frase y empezar directo con la concreción que sigue (*"Cebolla larga, raíz, una hierba tostada al fondo..."*).
+- **Excepción** (rara): cuando la repetición tiene función rítmica clara y el segundo término introduce un matiz real. Si no hay matiz, no hay frase.
+
+**Mal**:
+> El caldo sabía al caldo. Una mujer Naggar de túnica oscura a las diez de la noche en Nerath era una mujer Naggar de túnica oscura.
+
+**Bien**:
+> No tenía secreto. En Helisil eso no pasaba nunca.
+
+---
+
 ## Checklist rápida antes de escribir una escena
 
 - [ ] ¿Respeta el acto en el que estamos (Eris no duda antes de tiempo)?

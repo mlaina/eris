@@ -175,7 +175,7 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 |---|---|---|
 | 5 | `estructura/capitulos/acto-II/05-audiencia-larien.md` | ✅ **Validado**. Faree en esplendor, cinco peticiones, anuncio del viaje a Nurn. |
 | 6 | `estructura/capitulos/acto-II/06-nurn-dia.md` | 🔄 **En revisión ahora** — Nurn día: llegada + coliseo + Maelor + afrenta Theim-Maelor en vestuario de gladiadores. |
-| 7 | `estructura/capitulos/acto-II/07-cena-elerian.md` | ⏳ Pendiente. Cena con Elerian, plato de Itsu, flashback del asedio del séptimo año, vuelta por tejados al alba. |
+| 7 | `estructura/capitulos/acto-II/07-cena-elerian.md` | ✅ **Validado** (sesión 2026-05-01). Cena con Elerian rehecha: cinco platos con Eris siendo leída sin pedirle nada, sensación olvidada (no recuerdo) con el pan negro, pastelillo afrodisíaco, intimidad, cigarrillo de Haiz con iris azules en espejo, despedida épica ("Sigue encontrando sabores. Los que aún no funcionan también" / "Me ha gustado tu sabor, Eris"), Eris se emociona al final por el no-preguntar de Haris. |
 | 8 | `estructura/capitulos/acto-II/08-atentado-tintoreros.md` | ⏳ Pendiente. Lyris apaga la calle, Theim dispatcha seis con espiral roja de Silmarita de la Sangre disidente. |
 | 9 | `estructura/capitulos/acto-II/09-mision-135-iretha.md` | ⏳ Pendiente. Eris vacila medio segundo, muere Sirel, ceremonia en Lorin. |
 | 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | ⏳ Pendiente. Tum tum se hace Helisil; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |

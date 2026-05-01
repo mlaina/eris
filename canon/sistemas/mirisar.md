@@ -26,6 +26,14 @@
 - **Consumidores habituales**: el azul se instala de forma **casi permanente**, oscilando entre más o menos saturado según el último consumo. Ojo azul Haiz apagado = no ha tomado en dos o tres días.
 - **Mirisar graduados**: suelen conservar una **veta azul residual** en el iris —más clara, casi cristalina—, herencia del periodo de consumo. No es Haiz activo; es la marca del que cruzó. Cada Mirisar la tiene distinta según la intensidad y duración de su consumo.
 
+### Microdosis y cuerpos resistentes (canon fijado en cap 7)
+
+- **Haiz mezclado en cantidades mínimas** (por ejemplo en hierba para fumar) puede consumirse sin abrir puente y sin matar, **siempre que el cuerpo lo tolere**. Una calada o dos. No más.
+- **Cuerpos que lo aguantan**: campaña dura, fibra, alta tolerancia general (Eldara, guerreros Naggar, anvur...). El cuerpo procesa la trazas de Haiz sin episodio crítico.
+- **Efecto en microdosis**: los iris se tiñen de azul saturado durante un rato (minutos a un par de horas), brillo de luz tranquila — distinto al brillo de ataque del consumo intenso. **No abre puente Mirisar**, no inicia consumo serio, no produce rechazo si el cuerpo lo tolera.
+- **Quién lo hace**: muy poca gente, porque es ilegal y peligroso. Algunos cocineros refinados, médicos discretos, contrabandistas que conocen el continente. **Elerian** lía cigarrillos con Haiz mezclado y los ofrece "a casi nadie" — tiene criterio para saber qué cuerpo aguanta.
+- **Riesgo**: dosificar mal, o dárselo a un cuerpo que no aguante (humano sin entrenamiento, niño, anciano), puede disparar rechazo fatal o un episodio crítico no buscado.
+
 ### Rechazo fatal del Haiz
 
 Algunos cuerpos **rechazan** el Haiz. Es un efecto distinto de la sobredosis:

@@ -21,8 +21,15 @@
 
 - Monarquía dinástica: dinastía **Numari** encabeza actualmente.
 - Jerarquía marcada (rangos militares, cargos de palacio, nobleza).
-- **Eldara**: élite militar con veneración popular.
+- **Eldara**: élite militar con veneración popular. **Minoría dentro del ejército Naggar**.
 - **Sandrie**: tradición de magia estudiada (Mirisar gravitatorios, reflejistas lumínicos).
+
+## Dieta (canon fijado en cap 7)
+
+- **Ejército Naggar es vegetariano por tradición**, incluidos los Eldara. No comen carne de tierra. Permiten pescado en algunas rutas (los caldos de hueso de pescado son comunes).
+- **Naggar de campaña** (Eldara, tropa regular fuera de Helisil): pan duro, legumbre, fruto seco, agua de cantimplora. Sin grasas finas, sin verde, sin lento. Cuerpo seco y fibroso. Comen para moverse, no para quedarse.
+- **Naggar de palacio** (corte, Helisil): comen sentados horas. Fruta del día, especia rara, pan blanco, varios vinos en la misma cena. Dos orgullos contrapuestos en la misma raza, igual que con el habla.
+- Detalle leído por Elerian al cuerpo de Eris en cap 7: la dieta de campaña le ha entrado en la sal de la piel — un humano con el ojo entrenado puede distinguir Naggar de campaña de Naggar de palacio sin mediar palabra.
 
 ## Sombra interna
 

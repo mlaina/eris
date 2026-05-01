@@ -14,11 +14,11 @@ Del patio al tejado vecino, del tejado vecino a la calle trasera — tres minuto
 
 La calle a esa hora era otra calle.
 
-Nerath a las diez de la noche era Nerath celebrando. No una fiesta organizada — celebrando por oficio, celebrando porque era viernes o porque no lo era, celebrando porque había terminado la jornada y el vino estaba abierto. Las avenidas principales tenían más gente que por la tarde. En cada tercera esquina, un grupo de músicos — un humano con un tambor, una mujer Valagost con una flauta de hueso, dos niños mestizos con cascabeles en los tobillos — tocaba algo bailable. Había gente bailando en mitad de la calle sin que a nadie le sorprendiera. Dos mujeres viejas cantaban una canción de barco a la puerta de una taberna. Un chico tiraba dados contra una pared. Tres hombres borrachos discutían sobre el pescado del día sin llegar a pelearse.
+Nerath a las diez de la noche eran sus habitantes humanos celebrando. No una fiesta organizada — celebrando por oficio, celebrando porque era viernes o porque no lo era, celebrando porque había terminado la jornada y el vino estaba abierto. Las avenidas principales tenían más gente que por la tarde. En cada tercera esquina, un grupo de músicos — un varón Valagost con un tambor, una mujer humana con una flauta de hueso, dos niños mestizos con cascabeles en los tobillos — tocaba algo bailable. Había gente bailando en mitad de la calle sin que a nadie le sorprendiera. Dos mujeres viejas cantaban una canción de barco a la puerta de una taberna. Un chico tiraba dados contra una pared. Tres hombres borrachos discutían sobre el pescado del día sin llegar a pelearse.
 
 Olía a todo a la vez. A fritura de aceite caliente, a vino de segunda, a cuerpo de gente que había trabajado y que ahora descansaba con el calor del día metido en la ropa, a especia fermentando en los puestos que seguían abiertos, a humo de leña de las cocinas.
 
-Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. Nadie la miró dos veces. Una mujer Naggar de túnica oscura a las diez de la noche en Nerath era una mujer Naggar de túnica oscura. Eris agradeció, sin ponerle palabra, esa indiferencia.
+Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. Nadie la miró dos veces. En Helisil eso no pasaba nunca. Lo agradeció sin ponerle palabra.
 
 Dos calles más abajo, en un callejón interior del barrio de los tintoreros — más silencioso que la avenida, menos fiesta y más oficios cerrando puertas —, un olor distinto la detuvo.
 
@@ -42,13 +42,13 @@ Había dos salas. La de delante, dos mesas pequeñas. Un cliente solo terminaba 
 
 Un hombre salió por esa puerta con un trapo al hombro.
 
-Humano de unos cuarenta años, complexión media, manos grandes, una cicatriz fina atravesándole la ceja izquierda. Vestía blanco — no el blanco inmaculado del Larien, sino el blanco gastado de quien pasa doce horas al día sobre una cocina. Se limpió las manos en el delantal.
+Humano de unos cuarenta años, complexión media, manos grandes, una cicatriz fina atravesándole la ceja izquierda. Vestía blanco — no el blanco inmaculado del Larien, sino el blanco gastado de quien pasa doce horas al día sobre una cocina. Las manos, en cambio, impecables.
 
 La miró una vez.
 
 La midió en medio segundo.
 
-—¿Cenamos.
+—¿Cenamos?
 
 Fue una frase sin cortesía extra y sin sorpresa. La hizo como se le haría a alguien al que se estuviera esperando sin saber desde cuándo.
 
@@ -68,7 +68,7 @@ Le señaló la mesa del fondo, la pegada a la pared. Eris se sentó. Dejó la ca
 
 —Eris.
 
-No preguntó si era Eldara. No preguntó si era Naggar. No preguntó si estaba de paso. No preguntó si era comandante. Entró en la cocina.
+No preguntó de dónde venía. No preguntó si esperaba a alguien. No preguntó nada más. Entró en la cocina.
 
 Eris se quedó en la mesa con las manos sobre la madera. La madera estaba tibia, por el uso. Los hombros, sin armadura encima se le hacían ligeros y descansados. La cabeza, por primera vez en horas, no tenía *tum tum*.
 
@@ -80,21 +80,29 @@ Era bueno.
 
 El primer plato llegó rápido. Un trozo pequeño de pescado crudo sobre una hoja, bañado en cítrico claro y un polvo rojo muy fino. La porción entera cabía en dos bocados. Elerian lo puso delante de Eris sin consultar. Se fue.
 
-Eris probó.
+Pescado crudo. Eris se quedó un segundo con los dos dedos sobre la mesa. Pescado crudo enfermaba a quien se lo comía, salvo que el cocinero supiera lo que hacía. Olió. La curiosidad le ganó al recelo. Probó.
 
 El pescado se deshizo en la boca. El cítrico abría y el polvo rojo dejaba, detrás, un calor corto y seco. A Eris le dio hambre de golpe. No la había tenido al entrar. La tenía ahora.
 
-El segundo plato vino en una taza pequeña. Caldo tibio, verde oscuro, una rodaja flotando de algo que olía a mantequilla fundida. Cuando Elerian le puso la taza, la rodaja quedaba colocada concretamente hacia la derecha — el lado por el que Eris tomaba la cuchara.
+El segundo plato vino en una taza pequeña. Caldo tibio, verde oscuro, una rodaja flotando de algo que olía a mantequilla fundida. Elerian le puso la taza delante con cuidado. La miró un segundo.
 
-Eris la cogió.
+—Hace meses que no tomas grasa que no venga de ración.
 
-—¿Diestra? — preguntó Elerian, muy bajo, sin detenerse.
+No era una pregunta.
 
-—Hum, sí.
+Eris levantó la ceja medio milímetro otra vez.
 
-—Me lo parecía.
+—Algunos.
 
-Siguió a la cocina.
+—Sal en la piel. Cuerpo seco. Comes para moverte, no para quedarte. Pan duro, legumbre, fruto seco. Nada verde, nada blando, nada lento. El caldo es por eso — hojas amargas y mantequilla. Lo que el cuerpo te pide y nadie te ofrece hace tiempo.
+
+Eris no contestó.
+
+—Naggar de campaña, no Naggar de palacio. Los de palacio comen sentados horas. Fruta del día, especia rara, pan blanco, varios vinos en la misma cena. Tú comes como quien va a levantarse al rato.
+
+Volvió a la cocina.
+
+Eris se quedó con la taza entre las manos. La mantequilla se abría sobre el verde en una espiral lenta. El hambre del primer plato no se había ido; se había puesto encima del día entero y había hecho fondo. La habían leído sin pedirle nada a cambio. No estaba acostumbrada. Bebió.
 
 Eris bebió el caldo. Era un caldo común de cualquier casa humana — algas, hueso de pescado, grasa de mantequilla — pero había algo debajo, una técnica o una especia que no subía del todo y sin embargo convertía cada cucharada en una distinta de la anterior. A la cuarta cucharada, Eris se dio cuenta de que había dejado de contar las cucharadas.
 
@@ -104,7 +112,7 @@ La taza quedó vacía antes de que lo hubiera decidido.
 
 El tercer plato fue una flor comestible, rellena. Abierta en forma de estrella, el relleno de una pasta suave que olía vagamente a jardín. Cuando Elerian la puso, le ajustó la flor un cuarto de giro con dos dedos para que el pétalo más oscuro le quedara en frente. Tampoco la miró al hacerlo.
 
-Eris comió la flor. Sabía a jardín, y también a un recuerdo de algo — un aceite, una hierba — que no terminó de colocar.
+Eris comió la flor. La primera capa fue dulce — un dulce mineral, casi de hierba seca, que cedía rápido. Debajo, el relleno era distinto: una pasta verde oscura con cuerpo de aceite y trocitos de algo que parecía almendra cruda, muy fina. Olía a jardín en el primer mordisco; sabía a jardín en el segundo. Al tercero, en el fondo de la lengua, le subió un amargor pequeño, vegetal, casi de anís — un amargor que cerraba bien, que no se quedaba —. Y debajo del amargor, escondido, un aceite y una hierba que la lengua reconoció antes que la cabeza. No terminó de colocarlos.
 
 Elerian se quedó entonces en la puerta de la cocina, con el trapo al hombro, mirándola.
 
@@ -112,11 +120,27 @@ No como quien observa a un cliente. Como quien lee un libro que ya sabía que ib
 
 Eris se dio cuenta.
 
-El cliente del cuenco pagó, salió. No había nadie más en la sala que ellos dos.
+El cliente del cuenco pagó, salió. La puerta de la calle se cerró tras él con un clic seco. No quedaba nadie más en la sala que ellos dos.
 
-Eris podría haber parado el juego. No lo paró. La lectura no era invasiva — era atenta. Y hacía mucho que nadie la leía así.
+La lectura siguió. Eris la dejó seguir.
 
-Elerian entró otra vez en la cocina y volvió con la cuarta bandeja.
+Elerian no se acercó. Se apoyó en el quicio con un hombro, se cruzó de brazos sin prisa, y la siguió mirando como quien deja descansar al lector entre capítulos. Los ojos no le bajaban a la mesa ni le subían al techo: se quedaban donde tenían que quedarse, en ella, sin pedir nada. La cicatriz fina de la ceja le brillaba un punto a la luz de las dos velas.
+
+Eris le devolvió la mirada. La sostuvo. Le notó el peso de los ojos en sitios distintos — primero en los suyos, después en la línea del cuello, después otra vez en los suyos. Paciente. No invasivo.
+
+Por dentro, sin avisar, algo se le aflojó.
+
+No era cansancio. Era lo contrario del cansancio. Estaba cómoda. La palabra le vino despacio y la sorprendió antes de calmarla — estar cómoda con un desconocido, sin armadura encima, no era una situación que se le diera. Aquí estaba.
+
+Elerian cambió el peso del hombro. No se acercó. Tampoco se alejó. La distancia entre los dos siguió siendo la de la sala, pero la había hecho un grado más corta con el gesto. Era oficio puro.
+
+Eris notó que sonreía. Borró la sonrisa antes de que llegara a los labios.
+
+Demasiado tarde — Elerian la había visto.
+
+No comentó. Descruzó los brazos. Volvió a la cocina.
+
+Volvió con la cuarta bandeja.
 
 ---
 
@@ -126,35 +150,45 @@ Lo puso delante de Eris.
 
 —Este es de mi casa. No está en la carta. Lo cocino para mí cuando no tengo ganas de cocinar para nadie.
 
-Eris lo miró.
+Eris lo miró. El caldo era oscuro, casi marrón. Olía a cebolla cocida hasta la dulzura y a una raíz tostada por debajo. La corteza del pan era gruesa.
 
-—¿Por qué me lo sirves.
+—He cenado hace cuatro horas en la casa de huéspedes —dijo Eris—. Y aún así tengo hambre.
+
+—El pescado. El cítrico te abre la boca; te hace salivar antes de tragar. La carne cruda tiene una densidad de sabor que la cocción rebaja siempre — la lengua la lee y avisa al estómago. Y el polvo rojo es chile seco fermentado dos veranos: te calienta dentro de las mejillas y te abre el flujo del estómago. Tres mecanismos gritando que necesitas saciarte. Si los combinas bien, el cuerpo cree que ha empezado a cenar y reclama el resto. 
+
+Eris no contestó al principio. Por dentro, otra cosa: él hablaba de comida como ella hablaba de lanza. Mismo tono. Misma seriedad sin alarde.
+
+—¿Y este?
+
+—Este no funciona con trucos. Lo cocino para mí. Por eso te lo doy ahora, separado.
+
+—¿Por qué a mí?
 
 Elerian se tomó un segundo.
 
-—Porque has entrado con cara de haber comido mal durante una semana. Y porque la cara era exacta.
+—Cocino igual cuando entra alguien que cuando no entra nadie. Pero pocas veces entra alguien al que le venga bien la harina negra. Esta noche has entrado tú.
 
 Eris no contestó. Rompió el pan.
 
 ---
 
-La mano se le quedó un segundo más del que correspondía sobre la corteza. La harina era negra, igual que la harina negra. El olor subía igual que subía el olor. Rompió otro trozo. Se lo llevó a la boca.
+La mano se le quedó un segundo más del que correspondía sobre la corteza. La harina era oscura y de grano grueso. El olor subía caliente. Llevó el primer trozo a la boca.
 
 Fue un segundo.
 
 Fue más que un segundo.
 
-*Itsu. La casa de tres habitaciones. El asedio del séptimo año. Tenía ocho años y el hambre era una cosa que se quedaba debajo del esternón y no se iba por mucho que tomaras agua. Estaba sentada en el suelo con los dos gemelos y el tercer hermano alrededor de la mesa baja. La madre partía el pan en cuatro trozos desiguales con las dos manos, siempre con las dos manos, nunca con un cuchillo, y siempre el trozo más grande para el que ese día hubiera caminado más. Esa noche le tocó a Eris. Había ido al pozo dos veces. La madre le puso el trozo más grande en el cuenco sin mirarla y le dijo no mastiques rápido. Eris no masticó rápido. Masticó tan despacio como se acordaba de haber masticado en su vida.*
+No fue un recuerdo. No vino una imagen. Vino una sensación — algo bajo, antiguo, que la lengua reconoció sin que la cabeza supiera de dónde. Una temperatura. Una manera de estar pequeña en una mesa baja sin tener miedo. El olor a leña apagándose en una habitación cerrada. Un cuerpo grande al lado del suyo, sin nombre. La sensación ocupó dos respiraciones y se fue por debajo del esternón a alguna parte que Eris no controlaba.
 
-*La madre no cenó esa noche. Dijo que no tenía hambre. A los tres días, la madre no dijo nada.*
+Volvió en sí con el segundo trozo de pan a medio llevar a la boca. Tenía los ojos un grado más húmedos de lo que estaban cuando había roto la corteza. No iba a llorar. Pero el cuerpo había decidido marcar el sitio igual.
 
-Eris volvió en sí con el segundo trozo de pan a medio llevar a la boca. Elerian, enfrente, no se había movido. No intentó ayudar. No dijo *¿estás bien?* No cometió ese error.
+Elerian, enfrente, no se había movido. No intentó ayudar. No dijo *¿estás bien?* No cometió ese error.
 
 Esperó.
 
 Eris tragó. Cogió la cuchara. Hundió la cuchara en el caldo y la sacó. Se la llevó a la boca.
 
-El caldo sabía al caldo. Habas, carne vieja, un poco de hierba, un poco de humo. Nada mágico. Nada canalizado. Era comida que alguien había cocinado con intención exacta.
+No tenía secreto. Cebolla larga, raíz, una hierba tostada al fondo. Nada mágico. Nada canalizado. Era comida que alguien había cocinado con intención exacta.
 
 Eso era lo imposible.
 
@@ -162,13 +196,13 @@ Dejó la cuchara.
 
 Miró a Elerian.
 
-—¿Cómo has sabido.
+—¿Cómo...
 
-—No lo he sabido. Lo he olido en ti al pasar el pan.
+—Lo he olido en ti al pasar el pan.
 
-—¿Olido qué.
+—¿Olido el qué?
 
-—Algo viejo. Algo que se curaba con pan negro y no con nada más.
+—Algo viejo. Algo que se calmaba con pan negro y con nada más.
 
 Eris no contestó enseguida.
 
@@ -176,7 +210,9 @@ Eris no contestó enseguida.
 
 —Sé leer a quien come.
 
-—Es parecido.
+Eris levantó los ojos de la taza. Le sostuvo la mirada un instante más largo. Detrás de los ojos de Elerian no había halago — había oficio. Y Eris conocía ese oficio por dentro: era el mismo con el que ella leía un cuerpo antes de levantar la lanza.
+
+—¿Crees que están relacionados?
 
 —Es lo mismo.
 
@@ -184,47 +220,43 @@ Se quedaron un momento en silencio. Eris se dio cuenta de que las dos velas se h
 
 ---
 
-—¿Trabajas mucho por la noche —preguntó Eris al cabo.
+—¿Trabajas hasta muy tarde? —preguntó Eris al cabo. Elerian levantó una ceja, una insinuación de sonrisa.
 
 —No. Pensaba cerrar antes de que entraras.
 
-—¿Lo dices con reproche.
+Eris dejó asomar una media sonrisa.
+
+—¿Lo dices con reproche?
 
 —Lo digo sin reproche. La puerta estaba entornada porque la dejé entornada.
 
-—¿La dejas entornada todas las noches.
+—¿La dejas entornada todas las noches?
 
-—A veces.
+—Solo a veces.
 
-Eris no preguntó qué decidía *a veces*. Elerian no lo iba a contar.
+Eris no preguntó cuándo.
 
-—Otro plato —dijo Elerian de pronto.
+—Un último plato —dijo Elerian de pronto.
 
-—Otro plato.
+—Último plato —asintió Eris.
 
-Se levantó, volvió a la cocina, volvió con un pastelillo pequeño, claro, del tamaño de una nuez, sobre una hoja. Lo puso al lado del cuenco. No se sentó.
+Se levantó, volvió a la cocina, volvió con un pastelillo pequeño, claro, del tamaño de una nuez, sobre una hoja oscura. Lo puso al lado del cuenco. No se sentó.
 
-—Este lo pruebas y te quedas un rato más, o te vas.
+—Podrías terminarlo e irte. O podrías quedarte un rato más. — Una pausa mínima —. Lo dulce pide calma. Si te lo comes rápido, lo habré hecho para nadie.
 
-Eris lo miró. El pastelillo brillaba ligeramente con algún aceite fino.
+Eris lo miró. El pastelillo brillaba con un aceite fino, casi ámbar, que le rodeaba la base. Olía levemente — flor seca, miel oscura, algo herbal por debajo que Eris no supo colocar.
 
-—¿Por qué la regla.
+No preguntó nada. Lo cogió con dos dedos. Se lo llevó a la boca.
 
-—Porque es dulce. Lo dulce se come con calma o no se come. Si te lo comes rápido y te vas, lo habré cocinado para alguien que no quería estar aquí.
+Se deshizo en la lengua. Dulce primero, denso, profundo. Después, en la base de la lengua, un amargor largo — pero el amargor no era amargor a secas: tenía un calor por debajo que le bajó por la garganta y se le instaló en el pecho. La respiración se le hizo un grado más lenta. Apoyó la mano en la mesa.
 
-—Y si me lo como despacio.
+El amargor seguía. El calor también.
 
-—Entonces querías estar aquí.
+Eris dejó pasar los dos hasta el fondo antes de levantar los ojos.
 
-Eris se tomó un segundo. Lo cogió con dos dedos. Se lo llevó a la boca.
+—Me quedo.
 
-Se deshizo. Dulce primero. Amargo después, en la base de la lengua — largo, el amargor. No se fue.
-
-Dejó pasar el amargor entero antes de levantar los ojos.
-
-—Me quedo un rato más.
-
-—Ya.
+Elerian asintió despacio. Una sonrisa pequeña, calmada, le cruzó la cara.
 
 ---
 
@@ -234,27 +266,29 @@ Elerian cerró la puerta de la calle y echó el cerrojo. Apagó una de las dos v
 
 Eris no pensó en razones.
 
-Subieron por una escalera estrecha a los aposentos del cocinero sobre el local. Eran el tamaño de un vagón de Arteria — una mesa, dos sillas, una cocina pequeña, una cama baja contra la pared, una estantería con libros gastados. Una ventana cerrada sobre la calle de los tintoreros. Dos velas encendidas. Olía a madera caliente.
+Subieron por una escalera estrecha a los aposentos del cocinero sobre el local. Era pequeño — una mesa, dos sillas, una cocina pequeña, una cama baja contra la pared, una estantería con libros gastados. Una ventana cerrada sobre la calle de los tintoreros. Dos velas encendidas. Olía a madera caliente.
 
 Elerian cerró la puerta detrás de ella. No puso cerrojo. No hacía falta.
 
-—¿Vino.
+El cuarto era pequeño y pesado de oficio. La mesa estaba ocupada por dos cuadernos abiertos, las páginas cubiertas con la letra apretada de alguien que no escribía para nadie más; al lado, un mortero de piedra negra con una pasta verde a medio moler, una balanza pequeña con dos platillos de cobre, un manojo de hierbas atadas con hilo. En la pared del fondo, una estantería con tarros de cristal de tamaños distintos, llenos de líquidos de colores que iban del ámbar al rojo a un verde casi negro; del listón de arriba colgaban paquetes de hierba seca y dos pieles cítricas curvadas como medias lunas oscuras. Olía a madera caliente y a una especia muy lenta que Eris no supo colocar.
 
-—Vino.
+Elerian sirvió una copa y se la dio. No preguntó. Era un vino ligero, el mismo que quizá le habría servido abajo si ella se hubiera quedado cenando más.
 
-Sirvió una copa, se la dio. Eris bebió un sorbo. Era un vino ligero, el mismo que quizá le habría servido abajo si ella se hubiera quedado cenando más.
+Eris bebió un sorbo. Pasó la mirada por la mesa. La mirada no se le quedaba quieta.
 
-—Sabía que ibas a entrar.
+—¿Qué hay en los tarros.
 
-—No lo sabías.
+—Pruebas. Cosas que aún no funcionan. Un vinagre de flor que tarda dos años en abrirse. Un aceite de pez del este que el pez sólo da en otoño. Un fermento de raíz que sabe a tierra hasta que deja de saber a tierra. Las apunto cada semana. Las abro cuando les toca.
 
-—Lo sospechaba desde que oí la puerta.
+—¿Y los cuadernos.
+
+—Recetas que no he servido. Notas de cosas que comí en sitios sin mapa. Antes los tenía en orden. Ya no.
 
 —¿Por qué.
 
-—La empujaste como quien ha empujado puertas de otros países.
+—Porque si los ordeno, dejo de añadirles cosas.
 
-Eris rió muy poco. Un escape corto por la nariz. La primera risa entera en dos días.
+Eris asintió un grado. Esa la entendía. Elerian la dejó moverse por el cuarto. No la seguía con los ojos. Ya la había mirado abajo.
 
 Elerian cogió la copa de Eris sin pedirla, la dejó en la mesa, con cuidado de que no se volcara. Le puso dos dedos bajo el mentón — uno en cada lado — y le levantó apenas la cara. No con fuerza. Con el mismo gesto medido.
 
@@ -270,49 +304,87 @@ Se acercó ella primero.
 
 ---
 
-Fue largo sin ser lento. No hablaron mucho. La túnica oscura se abrochaba en el hombro con un único cierre, y bajaba con un solo gesto; Elerian lo hizo con la misma precisión con la que había ajustado la flor — como si la tela también hubiera sido un plato, y él lo hubiera ajustado ya mentalmente antes de tocarlo. Era la primera vez en mucho tiempo que alguien le quitaba la ropa a Eris sin que hubiera sido ella la que había acabado de desarmarse antes. Eso le ocupó un momento más de lo que esperaba. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
+Fue largo sin ser lento. No hablaron mucho. La túnica oscura se abrochaba en el hombro con un único cierre, y bajaba con un solo gesto; Elerian lo hizo con la misma precisión con la que había ajustado la flor — como si la tela también hubiera sido un plato, y él lo hubiera ajustado ya mentalmente antes de tocarlo. Después el resto fue igual de medido — manos grandes, tibias, que leían como habían leído el pescado y el caldo. Eris dejó que la leyeran. Le devolvió la lectura con la suya — distinta, menos gastada, más directa. A Elerian no le incomodó.
 
-La cama era baja, dura. La luz, baja también. Las dos velas al fondo se consumieron un cuarto.
+La cama era baja, dura. La luz, baja también. Las dos velas al fondo se consumieron poco a poco.
 
-Eris no pensó en Itsu. No pensó en Valdara. No pensó en Faree, ni en el rey, ni en el kretus del norte del Orsila, ni en Theim en el vestuario de gladiadores. Pensó en un cuerpo que había olvidado cómo se sentía ser un cuerpo entero, y dejó de pensar también eso después de un rato. Hubo un momento — un momento solo — en el que algo se soltó por debajo de la espalda y Eris se sorprendió de que todavía supiera hacer eso.
+Eris no pensó en Itsu. No pensó en Valdara. No pensó en Faree, ni en Theim... Pensó en un cuerpo que había olvidado cómo se sentía ser un cuerpo entero, y dejó de pensar también eso después de un rato. Hubo un momento — un momento solo — en el que algo se soltó bajo el pecho y Eris se sorprendió de que todavía supiera hacer eso.
 
 Elerian no habló durante. Tampoco después inmediatamente.
 
 Quedaron después en silencio un rato.
 
-—Te vas al amanecer —dijo Elerian, no como pregunta.
+Elerian se incorporó a medias en la cama. Las sábanas le quedaron por debajo de la cadera. Torso al aire — delgado, fibroso, las costillas marcadas, una cicatriz vieja le cruzaba el costado derecho desde la cintura hasta el pecho. Eris la leyó. Larga. Limpia. De cuchillo, no de espada.
 
-—Sí.
+Sacó del cajón de la mesita una bolsa de tela y un papel fino. Lió un cigarrillo con dos dedos — la misma precisión con la que ajustaba flores y caldos, sin mirar las manos. Lo cerró con la lengua. Lo encendió en la vela.
 
-—Ya.
+El humo subió fino al techo bajo. La habitación olió a una hierba seca y dulzona, con un fondo terroso por debajo.
 
-Otro silencio.
+Eris se levantó de la cama desnuda. Caminó descalza por el cuarto, las cicatrices finas de la espalda y los muslos a la luz de las velas, los tatuajes grises de las manos siguiendo cada gesto. Volvió a la mesa de los cuadernos. Pasó los dedos por encima sin abrirlo. Miró un tarro pequeño, ámbar, con una semilla negra flotando dentro. Olió uno de los manojos de hierba seca. Inclinó un grado los platillos de la balanza con el aire al pasar.
 
-—Gracias —dijo Eris. Era la primera palabra que Eris había dicho desde que había aceptado la copa.
+Por dentro decidió algo sin nombrarlo. Elerian no era un cocinero más. Era un hombre peculiar, con un nivel de exigencia que Eris reconocía desde el suyo. Talento. Memoria larga. Curiosidad como motor.
 
-—No me las des. Estuvimos los dos.
+Volvió a la cama. Se sentó al borde. Estiró la mano.
 
-—Ya.
+Elerian le tendió el cigarrillo.
 
-—Duerme un rato. La despierto.
+Eris aspiró una vez. Sin tragar profundo. La hierba le bajó tibia. Dejó atrás un sabor a tierra y una nota pequeña, ácida, que no colocó.
 
-—No hace falta. No duermo.
+Devolvió el cigarrillo.
 
-—Entonces descansa.
+Al volver la cabeza hacia Elerian, pasó por delante del espejo pequeño de marco oscuro que había sobre la cómoda baja. Se vio sin querer. Se detuvo.
 
-Eris cerró los ojos.
+Los iris.
 
-No durmió. Pero descansó. Que era otra cosa.
+Azules. Saturados. Brillantes. Los dos.
+
+La cabeza hizo la cuenta en silencio. Ojos azules. **Haiz**.
+
+Se giró hacia Elerian. Lentamente.
+
+—¿Sabes qué llevas en eso.
+
+—Sé.
+
+—¿Y lo das así.
+
+—A casi nadie. A ti, esta noche.
+
+—¿Por qué.
+
+—Porque tu cuerpo lo aguanta. Una calada, dos. No más. No te abre el puente. Te abre los ojos un rato.
+
+Eris no contestó enseguida. La quietud de Elerian le quitó algo de filo a la cosa. No estaba mintiendo. No estaba pidiendo nada.
+
+Eris se miró otra vez en el espejo. El azul de los iris seguía. No era brillante de ataque — era brillante de luz tranquila.
+
+Aceptó el azul. Por hoy.
 
 ---
 
-Se levantó antes del alba. Eran las cuatro y media de la mañana en el pequeño reloj de madera que había sobre la estantería. El cielo por la ventana seguía negro pero con un azul muy bajo debajo que anunciaba el cambio.
+Sin prisa, se vistió. La túnica primero, la capa después. Elerian se quedó en la cama con las sábanas a la cadera, mirándola vestirse sin ofrecer ayuda ni pedir nada.
 
-Se vistió sola. Elerian había dejado la túnica y la capa dobladas sobre la silla, como se deja la ropa de un invitado al que se respeta. Eris se vistió en dos movimientos y se echó la capa por encima.
+Eris se acercó a la ventana del cuarto. Pequeña, con postigo de madera. Lo abrió con cuidado.
 
-Elerian dormía todavía. Era un sueño profundo, tranquilo — el sueño de un hombre que ha hecho bien su trabajo del día. Eris lo miró un segundo. Sin sentimentalismo. Sin afecto excesivo. Con una especie de respeto técnico que era todo lo que la escena admitía.
+Nerath estaba todavía oscuro. Pero no del todo. El cielo del este, hacia el río, tenía ya un azul más bajo que el negro de las horas anteriores. En dos horas amanecería. En tres los Naggar estarían levantados. En cuatro saldrían al Orio.
 
-Salió sin hacer ruido. La puerta de arriba, en vez de cerrarse con golpe, se cerró por peso, suave. Bajó la escalera. La puerta de la calle estaba cerrada con el cerrojo echado; Eris tardó cuatro segundos en abrirla por dentro y dejarla igual al salir.
+Eris cerró el postigo. Se volvió hacia Elerian.
+
+—Tengo que volver.
+
+—Lo sé.
+
+—Espero que sigas encontrando los sabores adecuados. Los que aún no funcionan también.
+
+Elerian asintió un grado. La sonrisa pequeña, calmada, le volvió a la cara y se quedó.
+
+—Me ha gustado tu sabor, Eris.
+
+Eris sonrió. Esta vez la dejó llegar.
+
+---
+
+Salió sin hacer ruido. La puerta de arriba, en vez de cerrarse con golpe, se cerró por peso, suave. Bajó la escalera. La puerta de la calle estaba cerrada con el cerrojo echado; Eris tardó unos segundos en abrirla por dentro y dejarla igual al salir.
 
 Nerath a esa hora olía distinto. Olía a ceniza de horno recién apagado, a agua fría. Aún no olía a día.
 
@@ -320,12 +392,10 @@ Cruzó hasta la casa de huéspedes por los tejados. Seis tejados, igual que la i
 
 O sí se había movido. Cuando Eris entró, él abrió los ojos un instante, la vio, los cerró otra vez. No preguntó. No iba a preguntar.
 
-Ese gesto, ese no-preguntar, fue lo único que a Eris le dio ganas de llorar esa noche.
-
-No lloró.
+Ese gesto, ese no-preguntar, le pesó más que ninguna otra cosa del día. Más que las palabras indirectas de Faree en el patio. Más que el coliseo y los tres cuerpos en la arena. Más que Theim en la plaza y sus ojos rojos. Más que el sabor del pan negro. Más que el azul de sus propios iris en el espejo de Elerian. Más que el postigo y la cuenta atrás del cielo al otro lado. Aquellas cosas las sabía gestionar — eran lanza, eran disciplina, eran oficio. El no-preguntar de Haris era cuidado. Eris se emocionó. Lo sintió subir a la garganta y detrás de los ojos. No lloró.
 
 Se quitó la capa. Se acostó en la cama sin haberlo pretendido. La armadura seguía ordenada sobre la silla del cuarto donde la había dejado horas antes, el yelmo encima, como si hubiera estado esperando a que volviera a ocuparla.
 
-Fuera, en algún tejado de Nerath, un perro ladraba una sola vez cada veinte segundos.
+Fuera, en algún callejón de Nerath, un perro ladraba una sola vez cada veinte segundos.
 
-Salían al Orio a las siete y cuarto.
+No tardó ni dos ladridos en dormirse profundamente.
