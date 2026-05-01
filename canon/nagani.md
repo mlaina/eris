@@ -43,6 +43,7 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 - **Sira, rilan** — fórmula.
 - **Tisar lisel, nel irisar, risana lir. Liran, nel senal.** — frase completa canónica (traducción precisa por fijar durante escritura, pero usar tal cual en momentos solemnes).
 - **Lirana** — despedida ritual entre Eldara. Equivalente aproximado a *cuidaos / vivid / que volváis*. Raíz **lir-** (vinculada a permanencia/vida, presente también en *Liran*) + sufijo plural **-na**. Lo dice un Eldara de rango a sus hombres cuando los deja en una posición de riesgo y se separa de ellos. La respuesta canónica es repetir la palabra con el vocativo de respeto: *Lirana, Kalari* (cap 8 — Eris a Therel y Nerei al dejarlos en el Orio de Nerath).
+- **Liran** — singular de *Lirana*. Deseo ritual de buena marcha entre Naggar de rango: *que vivas / buena suerte / vuelve entera*. Raíz **lir-** (permanencia/vida) sin sufijo plural. Se intercambia entre pares al despedirse antes de una operación: *Liran, Kalari* / *Liran, Virim* (cap 9 — Virim despide a Eris antes de la misión 135). El uso es recíproco — el rango más bajo lo devuelve con el vocativo del más alto, o viceversa. Más íntima que *Ilare*, más militar que cualquier despedida cortesana. No se usa con humanos.
 
 ## Títulos
 
