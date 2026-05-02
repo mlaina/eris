@@ -62,9 +62,24 @@
 
 ### Principio general del diálogo Eldara
 
-Los Eldara hablan entre sí con **una o dos palabras por frase**. No es frialdad — es **densidad**. La Nexalita ya transmite el contexto, la emoción, el referente; la voz sólo pronuncia el nombre del tema, la orden, la confirmación.
+Los Eldara hablan entre sí con **una o dos palabras por frase** — pero **sólo en operación**. No es frialdad — es **densidad**. La Nexalita ya transmite el contexto, la emoción, el referente; la voz sólo pronuncia el nombre del tema, la orden, la confirmación.
 
 Es **orgullo de cuerpo militar**: *"no malgastamos aliento. El aliento es para las cosas que cuestan."* (Lorin). Ver `canon/sistemas/nexalita.md`.
+
+**Crítico — la compresión es de misión, no de toda interacción Eldara**:
+
+- **En operación (campo, asalto, infiltración, marcha tensa)**: frases mínimas, órdenes directas, sin pronombres ni conectores. *"Pareja al muro sur." / "Sí." / "Iretha." / "Iretha."*
+- **Fuera de operación (despacho, cuartel, conversación tras misión, banter en armero, audiencia en palacio)**: prosa **más fluida y normal**, con pronombres, conectores y subordinadas cortas. Sigue siendo sobria y sin retórica, pero **no comprimida hasta el telegrama**. La voz Eldara fuera del campo se relaja un grado.
+
+**Mal** (compresión radical fuera de misión, suena forzado):
+> *—Lo digo en sala cerrada. Lo digo a ti.*
+> *—Asunto del rey.*
+
+**Bien** (compresión moderada fuera de misión, fluida sin perder sobriedad):
+> *—Te lo digo en sala cerrada, Virim. A ti, no fuera.*
+> *—Es asunto del rey.*
+
+Si dudas: ¿estarías diciendo esa frase en el campo, en mitad de una infiltración silenciosa, con la Nexalita compensando lo que callas? Si sí, déjala mínima. Si no — si están sentados en un despacho, en un banco, en un tejado — naturaliza un grado.
 
 **Entre Eldara se tutean**: el registro es **tú / vosotros**, nunca *usted / ustedes*. La jerarquía (comandante / segundo / joven) existe en el vocativo (Kalari), en el silencio y en la Nexalita, no en la distancia gramatical. El *usted* queda para el trato Eldara ↔ corte (Lyris, Faree), Eldara ↔ civil humano (oficial de Valdara), y cualquier cruce ceremonial fuera del cuerpo.
 
@@ -136,6 +151,58 @@ Los Naggar de Helisil se enorgullecen **de lo contrario**: soltura, retórica, s
 - **No moralizar** — mostrar, no decir.
 - **No cursilerías épicas**: Eris no suelta discursos heroicos. Sus decisiones se ven en acción.
 - **No detalles gráficos gratuitos de violencia** — la violencia es precisa, contenida, pero **nunca desdramatizada**.
+
+## Regla crítica — pivotes en texto, no en subtexto
+
+El tono Sicario tiende a la elipsis, y la elipsis es lo que da ritmo y atmósfera. Pero hay un riesgo: si **todos** los pivotes morales, las revelaciones y las decisiones se quedan entre líneas, el lector pasa por encima sin que el peso aterrice, y la tragedia se desvanece.
+
+**Regla operativa**:
+
+- **Subtexto** para el ritmo, la atmósfera, la psicología lateral. Cómo se mueve un personaje, cómo cierra una puerta, qué no mira, qué no contesta.
+- **Texto explícito** para los pivotes — revelaciones, confrontaciones, decisiones morales, momentos donde un personaje cruza una línea, nombra algo que antes no podía nombrar, o registra una contradicción interna que cambia su arco. Esos se dicen al menos una vez con palabras claras, aunque las frases sigan siendo cortas y Eldara.
+
+**El criterio**: lo que define el arco se nombra. Lo decorativo se calla.
+
+**Ejemplos de pivotes que deben decirse** (no agotar la lista):
+- *"Hemos matado niños, Kalari." / "Lo sé."* — Haris a Eris tras Iretha. La cosa que pasó tiene que tener nombre dentro del texto.
+- *"¿Qué estamos haciendo."* — pregunta interior de Eris en el patio del cortijo. Aterriza la grieta política sin que la voz narrativa explique nada.
+- *"Quien firma, mata. La lanza, no."* — Muoro le ofrece a Eris la lectura operativa. Eris la rechaza dentro: *"El chico estaba en el suelo. La mano que firmaba, no."* — esto se dice, no se infiere.
+
+**Ejemplos de lo que se queda en subtexto** (no todo se dice):
+- Que Illia culpa a Eris por la muerte de Ravys. Lo apuntan Eris y Haris una vez ("Te culpa." / "Lo sé."), pero su silencio en la marcha de vuelta y en la ceremonia hace el peso. No se vuelve a explicar.
+- Que el cuaderno guarda algo que Eris todavía no entiende. Se dice una vez ("Todavía no lo sé."), después el peso del zurrón hace el trabajo.
+- Que Lyris está protegiendo a Lirae. Insinuado en Cap 2. No se confirma hasta Acto IV.
+
+**Cuándo dudar**: si en una escena pasa algo que cambia el arco de Eris (o de otro POV puntual) y el lector tendría que **inferirlo** de cómo alguien apoya el escudo o cómo cierra una puerta — entonces no, hay que decirlo. Una frase corta. Eldara, Sicario, sin retórica. Pero dicha.
+
+Esta regla **no** convierte la prosa en explicativa. Convierte la elipsis en herramienta consciente: se calla lo que se quiere callar, se dice lo que tiene que pesar.
+
+### Afino — cadena causal + consecuencia concreta
+
+Cuando un personaje justifica una decisión pivote, **no basta con que la nombre**. Tiene que decir **la cadena causal y la consecuencia concreta**, no la metáfora resumida. La consecuencia tiene que tener cara, edad, sitio — algo que el lector ya haya visto en escena.
+
+**Ejemplo, mismo pivote, tres versiones — sólo la tercera funciona** (Cap 9, Eris justifica a Haris por qué retiene el cuaderno con la red de Nyree):
+
+V1, subtexto puro:
+> —Lo de las familias va aparte.
+> —¿Aparte dónde.
+> —Aparte conmigo.
+
+→ El lector tiene que adivinar qué teme Eris. Pasa por encima.
+
+V2, pivote nombrado pero abstracto:
+> —¿Por qué.
+> —Porque sube y deja de ser mío. Y todavía tiene que ser mío.
+
+→ Eris nombra que retiene, pero no por qué. Suena bien, pero el motor moral no aterriza. Es metáfora.
+
+V3, cadena + consecuencia concreta:
+> —¿Por qué.
+> —Porque si entra, Virim lo sube a Faree. Y Faree manda otra operación con los nombres de la lista. Otro cortijo. Otras familias. Otros niños con lanza saliendo del sótano. Yo no voy a entrar en otra Iretha hasta saber qué hemos hecho en esta.
+
+→ Cadena (Virim → Faree → orden), consecuencia concreta (otro cortijo, otras familias, **otros niños con lanza saliendo del sótano** — eco visual directo de lo que el lector acaba de leer), decisión nombrada (no entrar en otra hasta entender ésta).
+
+**La frase puede ser más larga que el Eldara medio** si el pivote lo necesita. Eldara comprimido es regla por defecto, no obligación absoluta. En un pivote, el personaje rompe brevemente la compresión para que la decisión quede dicha. Después vuelve al imperativo.
 
 ## Regla crítica — nunca prosa de ficha
 

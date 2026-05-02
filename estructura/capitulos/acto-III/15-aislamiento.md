@@ -2,7 +2,7 @@
 
 Los días siguientes pasaron por fuera.
 
-Eris hacía la ronda de las ocho. Comía con el escuadrón en el refectorio común. Firmaba los partes de Virim. Revisaba el armero con Muoro. Entrenaba lanza una hora al atardecer con los gemelos. Se iba a dormir a las once.
+Eris hacía la ronda de las ocho. Comía con el escuadrón en el refectorio común. Firmaba los partes de Aluren. Revisaba el armero con Muoro. Entrenaba lanza una hora al atardecer con los gemelos. Se iba a dormir a las once.
 
 Por dentro no pasaban los días. Por dentro era la misma hora, la misma cámara bajo el palacio, las mismas manos del rey en el agua.
 
@@ -64,15 +64,15 @@ Cinco días sin convocatoria era aviso.
 
 Eris lo entendió como tal.
 
-El sexto día, Virim le pasó una nota de puño de Lyris. Dos líneas: *"El rey recibe en privado. Mañana al mediodía. Sola."*
+El sexto día, Aluren le pasó una nota de puño de Lyris. Dos líneas: *"El rey recibe en privado. Mañana al mediodía. Sola."*
 
 —¿Mañana al mediodía.
 
-—Mañana al mediodía —repitió Virim—. Sola.
+—Mañana al mediodía —repitió Aluren—. Sola.
 
 —Bien.
 
-Virim la miró un segundo más del necesario. No dijo nada.
+Aluren la miró un segundo más del necesario. No dijo nada.
 
 Eris no dijo nada.
 

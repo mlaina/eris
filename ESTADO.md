@@ -1,14 +1,32 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-04-20. **LIBRO COMPLETO EN BORRADOR — 22 capítulos escritos.**
+**Última sesión**: 2026-05-02.
 
-- **Acto I** (caps 1–4): ✅ validado.
-- **Acto II** (caps 5–10): cap 5 ✅ validado, cap 6 ✅ validado tras retoques, caps 7–10 retocados esta sesión (pendiente relectura final).
-- **Acto III** (caps 11–15): escritos esta sesión, primera pasada.
-- **Acto IV** (caps 16–19): escritos esta sesión, primera pasada.
-- **Acto V** (caps 20–22): escritos esta sesión, primera pasada.
+- **Acto I** (caps 1–4): ✅ validado en sesiones previas. (Pequeñas propuestas pendientes en `draft/revision-pivotes-actos-I-II.md` para revisión global futura.) Cap 4 con un cambio mecánico pendiente (dormitorio común → corredor de los cuartos) que requiere revisión de Marcos antes de aplicar.
+- **Acto II**:
+  - Caps 5, 6, 7, 8: ✅ validados en sesiones previas. **No tocados esta sesión.** Propuestas para futura revisión global en `draft/revision-pivotes-actos-I-II.md`.
+  - Cap 9: 🔄 reescrito en sesión actual desde "El cortijo sí." en adelante. **Pendiente de relectura completa de Marcos antes de validación.**
+  - Cap 10: 🔄 reescrito en sesión actual (Lirae escéptica, Erion=niño-prodigio, Eris no planea bajar). **Pendiente de relectura completa antes de validación.**
+- **Acto III** (caps 11–15): rediseño completo en `draft/acto-III-rediseno.md`. Cambios mecánicos aplicados (Virim→Aluren) en caps 11, 12, 15 — pero **toda la estructura va a reescribirse**. Cap 13 reescrito esta sesión desde cero (descenso accidental al lago, descubrimiento del tritón). Caps 11, 12, 14, 15 quedan **a reescribir** según el rediseño cuando se llegue el momento.
+- **Acto IV** (caps 16–19): primera pasada. Caps 16-17 con cambios mecánicos aplicados esta sesión (dormitorio común → cuarto, etc.). Pendientes caps 18-19 para próxima sesión. **Pendiente relectura de Marcos antes de validación.**
+- **Acto V** (caps 20–22): primera pasada, sin retocar todavía.
 
-**Siguiente paso**: relectura global de Marcos y Q&A para sesión 2026-04-21. Ver `Q&A-marcos-2026-04-20.md`.
+**Estado al cierre de la sesión actual (2026-05-02)**:
+- Cap 9: reescrito a fondo. Pendiente relectura.
+- Cap 10: reescrito a fondo. Pendiente relectura.
+- Cap 13: reescrito desde cero. Pendiente relectura.
+- Cap 16: retoques mecánicos. Pendiente relectura.
+- Cap 17: retoques mecánicos. Pendiente relectura.
+- Cap 11, 12, 15: cambios mecánicos (Virim→Aluren) — pero todo el Acto III se reescribirá según `draft/acto-III-rediseno.md` después de terminar Acto IV-V.
+- Reglas nuevas en `estilo/tono.md`: pivotes en texto, cadena causal+consecuencia, compresión Eldara solo en operación.
+- Canon nuevo: Aluren con 10.000 soldados, Erion = niño-prodigio Mirisar innato.
+- Drafts creados: `draft/revision-pivotes-actos-I-II.md`, `draft/acto-III-rediseno.md`.
+
+**Próxima sesión — siguiente paso**:
+1. Relectura por Marcos de los caps reescritos (9, 10, 13, 16, 17).
+2. Continuar Acto IV con caps 18-19.
+3. Acto V (caps 20-22).
+4. Acto III al final, partiendo del rediseño en draft.
 
 **Decisiones grandes tomadas esta sesión** (detalle completo en Q&A):
 - Velerian aparece sólo en cap 22 (sin siembra previa).
@@ -28,6 +46,41 @@
 - Cap 8: quitado "efecto del tritón" — Eris no debía saberlo aún.
 - Cap 9: "Globo" → "Glóbulo" / "tramo de Arteria interceptado".
 - Canon Nagani: "Lisar" fijado = avanzar.
+
+**Cap 9 — cambios mayores aplicados (sesión 2026-05-02)**:
+- Reescrito desde "El cortijo sí." en adelante.
+- **Sirel → Ravys** (cambio del muerto a uno de los gemelos; siembra de rencor silencioso de Illia para Acto V).
+- **Virim → Aluren** en el rol operativo militar (canon: Aluren general del ejército regular, ~10.000 soldados, interfaz operativa con Eris). Aplicado también a caps 10, 11, 12, 15, 16, 17. Cap 5 mantiene Virim (rol diplomático correcto en grada).
+- **Estrategia operativa clarificada**: infiltración previa de Haris en el cortijo (sube como trabajador de paso al alba), pinza desde el este, columna visible por el sur, parejas de muro cerrando.
+- **Sin arcos ni flechas ni ballestas** — sólo lanzas, escudos y dagas. Aplicado al combate del cortijo y al equipamiento Eldara general.
+- **Muoro lleva lanza, no hoz**.
+- **El plan se rompe** porque del sótano sale una segunda escalera con ~14 más: mujeres, adolescentes, ancianas con lanza. La defensa del cortijo era trabajo asignado por turnos (canon que aparece en el cuaderno: columna "segunda mano").
+- **Pausa de Eris = infravaloración** del crío de 14 años con lanza, no eco fraternal. Lee al chico como blanco a neutralizar, no a matar. Baja la lanza dos dedos. La lanza del chico pasa por encima del hombro derecho y entra por la gola de Ravys.
+- **Contraste Muoro / Eris en pleno combate**: Muoro reajusta antes que el resto y mata a las "civiles" armadas sin distinción ("el que viene con lanza, va abajo"); Eris paraliza-pero-no-abre. Los dos lo notan sin mirarse.
+- **Muoro habla** después en el patio justificando la situación: *"Les lavan la cabeza. Les dan una lanza. Los mandan a pelear contra nosotros. Quien firma, mata. La lanza, no."* Ofrece a Eris una lectura operativa que ella no puede coger.
+- **Cuaderno con red de Nyree** ahora se guarda en un **zurrón al hombro**, no dentro de la guerrera.
+- **Diálogo Eris-Haris en la marcha de vuelta** rehecho con regla "pivote nombrado": Eris articula explícitamente que retiene el cuaderno porque, si sube, Aluren lo manda a Faree y Faree manda otra Iretha.
+- **Despacho de Aluren**: Eris se desata contra el informe falso, Aluren la pone en su sitio sin levantar la voz pero concede que la guardia local de Iretha es suya y va a mirar. Aparece la línea de los **diez mil soldados** vs los quince Eldara de Eris. Cierre en lo no dicho: el cuaderno se queda en el zurrón.
+- **Patio nocturno final** rehecho: Haris ancla con dato nuevo (la lleva viendo así desde la Plaza Ocre, no desde Nerath). Eris se permite articular ("Yo creía que era una cosa nueva." / "Es vieja. Lo nuevo es que ahora la nombras."). Cierre físico: Haris se queda en el banco del patio del armero (descrito ahora con dimensión: 30 pasos de lado, columnata, banco al fondo). Eris da vueltas al perímetro hasta el amanecer porque el *tum* le sube cuando está quieta.
+
+**Cap 9 — pendiente para próxima revisión**:
+- Releer entero con Marcos en frío.
+- Verificar que la conversación del despacho con Aluren no haya quedado demasiado larga / demasiado discursiva.
+- Ver si la línea de los diez mil soldados encaja o queda pegada.
+- Ver si el patio del armero (descripción nueva) se queda o se simplifica.
+
+**Reglas estilísticas nuevas fijadas en `estilo/tono.md` esta sesión**:
+- **Pivotes en texto, no en subtexto** (sección crítica). Lo que define el arco se nombra; lo decorativo se calla.
+- **Afino — cadena causal + consecuencia concreta**: en pivotes, el personaje dice la cadena causal y la consecuencia con eco visual de algo ya visto. Ejemplo V1/V2/V3 del cap 9 documentado.
+- **Compresión Eldara: en operación, no fuera**. En despacho, cuartel, banco — prosa más fluida con pronombres y conectores. La compresión radical (1-2 palabras) es de campo, no de toda interacción Eldara.
+
+**Archivos creados esta sesión**:
+- `draft/revision-pivotes-actos-I-II.md` — propuestas de cambios para caps 1-8 con pivotes que están demasiado en subtexto. **No aplicar todavía** — para próxima ronda de revisión global con Marcos.
+- `draft/cap-9-idea-gemelos.md` — apunte previo (idea de cambiar Sirel por uno de los gemelos), ya aplicado.
+
+**Canon actualizado esta sesión**:
+- `canon/personajes/manos-de-coria.md` — Aluren precisado a 10.000 soldados + sección sobre cadena operativa con el Cuerpo Eldara.
+- `estilo/tono.md` — tres nuevas reglas (ver arriba).
 
 **Archivos nuevos esta sesión**:
 - 12 archivos de capítulo en `estructura/capitulos/acto-III/`, `acto-IV/`, `acto-V/`.
@@ -177,8 +230,8 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 | 6 | `estructura/capitulos/acto-II/06-nurn-dia.md` | 🔄 **En revisión ahora** — Nurn día: llegada + coliseo + Maelor + afrenta Theim-Maelor en vestuario de gladiadores. |
 | 7 | `estructura/capitulos/acto-II/07-cena-elerian.md` | ✅ **Validado** (sesión 2026-05-01). Cena con Elerian rehecha: cinco platos con Eris siendo leída sin pedirle nada, sensación olvidada (no recuerdo) con el pan negro, pastelillo afrodisíaco, intimidad, cigarrillo de Haiz con iris azules en espejo, despedida épica ("Sigue encontrando sabores. Los que aún no funcionan también" / "Me ha gustado tu sabor, Eris"), Eris se emociona al final por el no-preguntar de Haris. |
 | 8 | `estructura/capitulos/acto-II/08-atentado.md` | ✅ **Validado** (sesión 2026-05-01). Reescrito desde cero. Desayuno con embajadores de Nerath (uno y una) + delegados Naggar (uno y una). Eris cansada por la noche con Elerian. Calle de los tintoreros con doble luz. Cuatro atacantes (caza-recompensas / disidentes locales, no Silmarita): Haris intercepta al primero en el callejón con la lanza; Ravys alerta del arquero del tejado; Kroma para la flecha al rey; Lyris apaga la calle y va marcando uno a uno a Theim. Los dos primeros mueren en oscuridad (sólo sonido). El último — el arquero — Lyris lo deja iluminado: corte de piernas en la oscuridad, Theim entra detrás de la hoja, garganta lenta con gorgoteo cruel. Faree pide a la Kalari dos hombres en el Orio para investigación; Eris elige Therel y Nerei. En Lorin, Haris comenta el sadismo de Theim (contraste con Maelor); Eris se permite un segundo de cercanía y la quita. |
-| 9 | `estructura/capitulos/acto-II/09-mision-135.md` | 🔄 **Parcialmente validado** (sesión 2026-05-02): briefing con Virim + diálogo con Muoro (siembra del nombre **Nyree** desde el Mirisar de Indra) + marcha de dos días a pie hasta la frontera con Nurn + reconocimiento desde la loma, **validado hasta "El cortijo sí."** Pendiente: asalto, pausa de medio segundo, muerte de Sirel (⚠️ **revisar idea pendiente**: cambiar la baja por uno de los gemelos — ver `draft/cap-9-idea-gemelos.md`), descubrimiento de civiles que son familias y cartas firmadas por Nyree, choque moral de Eris ("¿Qué estamos haciendo"), vuelta, ceremonia, parte a Virim, patio nocturno con Haris, tum tum y caminata hasta el amanecer. Cambios canónicos: Eldara no montan a caballo; operación en frontera Nurn/Coria sin Arteria; civiles son familias de los miembros de la red; Nyree conecta el Mirisar de Indra (cap 1) con la red del cortijo (cap 9). |
-| 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | ⏳ Pendiente. Tum tum se hace Helisil; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |
+| 9 | `estructura/capitulos/acto-II/09-mision-135.md` | 🔶 **Validado a medias** (sesión 2026-05-02). Reescrito completo desde "El cortijo sí." en adelante con cambios canónicos importantes (ver abajo). **Necesita una pasada más de revisión cuando Marcos lo relea con calma**. |
+| 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | 🔄 **En revisión ahora** (siguiente). Pendiente: ajustar Sirel→Ravys, Virim→Aluren ya aplicado mecánicamente. Tum tum se hace Helisil; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |
 
 ---
 

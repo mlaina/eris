@@ -6,7 +6,7 @@ No llevaban armadura Eldara completa — sólo la armadura ligera de infiltraci�
 
 Eris llevaba todavía la Nexalita en la nuca. Haris también. Las dos al mínimo.
 
-Salieron sin despedirse. No dieron parte. Muoro dormía en el dormitorio común — o fingía dormir, Eris no lo sabría nunca —. Virim no estaba. El cuartel entero estaba en la pauta de las diez y cuarto, que era la pauta a la que Eris había calculado la salida desde que había firmado con los dedos el *pronto* en la galería de los cedros cuatro días antes.
+Salieron sin despedirse. No dieron parte. Muoro dormía en su cuarto — o fingía dormir, Eris no lo sabría nunca —. Aluren no estaba. El cuartel entero estaba en la pauta de las diez y cuarto, que era la pauta a la que Eris había calculado la salida desde que había firmado con los dedos el *pronto* en la galería de los cedros cuatro días antes.
 
 Cruzaron Lorin por calles menores. No les vio nadie.
 

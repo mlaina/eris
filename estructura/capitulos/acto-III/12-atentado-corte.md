@@ -2,7 +2,7 @@
 
 La recepción a la delegación de Loroa se celebraba al día siguiente por la tarde.
 
-Eris lo supo esa misma mañana por el parte que pegó Virim en el tablón del patio del armero. *Escolta Eldara requerida: Kalari más seis. Horario: quince horas, Salón de las Palmas. Ropa: servicio, sin peinado ceremonial.*
+Eris lo supo esa misma mañana por el parte que pegó Aluren en el tablón del patio del armero. *Escolta Eldara requerida: Kalari más seis. Horario: quince horas, Salón de las Palmas. Ropa: servicio, sin peinado ceremonial.*
 
 El resto de los tres días de permiso quedaban diferidos otra vez.
 

@@ -1,11 +1,13 @@
-# El niño prodigio
+# Erion — el niño prodigio
 
-⚠️ **Nombre pendiente de decidir con Marcos.** Personaje potencialmente clave de Acto III o posterior.
+**Nombre fijado: Erion.** (Sesión 2026-05-02). Personaje potencialmente clave de Acto III o posterior.
 
 ## Identidad
 
+- **Nombre**: Erion.
 - **Raza**: humano.
-- **Edad**: niño (entre 6 y 12 años aproximadamente — afinar con Marcos).
+- **Edad**: niño (~10 años — afinar con Marcos si hace falta).
+- **Aspecto**: rubio claro, túnica gris de la Sandrie. Ojos **azul profundo cristalino** — distinto del azul saturado del Haiz activo en Mirisar adultos. Su azul es de nacimiento, no de droga.
 - **Estatus**: único caso vivo de Mirisar **nacido con el puente abierto** al Poisé.
 - **Madre**: consumidora de Haiz durante el embarazo. Murió o sobrevivió — **pendiente**.
 - **Padre**: desconocido o sin relevancia por ahora — **pendiente**.
@@ -40,7 +42,13 @@ Opciones abiertas. No está fijada.
 
 ## Notas para la escritura
 
-- No darle nombre hasta que Marcos lo decida. En borradores, referirse como **"el niño"**, **"el prodigio"**, **"el huérfano de la Sandrie"** o similar.
-- Si aparece en escena: **los ojos antes que nada**. Azul profundo, demasiado profundo para un niño humano.
+- Llamarlo **Erion** o **el niño** según contexto.
+- Si aparece en escena: **los ojos antes que nada**. Azul profundo, cristalino, demasiado profundo para un niño humano. Distinto del azul saturado de los Mirisar Haiz en activo.
 - Voz pequeña, gestos controlados, extraña calma de quien sabe cosas. Evitar cliché de "niño espeluznante".
 - La relación con Lirae es de tutora/tutelado con ternura. Lirae lo trata con cuidado, sin condescendencia.
+- **Tiene una facilidad pasmosa para combinar formas a la vez** — la marca canónica del prodigio. Levitar mientras sostiene esferas lumínicas de distintos colores; mover una corriente térmica mientras hace flotar un objeto; etc. Para cualquier otro Mirisar esto requeriría décadas. Para él es distracción.
+
+## Apariciones canónicas
+
+- **Cap 10** (sesión 2026-05-02): Eris se cruza con él en el rellano del segundo piso de Norel a las cuatro de la mañana. Está levitando cruzado de piernas, rodeado de seis esferas lumínicas pequeñas en órbita, una de cada color (azul, rojo, ámbar, verde, violeta, blanco). Al ver a Eris, baja, las apaga y se aparta. Eris registra: *"Gravedad y luz a la vez. Un niño. Solo en el rellano. A las cuatro de la mañana."* Lo conoce por nombre — Lirae se lo había mencionado alguna noche sin subrayarlo. Erion vuelve a aparecer al final del cap, a la salida, leyendo un libro en el rellano del primero — gesto cotidiano de niño, contraste con la primera escena.
+- **Cap 14** (primera pasada): Eris vuelve a Norel buscando a Lirae. Erion no está. Dato narrativo: Lirae le pide en cap 14 *"Cuida a Erion."* — lo que sitúa a Erion bajo la sombra de la persecución a Lirae cuando llegue.

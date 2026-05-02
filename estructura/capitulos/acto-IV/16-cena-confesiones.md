@@ -2,7 +2,7 @@
 
 A las cinco y media de la tarde, un escriba real bajó a Lorin con un sobre.
 
-Lo trajo en mano. No lo dejó en el tablón. No lo dejó con Virim. Lo entregó en persona a la Kalari, en el patio del armero, con la reverencia exacta que correspondía al rango. Tenía la túnica gris de la casa, el lacre rojo de Kiral Ree, el sello de Lyris.
+Lo trajo en mano. No lo dejó en el tablón. No lo dejó con Aluren. Lo entregó en persona a la Kalari, en el patio del armero, con la reverencia exacta que correspondía al rango. Tenía la túnica gris de la casa, el lacre rojo de Kiral Ree, el sello de Lyris.
 
 Eris lo abrió con los dedos secos.
 
@@ -30,7 +30,7 @@ Eris asintió muy poco.
 
 —*Vamos.*
 
-Haris se levantó del banco. Fue al dormitorio común a cambiarse. Salió a los diez minutos con la armadura limpia, el yelmo bajo el brazo.
+Haris se levantó del banco. Fue a su cuarto a cambiarse y al armero por la armadura limpia. Salió a los diez minutos con el yelmo bajo el brazo.
 
 Eris había hecho lo mismo.
 
@@ -224,7 +224,7 @@ Daerin asintió muy poco.
 
 Faree bebió. Dejó la copa.
 
-—Un rey carga el peso de todo eso, Kalari. Sin decirlo. Porque decirlo lo debilitaría. Yo llevo carga desde antes de que usted naciera. Usted lleva carga desde hace cuatro siglos, por lo que me ha contado Virim, que es poco. Entendemos algo del peso usted y yo que muy poca gente entiende.
+—Un rey carga el peso de todo eso, Kalari. Sin decirlo. Porque decirlo lo debilitaría. Yo llevo carga desde antes de que usted naciera. Usted lleva carga desde hace cuatro siglos, por lo que me ha contado Aluren, que es poco. Entendemos algo del peso usted y yo que muy poca gente entiende.
 
 Eris asintió muy poco.
 
@@ -360,13 +360,13 @@ Muoro miró a Haris. Haris se quedó a dos pasos.
 
 —Muoro.
 
-—Virim me ha pedido una cosa. Quiere que mañana al mediodía la acompañe yo al palacio. A llevar la respuesta de la Kalari al rey.
+—Aluren me ha pedido una cosa. Quiere que mañana al mediodía la acompañe yo al palacio. A llevar la respuesta de la Kalari al rey.
 
 Eris asintió muy poco.
 
-—Virim —repitió.
+—Aluren —repitió.
 
-—Virim. Hoy. Hace media hora.
+—Aluren. Hoy. Hace media hora.
 
 Eris se tomó un segundo.
 
@@ -386,7 +386,7 @@ Muoro tardó en contestar.
 
 —Tú también.
 
-Muoro se dio la vuelta. Se fue al dormitorio común.
+Muoro se dio la vuelta. Se fue a su cuarto.
 
 Eris y Haris se quedaron solos en el patio.
 
@@ -394,7 +394,7 @@ Eris miró el cielo. Había nubes del oeste. La luna estaría baja esa noche.
 
 Haris, muy bajo:
 
-—*Virim ya sabe.*
+—*Aluren ya sabe.*
 
 —*Sí.*
 

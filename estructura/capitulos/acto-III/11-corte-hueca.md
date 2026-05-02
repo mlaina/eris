@@ -1,6 +1,6 @@
 # Capítulo 11 — La corte hueca
 
-Virim le concedió los tres días. Pero no los de esa semana.
+Aluren le concedió los tres días. Pero no los de esa semana.
 
 —Pasado mañana —dijo—. Hay función de corte. Requerida. Iralen ha preguntado por usted. También Daerin. Después de la función, coja los tres días.
 
@@ -8,7 +8,7 @@ Virim le concedió los tres días. Pero no los de esa semana.
 
 —No es reproche, Kalari. El rey también le ha preguntado.
 
-Eris no contestó. Salió del despacho interior con la sensación, nueva, de que cada frase del palacio llevaba pegada otra frase debajo. Lo que Virim había dicho era exacto. Lo que había querido decir también. Eran dos frases distintas y coincidían sólo por arriba.
+Eris no contestó. Salió del despacho interior con la sensación, nueva, de que cada frase del palacio llevaba pegada otra frase debajo. Lo que Aluren había dicho era exacto. Lo que había querido decir también. Eran dos frases distintas y coincidían sólo por arriba.
 
 ---
 

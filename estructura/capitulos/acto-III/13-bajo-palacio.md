@@ -1,315 +1,255 @@
 # Capítulo 13 — Bajo el palacio
 
-Entraron a Kiral Ree por la puerta de servicio del ala norte a la hora en que los sirvientes menores cambiaban de turno.
+A la una de la madrugada, Eris bajó al jardín de Kiral Ree porque no podía estar en el cuarto.
 
-Era una ventana de diez minutos. El servicio de noche se retiraba al dormitorio común del sótano norte; el de madrugada no llegaba hasta pasadas las dos. Entre medias, los corredores auxiliares quedaban en una vigilancia mínima — dos Anvur en los puntos de vigía altos, tres humanos a las puertas principales, ningún Eldara. Los Eldara de guardia nocturna hacían rondas largas, no fijas.
+Llevaba tres horas dando vueltas en una cama del ala sur — el cuarto de Mano que el palacio le había asignado por la reunión que había terminado tarde —. El *tum tum*, esa noche, venía con más cuerpo del que había venido nunca. Salir al aire libre era recurso pobre. Era lo que tenía.
 
-Eris y Haris lo sabían. Llevaban armadura negra, yelmo, escudo oblongo a la espalda, lanza corta — la de infiltración, no la ceremonial —, dos dagas cruzadas en lumbar. Capa de noche sin insignia. La tela de la capa era de las que los Eldara llamaban *sin ojo* — no absorbía luz pero la repartía en vez de devolverla, y de lejos lo hacía a uno más un bulto que un cuerpo.
+Una Mano podía caminar por los jardines de Kiral Ree a cualquier hora. A la una, no caminaba ninguna. Eris cruzó la columnata de los robles, pasó al patio de las palmeras pequeñas, tomó el sendero de grava que rodeaba el estanque ornamental. La luna casi llena daba la luz justa para que el camino se viera sin lámpara. Las cascadas, al oeste, sonaban muy bajo.
 
-La Nexalita iba a mínimo. Las dos. Entre ellos había sólo el canal directo; el escuadrón no recibía nada. Cada pulso era un suspiro.
-
-Cruzaron el corredor de los tapices a las dos menos diez. No había nadie.
+A los quince minutos vio al rey.
 
 ---
 
-El corredor del ala oeste arrancaba después del tercer patio interior, pasado el refectorio menor. Era un pasillo estrecho, alto, con las paredes revestidas de una piedra más vieja que la del resto del palacio — Eris no había sabido nunca por qué. Se decía que el ala oeste había sido fortín antes de que se levantara Kiral Ree alrededor. Las piedras de ese pasillo, decía la leyenda, eran de entonces. Tenían la textura correcta: mano tosca, sin pulir, con pequeñas marcas de cantero que el tiempo había redondeado.
+Faree caminaba solo por el sendero de grava de la otra margen del estanque. Llevaba una capa oscura, sin distintivo. En la mano derecha, una antorcha pequeña sin encender. En la otra, nada. Caminaba al paso normal del que va a un sitio.
 
-La cuarta puerta contada desde la escalera baja era una puerta pequeña de madera, sin manija grande. En su lugar, un tirador de hierro simple. El nicho del lado izquierdo, descrito en la hoja, estaba ahí — un hueco en la pared de medio metro de profundidad, cubierto por una cortina de lino grueso color arena. Quien no hubiera sabido, habría pasado de largo.
+A esa hora, sin escolta, el rey no debía caminar solo por el jardín.
 
-Eris apartó la cortina.
+Eris se detuvo.
 
-Detrás había una escalera.
+Lo primero que pensó fue saludar. Cien años de reflejo. *Majestad.* Una reverencia mínima. Después seguir su rumbo y dejar al rey con el suyo.
 
-Diez peldaños, estrechos, de piedra igualmente vieja, descendiendo en curva cerrada. Al fondo, oscuridad.
+No saludó.
 
-Eris miró a Haris. Haris asintió.
+Lo que la frenó fue cuerpo, no cabeza. El rey caminaba como quien no quiere ser visto. Capa cerrada al cuello. Antorcha sin encender. Sin gestos pequeños, sin hablarse a sí mismo, sin nada de lo que hacía Faree cuando creía que nadie lo miraba — ese rey de allí, en el jardín, caminaba para no ser visto.
 
-Bajaron.
+Eris se quedó quieta detrás del tronco grueso del primer roble.
 
----
-
-Al pie de la escalera, la luz del corredor de arriba llegaba en forma de medio sombra. Haris había cogido de Lorin una lámpara pequeña de aceite, de las de ronda, y la encendió al pie del último peldaño. La llama era débil. Bastaba.
-
-Estaban en un túnel. Piedra igual que la de arriba pero más tosca. El techo bajo — Haris, al ser más alto, tenía que ir ligeramente encogido. El suelo irregular. La temperatura había bajado dos grados.
-
-Avanzaron.
-
-No había vigilancia. Eris lo anotó con la parte del cuerpo que anota esas cosas por oficio. No tenía sentido. Por debajo de un palacio real, a cincuenta metros de la sala del trono, debería haber al menos un Anvur apostado. No había nadie.
-
-*Nadie pone guardia en lo que no cree que se puede encontrar.*
-
-Lo pensó y lo dejó.
-
-Después de unos veinticinco pasos, el túnel empezó a bajar suavemente. No era escalera — era pendiente. Seguía bajando. El aire olía a humedad, a piedra mojada. Había un olor ligeramente metálico al fondo que Eris no supo nombrar.
-
-A los cuarenta pasos, el *tum tum* se hizo continuo.
-
-No eran dos golpes espaciados. Era frecuencia. Como de motor muy grande trabajando muy lento. El cuerpo lo sentía antes que el oído. Eris lo notó en los tobillos, en las rodillas, en el esternón. Haris también — apretó un instante la mano libre contra el pecho. Nexalita, muy baja:
-
-—*¿Lo notas.*
-
-—*Lo noto.*
-
-—*Ya.*
-
-Siguieron.
-
-A los sesenta pasos el túnel hizo una curva a la izquierda y se abrió.
+Faree pasó a quince pasos, sin verla.
 
 ---
 
-No se abrió mucho. Se abrió lo justo para que hubiera, delante de ellos, un pequeño vestíbulo de piedra con una abertura más grande al fondo. La abertura era un arco bajo, de un metro cincuenta de altura, rematado por una clave ovalada oscura. A los dos lados del arco, dos bancos de piedra gastados por el uso — alguien se había sentado ahí muchas veces.
+Cruzó el estanque por la pasarela pequeña del fondo, la que llevaba al jardín de las rosas viejas — un sector cerrado, sin uso —. Eris esperó que se alejara veinte pasos. Salió del roble. Le siguió.
 
-Y delante del arco, a un metro, había algo.
+No le siguió por curiosidad.
 
-Era una línea invisible.
+Le siguió por oficio. Una Mano de Coria que ve al rey caminando solo y sin escolta a la una de la madrugada por una zona muerta del jardín no se vuelve a la cama. Le sigue. Por si necesita cobertura. Por si pasa algo. La cabeza Eldara se cerró sobre eso con la facilidad de un cierre conocido — *vigilancia*. No era espiar. Era proteger.
 
-Eris lo supo porque Haris, que iba medio paso por delante, extendió la mano y la mano se detuvo en el aire como si tocara un vidrio. No había vidrio. El aire era aire. Pero la mano no pasaba.
+Eris registró el matiz. Lo dejó.
 
-Haris apartó los dedos. Los miró. Los puso otra vez contra la línea. Empujó. El brazo quedó tieso como si lo empujara contra un muro.
+El jardín de las rosas viejas estaba al final de una avenida estrecha entre setos altos. Eris cruzó con paso corto, sin hacer ruido. Llegó al final de los setos.
 
-—*Foco.* — Eris, por la Nexalita—. *Gravitatorio. Antiguo.*
-
-—*Entonces abajo es por algo.*
-
-—*Sí.*
-
-Eris recordó la regla que Lirae le había recitado la noche de su primer encuentro en Norel. Un dedo, un foco. Y cuantos más focos sostuviera un Mirisar, menos vería. Pero este foco no era de un Mirisar vivo. Era una canalización fija, anclada — *congelada*, había dicho Lirae una vez, refiriéndose a las que los Mirisar viejos dejaban en lugares sagrados antes de morir, para que siguieran haciendo su trabajo siglos después. Estaba ahí. Tiraba hacia fuera, no hacia dentro. No dejaba entrar.
-
-Pero entraba sonido. El *tum tum* venía de detrás.
-
-Y entraba vista.
-
-A la altura del arco, a un lado, había un hueco pequeño en la piedra — un respiradero viejo, cuadrado, del tamaño de la palma de una mano. No estaba al mismo nivel que el arco. Estaba un metro más arriba, al lado.
-
-Eris se acercó al respiradero. Se puso de puntillas.
-
-Miró.
+Había perdido al rey.
 
 ---
 
-Vio agua.
+El jardín de las rosas viejas era un cuadrado de unos treinta pasos por lado. Setos por tres lados. Por el cuarto, una pared rocosa de piedra natural — uno de los afloramientos sobre los que se había construido Kiral Ree, dejado ahí como decoración rústica —. La pared rocosa subía dos metros. No tenía paso visible.
 
-Lo primero que se veía era agua. No era un charco, ni una fuente — era una extensión amplia, negra, quieta. Un lago. Bajo el palacio había un lago. Lirae llevaba meses midiendo la masa de ese lago sin saber que era un lago.
+Eris no veía a Faree.
 
-La luz dentro de la cámara no venía de arriba. No había tragaluz. No había antorcha. La luz venía del agua misma — una fosforescencia muy baja, más gris que blanca, que subía por la superficie en ondas muy lentas. No era intensa. Bastaba para que se viera lo que había alrededor.
+Comprobó con un paso corto cada esquina del jardín. Vacío. La pasarela del estanque ya estaba detrás. La avenida de los setos también. El rey había entrado en el jardín. El jardín no tenía otra salida.
 
-Alrededor del lago, un piso de piedra labrada. Antigua, muy antigua, con marcas espirales grabadas en el suelo — las mismas que tenía tatuadas Theim en los brazos, pero más grandes. Espirales dobles. Había muchas — docenas —, distribuidas en un patrón que Eris no había visto nunca pero que se parecía, muy vagamente, a la disposición de dos lunas y un sol.
+A no ser que la pared rocosa la tuviera.
 
-Al borde del lago, frente por frente al arco por donde habrían entrado si hubieran podido, estaba **Faree**.
+Eris se acercó.
 
-Estaba solo.
+Entre dos bloques grandes de la roca, casi al ras del suelo, había una abertura. Un agujero estrecho — sesenta centímetros de ancho, no más —, tapado por una mata de zarzales secos. La mata estaba apartada. Alguien acababa de pasar.
 
-De rodillas. La túnica simple. El pelo blanco suelto por la espalda. Sin ornamentos. Sin Kroma, sin Lyris, sin Theim.
+Eris se agachó.
 
-Eris no había visto a Faree solo en ninguna parte del palacio en diez años de servicio. El rey tenía siempre a alguien a un paso. Aquí no tenía a nadie.
-
-Tenía las manos apoyadas en el suelo de piedra, justo encima de una de las espirales grabadas. Los dedos abiertos, como quien se sostiene después de un golpe. La cabeza baja.
-
-El *tum tum* no venía de Faree. Venía del agua.
+Detrás de la abertura no había maleza. Había escalones.
 
 ---
 
-El agua se movió.
+Los escalones eran de piedra basta, no labrada. Más antiguos que el palacio. Eris bajó tres y se detuvo. Sacó el dedo de luz — un Mirisar lumínico de contrato firmado años atrás, con una placa pequeña en el guante interior, que daba una luz amarilla del tamaño de una nuez —. La encendió. La levantó.
 
-No fue ola. No fue ondulación. Fue algo distinto — un desplazamiento por debajo, como cuando algo muy grande cambia de postura bajo una cama. El nivel del agua no bajó. El color cambió un segundo; la fosforescencia baja se apagó y se encendió otra vez, como si una sombra pasara por debajo.
+Diez peldaños. Después un pasaje de piedra natural que se internaba en la roca. Aire fresco, olor a humedad, olor metálico al fondo.
 
-Después se abrió el agua.
+Eris bajó al pie de la escalera.
 
-Eris no supo describir cómo se abrió. No hubo salpicadura. No hubo ruptura. El agua, en un círculo amplio frente a Faree, dejó simplemente de ser agua y fue otra cosa durante unos segundos. Lo que había bajo el agua subió. No por completo. Una parte.
+El pasaje hacía una curva a la derecha. Lo siguió. Diez pasos. Otra abertura.
 
-Vio una forma.
+Eris se detuvo.
 
-Larga. Escamosa. Oscura. La piel no era de pez ni de anguila — era una piel que no existía en Anira, o no existía ya. Reflejaba la poca luz del agua con una superficie que parecía mojada por dentro. El contorno era alargado. Lo que asomaba — porque sólo asomaba una parte — medía unos tres metros. Había más debajo. Cuánto más, imposible decirlo.
+Había llegado a una sala pequeña — una cueva natural, no labrada — con tres pasajes que salían en estrella. Tres caminos.
 
-No era cabeza. Era un tronco — un cuello, un hombro, un trozo de costado —. No vio la cara. No vio los ojos.
+Por uno de los pasajes — el de la izquierda — venía una luz muy débil. No era la suya: era luz de antorcha. Y por el mismo pasaje, lejos, se oía un eco mínimo de pasos.
 
-Pero sintió que la miraban.
+Faree.
+
+Eris apagó el dedo de luz.
+
+Avanzó por el pasaje izquierdo en oscuridad.
 
 ---
 
-Sintió que la miraban, y en ese instante el *tum tum* entró en su cuerpo de una manera nueva.
+El pasaje izquierdo bajaba. La pendiente era pronunciada — no escalera, suelo de roca natural inclinado, irregular —. Eris apoyó la mano izquierda contra la pared para no resbalar. La luz de la antorcha de Faree era un punto naranja cincuenta pasos más adelante, bajando también.
 
-No en el oído. No en el esternón. En el cráneo. Dentro del hueso del cráneo, detrás de los ojos, entre el ojo y el ojo. Los dos golpes del tum entraron ahí a pulso constante — no era doloroso. Era invasivo. Era la sensación de que algo grande había notado que ella existía.
+A los veinte pasos, el *tum tum* dejó de ser ocasional.
 
-Eris separó la frente del respiradero.
+Se hizo continuo.
 
-Haris la sujetó del codo sin pensarlo. La Nexalita al mínimo le llegó:
+No eran dos golpes espaciados. Era frecuencia. Como un motor muy grande trabajando muy lento. El cuerpo lo sentía antes que el oído. Eris lo notó en los tobillos primero. Después en las rodillas. Después en el esternón.
 
-—*¿Qué.*
+Apretó los dientes. Siguió.
 
-—*Espera.*
+A los cuarenta pasos el pasaje se abrió.
 
-Volvió a mirar.
+---
 
-En el lago, la forma se había acercado a Faree. Se movía despacio — no a propulsión, como un pez; se movía como si el agua se apartara por educación delante de ella. Faree levantó la cara. Estaba iluminado por la fosforescencia baja del agua, y la luz le daba un color raro — más gris, más joven, más viejo a la vez.
+La cámara era grande.
 
-Faree habló.
+Una caverna natural, no labrada, con la altura de tres pisos. El techo se perdía arriba en una sombra que la antorcha de Faree no alcanzaba. El suelo, a unos diez pasos del pasaje, bajaba en tres escalones planos hasta un borde de piedra.
 
-Eris oyó.
+Más allá del borde, había agua.
 
-No entendió las palabras. La lengua no era Nagani. No era común. No era ninguna que Eris hubiera escuchado en un siglo de palacio. Era una lengua con sonidos largos, vocales que duraban más de la cuenta, consonantes suaves en el medio. Faree hablaba despacio, con pausas, con ritmo de quien reza o de quien negocia — no de quien manda.
+Un lago.
 
-Fueron unas diez frases. No más.
+No era charco. Era extensión amplia, oscura, quieta. La antorcha de Faree iluminaba sólo los primeros tres metros. Más allá, la oscuridad absoluta. El otro lado del lago — si lo había — no se veía.
 
-La forma en el agua no respondió con sonido. Respondió con el *tum tum*. La frecuencia cambió un momento. Se hizo más baja, más separada. Como un asentir.
+Faree estaba al borde del agua, a unos veinte pasos de Eris. La antorcha en alto. La capa puesta. La cara a tres cuartos hacia el agua.
+
+Eris se metió detrás de unas rocas grandes a la izquierda del pasaje. Se aplastó contra la pared. Cubierta.
+
+Ahora veía.
+
+Y ahora pensaba.
+
+Pensó por primera vez desde que había salido del jardín de las rosas qué estaba haciendo allí. El rey estaba completamente solo en una cueva bajo el palacio. Eso podía ser mil cosas, ninguna buena. Eris debería avisar — si pudiera salir sin ser vista, debería volver a la superficie, dar parte a Aluren, mover guardia, asegurar al rey.
+
+Tomó aire para alzar la voz, antes de que el rey se internase más, y avisarle. *Majestad.* La palabra estaba en la garganta.
+
+Entonces el agua se movió.
+
+---
+
+No fue ola. No fue salpicadura.
+
+El agua, en un círculo amplio frente a Faree, se desplazó por debajo. Como cuando algo grande cambia de postura dentro de un saco. La superficie no se rompió. Sólo se onduló — una vez, lenta —. La luz de la antorcha resbaló por el agua sin penetrar.
+
+Algo subió.
+
+Una cabeza emergió primero. Salió despacio, sin prisa, como quien sale del sueño. La piel — porque era piel, no escama — era oscura, mojada por dentro, con un brillo verdoso que no venía de la antorcha. El cráneo era alargado, sin pelo, sin orejas visibles. La cara — porque era cara, aunque no fuera cara humana — tenía dos ojos abiertos sin párpados. Los ojos no parpadeaban. No se cerraban.
+
+A Eris se le heló la sangre.
+
+No fue figura. Fue químico. El cuerpo Eldara, entrenado a leer amenazas, registró ante esa cara una alarma para la que no tenía palabra. No era hombre. No era animal. No era ninguna de las cosas que Eris había aprendido a matar en cien años. Era algo más antiguo. Algo que estaba ahí desde antes de que hubiera nada.
+
+Eris no se movió.
+
+La voz no le salió de la garganta. La palabra *Majestad* murió en el sitio donde había nacido.
+
+Faree sí se movió.
+
+---
+
+Faree dejó la antorcha clavada entre dos piedras al borde del agua. Se arrodilló. Las dos manos sobre la piedra delante de las rodillas. La cabeza baja.
+
+Levantó la cara después.
+
+Y entonces Eris vio una cosa que prefería no haber visto.
+
+La cara del rey, a la luz de la antorcha, tenía arrugas. Muchas. Más de las que Eris le había visto nunca. Una red fina de pliegues alrededor de la boca, líneas en la frente que en el palacio nunca estaban, los párpados caídos un tono. La piel del cuello, floja. El pelo blanco — el blanco de siempre — más fino, como si hubiera perdido cuerpo. El rey, allí, tenía la cara de un Naggar muy viejo. Mucho más viejo que el rey que Eris conocía.
+
+Faree cerró los ojos.
+
+La cabeza del agua se movió hacia él. No nadó. El agua se apartó por delante con una educación que no era de animal. La cabeza llegó al borde, a un metro de las rodillas de Faree.
+
+Y entonces salió la luz.
+
+No fue antorcha. Fue otra cosa. Una claridad pálida, azulada, sin foco fijo, que subió desde el cuerpo de la criatura y se desbordó hacia adelante. Pasó por encima de Faree como agua. Lo envolvió. Lo cubrió. La capa del rey se llenó de luz por dentro durante un segundo. Después la luz se metió en el cuerpo del rey por el pecho y por la cara.
+
+Faree no se movió.
+
+Cuando la luz se apagó — diez segundos, quizá menos —, las arrugas del rey ya no estaban.
+
+Las raíces del pelo, allí donde el blanco arrancaba en la frente, se vieron negras durante dos segundos. Después gris. Después blancas otra vez, como siempre. Pero las arrugas no volvieron. La piel del cuello había vuelto firme. Los párpados, altos. El rey al que Eris había visto en la audiencia tres días antes había vuelto a la cara.
+
+Faree abrió los ojos.
+
+La criatura, en el agua, hizo un sonido.
+
+---
+
+No fue voz. Fue gorgoteo.
+
+Fue el agua moviéndose dentro de algo grande, en pulsos profundos, vibrantes — como aire empujado por una garganta de tres metros —. La cámara entera se llenó del sonido durante cuatro o cinco segundos. La piedra de las rocas detrás de las que Eris estaba aplastada vibró un instante. La superficie del lago, que había estado quieta, se rizó hasta los bordes.
+
+Y dentro de ese sonido, dentro mismo, Eris oyó por primera vez **el tum tum reconocible**.
+
+No al fondo. No bajo la cabeza. Aquí, claro, fuerte, presente.
+
+*Tum tum.*
+
+*Tum tum.*
+
+Más fuerte que nunca.
+
+Era la criatura.
+
+El tum tum llevaba cien años siendo eso. Eris lo había oído de niña en Itsu. Lo había oído en Valdara. Lo había oído en Helisil. Era el mismo. Siempre había sido el mismo. La cosa de la que venía estaba a veinte pasos de ella.
+
+Eris se aplastó contra la roca con el cuerpo entero. Cerró los ojos un segundo. Volvió a abrirlos. No había cambiado nada en su escondite — la antorcha de Faree seguía clavada al borde, el rey seguía de rodillas, la criatura seguía emergida —, pero lo que oía dentro del cráneo no era ya el tum tum lejano. Era el tum tum de aquí. Detrás de los ojos. Entre el ojo y el ojo.
+
+La cosa había notado que ella existía.
+
+No supo cómo lo supo. Lo supo.
+
+---
+
+Faree habló entonces.
+
+Eris no había oído al rey hablar nunca con ese tono. Ni en audiencia, ni en privado, ni en la Grada. La lengua no era Nagani. No era común. No era ninguna que Eris hubiera escuchado en un siglo de palacio. Era una lengua de vocales largas, consonantes suaves, ritmo de quien negocia con algo más grande que él.
+
+Fueron unas frases. Pocas.
+
+La criatura no respondió con voz. Respondió con el tum tum, otra vez, más bajo, más espaciado. Como un asentir.
 
 Faree inclinó la cabeza.
 
-Metió las dos manos en el agua, hasta los codos, dentro del círculo donde la forma estaba medio emergida. No se lavó. No pescó. Las dejó ahí.
+Después se levantó. Las rodillas no le crujieron — Eris registró eso sin querer registrarlo —. Cogió la antorcha de entre las piedras. Se dio la vuelta hacia el pasaje por el que Eris había entrado.
 
-El agua se encendió muy levemente alrededor de las manos de Faree. La fosforescencia subió dos tonos. Faree cerró los ojos.
-
-Eris vio entonces una cosa que habría preferido no ver.
-
-El pelo del rey, que era blanco desde que Eris lo conocía hace un siglo, cambió de color. No todo. Las raíces. Una franja de dos dedos de ancho alrededor de la cabeza, en la raíz, se volvió **negra**. Después gris. Después blanca otra vez — el blanco volvió a subir por las puntas como siempre había estado. Pero durante tres segundos, las raíces habían sido negras.
-
-La piel de las manos del rey, dentro del agua, perdió un tono de mate y ganó un tono nuevo. No era un efecto de la luz. Era piel nueva.
-
-Faree sacó las manos del agua despacio. La fosforescencia se apagó. La forma se retiró. El agua se volvió a cerrar como un cuchillo que se aparta.
-
-El *tum tum* se quedó pero bajó un grado. Seguía. Siempre seguía.
-
-Faree se levantó. Las rodillas no le crujieron. Estaba, a la vista, más joven de lo que había estado al entrar en la cámara. No mucho — unos años, tal vez cinco — pero los suficientes para que Eris, que llevaba cien años viendo su cara, notara exactamente qué había cambiado: la esquina interna de las cejas, que en Faree siempre había tenido una línea muy fina, había desaparecido.
-
-Faree se volvió hacia el arco.
+Eris dejó de respirar.
 
 ---
 
-Eris se apartó del respiradero antes de que Faree cruzara el umbral. Haris la agarró del brazo, tiró de ella al corredor. Los dos cayeron contra la pared del pasillo, pegados, sin respirar. La llama de la lámpara de Haris había sido apagada ya — él lo había hecho cuando vio lo del agua —, y estaban en oscuridad. Muy al fondo, por el túnel, subía la tenue luz gris del lago cuando alguien acaba de levantarse.
+Faree pasó a tres pasos de las rocas detrás de las que Eris estaba aplastada.
 
-Eris puso los dedos en los labios de Haris. No había que decir nada. Había que no respirar.
+No volvió la cara.
 
-Oyeron los pasos de Faree.
+La antorcha le iluminó una de las botas durante un segundo. La bota era nueva, de cuero blando, sin polvo. Eris la vio sin querer mirarla.
 
-No vinieron en su dirección. Faree cruzó el arco — el foco gravitatorio lo dejó pasar desde dentro, no desde fuera —, se detuvo un segundo en el vestíbulo pequeño, y se fue por otro pasaje, uno que Eris no había notado al entrar, que salía del vestíbulo por el lado contrario.
+Faree subió por el pasaje por donde había bajado.
 
-Había dos salidas de la cámara. La que ellos habían usado — cerrada por el foco gravitatorio al paso — y otra, que Faree tenía. La otra llevaba arriba de un modo que Eris no conocía. Probablemente a los aposentos privados del rey.
+Sus pasos se alejaron. Quince pasos. Veinte. Treinta. Después, silencio del pasaje.
 
-Faree tardó diez segundos en desaparecer. Durante esos diez segundos, Eris y Haris no respiraron.
+La criatura, en el agua, se sumergió despacio. La cabeza desapareció bajo la superficie sin salpicadura. La luz verdosa se atenuó. La fosforescencia bajó un grado. Quedó la oscuridad de la cueva — sin antorcha, sin luz —, y el lago quieto.
 
-Después, silencio.
-
-El *tum tum* seguía. Más bajo. Siempre más bajo.
+Y el tum tum. Más bajo. Constante. Detrás de los ojos.
 
 ---
 
-Subieron.
+Eris esperó cinco minutos enteros antes de moverse.
 
-Subieron por el túnel sin encender la lámpara. El corredor de piedra vieja los acompañó otra vez, pendiente arriba, cuarenta pasos, veinticinco pasos, la curva. Al pie de la escalera, encendieron la lámpara. Subieron los diez peldaños. Eris corrió la cortina detrás de ella al salir.
+Cuando se movió, no encendió el dedo de luz. No quería luz. Subió a tientas por donde había venido, con las manos contra las paredes del pasaje. La cuesta arriba hizo doler el muslo derecho.
 
-En el corredor del ala oeste, la luz del candil de ronda del fondo del pasillo llegaba como una niebla fina.
+Llegó a la sala de los tres pasajes. Subió por la escalera. Salió a la cueva pequeña detrás del jardín de las rosas. Pasó por el agujero entre las dos rocas grandes. La mata de zarzales seguía donde la había encontrado al venir.
 
-No cruzaron a ningún sirviente de madrugada. Era todavía ventana. Salieron de Kiral Ree por la puerta de servicio del ala norte a las dos y cuarenta.
+Eris la volvió a poner exactamente como estaba.
 
-Fuera, Helisil estaba en silencio. Las cascadas, al oeste, sonaban muy bajo. El cielo por encima de las torres blancas tenía ese negro profundo que sólo daba bien cuando no había luna.
+Cruzó el jardín de las rosas a paso normal. Cruzó el patio de las palmeras. Cruzó la columnata de los robles. Salió por la puerta este de Kiral Ree a la una y cuarenta de la madrugada. Bajó por el puente mayor a Lorin sin levantar la mirada. La Nexalita, siempre, al mínimo.
 
-Cruzaron el puente mayor al paso. Los dos con la cara hacia adelante. La Nexalita muy baja. Ninguno habló.
+En Lorin entró por el patio del armero. No despertó a nadie. Cruzó el corredor de los cuartos. Llegó al suyo. Cerró la puerta detrás de ella.
 
----
+Se sentó al borde de la cama.
 
-En Lorin, Eris entró al dormitorio común por la puerta del patio. Haris la siguió. Los otros trece del escuadrón dormían. La lámpara de guardia, encendida siempre, proyectaba las sombras alargadas en las paredes.
+No se quitó la capa. No se quitó las botas. Las manos sobre las rodillas. Los ojos abiertos.
 
-Eris llegó a su cuarto — el pequeño, al fondo, reservado para la Kalari — y abrió la puerta.
+*Tum tum.*
 
-Haris entró con ella. No pidió permiso. No hacía falta.
+Por dentro.
 
-Eris cerró la puerta. Se quitó el yelmo. Lo dejó sobre la mesa. Se sentó al borde de la cama. No se quitó la armadura.
+*Tum tum.*
 
-Haris se quedó de pie, contra la puerta, con la espalda pegada a la madera.
+Más fuerte que nunca.
 
-Durante un rato, ninguno habló.
-
-Después Haris, muy bajo, con la voz normal — no Nexalita; no se fiaba ya ni de la Nexalita — dijo:
-
-—¿Eso era lo que yo creo que era.
-
-Eris tardó en contestar.
-
-—No sé lo que tú crees que era.
-
-—Algo vivo. Muy antiguo. Que le devuelve años al rey.
-
-Eris lo miró.
-
-—Sí.
-
-Haris asintió despacio. Pasó los dedos por la pared por detrás.
-
-—Una pregunta más, Kalari. Y después no vuelvo a preguntar nunca.
-
-—Pregunta.
-
-—¿Esto lo saben en Lorin.
-
-—No.
-
-—¿Lo sabe Lyris.
-
-—Creo que sí.
-
-—¿Lirae.
-
-—No todo. Medía la masa. No sabía que tenía forma.
-
-—Ya.
-
-Haris se tomó un segundo.
-
-—Entonces lo sabemos tres. Lyris, Faree y los dos.
-
-—Cuatro.
-
-Haris levantó la ceja.
-
-—Theim —dijo Eris.
-
-—Cierto.
-
-Silencio.
-
-—¿Qué hacemos.
-
-Eris no contestó enseguida.
-
-Se levantó. Se quitó la armadura, por primera vez desde Valdara, con lentitud — pieza por pieza, con cuidado, como un ritual. Dejó cada pieza en el suelo ordenadamente. Cuando terminó, se quedó de pie en la camisa interior, las botas, nada más. Fría.
-
-Se sentó otra vez en el borde de la cama.
-
-—Mañana subo a Norel —dijo—. Se lo cuento a Lirae.
-
-—Va a costarte convencerla.
-
-—Lo sé.
-
-—No todo lo que hemos visto es fácil de medir.
-
-—Lo sé también.
-
-Otro silencio.
-
-—Y después —dijo Haris.
-
-—Después, lo que pueda.
-
-—Cualquier cosa que decidas, Kalari, yo voy.
-
-Eris lo miró un segundo.
-
-—Ya lo sé.
-
-—Bien.
-
-Haris salió del cuarto por fin. Cerró la puerta con el peso, sin golpe.
-
-Eris se tumbó sobre la cama vestida con la camisa interior. La mirada en el techo de tablas. El *tum tum*, dentro, seguía. Pero había cambiado. Ya no era un sonido lejano. Era una dirección.
-
-Cerró los ojos.
-
-No durmió.
-
-Fuera, en algún tejado de Helisil, un perro ladraba una sola vez cada veinte segundos.
-
-La ciudad blanca, al amanecer, seguiría pareciendo eterna.
-
-Eris ya sabía que no lo era.
+Eris no durmió.

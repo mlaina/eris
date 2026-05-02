@@ -36,7 +36,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Eldara** — élite militar de Coria. Eris es comandante. Llevan Nexalita y tatuajes de manos.
 - **Elkorn** — Silmarita de la Caza, albino, en Túnderor. Amenaza Deengar.
 - **Enorian** — antigua unificación imperial onírica (lore histórico).
-- **Erion** — estudiante de segundo curso de la Sandrie. Naggar primer-ciento, rubio, ojos azul Haiz saturados. Mencionado en Cap 2; Lirae lo cruza en el rellano de Norel.
+- **Erion** — niño humano, ~10 años, único Mirisar nacido con el puente abierto al Poisé. Tutelado por Lirae en la Sandrie. Controla las seis formas naturalmente. Rubio, ojos azul profundo cristalino (azul de nacimiento, distinto del azul Haiz saturado). Ver `canon/personajes/nino-prodigio.md`.
 
 ## F
 
