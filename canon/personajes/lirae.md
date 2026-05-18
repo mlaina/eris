@@ -9,6 +9,7 @@
 - **Cargo**: **Primer Mirisar de Coria** — directora de la Sandrie. Máxima autoridad Mirisar del continente conocido.
 - **Forma dominante**: **gravitatoria** (ver `canon/sistemas/mirisar.md`).
 - **Rol**: investigadora, académica y administradora de la Sandrie. No militar.
+- **Función pública diaria**: **detecta y entrena a los Mirisar nuevos** que llegan a Coria desde todo el continente. La Sandrie es el único centro reconocido donde un Mirisar puede graduarse; Lirae es quien evalúa el ingreso y supervisa el primer ciento. Reparte su tiempo entre la academia (días) y su sala de Norel (tarde-noche), donde investiga anomalías en privado.
 
 ## Rasgos físicos
 
@@ -45,7 +46,7 @@ Como todo Mirisar vivo del continente (salvo el niño prodigio), **Lirae tuvo un
 
 - **I–II**: presencia cercana, refugio emocional de Eris entre misiones. Mide las anomalías bajo el palacio en secreto.
 - **III**: Eris le cuenta lo del tritón. **Lirae cree los datos pero no el salto mítico**. Primera fractura del vínculo.
-- **IV**: **desaparece** en circunstancias turbias. Antes Eris encuentra la puerta forzada de su armario: sabe que el sistema ha venido a por ella por lo que mide. Es el **punto de no retorno** para Eris.
+- **IV (cap 20)**: **baja sola al lago subterráneo bajo el palacio** tras cinco mañanas de péndulo marcando suroeste. El tritón le anula la magia Mirisar, le sale al paso, la mata en la caverna. **Nunca vuelve**. Para el mundo (incluida Eris) queda como desaparición sin testigo. El **descubrimiento** del título es doble: Lirae descubre al tritón, y el lector descubre que el sistema no necesita "venir a por" Lirae — el bicho la liquida solo. **Pivote interno** justo antes de morir: *"No la creí."* — el mayor error de su vida es haber descartado a Eris con la frase del rigor (*no proyectes*) en el cap 14.
 
 ## Función narrativa
 

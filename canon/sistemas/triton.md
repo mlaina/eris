@@ -29,6 +29,24 @@
   - **Desaparición de Lirae** — vinculada al tritón (o al sistema que protege el tritón). Es la **segunda aparición** implícita del tritón: su alcance va más allá del palacio.
   - A partir de ahí, **la realidad del tritón es incuestionable para Eris**.
 
+## Aspecto físico (canon — emerge en cap 20)
+
+- **Piel blanca, lechosa, fría**, recubierta de **escamas pequeñas y finas**.
+- **Manchas azules en distribución irregular** sobre el blanco — *azul saturado, sin contorno limpio, como tinta caída en leche y dejada secar*. Azul de la misma familia que el azul de Haiz pero más intenso.
+- **Ojos azules saturados, brillando** como brasas frías. Sin párpados, no parpadean. La mirada sostenida es parte del horror.
+- **Cráneo alargado**, sin pelo, sin orejas visibles. Mandíbula con pliegues, **sin boca clara** — sólo una hendidura.
+- **Aleta** visible sobre el agua: cuerpo grande, no sólo cabeza.
+- **Puede salir del agua activamente**: no está atrapado en el lago. Capaz de apoyar la cabeza en piedra firme, fuera del agua.
+- **El cuerpo entero nunca se ve**. La criatura se muestra en fragmentos — cabeza emergiendo, una aleta, una mole-sombra bajo el agua. Coherente con "el lector nunca lo ve del todo".
+
+## Capacidades demostradas
+
+- **Rejuvenecimiento ritualizado** (cap 13): Faree se arrodilla al borde del agua, la criatura emite una luz pálida azulada que envuelve al rey, le borra arrugas, le devuelve firmeza a la piel y al cuello. Tiempo de operación: ~10 segundos visibles.
+- **Anula la magia Mirisar localmente** (cap 20): a distancia, sin contacto, corta los focos Poisé. Los Mirisar pierden la canalización (luz, gravitatoria, todas las formas). El bloqueo es local, no permanente — Lirae recupera una mota mínima tras varios intentos antes de morir, lo que sugiere que el tritón gradúa la interferencia, no la sostiene al 100% siempre.
+- **Mata a distancia** (cap 20): el modo exacto queda en elipsis — no hay golpe físico —. Probable: resonancia destructiva por el *tum tum* amplificado, combinada con la anulación de la canalización. Lirae no sale viva de la caverna.
+- **Comunica por sonido propio** (cap 13): un gorgoteo profundo, vibrante, "como aire empujado por una garganta de tres metros". Faree le habla en una lengua que no es Nagani ni común — vocales largas, consonantes suaves —. El tritón responde con la frecuencia del *tum tum*.
+- **Detecta presencia** (cap 13 implícito, cap 20 explícito): supo que Eris estaba ahí sin verla. A Lirae la dejó medir un rato antes de actuar.
+
 ## Restricciones de escritura
 
 - **NO convertirlo en criatura "genérica" de fantasía**. No es kraken, no es serpiente gigante, no es dragón.
@@ -36,9 +54,9 @@
   - Agua que se mueve sola.
   - Luz que parece no venir de ningún lado.
   - Silencio espeso.
-  - Algo **que mira sin ojos**.
+  - Algo **que mira sin ojos** — corregido: **mira con ojos azules brillando sin parpadear**.
 - **El lector nunca lo ve del todo**. Fragmentos, sombras, efectos.
-- **No debe hablar** (o si habla, no en palabras humanas — quizá en el "tum tum").
+- **No debe hablar** (o si habla, no en palabras humanas — el *tum tum* es su voz).
 
 ## Conexión con "tum tum"
 

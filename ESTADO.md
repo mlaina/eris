@@ -1,6 +1,56 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-05-02.
+**Última sesión**: 2026-05-16.
+
+---
+
+## 🎯 Cola de revisión activa (sesión 2026-05-16)
+
+Marcos dirige por bloques: abordar lo que tiene claro, aparcar lo dudoso.
+
+### 🟢 Claros — abordar en esta tanda
+
+| Cap | Título | Estado material | Nota |
+|---|---|---|---|
+| 13 | Bajo el palacio (Acto III) | Reescrito a fondo en 02-may | **Versión actual = "accidental, Eris sola, jardín → ritual"**. Difiere del rediseño viejo en draft. Confirmar y pulir. |
+| 16 | La cena (Acto IV) | Retoques mecánicos aplicados | Pendiente relectura + pulido si hace falta. |
+| **20 NUEVO** | **Descubrimiento de Lirae** (final Acto IV) | ✅ **Validado 2026-05-16** | POV Lirae. Cinco mañanas mirando el péndulo sin hacer nada. Cansancio del último año de medir como manera de no actuar (contraste con cargo de Primer Mirisar/Sandrie entrenando Mirisar del continente). Decisión al alba. Baja por el agujero del jardín de las rosas. En el pasadizo enciende una esfera; en la caverna añade dos más. Aleta. Levita sobre el agua, inspecciona, ve sombra grande. **El tritón le apaga los focos a distancia**: cae al agua. **Primera vez que oye el tum tum**: bajo el agua, en todo el cuerpo. Es **lo que más pánico le da**. Sale a tierra empapada, falla la magia varias veces, finalmente una mota blanca. Delante, cabeza del tritón apoyada en el borde — piel blanca lechosa, escamas pequeñas moteadas de azul, ojos azules saturados brillando —. **Pivote**: *"No la creí."* Algo dentro se rompió. Lirae se levanta sin pensar, por instinto urgente. La mota se apaga. Fin. **Nunca más se sabrá de Lirae**. Archivo en `acto-IV/20-descubrimiento-lirae.md`. Renumeración del Acto V (20→21, 21→22, 22→23) **pendiente cuando se aborde el Acto V**. |
+| 20 | Asalto Ygoran (Acto V) | Primera pasada | Pulir. |
+| 21 | Muerte Eris (Acto V) | Primera pasada | Pulir. Tono contenido máximo. |
+| 22 | Epílogo Nyree (Acto V) | Primera pasada | Pulir. POV Nyree. |
+
+### 🟡 Dudosos — aparcados hasta nueva conversación
+
+| Cap | Por qué espera |
+|---|---|
+| 9, 10 | Reescritos en 02-may, pendientes relectura de Marcos antes de validar. |
+| 11, 12 | Acto III va a reescribirse según `draft/acto-III-rediseno.md`. Aparcados hasta cerrar Actos IV-V. **Cap 12 NO puede ser "atentado en la corte"**: ya hubo atentado en Nurn (cap 8), no se repite tan pronto. Reescritura como **Reunión de Las Manos** (ver rediseño). El archivo todavía se llama `12-atentado-corte.md` con contenido viejo — renombrar/reescribir cuando toque. |
+| 14, 15 | Igual: dependen de la reescritura del Acto III. |
+| 17, 18, 19 | Acto IV intermedio. Marcos no los ha marcado claros aún. |
+
+### ⚪ Cerrados (no se tocan en esta tanda)
+
+Caps 1-8 (Acto I completo + primera mitad Acto II validados).
+
+### Orden de ataque (orden definitivo de la sesión)
+
+1. ~~**Cap 20 NUEVO** (descubrimiento Lirae)~~ — ✅ **Validado 2026-05-16**.
+2. **Cap 16** — siguiente. Pendiente pautas de Marcos.
+3. **Cap 13** — confirmar versión actual + integrar canon nuevo del cap 20 (hipótesis Mirisar reforzado por el tritón + por qué el tritón no apagó la magia a Eris).
+4. Acto V (caps 21-23 tras renumeración): dejado intocado por ahora.
+
+### 🔬 Canon nuevo emergido del cap 20 (pendiente integración)
+
+- **El tritón anula la magia Mirisar localmente**. Corta los focos Poisé a distancia. No es solo presencia sonora — es interferencia activa. Implicación: el bicho controla cuándo y a quién deja canalizar.
+- **Ojos azules saturados** del tritón, brillando como brasas. Eco con el azul de Haiz pero más intenso.
+- **Aleta visible** sobre el agua. El bicho tiene cuerpo grande, no es solo cabeza emergente.
+- **Sale del agua activamente**. Puede apoyar la cabeza en el borde de piedra. No está atrapado en el lago.
+- **El pivote interno de Lirae al ver al tritón es** *"No la creí"* — vacío enorme por no haber creído a Eris en cap 14, mayor error de su vida. No es constatación ("ahora sí"). Es derrumbe interior por error irreparable: no podrá decírselo nunca a Eris. **Ajuste pendiente cap 22 (era 21)**: la conversación Eris-Theim en el muelle no puede atribuir a Lirae la "última palabra" *ahora sí* — esa frase queda eliminada del canon. Theim sólo puede saber lo que el sistema sabe (Lirae bajó al ala oeste y no volvió). Reescribir cuando lleguemos al Acto V.
+- **Hipótesis pendiente cap 13**: ¿por qué el tritón no apagó la magia a Eris? Opciones: (a) Eris no canaliza Mirisar, sólo lleva dedo de luz de contrato — no había focos que cortar. (b) El tritón sólo lo hace cuando se siente medido/amenazado, y Lirae lo midió, Eris no. (c) Faree estaba presente cuando bajó Eris y eso bloqueó la respuesta del tritón. Decidir al revisar el 13.
+
+---
+
+## Estado anterior (sesión 2026-05-02)
 
 - **Acto I** (caps 1–4): ✅ validado en sesiones previas. (Pequeñas propuestas pendientes en `draft/revision-pivotes-actos-I-II.md` para revisión global futura.) Cap 4 con un cambio mecánico pendiente (dormitorio común → corredor de los cuartos) que requiere revisión de Marcos antes de aplicar.
 - **Acto II**:
