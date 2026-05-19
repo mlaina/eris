@@ -310,7 +310,7 @@ Eris no responde. Haris vuelve al libro. Un rato después, sin levantar la vista
 
 Haris era el único que todavía hablaba así en el escuadrón. El único con frases completas, con subordinadas, con adjetivos de sobra. Los demás tenían la boca gastada — en Lorin se enseñaba desde cadete: *no malgastamos aliento, el aliento es para las cosas que cuestan*. La Nexalita, encima, se comía todo lo que no hacía falta decir: el *te veo*, el *estoy contigo*, el *no vas bien*. En misión, los Eldara no hablaban. Se confirmaban. Era el orgullo del cuerpo.
 
-En palacio era al revés. Los Naggar de Helisil se enorgullecían de lo contrario — hablar con soltura, con retórica, con subordinada larga. Faree podía decir tres ideas en treinta frases y hacerlas parecer necesarias. La elipsis, en el Larien, sonaba a tosca. Dos orgullos contrapuestos en el mismo pueblo.
+En palacio era al revés. Los Naggar de Elis se enorgullecían de lo contrario — hablar con soltura, con retórica, con subordinada larga. Faree podía decir tres ideas en treinta frases y hacerlas parecer necesarias. La elipsis, en el Larien, sonaba a tosca. Dos orgullos contrapuestos en el mismo pueblo.
 
 Haris, a su siglo recién cumplido, todavía escogía. Le cabían los nombres de los cabos. Le cabía preguntar por la mujer de los sacos.
 
@@ -428,7 +428,7 @@ Los siete entran.
 
 El aire de Jomla es el mismo que el de Thuay–Kovax, pero el paisaje, no. Cruzan llanuras, colinas, un río, el borde de un bosque que podría ser Deengar si estuvieran más al norte. Una hora exacta.
 
-*Orio de Helisil* —dice la voz sin cuerpo de la estructura—. *Tisar lisel, nel irisar.*
+*Orio de Elis* —dice la voz sin cuerpo de la estructura—. *Tisar lisel, nel irisar.*
 
 El sonido del aire cambia primero. La presión baja. Los vectores gravitatorios se acoplan con ese chasquido de cuerda templada que Eris ha aprendido a no temer. El azul se oscurece un matiz.
 
@@ -480,9 +480,9 @@ El escuadrón se reagrupa bajo los anchos arcos de Orio. Nadie desata nada. No h
 
 Eris mira al sur.
 
-Desde Orio se ve Helisil entera. La meseta alta, el río cortando la roca negra, las gargantas, las cascadas del oeste. Los puentes de piedra blanca que cruzan la grieta. Y, arriba, la ciudad: torres de mármol puro surgiendo de la tierra como si siempre hubieran estado allí. La torre del palacio —la más alta— apunta al cielo como la hoja de una espada.
+Desde Orio se ve Elis entera. La meseta alta, el río cortando la roca negra, las gargantas, las cascadas del oeste. Los puentes de piedra blanca que cruzan la grieta. Y, arriba, la ciudad: torres de mármol puro surgiendo de la tierra como si siempre hubieran estado allí. La torre del palacio —la más alta— apunta al cielo como la hoja de una espada.
 
-El sol baja por detrás de los picos. Helisil se ilumina de amarillo dorado. El mármol brilla. No hay humo, no hay ruido desde aquí. Sólo agua cayendo a lo lejos.
+El sol baja por detrás de los picos. Elis se ilumina de amarillo dorado. El mármol brilla. No hay humo, no hay ruido desde aquí. Sólo agua cayendo a lo lejos.
 
 Hay quien ha escrito poesía sobre esa luz. Eris no la ha leído. No hace falta. Le basta con verla un minuto.
 
@@ -508,4 +508,4 @@ Eris salta la primera. El aire denso y cálido la recibe. La ingravidez vuelve. 
 
 Hacia Valdara. En el mismo viaje.
 
-Helisil, a la espalda, se queda dorada y muda un minuto más. Luego desaparece.
+Elis, a la espalda, se queda dorada y muda un minuto más. Luego desaparece.

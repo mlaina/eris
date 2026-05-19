@@ -48,7 +48,7 @@ Esta compresión es **orgullo de cuerpo militar**. En Lorin se enseña: *"No mal
 
 ## Contraste con la corte Naggar
 
-En **Helisil, en palacio, en el Larien**, los Naggar cultivan **exactamente lo contrario**: se enorgullecen de hablar **con soltura, con retórica, con subordinada larga**. Faree es el epítome — puede decir tres ideas en treinta frases, y hacerlo parecer necesario. La elipsis en la corte sonaría tosca, militar, campesina.
+En **Elis, en palacio, en el Larien**, los Naggar cultivan **exactamente lo contrario**: se enorgullecen de hablar **con soltura, con retórica, con subordinada larga**. Faree es el epítome — puede decir tres ideas en treinta frases, y hacerlo parecer necesario. La elipsis en la corte sonaría tosca, militar, campesina.
 
 Son **dos orgullos Naggar contrapuestos** en el mismo pueblo:
 - **Eldara**: la economía del aliento es el oficio.

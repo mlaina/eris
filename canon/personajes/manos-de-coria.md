@@ -50,7 +50,7 @@ Administra **de facto las finanzas del reino**. No tiene título oficial; el Tes
 
 **Nota sobre la dinastía Numari**: el rey Faree tiene **dos hermanos** menores, **ninguno de los dos Mano de Coria**:
 - **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente. No Mano (gobierna su propio reino).
-- **Iren Numari**, hermano pequeño — gobernador de **Zenit** (ciudad-provincia dentro de Coria, con amplia autonomía). No Mano por ser representante del estado de Zenit — se consideraría conflicto de intereses sentar al gobernador de una provincia en el círculo de confianza del rey. Asiste a audiencias cuando los asuntos conciernen a Zenit, pero como invitado, no como Mano.
+- **Iren Numari**, hermano pequeño — **rey independiente de Zenit** (reino soberano hermano de Coria desde la Invasión Oscura). No Mano por ser jefe de Estado paralelo a Faree — se consideraría conflicto de intereses sentar al rey de un reino vecino en el círculo de confianza del rey de Coria. Asiste a audiencias del Larien cuando los asuntos conciernen a Zenit o a las Arterias compartidas, pero como par soberano, no como Mano.
 
 Daerin, en cambio, **no representa a ningún estado ni provincia**. Su peso es puramente familiar e histórico. Por eso puede ser Mano.
 

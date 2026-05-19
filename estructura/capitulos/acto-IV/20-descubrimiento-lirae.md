@@ -46,7 +46,7 @@ Salió a la calle por la puerta lateral de Norel.
 
 ---
 
-Helisil, antes del alba, era una ciudad de mármol gris.
+Elis, antes del alba, era una ciudad de mármol gris.
 
 La luna se había puesto media hora antes. El cielo del este apenas empezaba a aclararse. Las farolas del puente mayor estaban en mínimos — luz lechosa, ya casi apagada, que se reactivaba con la primera campana —. Lirae cruzó por el centro del puente. No se cruzó con nadie.
 

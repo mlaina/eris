@@ -1,13 +1,13 @@
 # Velerian / Yll Negro
 
-**Figura epilogal.** Cazador ciego de criaturas míticas. Aliado potencial de los restos rebeldes. **Promesa de una guerra más larga e inteligente.**
+**Figura epilogal.** Cazador ciego de criaturas míticas. Líder de **La Jauría**. Aliado potencial de los restos rebeldes. **Promesa de una guerra más larga e inteligente.**
 
 ## Identidad
 
-- **Raza**: **Yll** — pero conocido como "Yll Negro" (distinción rara dentro de los Yll, razón por confirmar).
-- Los Yll son una raza antigua vinculada al bosque de Irithin (Deengar), ligados a árboles Harel desde el nacimiento y capaces de comunicación onírica.
-- Velerian es un Yll **apartado**, posiblemente exiliado o en ruptura con su raza.
-- **Ciego** — aunque eso no lo limita; posiblemente ve de otra forma (plano onírico, eco, otros sentidos).
+- **Raza**: **Yll** de **Thuay** (no de Deengar). Piel **gris oscuro** — de ahí el apodo "Yll Negro".
+- **Sin marcas Harel**: su madre **murió antes de poder vincularlos a un Harel**. Velerian y su hermano gemelo **Ilnadir** son los únicos Yll del mundo sin marcas — caso único.
+- **Ciego** desde el nacimiento. No lo limita: tiene una **capacidad extraordinaria para sentir todas las criaturas a su alrededor** (canon doc nuevo). Posiblemente combinada con percepción onírica residual.
+- **Gemelo**: **Ilnadir**. Su gemelo está en **Amaroth** y es considerado uno de los "cuatro grandes" de la organización. Velerian y Ilnadir representan los dos caminos posibles para un Yll sin Harel: la mediación institucional (Ilnadir, Amaroth) y la caza fuera de la ley (Velerian, La Jauría).
 
 ## Rasgos
 
@@ -16,6 +16,14 @@
 - Estratega, no guerrero impulsivo.
 - Desprecia el poder establecido — su rabia es selectiva, dirigida.
 
+## La Jauría
+
+- Velerian es **líder de La Jauría**, organización de cazadores a sueldo con base en **Zenit** (reino independiente, cruce de tres Arterias).
+- La Jauría tiene **acceso prioritario a todas las Arterias** por tratado e **inmunidad diplomática** en prácticamente todos los países.
+- **No suelen tomar partido en guerras** — porque en cualquier momento, en cualquier país, alguien puede necesitarlos. Esa neutralidad operativa es la base de su prestigio.
+- Que el líder de La Jauría se incline por Nyree en el epílogo **rompe la neutralidad** — es justamente lo que da peso a la alianza final. No es solo un cazador suelto: es la primera vez en mucho tiempo que La Jauría se posiciona.
+- Ver `canon/organizaciones.md`.
+
 ## Función narrativa
 
 - **Solo aparece en el epílogo** (o en una brevísima insinuación previa, si conviene sembrarlo).
@@ -23,15 +31,15 @@
 - Propone alianza: **"quemar a los que tienen poder"**.
 - Representa la **continuación estratégica** de la resistencia que Eris ya no puede liderar.
 
-## Problema de setup ⚠️
+## Setup en el libro
 
-El brief lo marca como figura epilogal, pero aparece **sin preparación previa** en el borrador. Opciones:
+El canon del lore le da plataforma orgánica (La Jauría, su gemelo Ilnadir en Amaroth, su raza sin marcas). Eso permite sembrarlo con naturalidad sin forzar exotismo:
 
-- (a) **Siembra mínima**: un rumor, una mención en Ygoran sobre "un Yll ciego que caza monstruos".
-- (b) **Setup mediano**: aparece como figura de sombra en Acto IV (Ygoran), observando pero sin intervenir.
-- (c) **Sin setup**: aparece puro en el epílogo como "revelación" final. Riesgo de parecer deus ex machina.
-
-**Recomendación**: opción (a) — una o dos menciones indirectas en Ygoran, sin diálogo. Suficiente para que no parezca sacado de la nada.
+- **Posibles menciones de fondo** (no obligatorias):
+  - En Ygoran: alguien comenta haber visto a "uno de los gemelos sin marcas" rondando los muelles.
+  - En la corte de Elis: Daerin Numari menciona la inmunidad diplomática de La Jauría al pasar por una Arteria sin pagar peaje (referencia mecánica al tratado).
+  - En la huida (Cap 17 o 18): Lyris insinúa que en Ygoran "ha entrado más gente de la habitual"; uno de los nombres podría ser Velerian.
+- **Sin setup textual también funciona ahora**: aunque no se le mencione antes, su aparición en el epílogo se sostiene porque **La Jauría es una institución conocida del mundo**, no un cazador suelto sacado de la nada.
 
 ## Notas de escritura
 

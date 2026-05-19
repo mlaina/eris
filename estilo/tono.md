@@ -16,7 +16,7 @@
 
 ## Tono por escenario
 
-### Coria / Helisil
+### Coria / Elis
 - **Solemnidad** — ritmo más lento, frases más elaboradas.
 - **Mármol, luz, altura, silencio, perfección.**
 - Sensorialidad limpia: blanco, reflejos, geometría, ecos.
@@ -26,7 +26,7 @@
 ### Nurn
 - **Humanidad, mezcla, ruido, olor, vitalidad, fricción**.
 - Sensorialidad abundante: colores, olores, voces, texturas.
-- Contraste deliberado con Helisil. Prosa más viva, más horizontal.
+- Contraste deliberado con Elis. Prosa más viva, más horizontal.
 - **Sin Nagani**. Idioma común, jerga local insinuada.
 
 ### Ygoran
@@ -85,7 +85,7 @@ Si dudas: ¿estarías diciendo esa frase en el campo, en mitad de una infiltraci
 
 ### Contraste con la corte Naggar
 
-Los Naggar de Helisil se enorgullecen **de lo contrario**: soltura, retórica, subordinada larga, construcción elaborada. **Dos orgullos contrapuestos en el mismo pueblo**. Faree es el epítome de la soltura; Eris del oficio lacónico. Cuando se cruzan en audiencia es conflicto estilístico con carga política.
+Los Naggar de Elis se enorgullecen **de lo contrario**: soltura, retórica, subordinada larga, construcción elaborada. **Dos orgullos contrapuestos en el mismo pueblo**. Faree es el epítome de la soltura; Eris del oficio lacónico. Cuando se cruzan en audiencia es conflicto estilístico con carga política.
 
 **Gradiente según interlocutor**:
 - Eldara ↔ Eldara (con Nexalita): frases mínimas.
@@ -128,7 +128,7 @@ Los Naggar de Helisil se enorgullecen **de lo contrario**: soltura, retórica, s
 ## Sensorialidad
 
 - **Priorizar sentidos** según la escena:
-  - Helisil: **vista** (blanco, geometría, luz) + **silencio**.
+  - Elis: **vista** (blanco, geometría, luz) + **silencio**.
   - Nurn: **olfato, gusto, sonido**.
   - Ygoran: **tacto, olor, velocidad**.
   - Acción: **cuerpo** (equilibrio, peso, dolor).

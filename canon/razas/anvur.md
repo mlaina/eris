@@ -12,15 +12,27 @@
 
 - **Pacíficos pero guerreros** — no buscan conflicto, pero son formidables cuando luchan.
 - Fama como **soldados de élite** reconocida en todo el continente.
-- **Pasta fermentada** como alimento base cultural.
-- Origen: **Trei**, estado asambleísta regido por el **Trior de tres anvur**.
+- **No comen carne**: se alimentan de **pasta fermentada de plantas**.
+- **Nunca mienten**. Si alguien les acusa de mentir, **retan a duelo a muerte** para defender su honor.
+- **Claustrofobia**: duermen **a la intemperie**, evitan espacios cerrados.
+- **Danzas rituales similares a las jakas**.
+- Espadachines de élite; algunos combaten con **dos arcos simultáneamente**.
+- Origen: **Trei**, en las montañas del sur de Theris. Estado asambleísta regido por el **Trior** (consejo de tres elegidos por el pueblo). Ver `canon/lugares/trei.md`.
+
+## Demografía — restricción importante
+
+- Quedan **muy pocos Anvur**. La mayoría murieron en la **Invasión Oscura**.
+- Por eso son extremadamente **reacios a participar en cualquier conflicto**: cada baja es demográficamente irreemplazable.
+- Paradoja deliberada: pese a las pérdidas, **custodian** el cráter donde sobreviven los últimos Uxos — los que más perdieron protegen a sus exterminadores.
 
 ## Presencia en Coria
 
-- Al menos **un Anvur guarda el trono** en Helisil (mención del brief).
-- **Kroma**: Anvur guardaespaldas personal de Faree. Cuatro brazos, dos armas a la vez, silencio absoluto. No mercenario — juramentado. Su presencia vale por diez. Acompaña al rey en viajes (Nurn, Acto II). Canónicamente: el escudo humano de Faree.
-- Pueden servir como guardias reales de élite, mercenarios de alto nivel.
-- Su presencia en Coria implica tolerancia específica (excepción al supremacismo Naggar) — o contrato explícito.
+- **Kroma**: Anvur guardaespaldas personal de Faree, juramentado al rey de Coria **"en agradecimiento a la ayuda prestada en el pasado"**. Cuatro brazos, dos armas a la vez, silencio absoluto. No mercenario — juramentado. Su presencia vale por diez. Acompaña al rey en viajes (Nurn, Acto II). El escudo humano de Faree.
+- Su presencia en Coria implica tolerancia específica (excepción al supremacismo Naggar) — sostenida por la deuda histórica.
+
+## Anvur fuera de Trei (canon nuevo)
+
+- **Kyle y Kurt**: gemelos Anvur, protectores de Nat'nei en el equipo Kretus de Amaroth.
 
 ## Función narrativa
 

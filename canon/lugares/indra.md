@@ -34,4 +34,4 @@
 - **Sonoridad**: crujido de madera, cuerdas tensas, gaviotas.
 - **Olores**: pescado, humo dulce de resina, sal, madera vieja.
 - **Silencio estratégico** en la operación — los Eldara se mueven como sombras.
-- La ciudad es **bellísima y extraña** — contraste con Helisil (mármol blanco) y Valdara (piedra ocre).
+- La ciudad es **bellísima y extraña** — contraste con Elis (mármol blanco) y Valdara (piedra ocre).

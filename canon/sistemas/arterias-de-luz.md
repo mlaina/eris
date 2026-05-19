@@ -59,7 +59,7 @@ En Orio, al aterrizar: los guardianes asisten a los soldados (los mareos son com
 
 ## Lugar clave
 
-- **Orio**: estructura de llegada de las Arterias en Helisil. Puerta monumental de la capital.
+- **Orio**: estructura de llegada de las Arterias en Elis. Puerta monumental de la capital.
 
 ## Uso narrativo
 
@@ -77,7 +77,7 @@ En Orio, al aterrizar: los guardianes asisten a los soldados (los mareos son com
 
 - Coria controla un segmento considerable.
 - Otros estados tienen sus propios nodos.
-- La ruta entre Helisil y las colonias (Valdara, etc.) es crítica.
+- La ruta entre Elis y las colonias (Valdara, etc.) es crítica.
 
 ## Notas de escritura
 

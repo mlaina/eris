@@ -4,7 +4,7 @@
 
 ## Identidad
 
-- **Raza**: Naggar (posible mestizaje Vyries de Itsu, a precisar durante escritura).
+- **Raza**: **Naggar nacida en Itsu**. Sin sangre Vyrie (canon revisado 2026-05-19).
 - **Edad**: **poco más de 100 años**. **Joven en términos Naggar** — apenas adulta para su raza.
 - **Origen**: nacida en **Itsu**.
 - **Título familiar**: "Hija del Señor del Desierto".
@@ -15,7 +15,7 @@
 
 **Madre** murió cuando Eris era muy joven.
 
-**Padre**: **GoEtsu**, el "Señor del Desierto" — jefe de la ciudad de Itsu. Político hábil: **rebajó la violencia** en la región por negociación, llegó a **acuerdos con el Conde Gabara** (noble Naggar con gran influencia en Itsu). Reinado largo por contención, no por guerra.
+**Padre**: **GoEtsu**, el "Señor del Desierto" — jefe Naggar de un movimiento de resistencia popular en Itsu. Político hábil: **rebajó la violencia** en la región por negociación, llegó a **acuerdos con el Conde Gabara** (noble Naggar con gran influencia en Itsu, contraparte oficial del gobierno regional). Reinado largo por contención, no por guerra. **Asesinado por su propio hijo** (uno de los gemelos, el que se rebeló) — evento contemporáneo del arco de Eris según el lore. Amaroth envió seis Kretus a la región tras el asesinato. Ver `canon/lugares/itsu.md`.
 
 **Hermanos** — tres mayores que Eris:
 - Dos **gemelos** mayores, que dirigían la ciudad junto al padre.

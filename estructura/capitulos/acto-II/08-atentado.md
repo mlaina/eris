@@ -4,7 +4,7 @@ A las nueve de la mañana, en el comedor del primer piso de la casa de huéspede
 
 La luz entraba por el ventanal sobre la calle, tibia, sin terminar de calentar el suelo de madera. A la derecha del rey, el embajador del Senescal — humano de unos sesenta años, barba gris recortada, el broche imperial sujeto al pecho de la túnica gris diplomática. A la izquierda, su segunda — una mujer humana algo más joven, oscura de pelo, los ojos vivos, la insignia de los tribunales prendida en el hombro. Frente al rey, los dos delegados Naggar que habían viajado por la Arteria con la comitiva: él, joven, de los archivos del reino; ella, algo mayor, con la trenza fina de los administradores de comercio. Hablaban poco. Escuchaban mucho.
 
-Lyris no estaba sentada. La Kirala se había mantenido de pie un paso por detrás del rey desde el principio, como hacía siempre en mesas formales fuera de Helisil. Las dos esferas de luz blanca le orbitaban alrededor de la cabeza, lentas, atentas. No bebía. No comía. Era su costumbre.
+Lyris no estaba sentada. La Kirala se había mantenido de pie un paso por detrás del rey desde el principio, como hacía siempre en mesas formales fuera de Elis. Las dos esferas de luz blanca le orbitaban alrededor de la cabeza, lentas, atentas. No bebía. No comía. Era su costumbre.
 
 Kroma, en la pared del fondo, los cuatro brazos sueltos, no se había movido en una hora.
 
@@ -30,7 +30,7 @@ Los embajadores se levantaron a la vez. La de los tribunales lo hizo medio segun
 
 Faree se volvió a la embajadora.
 
-—Excelencia. La cláusula que ha mencionado antes. Mande nota a Helisil cuando tenga la fecha definitiva. Yo personalmente leeré.
+—Excelencia. La cláusula que ha mencionado antes. Mande nota a Elis cuando tenga la fecha definitiva. Yo personalmente leeré.
 
 Ella inclinó la cabeza un grado más profundo de lo que el protocolo le pedía.
 
@@ -86,7 +86,7 @@ Los tintoreros estaban en sus cubas. El olor del tinte rojo subía denso por las
 
 Las lámparas de aceite seguían encendidas. Una cada veinte pasos, en las fachadas. Los tintoreros las dejaban toda la noche y las apagaban tarde, cuando se acordaban. Encima, entre los tejados que se inclinaban uno hacia el otro por la vejez de la madera, el sol entraba en franjas oblicuas hasta el adoquín.
 
-Lámparas amarillas abajo. Sol blanco arriba. La calle tenía dos luces a la vez. A Eris, que venía de Helisil, le pareció raro.
+Lámparas amarillas abajo. Sol blanco arriba. La calle tenía dos luces a la vez. A Eris, que venía de Elis, le pareció raro.
 
 Caminaron despacio.
 
@@ -202,7 +202,7 @@ Eris registró un segundo. Los gemelos cubrían los flancos. Haris había probad
 
 Los dos Eldara se apartaron de la formación tres pasos atrás.
 
-—Os quedáis en el Orio. Cierre del caso, declaraciones, identificación si es posible. Parte por Arteria a Helisil cuando esté. Coordinad con el prefecto. Reportad al consulado.
+—Os quedáis en el Orio. Cierre del caso, declaraciones, identificación si es posible. Parte por Arteria a Elis cuando esté. Coordinad con el prefecto. Reportad al consulado.
 
 —Sí, Kalari.
 
@@ -252,7 +252,7 @@ Faree, al otro lado del haz, miraba un punto en el aire. No hablaba con nadie. L
 
 Eris registró el silencio del tránsito como un descanso parcial. No era el primero. No iba a ser el último de la semana.
 
-Dos horas después, la Arteria los dejó en el Orio de Helisil.
+Dos horas después, la Arteria los dejó en el Orio de Elis.
 
 ---
 
@@ -272,7 +272,7 @@ La comitiva se deshizo en el patio exterior. Faree se fue al palacio con Kroma, 
 
 Theim no la miró al pasar.
 
-Eris los vio irse hacia la colina del palacio. El sol estaba en lo alto sobre Kiral Ree y la torre principal cortaba la luz en un ángulo que Eris conocía sin tener que mirar. Helisil al mediodía no era Nerath: aquí no había dos luces, había una. Limpia, blanca, alta. Eris la registró sin comentar. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
+Eris los vio irse hacia la colina del palacio. El sol estaba en lo alto sobre Kiral Ree y la torre principal cortaba la luz en un ángulo que Eris conocía sin tener que mirar. Elis al mediodía no era Nerath: aquí no había dos luces, había una. Limpia, blanca, alta. Eris la registró sin comentar. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
 
 ---
 
@@ -320,7 +320,7 @@ Eris casi sonrió. Casi.
 
 —Sí, Kalari.
 
-Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesaba en los hombros como si fuera tres veces más pesada que al salir de Helisil tres días antes. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Helisil, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
+Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesaba en los hombros como si fuera tres veces más pesada que al salir de Elis tres días antes. Subió por el puente mayor hacia la torre de Norel. El sol estaba en lo alto y Elis, a la luz del mediodía, seguía siendo la ciudad blanca con las cascadas al oeste.
 
 Eris oyó el *tum*.
 

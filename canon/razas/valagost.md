@@ -1,17 +1,31 @@
 # Valagost
 
-**Raza acuática/costera de piel azul.** Presentes en Kelios, Ygoran, Táos (submarina).
+**Raza acuática/costera de piel azul.** Presentes en Kelios, Ygoran y Taorun.
 
 ## Rasgos físicos
 
 - **Piel azul** (característica distintiva — mencionada explícitamente en el brief).
-- Anatomía acuática o semi-acuática.
-- Posiblemente branquias o adaptaciones submarinas según variante.
+- **Semi-acuáticos**: **no pueden respirar bajo el agua**, pero pueden permanecer sumergidos durante periodos extraordinariamente largos.
+- Algunos individuos desarrollan **aletas en lugar de pies** como adaptación extrema al entorno acuático.
 
-## Variantes regionales
+## Hábitat — los Igies
 
-- **Valagost de superficie**: Kelios (Indra), Ygoran. Integrados en ciudades portuarias.
-- **Valagost submarinos**: Táos (capital bajo la Grieta), dinastía **Alveria**.
+Los Valagost viven en los bosques de los **Igies**: árboles colosales que nacen en los fondos marinos de las costas, con las raíces sumergidas y las ramas llegando hasta los bosques de tierra firme.
+
+- La **madera de los Igies** es extraordinariamente dura porque la sal marina la **petrifica parcialmente** — ideal para construcción naval.
+- Las **semillas** son grandes **vainas verdes flotantes** que viajan con las mareas hasta hundirse en el fondo marino y crecer.
+- Los Igies son **tan grandes que albergan ciudades enteras**.
+- Algunas ciudades Valagost están en **cámaras de aire dentro de troncos sumergidos**, accesibles solo a través de **aberturas en la parte inferior del tronco**.
+- Para recibir a embajadores **no-Valagost**, han desarrollado **burbujas de acceso**.
+- Pasarelas y cuerdas conectan los Igies entre sí y permiten lanzarse al agua rápidamente.
+
+## Tres grandes comunidades
+
+- **Kelios**: la mayor, en el norte. Capital **Indra** (sobre dos Igies negros, lago turquesa) — referencia continua. Hogar de **Hel** (Silmarita del Agua). Ver `canon/lugares/indra.md`.
+- **Ygoran**: en la costa. Fuerte cultura **pesquera y pirata**. Conviven humanos, Valagost y Naggar bajo gobierno Valagost. Ver `canon/lugares/ygoran.md`.
+- **Taorun**: archipiélago **cerca de La Grieta**. Hogar del **príncipe Ildrian** (mejor amigo de Mae, ambos hoy en Amaroth como Kretus). Nombre marcado por el doc como pendiente de revisión por su cercanía fonética con Kaurün.
+
+Los Valagost no son submarinos en el sentido estricto: viven en superficie y en los Igies. **No hay capital submarina Valagost** en el canon vigente.
 
 ## Presencia en la novela
 

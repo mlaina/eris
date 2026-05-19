@@ -50,7 +50,7 @@
 
 ## Función temática
 
-- Humaniza Nurn frente al mármol de Helisil.
+- Humaniza Nurn frente al mármol de Elis.
 - Su captura por Faree demuestra que **el reino no solo reprime: también seduce e incorpora**.
 - Espejo alternativo de Eris: ambos son "talentos brillantes" cortejados por el poder. Uno cede (aparentemente), la otra se rompe.
 
@@ -59,4 +59,4 @@
 - Voz cálida, humor directo.
 - Habla de comida como se habla de arte — con precisión técnica y pasión.
 - No es caricatura de "cocinero gordo y alegre". Es un profesional serio.
-- Sus escenas en Nurn deben oler, sonar, saber — contraste sensorial máximo con Helisil.
+- Sus escenas en Nurn deben oler, sonar, saber — contraste sensorial máximo con Elis.

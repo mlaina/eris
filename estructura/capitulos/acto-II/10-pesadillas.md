@@ -48,7 +48,7 @@ Lo oyó.
 
 No fuera. Dentro.
 
-Se llevó dos dedos a la sien por costumbre. Ya no servía de nada. Llevaba cuatro días oyéndolo en Lorin. En Helisil. En un cuartel donde no debería haber ningún sonido que ella no hubiera oído cien veces, y que la anomalía de Lirae no debería registrar, y que el péndulo no debería ver.
+Se llevó dos dedos a la sien por costumbre. Ya no servía de nada. Llevaba cuatro días oyéndolo en Lorin. En Elis. En un cuartel donde no debería haber ningún sonido que ella no hubiera oído cien veces, y que la anomalía de Lirae no debería registrar, y que el péndulo no debería ver.
 
 O era el palacio. O era su cabeza. O eran las dos cosas — Eris ya no estaba segura de poder separarlas.
 
@@ -60,7 +60,7 @@ Lo había dejado de oír al llegar a Lorin, noventa y seis años atrás. Volvía
 
 Se vistió despacio. No se puso armadura. Sólo la capa limpia, el cinturón con la daga, las botas. Salió del cuarto, cruzó el corredor de los cuartos sin que se abriera ninguna puerta, bajó al patio del armero, salió de Lorin por la puerta este. El cuartel estaba dormido. Sólo los dos guardias nocturnos la vieron pasar. Ninguno preguntó.
 
-Subió por el puente mayor hacia el centro de Helisil. A esa hora la ciudad era un planisferio de mármol en el azul muy oscuro. Las cascadas del oeste sonaban un poco más bajas de lo normal — o era impresión suya, porque llevaba días oyéndolas con esa palabra de Lirae de las tardes de Norel: *un poco más bajas*.
+Subió por el puente mayor hacia el centro de Elis. A esa hora la ciudad era un planisferio de mármol en el azul muy oscuro. Las cascadas del oeste sonaban un poco más bajas de lo normal — o era impresión suya, porque llevaba días oyéndolas con esa palabra de Lirae de las tardes de Norel: *un poco más bajas*.
 
 Entró en Norel por la puerta grande, con el paso lento.
 
@@ -178,7 +178,7 @@ Durante el segundo largo que mantuvo los ojos cerrados, escuchó el *tum* dos ve
 
 —Yo lo oigo, Lirae.
 
-—Lo sé. Y tu oído es buen oído. Pero el oído oye lo que la cabeza tiene preparado para oír. Tú lo oíste de niña en Itsu, según me acabas de contar. Y ahora lo oyes en Helisil. Eso me dice que tu cabeza tiene una historia con ese sonido. No me dice todavía que el sonido esté ahí.
+—Lo sé. Y tu oído es buen oído. Pero el oído oye lo que la cabeza tiene preparado para oír. Tú lo oíste de niña en Itsu, según me acabas de contar. Y ahora lo oyes en Elis. Eso me dice que tu cabeza tiene una historia con ese sonido. No me dice todavía que el sonido esté ahí.
 
 Eris no contestó.
 
@@ -194,7 +194,7 @@ Eris no contestó enseguida.
 
 Lirae se tomó un segundo. Después, en otro tono — ya no Mirisar, ya amiga:
 
-—Tú estás cansada, Eris. Cuatro noches sin dormir bien es mucho hasta para Eldara. Vete. Sal de Helisil un par de días. Cualquier sitio. No me cuentes a mí adónde, sólo vete y vuelve dormida.
+—Tú estás cansada, Eris. Cuatro noches sin dormir bien es mucho hasta para Eldara. Vete. Sal de Elis un par de días. Cualquier sitio. No me cuentes a mí adónde, sólo vete y vuelve dormida.
 
 Eris asintió un grado.
 
@@ -282,7 +282,7 @@ Eris se levantó del sofá. Se puso la capa. Se colgó el cinturón con la daga.
 
 Antes de salir del cuarto miró el péndulo de pasada. La aguja no se movía — era una buena aguja, hecha para no moverse —. El peso oscilaba al norte. Eris no se quedó a mirarlo más tiempo. No era su trabajo medir.
 
-Su trabajo, esa mañana, era pedirle tres días a Aluren y salir de Helisil.
+Su trabajo, esa mañana, era pedirle tres días a Aluren y salir de Elis.
 
 —Adiós, Lirae.
 
@@ -298,7 +298,7 @@ En el rellano del primero, Erion todavía estaba ahí — o había vuelto — le
 
 No se detuvo.
 
-Entró en Helisil por el puente mayor y caminó hacia Lorin a presentar la petición de permiso. A la altura del segundo arroyo, el sol le dio en la cara por primera vez en la mañana.
+Entró en Elis por el puente mayor y caminó hacia Lorin a presentar la petición de permiso. A la altura del segundo arroyo, el sol le dio en la cara por primera vez en la mañana.
 
 Eris no cerró los ojos.
 

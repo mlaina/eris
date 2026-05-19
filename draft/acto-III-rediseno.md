@@ -16,7 +16,7 @@
 **Premisa de entrada (final del Acto II)**: Eris ya no cree en Coria, sigue sirviendo, pidió tres días de permiso para alejarse. Lirae le ha dicho: no te metas a ver lo que no te toca ver.
 
 **Arco**:
-1. **No consigue alejarse** — el sistema la retiene en Helisil.
+1. **No consigue alejarse** — el sistema la retiene en Elis.
 2. **Ve la corte desde dentro** y la lee con ojos nuevos: hueca, formularia, banal.
 3. **Está dentro del círculo de poder** en una reunión privada de Manos. Registra cómo se decide arriba lo que ella ejecuta abajo.
 4. **Por azar** sigue al rey y descubre lo que hay debajo del palacio.

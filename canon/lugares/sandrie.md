@@ -10,7 +10,7 @@
 
 ## Ubicación
 
-En **Helisil**, parte del complejo ampliado de **Norel** (la torre-biblioteca) y edificios anexos bajos integrados en la arquitectura de la meseta. La Sandrie no es una torre aparte: **usa Norel como biblioteca, archivos y despachos de investigación**, y tiene sus dormitorios, aulas y salas de práctica en dos edificios adyacentes de mármol más bajo, unidos por puentes cortos.
+En **Elis**, parte del complejo ampliado de **Norel** (la torre-biblioteca) y edificios anexos bajos integrados en la arquitectura de la meseta. La Sandrie no es una torre aparte: **usa Norel como biblioteca, archivos y despachos de investigación**, y tiene sus dormitorios, aulas y salas de práctica en dos edificios adyacentes de mármol más bajo, unidos por puentes cortos.
 
 Por eso Lirae vive y trabaja en Norel: es la cabeza de la institución y la institución vive dentro del mismo complejo.
 

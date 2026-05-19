@@ -11,7 +11,7 @@ Canciones que acompañan la lectura de cada capítulo. Línea: contemporánea, c
 [Spotify](https://open.spotify.com/intl-es/track/2O7itneeXoILR304z8zzev?si=f1a2f4094b5848a5)
 ✅ confirmada por Marcos.
 
-### Cap 2 — Lirae (Helisil en paralelo)
+### Cap 2 — Lirae (Elis en paralelo)
 **Saturn** — Sleeping at Last
 *Por qué*: cosmos, peso, contemplación científica. Encaja con Lirae midiendo anomalías a solas, Lyris pidiéndole que oculte los datos, el péndulo girando sin testigos.
 
@@ -19,7 +19,7 @@ Canciones que acompañan la lectura de cada capítulo. Línea: contemporánea, c
 **Run Boy Run** — Woodkid
 *Por qué*: cadencia militar, niebla cinematográfica, energía contenida que crece. Encaja con la entrada Eldara, los frascos de pintura, la lanza a la mujer de la bandera.
 
-### Cap 4 — Libro pequeño (vuelta a Helisil)
+### Cap 4 — Libro pequeño (vuelta a Elis)
 **Re: Stacks** — Bon Iver
 *Por qué*: intimidad, secretos guardados, peso silencioso. Encaja con Eris y Lirae en el sofá, el libro escondido en el armario, el tum tum bajo.
 
@@ -49,7 +49,7 @@ Canciones que acompañan la lectura de cada capítulo. Línea: contemporánea, c
 
 ### Cap 10 — Pesadillas
 **Climbing Up the Walls** — Radiohead
-*Por qué*: pesadilla, paranoia, sonido bajo el esternón. Encaja con el tum tum haciéndose Helisil y Lirae confirmando *"Entonces está aquí debajo."*
+*Por qué*: pesadilla, paranoia, sonido bajo el esternón. Encaja con el tum tum haciéndose Elis y Lirae confirmando *"Entonces está aquí debajo."*
 
 ---
 

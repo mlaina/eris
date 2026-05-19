@@ -8,7 +8,7 @@ El despacho interior — sala pequeña, una mesa con el mapa del continente grab
 
 —Sí.
 
-—Frontera norte. Las bandas que llevan medio año interceptando tramos de Arteria entre Loroa y Helisil tienen base en un cortijo de los cerros, en el límite con Nurn. Una hora al norte de la aldea de **Iretha**. Lo usan como punto de partida y de regreso. Jefe humano, se hace llamar **Durek**. Treinta combatientes nominales.
+—Frontera norte. Las bandas que llevan medio año interceptando tramos de Arteria entre Loroa y Elis tienen base en un cortijo de los cerros, en el límite con Nurn. Una hora al norte de la aldea de **Iretha**. Lo usan como punto de partida y de regreso. Jefe humano, se hace llamar **Durek**. Treinta combatientes nominales.
 
 —Civiles?
 
@@ -98,7 +98,7 @@ Salieron al amanecer.
 
 Los Eldara no montaban. No los quince juntos, no en operación abierta. Una columna de caballos hacía ruido, dejaba rastro. Los Eldara cubrían distancias largas a paso de marcha forzada en formación cerrada por caminos secundarios, y llegaban al final con el cuerpo todavía a tono. Muchos años de entrenamiento les había preparado para ello.
 
-El primer día fue por la llanura al oeste de Helisil, después por el sendero de pastoreo del flanco oeste del bosque de Aren. A media tarde subieron a los cerros del sur. El paisaje cambió: tierra ocre, hierba un poco más seca, robles bajos espaciados, alguna encina vieja. Cruzaron por la noche el río Iretha — un cauce delgado, con poca agua a esa altura del verano — y acamparon al otro lado, ya en la franja de tierra que técnicamente era Nurn aunque ningún imperial pasara nunca por allí. Sin fuego. Pan duro, legumbres, agua. Turnos de tres horas. Eris hizo el segundo. Despierta a la luna, con la espalda contra una piedra, registró que el *tum* no la encontraba allí. Lo agradeció sin ponerle palabra.
+El primer día fue por la llanura al oeste de Elis, después por el sendero de pastoreo del flanco oeste del bosque de Aren. A media tarde subieron a los cerros del sur. El paisaje cambió: tierra ocre, hierba un poco más seca, robles bajos espaciados, alguna encina vieja. Cruzaron por la noche el río Iretha — un cauce delgado, con poca agua a esa altura del verano — y acamparon al otro lado, ya en la franja de tierra que técnicamente era Nurn aunque ningún imperial pasara nunca por allí. Sin fuego. Pan duro, legumbres, agua. Turnos de tres horas. Eris hizo el segundo. Despierta a la luna, con la espalda contra una piedra, registró que el *tum* no la encontraba allí. Lo agradeció sin ponerle palabra.
 
 El segundo día llegaron a la loma sobre el cortijo a media tarde.
 

@@ -256,7 +256,7 @@ Eris no contestó.
 
 Pausa.
 
-—La segunda es que el que ha entendido no aguante. Que el entendimiento le quede grande. Que no sepa qué hacer con él. Esa opción también la he visto. No termina bien. Nunca termina bien. Porque el entendimiento, cuando no se sostiene, se convierte en palabras. Y las palabras, en sitios como Helisil, se mueven como piedras tiradas en un estanque. Cambian cosas que no deberían cambiar.
+—La segunda es que el que ha entendido no aguante. Que el entendimiento le quede grande. Que no sepa qué hacer con él. Esa opción también la he visto. No termina bien. Nunca termina bien. Porque el entendimiento, cuando no se sostiene, se convierte en palabras. Y las palabras, en sitios como Elis, se mueven como piedras tiradas en un estanque. Cambian cosas que no deberían cambiar.
 
 Faree se volvió por fin. La miraba de frente.
 

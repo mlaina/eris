@@ -33,7 +33,7 @@
 
 ## Notas de escritura
 
-- Arquitectura: piedra ocre, no mármol blanco (contraste con Helisil).
+- Arquitectura: piedra ocre, no mármol blanco (contraste con Elis).
 - Calor, polvo, multitud, voces en varios idiomas.
 - La represión: **contenida, no carnicería** — Eris no tiene que ver horror masivo, basta con **violencia rutinaria aceptada sin cuestión**.
 - La Valagost como imagen puntual, no como escena melodramática.

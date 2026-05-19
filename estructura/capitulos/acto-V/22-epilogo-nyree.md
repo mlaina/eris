@@ -64,7 +64,7 @@ Silencio.
 
 —¿Quién.
 
-—Un Yll. Ha llegado hace una hora por la puerta del oeste. Sin recomendación. Dice que tiene que ver con lo de Helisil.
+—Un Yll. Ha llegado hace una hora por la puerta del oeste. Sin recomendación. Dice que tiene que ver con lo de Elis.
 
 —¿Ha dado nombre.
 
@@ -158,7 +158,7 @@ Nyree lo miró un segundo más. No contestó a eso.
 
 El Yll sacó la bolsa de cuero. La puso sobre la tapa de una caja entre los dos.
 
-—Llevo doscientos años cazando criaturas míticas. En Sesset, en Irithin, en Koan. Las apago una a una. La del fondo del lago de Helisil es la siguiente. Lo sé desde hace seis semanas. Antes sabía que algo pasaba. Ahora sé lo que pasa.
+—Llevo doscientos años cazando criaturas míticas. En Sesset, en Irithin, en Koan. Las apago una a una. La del fondo del lago de Elis es la siguiente. Lo sé desde hace seis semanas. Antes sabía que algo pasaba. Ahora sé lo que pasa.
 
 —¿Y qué te ha hecho saberlo.
 
@@ -176,7 +176,7 @@ Nyree frunció la boca.
 
 —¿Tú cazas tritones.
 
-—Yo cazo criaturas míticas. La del lago de Helisil es una. No es la única.
+—Yo cazo criaturas míticas. La del lago de Elis es una. No es la única.
 
 —¿Para qué.
 
@@ -200,7 +200,7 @@ Nyree asintió muy poco.
 
 —¿Qué me pides.
 
-—Que no me cierres la puerta. Que me des rutas de la red que conoces. Que me des contactos en Helisil cuando los consiga. Que me prepares gente que entienda que lo que viene no es un ataque al palacio, es un trabajo paciente en los huesos del palacio.
+—Que no me cierres la puerta. Que me des rutas de la red que conoces. Que me des contactos en Elis cuando los consiga. Que me prepares gente que entienda que lo que viene no es un ataque al palacio, es un trabajo paciente en los huesos del palacio.
 
 —¿Cuánto tiempo.
 
@@ -242,7 +242,7 @@ El Yll bajó la voz un poco.
 
 —Explícate.
 
-—La comandante, el Eldar Haris, los veintidós de esta casa, la Primer Mirisar de Helisil, los operativos tuyos que han caído desde hace cincuenta años en rondas de Eldara, los Valagost que se han hundido en los Orios al tocar las puertas equivocadas — todos tienen el mismo nombre en el cuaderno que yo llevo dentro. *El nombre es lo que hay en el lago*. Matar al del lago es todos a la vez. No una venganza simbólica. Una venganza mecánica. El cuerpo en el fondo que te los ha matado durante siglos se apaga. Dejan de morir.
+—La comandante, el Eldar Haris, los veintidós de esta casa, la Primer Mirisar de Elis, los operativos tuyos que han caído desde hace cincuenta años en rondas de Eldara, los Valagost que se han hundido en los Orios al tocar las puertas equivocadas — todos tienen el mismo nombre en el cuaderno que yo llevo dentro. *El nombre es lo que hay en el lago*. Matar al del lago es todos a la vez. No una venganza simbólica. Una venganza mecánica. El cuerpo en el fondo que te los ha matado durante siglos se apaga. Dejan de morir.
 
 Nyree se quedó pensando un segundo largo.
 
@@ -350,7 +350,7 @@ Dos veces.
 
 Venía del sur. Muy bajo. Muy lejos.
 
-Nyree giró la cabeza hacia donde venía. Helisil estaba en esa dirección, a muchas leguas. No sabía qué era el sonido. No tenía por qué saberlo todavía. Alguien — un Yll ciego que acababa de decirle su nombre — la ayudaría a averiguarlo.
+Nyree giró la cabeza hacia donde venía. Elis estaba en esa dirección, a muchas leguas. No sabía qué era el sonido. No tenía por qué saberlo todavía. Alguien — un Yll ciego que acababa de decirle su nombre — la ayudaría a averiguarlo.
 
 Volvió a mirar el barco pesquero.
 
@@ -366,7 +366,7 @@ La noche de Ygoran se cerró alrededor.
 
 ---
 
-En Helisil, esa misma noche, el rey de Coria cenó con su Kirala en el Salón menor norte. Comieron lo que preparó el cocinero de la casa. Faree no preguntó por Elerian. Elerian había salido dos días antes — se había ido a Thuay con una carta de recomendación y un saco de monedas pequeñas, porque Faree no retenía ya a nadie que hubiera visto lo que no debía ver.
+En Elis, esa misma noche, el rey de Coria cenó con su Kirala en el Salón menor norte. Comieron lo que preparó el cocinero de la casa. Faree no preguntó por Elerian. Elerian había salido dos días antes — se había ido a Thuay con una carta de recomendación y un saco de monedas pequeñas, porque Faree no retenía ya a nadie que hubiera visto lo que no debía ver.
 
 Lyris sirvió el vino.
 
@@ -418,7 +418,7 @@ Y Ygoran, al norte, enterraba a sus muertos.
 
 Y un barco pesquero salía al mar.
 
-Y las lunas —Myll y la Luna Blanca— subían despacio por encima de las torres blancas de Helisil, como llevaban subiendo cada noche desde antes de que nadie tuviera palabra para llamarlas.
+Y las lunas —Myll y la Luna Blanca— subían despacio por encima de las torres blancas de Elis, como llevaban subiendo cada noche desde antes de que nadie tuviera palabra para llamarlas.
 
 Nadie habría dicho, al mirar la ciudad esa noche, que algo hubiera cambiado.
 

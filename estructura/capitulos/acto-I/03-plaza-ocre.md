@@ -1,6 +1,6 @@
 # Capítulo 3 — La Plaza Ocre
 
-La Arteria los dejó en el Orio de Valdara esa misma noche, pasadas dos horas desde el cambio de sentido en Helisil.
+La Arteria los dejó en el Orio de Valdara esa misma noche, pasadas dos horas desde el cambio de sentido en Elis.
 
 Valdara era ocre incluso de noche. Piedra ocre envejecida por el salitre, tejados de teja parda, calles de tierra apretada. Desde el Orio, bajo una luna creciente, se veía la ciudad extendida en la costa, la bahía abierta al norte, los astilleros en curva sobre el agua negra. Detrás, los pinares oscuros de la Ciudad de las Astillas. Olor a madera, a brea, a sal.
 

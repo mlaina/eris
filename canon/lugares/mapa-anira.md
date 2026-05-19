@@ -18,7 +18,8 @@ El mapa no tiene etiquetas textuales: está formado por regiones de color. Esta 
 
 ### Norte y noreste
 
-- **Coria**: **Noreste** del continente, fundada por los Naggar hace milenios. Controla arterias principales. Capital: **Helisil** (en meseta alta con río y cascadas). Bajo dominio Naggar también: **Zenit** (histórico campamento militar post-Invasión Oscura).
+- **Coria**: **Noreste** del continente, fundada por los Naggar hace milenios. Controla arterias principales. Capital: **Elis** (en meseta alta con río y cascadas).
+- **Zenit**: **reino Numari independiente**, isla flotante (Zona Extasiada) con cruce de tres Arterias. Gobernado por **Iren Numari** (hermano menor de Faree). Independizado de Coria al inicio de la Invasión Oscura. Sede de La Jauría. Circos de gladiadores y bestias.
 - **Aret**: norte. Zona de hielo, Silmarita del Hielo (Lurk). Amenazada por los **Ochoas** (tribus del norte aún más norteñas).
 - **Theris**: humanos, presionada por Ochoas, huida hacia montañas del sur (Geoda y Anvur).
 
@@ -26,7 +27,7 @@ El mapa no tiene etiquetas textuales: está formado por regiones de color. Esta 
 
 - **Kelios**: costa oeste. Archipiélago con árboles **Igies** negros sobre lagos azules. Capital: **Indra**, puerto de madera negra sobre dos Igies gemelos en lago turquesa. Sociedad Valagost, fuertemente patriótica y violenta.
 - **Thuay**: **bosque entre las montañas y el mar**, al sur/cerca de Kelios. Bosque de **Yll**, con gigantescos **Igies secos** mezclados con árboles **Liu**. Costa de arena blanca con cuatro Igies gigantes. Capital: **Dar-O**, en la costa. Los Yll viven dentro de los troncos y en **Harels**. **Vail** y los gemelos **Ilnadir** / **Velerian** nacieron aquí.
-- **Ygoran**: costa oeste/suroeste. Valagost (con tatuajes rojos, diferenciados de Kelios y Táos). Ciudad portuaria multirracial (humanos, valagost, naggar). Gobierno valagost. Exportador mayor de pesca. Piratería y criminalidad alta. Incluye la ciudad de **Apnio**. Arteria cercana conecta con **Liga Kovax** e **Imperio Nurn**.
+- **Ygoran**: costa oeste/suroeste. Valagost (con tatuajes rojos, diferenciados de Kelios y Taorun). Ciudad portuaria multirracial (humanos, valagost, naggar). Gobierno valagost. Exportador mayor de pesca. Piratería y criminalidad alta. Incluye la ciudad de **Apnio**. Arteria cercana conecta con **Liga Kovax** e **Imperio Nurn**.
 
 ### Centro
 
@@ -42,8 +43,8 @@ El mapa no tiene etiquetas textuales: está formado por regiones de color. Esta 
 - **Saébal**: pequeña región costera rica, al sur. Liga Lau, sociedad dual.
 - **Siphias**: Ssilvaris agresivas y hembristas.
 - **Sacrio**: Ssilvaris tolerantes, tono rojizo. Alianza con Ygoran. Piratería.
-- **Turtei**: controla gran parte de la bahía de Ygoran (la "punta de los gemelos"). Alianzas con Asnare, Kaurün, Táos, Ygoran. Arteria directa a Coria.
-- **Táos**: capital submarina Valagost, en **la Grieta**.
+- **Turtei**: controla gran parte de la bahía de Ygoran (la "punta de los gemelos"). Alianzas con Asnare, Kaurün, Taorun, Ygoran. Arteria directa a Coria.
+- **Taorun**: archipiélago Valagost **cerca de La Grieta**. Hogar del príncipe Ildrian (Amaroth).
 
 ### Este y sureste
 
@@ -98,8 +99,8 @@ Leyendo colores de norte a sur:
 ## Pendiente de confirmar
 
 - Ubicación exacta de **Valdara** en el mapa. Costera (dominio Naggar), probablemente al este o sur de Coria.
-- Ubicación de **Lorin**, **Norel**, **Orio**, **Kiral Ree**: todos dentro de Helisil.
-- Ubicación de **La Grieta** y **Táos** submarino.
+- Ubicación de **Lorin**, **Norel**, **Orio**, **Kiral Ree**: todos dentro de Elis.
+- Ubicación de **La Grieta** en el mapa (cascadas en la fractura del planeta — borde occidental u oriental dependiendo del mapa). Ubicación de **Taorun** (archipiélago cerca de la Grieta).
 - Posición del **Mar Menor** usado en la Arteria Thuay–Kovax.
 - Qué subcontinente blanco es al sur (¿Untor/luna negra cayó allí? ¿zona polar? ¿continente austral?).
 

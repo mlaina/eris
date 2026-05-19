@@ -54,7 +54,7 @@ Vamos a hacer una ficha similar para Lirae, mujer Naggar de un siglo, sin armadu
 Panel inferior:
 INFORMACIÓN
 RAZA: NAGGAR
-ORIGEN: HELISIL / FORMADA EN LA SANDRIE
+ORIGEN: ELIS / FORMADA EN LA SANDRIE
 ROL: PRIMER MIRISAR DE CORIA / DIRECTORA DE LA SANDRIE
 HABILIDADES: CANALIZACIÓN GRAVITATORIA / MEDICIÓN DE ANOMALÍAS / DISCIPLINA SANDRIE
 CARÁCTER: ANALÍTICA, AFECTIVA / ESCÉPTICA DE LO MÍTICO
@@ -159,10 +159,10 @@ Panoramic technical elevation of the Valagost city of Indra, capital of the Keli
 
 ---
 
-## 17. Helisil and Kiral Ree
+## 17. Elis and Kiral Ree
 
 ```
-Panoramic architectural elevation of Helisil, the high marble city of Coria, seen from the Orio viewing point. High plateau carved atop black rock. A river cutting the rock along a deep ravine, west waterfalls cascading down the cleft. White stone bridges spanning the gorge. Above, the city of pure white marble, tall towers emerging from the rock as if always there. The royal palace Kiral Ree rises highest: tallest tower shaped like a sword blade pointing at the sky, with the black unlit windows of the lower floors that never illuminate. Secondary element: Norel, a secondary scholarly tower with a wide window facing the palace. Lower second stream: the Eldara barracks of Lorin rendered small, rectangular gray unpolished stone courtyards. Marginal annotations in Spanish labeling buildings. Renaissance technical cityscape plate. white background, antique pen and ink sketch, technical character sheet, orthographic views, renaissance anatomical drawing, cross hatching, fantasy warrior concept art, clean parchment style
+Panoramic architectural elevation of Elis, the high marble city of Coria, seen from the Orio viewing point. High plateau carved atop black rock. A river cutting the rock along a deep ravine, west waterfalls cascading down the cleft. White stone bridges spanning the gorge. Above, the city of pure white marble, tall towers emerging from the rock as if always there. The royal palace Kiral Ree rises highest: tallest tower shaped like a sword blade pointing at the sky, with the black unlit windows of the lower floors that never illuminate. Secondary element: Norel, a secondary scholarly tower with a wide window facing the palace. Lower second stream: the Eldara barracks of Lorin rendered small, rectangular gray unpolished stone courtyards. Marginal annotations in Spanish labeling buildings. Renaissance technical cityscape plate. white background, antique pen and ink sketch, technical character sheet, orthographic views, renaissance anatomical drawing, cross hatching, fantasy warrior concept art, clean parchment style
 ```
 
 ---

@@ -27,7 +27,7 @@ eris/
 │   │   ├── velerian.md
 │   │   └── elerian.md
 │   ├── lugares/
-│   │   ├── coria-helisil.md
+│   │   ├── coria-elis.md
 │   │   ├── itsu.md
 │   │   ├── nurn.md
 │   │   ├── ygoran.md

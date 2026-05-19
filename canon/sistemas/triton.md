@@ -5,7 +5,7 @@
 ## Qué sabemos
 
 - **Criatura mítica** — más antigua y poderosa incluso que los dragones.
-- **Emerge de un lago subterráneo** bajo el **Palacio Kiral Ree** en Helisil.
+- **Emerge de un lago subterráneo** bajo el **Palacio Kiral Ree** en Elis.
 - **Faree lo visita en secreto** en un espacio oculto bajo el palacio.
 - El tritón **rejuvenece al rey y refuerza su poder**.
 - Es la **prueba de que el orden de Coria se sostiene sobre un fundamento oscuro/arcano**.

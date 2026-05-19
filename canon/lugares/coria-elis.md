@@ -1,4 +1,4 @@
-# Coria y Helisil
+# Coria y Elis
 
 **Corazón político y estético de la historia.** Símbolo del poder bello por fuera y monstruoso por dentro.
 
@@ -22,22 +22,24 @@ Régimen del continente Anira dominado por los **Naggar** (ver `canon/razas/nagg
 
 ### Territorios asociados
 
-- **Helisil** (capital, ver abajo).
+- **Elis** (capital, ver abajo).
 - **Valdara** (antes Targo — ciudad costera bajo control Naggar desde hace generaciones; escenario de la represión en la Plaza Ocre, Acto II).
 - **Neidimia** (región aliada o satélite).
 
 ---
 
-## Helisil (la capital)
+## Elis (la capital)
 
 ### Rasgos físicos
 
 - **Mármol blanco** dominante.
 - **Puentes de piedra blanca** que cruzan gargantas.
-- Construida sobre una **meseta alta**.
+- Construida en la montaña sobre una **meseta alta**, a los **laterales del río Koak** (que la atraviesa en cascadas y gargantas).
 - **Cascadas, ríos, gargantas** integradas en la arquitectura.
 - Fusión profunda de arquitectura con naturaleza vertical.
 - **Ciudad no amurallada** pero estratégicamente inaccesible (geografía como defensa).
+- **Arteria cercana** — el Orio recibe la Arteria de Jomla (conexión Coria ↔ Liga Kovax) y otras rutas continentales.
+- **Galerías de Dulfos**: red de galerías subterráneas y pasos labrados **construidas por Geoda** (canon previo a la dinastía Numari actual). Símbolo material de la alianza ancestral con el reino de la Piedra.
 
 ### Atmósfera
 
@@ -48,7 +50,7 @@ Régimen del continente Anira dominado por los **Naggar** (ver `canon/razas/nagg
 
 ### Lugares clave (nombres Nagani)
 
-- **Orio**: estructura de llegada de las Arterias de Luz. Puerta monumental de entrada a Helisil.
+- **Orio**: estructura de llegada de las Arterias de Luz. Puerta monumental de entrada a Elis.
 - **Kiral Ree**: palacio real. Bajo él está el lago subterráneo del **tritón**.
 - **Larien**: anfiteatro de audiencias. Ceremonias de corte, juicios, recepciones.
 - **Lorin**: cuartel, hogar y centro de entrenamiento de los **Eldara**. Hogar formativo de Eris.
@@ -56,11 +58,11 @@ Régimen del continente Anira dominado por los **Naggar** (ver `canon/razas/nagg
 
 ### Función narrativa por acto
 
-- **I Gloria**: Helisil es el personaje-escenario que debe seducir al lector. Descripciones solemnes, luminosas, monumentales.
+- **I Gloria**: Elis es el personaje-escenario que debe seducir al lector. Descripciones solemnes, luminosas, monumentales.
 - **II Grietas**: se empieza a notar el silencio como opresión. El mármol que no deja huellas.
 - **III Revelación**: bajo el palacio, el tritón. La belleza exterior descansa sobre el horror interior.
-- **IV Fuga**: Eris abandona Helisil. Cambio brusco de paleta sensorial (al llegar a Ygoran).
-- **V Tragedia**: no volvemos a Helisil en prosa directa. Su ausencia es un comentario.
+- **IV Fuga**: Eris abandona Elis. Cambio brusco de paleta sensorial (al llegar a Ygoran).
+- **V Tragedia**: no volvemos a Elis en prosa directa. Su ausencia es un comentario.
 
 ## Notas de escritura
 

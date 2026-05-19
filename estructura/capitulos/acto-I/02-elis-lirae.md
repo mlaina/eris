@@ -250,7 +250,7 @@ Bajó el cuerpo despacio. Cerró su propio foco primero, luego el de la lasca. E
 
 Esa noche, tarde, salió al balcón de Norel.
 
-Helisil, a la luz de la luna, era una ciudad de plata. Puentes blancos, torres blancas, agua negra cayendo por la grieta. Ningún ruido salvo el agua.
+Elis, a la luz de la luna, era una ciudad de plata. Puentes blancos, torres blancas, agua negra cayendo por la grieta. Ningún ruido salvo el agua.
 
 Le dolía la espalda. Se apoyó en la baranda.
 
@@ -278,6 +278,6 @@ Pensó, por primera vez en meses, que igual no era una tontería contarle a Eris
 
 Entró. Cerró las puertas del balcón.
 
-Helisil siguió, detrás del vidrio, pareciendo eterna.
+Elis siguió, detrás del vidrio, pareciendo eterna.
 
 Pero las cascadas, esa noche, sonaban un poco más bajas.

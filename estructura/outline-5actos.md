@@ -22,7 +22,7 @@ Arquitectura general del libro. Los **actos son agrupaciones de capítulos**; lo
 
 ## ACTO I — GLORIA (pp. 1–60)
 
-**Objetivo**: enamorar al lector del poder de Coria antes de romperlo. Eris y los Eldara como **propaganda viva**. Helisil impresiona. Faree parece gran rey.
+**Objetivo**: enamorar al lector del poder de Coria antes de romperlo. Eris y los Eldara como **propaganda viva**. Elis impresiona. Faree parece gran rey.
 
 ### Capítulo 1 — Prólogo: *Misión 133 (reescrita)*
 
@@ -33,15 +33,15 @@ Arquitectura general del libro. Los **actos son agrupaciones de capítulos**; lo
   - Combate limpio, quirúrgico.
   - Un contrabandista con magia gravitatoria (enemigo del nivel justo — no trivial, pero superado).
 - **Tono**: Eris en su elemento. Orgullo silencioso. Haris deslumbrante.
-- **Cierre**: misión exitosa. Regreso por Arterias de Luz a Helisil.
+- **Cierre**: misión exitosa. Regreso por Arterias de Luz a Elis.
 
 **Reescritura desde el borrador**: el escuadrón debe ser **Eldara de Coria** (no Kretus). Sustituir nombres (Kyle, Kurt, Mae, Nat'nei, Ellion) por Eldara — dejar Haris. Cambiar la botánica: son soldados de Coria, uniformes, disciplina, tatuajes Eldara.
 
-### Capítulo 2 — *Lirae (Helisil, en paralelo)*
+### Capítulo 2 — *Lirae (Elis, en paralelo)*
 
 **POV Lirae. Eris NO aparece. Ocurre el mismo día del prólogo + la noche.**
 
-Eris está redirigida al sur sin bajar a Helisil. Lirae vive ese día en la capital mientras Eris viaja.
+Eris está redirigida al sur sin bajar a Elis. Lirae vive ese día en la capital mientras Eris viaja.
 
 - **Norel, segundo piso**: Lirae mide su péndulo gravitatorio. Seis anomalías constantes bajo el palacio. La pauta lleva dos meses acelerándose.
 - **Mensaje de Lyris**: "Redirección. La comandante pasa por Orio sin bajar. Valdara. Nada grave." Lirae lee el subtexto (Lyris dice "nada grave" sólo cuando algo lo es).
@@ -51,7 +51,7 @@ Eris está redirigida al sur sin bajar a Helisil. Lirae vive ese día en la capi
 - **Cierre**: Lirae piensa que cuando Eris vuelva, esta vez se lo contará todo en serio. Las cascadas, esa noche, suenan un poco más bajas.
 
 **Funciones narrativas**:
-- Introduce Helisil desde dentro.
+- Introduce Elis desde dentro.
 - Establece a Lirae como personaje propio, no accesorio de Eris.
 - Siembra tritón de forma sutil.
 - Presenta a Lyris desde otro ángulo (no como mayordomo ceremonial, sino como agente del sistema con dudas).
@@ -80,12 +80,12 @@ Eris está redirigida al sur sin bajar a Helisil. Lirae vive ese día en la capi
 ### Notas de ritmo y estructura del Acto I (definitivas)
 
 - **Cap 1 (Prólogo — Indra + redirección)**: 1–22
-- **Cap 2 (Lirae — en paralelo en Helisil)**: 23–45
+- **Cap 2 (Lirae — en paralelo en Elis)**: 23–45
 - **Cap 3 (Plaza Ocre — esa misma noche en Valdara)**: 46–80
 
 Acto I: **~80 páginas**.
 
-**Ritmo temporal**: todo el Acto I ocurre en **24 horas aproximadamente**. Amanecer en Indra, atardecer/noche en Helisil (Lirae), noche en Valdara. Compresión temporal intensa. El lector no descansa en Helisil más de lo que descansa Eris.
+**Ritmo temporal**: todo el Acto I ocurre en **24 horas aproximadamente**. Amanecer en Indra, atardecer/noche en Elis (Lirae), noche en Valdara. Compresión temporal intensa. El lector no descansa en Elis más de lo que descansa Eris.
 
 **Cierre de Acto I**: Eris se siente en casa dentro del sistema. La belleza del orden es **real**. El lector, también.
 
@@ -97,11 +97,11 @@ Acto I: **~80 páginas**.
 
 (La Plaza Ocre se encuentra ya en el Acto I, Cap 3.)
 
-### Capítulo 4 — *Vuelta a Helisil (título temático: "Libro pequeño")*
+### Capítulo 4 — *Vuelta a Elis (título temático: "Libro pequeño")*
 
 **Eris y Lirae se encuentran por primera vez en prosa. POV Eris.** Lirae le entrega el libro pequeño con las lecturas reales del péndulo.
 
-- Regreso a Helisil por Arteria tras Plaza Ocre. Entrega del informe a Lyris en Kiral Ree — protocolar, frío, rápido. Lyris no menciona a la mujer de la bandera. Eris tampoco.
+- Regreso a Elis por Arteria tras Plaza Ocre. Entrega del informe a Lyris en Kiral Ree — protocolar, frío, rápido. Lyris no menciona a la mujer de la bandera. Eris tampoco.
 - Escuadrón a Lorin. Eris libera a su gente del servicio por 48 horas. Muoro acepta sin comentar. Haris intenta decir algo, pero Eris lo corta.
 - Eris sube a Norel a la caída de la noche. Lirae la está esperando.
 - **Conversación central**: Lirae, cumpliendo lo que se prometió, saca el libro pequeño escondido en el armario. Le enseña a Eris las lecturas reales. Le cuenta la visita de Lyris, la petición de falsificación, la lasca de plomo en el balcón.
@@ -111,7 +111,7 @@ Acto I: **~80 páginas**.
 
 ### Capítulo 5 — *Nurn (Elerian)*
 
-**Visita oficial o delegación. Contraste sensorial absoluto con Helisil y Valdara.**
+**Visita oficial o delegación. Contraste sensorial absoluto con Elis y Valdara.**
 
 - Faree envía a Eris y a un subgrupo del escuadrón a Nurn en misión diplomática (acompañar a una delegación Naggar, observar rumores locales, recoger informe sobre el declive burocrático).
 - **Primer contacto con Nurn**: olor a especia, ruido de mercado, voces en varios idiomas. Las calles sin Nagani.
@@ -136,9 +136,9 @@ Acto I: **~80 páginas**.
 
 ### Capítulo 7 — *Pesadillas*
 
-**Capítulo interior, fragmentado. El *tum tum* se hace Helisil.**
+**Capítulo interior, fragmentado. El *tum tum* se hace Elis.**
 
-- Varios días en Helisil. Eris no duerme bien.
+- Varios días en Elis. Eris no duerme bien.
 - **Fragmentos**:
   - La Valagost de Valdara volviendo en sueños, formando *tum tum* con los labios.
   - La cara de la mujer de la bandera atravesada por la lanza.
@@ -167,7 +167,7 @@ Acto I: **~80 páginas**.
 
 ### Capítulo 9 — *El atentado en la corte*
 
-- Incidente en Helisil — atentado contra Faree o alguien cercano.
+- Incidente en Elis — atentado contra Faree o alguien cercano.
 - Eris y los Eldara responden. Tragedia evitada (o parcialmente). Puede morir un secundario aquí (no Haris, no Lirae, no Muoro).
 - **Consecuencias políticas**: endurecimiento del régimen. Theim aparece brevemente — primera mención/presencia de la sombra del ejecutor.
 - Eris cumple con su deber. Pero después, en privado, siente que algo en la escena no cuadra. Quizás el atentado fue provocado o manipulado.
@@ -223,9 +223,9 @@ Acto I: **~80 páginas**.
 
 - Eris va a buscar a Haris. Le dice lo mínimo.
 - Haris **no pregunta**. La sigue.
-- Fuga nocturna por Helisil. Casi los pillan (Lyris les da paso sin explicar — ¿aliado silencioso? ¿orden velada de Faree para "observar dónde van"?).
+- Fuga nocturna por Elis. Casi los pillan (Lyris les da paso sin explicar — ¿aliado silencioso? ¿orden velada de Faree para "observar dónde van"?).
 - Antes de salir, Eris pasa por Norel. Lirae no está en su habitación. La puerta del armario donde guardaba el libro pequeño está forzada. Eris lo entiende sin necesidad de decírselo.
-- Salen de Helisil usando Arterias secundarias o ruta no Arterial.
+- Salen de Elis usando Arterias secundarias o ruta no Arterial.
 - **La Nexalita de Eris** — Haris le pide que la desactive o la destruya. Eris lo hace. Silencio interior súbito.
 
 ### Capítulo 15 — *Viaje a Ygoran*
@@ -233,7 +233,7 @@ Acto I: **~80 páginas**.
 - Ruta de huida. Paisajes intermedios.
 - **Conversaciones con Haris**. Aquí es donde la intimidad entre ellos alcanza su punto más alto.
 - Evitan Arterias principales. Encuentros con gente común — los ven sin uniformes Eldara.
-- **El *tum tum* fuera de Helisil**: Eris lo sigue sintiendo lejos del palacio, más débil pero presente. No es solo el palacio. Es más grande, o tiene eco, o ella ya no puede desconectar.
+- **El *tum tum* fuera de Elis**: Eris lo sigue sintiendo lejos del palacio, más débil pero presente. No es solo el palacio. Es más grande, o tiene eco, o ella ya no puede desconectar.
 - Llegan a **Ygoran**.
 
 ### Capítulo 16 — *Ygoran: la rebelde*
@@ -246,7 +246,7 @@ Acto I: **~80 páginas**.
 
 ### Capítulo 17 — *Desaparición confirmada*
 
-- Llega confirmación formal desde Helisil: **Lirae ha desaparecido** oficialmente. La versión del palacio: desaparición por accidente en sus investigaciones.
+- Llega confirmación formal desde Elis: **Lirae ha desaparecido** oficialmente. La versión del palacio: desaparición por accidente en sus investigaciones.
 - Eris ya lo sabía desde la puerta forzada del cap 14. Pero ahora es **público**.
 - Reacción contenida — silencio, un puño apretado, nada más.
 - Para Eris es la confirmación final: **el sistema la silenció por lo que ella le contó en el cap 11**.
@@ -264,7 +264,7 @@ Acto I: **~80 páginas**.
 ### Capítulo 18 — *Vuelta a Coria (tipo: "Perspectiva invertida")*
 
 - **POV todavía en Eris**, pero el capítulo muestra la **maquinaria del reino activándose contra ella**.
-- Los Eldara en Helisil reciben órdenes. **Muoro lidera** — mencionar su rostro, su silencio, su decisión.
+- Los Eldara en Elis reciben órdenes. **Muoro lidera** — mencionar su rostro, su silencio, su decisión.
 - **Theim se incorpora** a la fuerza — aparición completa por primera vez.
 - Transmitimos esto por fragmentos: rumores en Ygoran, un contacto que llega herido, una señal visual lejana de Arterias militares moviéndose.
 - **Haris y Eris** sienten que el tiempo se acaba.
@@ -314,9 +314,9 @@ Acto I: **~80 páginas**.
 | # | Título | Tipo | Acto | Páginas aprox. | POV |
 |---|---|---|---|---|---|
 | 1 | Misión 133 (Indra + redirección) | Misión | I | 1–22 | Eris |
-| 2 | Lirae (Helisil en paralelo) | Interior | I | 23–45 | **Lirae** |
+| 2 | Lirae (Elis en paralelo) | Interior | I | 23–45 | **Lirae** |
 | 3 | La Plaza Ocre | Evento | I | 46–80 | Eris |
-| 4 | Libro pequeño (vuelta a Helisil) | Interior | II | 81–100 | Eris |
+| 4 | Libro pequeño (vuelta a Elis) | Interior | II | 81–100 | Eris |
 | 5 | Nurn (Elerian) | Viaje | II | 101–118 | Eris |
 | 6 | Misión 135: la línea | Misión | II | 119–135 | Eris |
 | 7 | Pesadillas | Interior | II | 136–150 | Eris |
@@ -338,7 +338,7 @@ Acto I: **~80 páginas**.
 
 **Total: ~312 páginas**. El margen sobre 300 permite ajustes durante la escritura.
 
-**Shifts de POV**: dos en todo el libro. Cap 2 (Lirae, para mostrar Helisil desde dentro y sembrar el péndulo) y Cap 22 (Nyree, epílogo tras la muerte de Eris).
+**Shifts de POV**: dos en todo el libro. Cap 2 (Lirae, para mostrar Elis desde dentro y sembrar el péndulo) y Cap 22 (Nyree, epílogo tras la muerte de Eris).
 
 ---
 

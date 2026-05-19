@@ -1,6 +1,43 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-05-16.
+**Última sesión**: 2026-05-19.
+
+---
+
+## 🆕 Sesión 2026-05-19 — integración de `Anira Lore.pages` ✅ COMPLETA
+
+Marcos añadió un documento de lore de 20 páginas. **Toda la integración cerrada en sesión.**
+
+- 13 archivos canon nuevos (lugares, organizaciones, zonas extasiadas).
+- 10 archivos canon ampliados con detalle del doc nuevo (razas, sistemas, cronología, glosario).
+- **9 conflictos identificados y resueltos uno a uno** con decisión de Marcos.
+- Glosario reescrito en bloque, sin ⚠️ residuales del lore.
+- Log completo de decisiones en `draft/conflictos-anira-lore-2026-05-19.md`.
+
+### Próximo bloque pendiente — enriquecer capítulos con el lore
+
+5 inserciones de **alto valor narrativo** propuestas con párrafo modelo en `draft/enriquecimiento-lore-2026-05-19.md`:
+
+| # | Cap | Núcleo | Estado |
+|---|---|---|---|
+| 1 ⭐ | 11 o 16 | Crisis de Itsu — Daerin le dice a Eris que su hermano asesinó a GoEtsu | Pendiente decisión de Marcos |
+| 2 ⭐ | 19 | Setup Velerian en Ygoran (Yll sin marcas cruza un muelle) | Pendiente decisión |
+| 3 | 19 | Sacrio → "las Serasin" + piratería | Pendiente decisión |
+| 4 | 5 | Faree precisa la crisis continental (Sesset, Hielo en Tarsos, Elkorn) | Pendiente decisión (cap validado) |
+| 5 | 6 o 7 | Elerian alude a Tyrus en coma (caldo por cánula desde hace cuarenta años) | Pendiente decisión (cap validado) |
+
+**No aplicar hasta que Marcos valide párrafo a párrafo.**
+
+Resumen de los frentes:
+1. ✅ **RESUELTO** — Capital de Coria: Helisil → Elis (find/replace en 55 archivos editables; río Koak y galerías de Dulfos en `coria-elis.md`).
+2. ✅ **RESUELTO** — La Grieta cosmogónica (planeta partido). Táos y Alveria eliminados. Taorun confirmado como tercera comunidad Valagost.
+3. ✅ **RESUELTO** — Origen del Silmarita de la Sangre: solo Tyrus humano-general. Urius/Ursa/duelo con Huma eliminados. Huma sigue como dragón supremo en letargo, sin vínculo con la Sangre.
+4. ✅ **RESUELTO** — Zenit: reino independiente gobernado por Iren Numari (rey, no gobernador). Independizada al inicio de la Invasión Oscura.
+5. ✅ **RESUELTO** — Velerian = Velirean (mismo personaje, fijada ortografía Velerian). Yll de Thuay, gris oscuro, ciego, gemelo sin marcas de Ilnadir, líder de La Jauría.
+6. ✅ **RESUELTO** — Eris es Naggar nacida en Itsu, sin sangre Vyrie. Vyries integrados en muchas naciones (también en Itsu como consultores), no son etnia local. **Bonus**: GoEtsu del doc nuevo = padre de Eris. El parricida es uno de los gemelos mayores. Amaroth manda Kretus a Itsu en respuesta — evento contemporáneo del arco.
+7. ✅ **RESUELTO** — Castas Úrenor: Zolmec aplicado.
+8. ✅ **RESUELTO** — Anvur guardaespaldas: motivación añadida ("agradecimiento a la ayuda prestada en el pasado").
+9. ✅ **RESUELTO** — Cosmografía del planeta (resuelto junto con el #2).
 
 ---
 
@@ -152,12 +189,12 @@ Caps 1-8 (Acto I completo + primera mitad Acto II validados).
 - Cap 16: La cena. Faree, Lyris, Daerin. Elerian cocina los platos de Nerath como aviso. Eris y Haris salen esa misma noche.
 - Cap 17: Huida. Despedida con Lirae viva. Lyris da sobre "asunto de las velas". Extracción de Nexalita en la Arteria.
 - Cap 18: Al norte. Trece días de ruta. Eris y Haris hablan con voz por primera vez sin Nexalita. El tum tum los alcanza en Liga Kovax.
-- Cap 19: Ygoran. Nyree los acepta con reservas. 23 días de integración. Eris no recibe noticias de Helisil.
+- Cap 19: Ygoran. Nyree los acepta con reservas. 23 días de integración. Eris no recibe noticias de Elis.
 
 **Acto V — Tragedia**
 - Cap 20: Asalto. Muoro lidera con Theim al frente. Muoro deja pasar a Eris ("Theim tiene esta parte"). Theim mata a Haris (pierna + decapitación). Eris huye a los muelles. Muoro la hiere en la pierna pero no la remata.
 - Cap 21: Muelle al amanecer. Theim la alcanza. Corte de las dos manos (Las Manos de Coria literales en el suelo). Theim le dice que Lirae bajó sola y murió. Eris asiente. Decapitación en elipsis. Último pensamiento: pan de Itsu, *"Hambre era lo de abajo"*. Silencio del tum tum.
-- Cap 22 — **POV Nyree**. 22 muertos. Velerian aparece fresh, propone alianza: apagar el tritón para "apagar al andamio del reino". Nyree acepta con condiciones. "Me llamo Velerian." Escena paralela en Helisil: Faree cena con Lyris, ella pregunta "¿Duele", él responde "Sí". Cierre ambiguo, promesa de guerra más larga.
+- Cap 22 — **POV Nyree**. 22 muertos. Velerian aparece fresh, propone alianza: apagar el tritón para "apagar al andamio del reino". Nyree acepta con condiciones. "Me llamo Velerian." Escena paralela en Elis: Faree cena con Lyris, ella pregunta "¿Duele", él responde "Sí". Cierre ambiguo, promesa de guerra más larga.
 
 ---
 
@@ -169,7 +206,7 @@ Caps 1-8 (Acto I completo + primera mitad Acto II validados).
 - Cap 7: Cena con Elerian (maestro humano sin magia, plato de Itsu con flashback del asedio del séptimo año, intimidad adulta sin vínculo emocional, vuelta por los tejados al alba).
 - Cap 8: Atentado en la calle de los tintoreros (Lyris apaga la calle, Theim dispatcha a seis atacantes marcados con la espiral roja del Silmarita de la Sangre disidente).
 - Cap 9: Misión 135 — Iretha (grieta operativa, Eris vacila medio segundo al ver un chico que le recuerda a su hermano, muere Sirel, ceremonia en Lorin).
-- Cap 10: Pesadillas (el tum tum se hace Helisil, las mediciones del péndulo explotan, Lirae: "Entonces está aquí debajo", Eris pide tres días de permiso con mentira para empezar a investigar bajo palacio).
+- Cap 10: Pesadillas (el tum tum se hace Elis, las mediciones del péndulo explotan, Lirae: "Entonces está aquí debajo", Eris pide tres días de permiso con mentira para empezar a investigar bajo palacio).
 
 Cierre Acto II: **Eris ya no cree en Coria. Sigue sirviendo. Empieza a mirar abajo**.
 
@@ -184,7 +221,7 @@ Cierre Acto II: **Eris ya no cree en Coria. Sigue sirviendo. Empieza a mirar aba
 - Reemplazado "palomo" por "mensajero" en prólogo, Cap 2 y canon `nexalita.md`.
 - Reemplazado "tablilla" por "papel" / "hoja" / "cuaderno" / "parte" según contexto.
 
-**Cap 2 — Helisil / Lirae** (POV Lirae, voz híbrida puntual):
+**Cap 2 — Elis / Lirae** (POV Lirae, voz híbrida puntual):
 - Sistema Mirisar/Poisé introducido ejecutado (focos, canalización, Haiz visible en ojos).
 - Erion (estudiante primer-ciento de la Sandrie, ojos azul saturado).
 - Marca corporal Haiz de Lirae: red de venas azuladas en antebrazo izquierdo (canon en `lirae.md`).
@@ -204,7 +241,7 @@ Cierre Acto II: **Eris ya no cree en Coria. Sigue sirviendo. Empieza a mirar aba
 - Discurso de Eris en tribuna recortado a Sicario.
 - Ficha del equipamiento Eldara retirada.
 
-**Cap 4 — Libro pequeño** (vuelta a Helisil tras Valdara):
+**Cap 4 — Libro pequeño** (vuelta a Elis tras Valdara):
 - Orio + escena en **Lorin** (cuartel Eldara descrito brevemente; banter con Illia/Ravys/Haris sobre la pintura; Eris deja equipo; despedida corta con Haris — "cuídate").
 - Audiencia con Lyris limpiada: fuera el interrogatorio de los 6 segundos, fuera la sugerencia final "en Norel a esta hora suele estar". Añadida mención de Faree (leyó el parte en el Larien, preguntó por ella).
 - **Theim presentado** — sombra en corredor, hoz de hueso tintineando, no mira, no saluda. Primera aparición en el libro.
@@ -263,8 +300,8 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 
 | # | Archivo | Validado por Marcos |
 |---|---|---|
-| 1 | `estructura/capitulos/acto-I/01-prologo.md` | ✅ **Validado**. Ruta Indra → Thuay → Loroa → Helisil, redirección a Valdara. Duelo con mirisar gravitatorio (regla un dedo = un foco). |
-| 2 | `estructura/capitulos/acto-I/02-helisil-lirae.md` | ✅ **Validado**. Introducción del sistema Mirisar/Poisé en escena. Ver bloque "Cap 2" arriba. |
+| 1 | `estructura/capitulos/acto-I/01-prologo.md` | ✅ **Validado**. Ruta Indra → Thuay → Loroa → Elis, redirección a Valdara. Duelo con mirisar gravitatorio (regla un dedo = un foco). |
+| 2 | `estructura/capitulos/acto-I/02-elis-lirae.md` | ✅ **Validado**. Introducción del sistema Mirisar/Poisé en escena. Ver bloque "Cap 2" arriba. |
 | 3 | `estructura/capitulos/acto-I/03-plaza-ocre.md` | ✅ **Validado**. Primera grieta sensorial. Ver bloque "Cap 3" arriba. |
 | 4 | `estructura/capitulos/acto-I/04-libro-pequeno.md` | ✅ **Validado**. Lorin, Theim, Manos de Coria, corte, Kirala, levitación conjunta, Mirisar sónica. Ver bloque "Cap 4" arriba. |
 
@@ -281,7 +318,7 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 | 7 | `estructura/capitulos/acto-II/07-cena-elerian.md` | ✅ **Validado** (sesión 2026-05-01). Cena con Elerian rehecha: cinco platos con Eris siendo leída sin pedirle nada, sensación olvidada (no recuerdo) con el pan negro, pastelillo afrodisíaco, intimidad, cigarrillo de Haiz con iris azules en espejo, despedida épica ("Sigue encontrando sabores. Los que aún no funcionan también" / "Me ha gustado tu sabor, Eris"), Eris se emociona al final por el no-preguntar de Haris. |
 | 8 | `estructura/capitulos/acto-II/08-atentado.md` | ✅ **Validado** (sesión 2026-05-01). Reescrito desde cero. Desayuno con embajadores de Nerath (uno y una) + delegados Naggar (uno y una). Eris cansada por la noche con Elerian. Calle de los tintoreros con doble luz. Cuatro atacantes (caza-recompensas / disidentes locales, no Silmarita): Haris intercepta al primero en el callejón con la lanza; Ravys alerta del arquero del tejado; Kroma para la flecha al rey; Lyris apaga la calle y va marcando uno a uno a Theim. Los dos primeros mueren en oscuridad (sólo sonido). El último — el arquero — Lyris lo deja iluminado: corte de piernas en la oscuridad, Theim entra detrás de la hoja, garganta lenta con gorgoteo cruel. Faree pide a la Kalari dos hombres en el Orio para investigación; Eris elige Therel y Nerei. En Lorin, Haris comenta el sadismo de Theim (contraste con Maelor); Eris se permite un segundo de cercanía y la quita. |
 | 9 | `estructura/capitulos/acto-II/09-mision-135.md` | 🔶 **Validado a medias** (sesión 2026-05-02). Reescrito completo desde "El cortijo sí." en adelante con cambios canónicos importantes (ver abajo). **Necesita una pasada más de revisión cuando Marcos lo relea con calma**. |
-| 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | 🔄 **En revisión ahora** (siguiente). Pendiente: ajustar Sirel→Ravys, Virim→Aluren ya aplicado mecánicamente. Tum tum se hace Helisil; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |
+| 10 | `estructura/capitulos/acto-II/10-pesadillas.md` | 🔄 **En revisión ahora** (siguiente). Pendiente: ajustar Sirel→Ravys, Virim→Aluren ya aplicado mecánicamente. Tum tum se hace Elis; Lirae: "Entonces está aquí debajo"; Eris pide tres días de permiso. |
 
 ---
 
@@ -291,7 +328,7 @@ Para cualquier término/nombre/lugar nuevo: buscar primero en `canon/glosario.md
 |---|---|---|
 | 5 | Nurn (Elerian) | Primer flashback de Itsu con plato de Elerian. Humanidad libre que no cabe en Coria. |
 | 6 | Misión 135: la línea | Eris vacila tácticamente. Un anónimo del escuadrón muere por esa vacilación. |
-| 7 | Pesadillas | Interior fragmentado. *Tum tum* se hace Helisil. *"Entonces está aquí debajo."* (Lirae). Eris decide investigar. |
+| 7 | Pesadillas | Interior fragmentado. *Tum tum* se hace Elis. *"Entonces está aquí debajo."* (Lirae). Eris decide investigar. |
 
 Cierre del Acto II: Eris ya no cree, sigue sirviendo. El resto del libro es esa distancia.
 
@@ -335,7 +372,7 @@ Opcionales/no bloqueantes:
 - Glóbulos **solo se usan dentro de las Arterias**. Fuera no existen/no se llevan.
 - Pueden ser **compartidos** (un Glóbulo grande común para el grupo).
 - Las Arterias **cambian de sentido por ciencia natural** — los controladores leen el reloj de arena blanca; NO es a voluntad de los Orios.
-- Ruta canónica Indra → Coria: barco a **Thuay** (costa Yll, 6h) → Arteria a **Loroa** (Liga Kovax, 1.5h, lago blanco lechoso) → Arteria de **Jomla** a Helisil (1h). Total: un día.
+- Ruta canónica Indra → Coria: barco a **Thuay** (costa Yll, 6h) → Arteria a **Loroa** (Liga Kovax, 1.5h, lago blanco lechoso) → Arteria de **Jomla** a Elis (1h). Total: un día.
 
 **Duelo mirisar gravitatorio** (regla establecida):
 - **Un dedo = un foco.** Cada dedo levantado marca un punto donde mete peso. Con dos dedos, dos focos simultáneos. Máximo diez. Pero cuanto más sujeta, menos ve.

@@ -12,12 +12,18 @@ Eventos históricos mayores que alimentan el mundo y afectan directa o indirecta
 - **Enorian unifica imperio** mediante comprensión onírica. Primera gran unificación del continente central.
 - **Sucesión de Silmaritas**: 14 Silmaritas de la Tierra desde el Quir original.
 
-## Duelo Urius vs Huma
+## Huma — el dragón supremo en letargo
 
-- **Urius** (Silmarita de la Sangre originario, dragón) es vencido por **Huma** (dragón más poderoso).
-- **Ursa** (hijo bastardo de Urius, general imperial) muere en duelo final con Huma.
-- Huma entra en **letargo** tras el duelo. Sigue dormido en el presente.
-- El Silmarita de la Sangre queda **disperso/sin cuerpo único** — Theim está juramentado a esta forma dispersa.
+- **Huma** es el dragón supremo de la era antigua. Hoy duerme en letargo (paradero desconocido).
+- Sin vínculo con el Silmarita de la Sangre (canon revisado 2026-05-19).
+
+## Origen del Silmarita de la Sangre — Tyrus
+
+- En tiempos del Imperio Nurn (siglos antes de la Invasión Oscura), el **Silmarita del Agua** y el **Silmarita de la Oscuridad** se mataron mutuamente en duelo.
+- El **general Tyrus** (humano del Imperio Nurn) presenció el duelo. La **Zona Extasiada** resultante dispersó los dos poderes y **Tyrus absorbió parte de ambos**.
+- Junto al entonces emperador **Rior**, Tyrus descubrió "el poder de la sangre" y se proclamó **Silmarita de la Sangre**.
+- Tyrus y Rior fundaron la institución de los **Inhumanos**: guerreros juramentados al poder de Tyrus, ejecutores del Estado-religión imperial.
+- Con el tiempo, el Silmarita de la Sangre fue acumulando poder real hasta convertir a los emperadores en meros títeres. **Tyrus se vuelve la figura central** del Imperio Nurn.
 
 ## Invasión Oscura / Horda Oscura — hace ~100 años
 
@@ -39,16 +45,19 @@ Eventos históricos mayores que alimentan el mundo y afectan directa o indirecta
 
 En paralelo a los sucesos de la novela, el continente vive una **crisis múltiple**:
 
-- **Sesset** (Silmarita Ssilvaris) unifica tribus de Siphias → amenaza de **invasión masiva**.
-- **Silmarita del Hielo (Lurk)** moviliza ejército hacia **Theris**.
-- **Elkorn** (Silmarita de la Caza) busca alianza con los Úrenor para destruir Deengar.
-- **Tensiones en Trei vs Theris** por dragones.
+- **Sesset** (Silmarita Ssilvaris) unifica tribus de Siphias → amenaza de **invasión masiva** hacia el sur de Fireon y Anfiros.
+- **Silmarita del Hielo** moviliza ejército hacia **Theris**. Una avanzada llega ya a la **península de Tarsos** a través de un **puente de hielo** cuya existencia Theris desconoce.
+- **Elkorn** (Silmarita de la Caza, Düregar blanco de Túnderor) recluta Úrenor para atacar el **bosque de Irithin** (Deengar).
+- **Tensiones en Trei vs Theris** por incidente histórico de caza de dragones.
 - **Geoda Menor** bajo presión de los Tulgur de Soúntor.
-- **Aret** amenazada por los Ochoas.
-- **Nurn** en decadencia burocrática.
-- **Fireon** resiste con dificultad.
-- **Liga Kovax** inquieta políticamente.
-- **Itsu** con bandas rebeldes activas (Eris es de ahí).
+- **Gortaj** (Berej Tulgur) unifica varias tribus Tulgur — primera vez en la historia conocida. Plan desconocido. Toda la región está en alerta.
+- **Aret** amenazada por los Ochoas. Dérula aliada con el Silmarita del Hielo.
+- **Nurn** en decadencia burocrática — Tyrus sigue en coma en el salón del trono de Nerath.
+- **Fireon** resiste con dificultad bajo el joven Guardián del Filo, Preonis. Posible matrimonio con la princesa Ana, 22 años.
+- **Liga Kovax** inquieta políticamente. Sus mediadores (Amaroth) y sus Kretus son la única fuerza supranacional con peso.
+- **Itsu** con bandas rebeldes activas (Eris es de ahí). Crisis reciente: **GoEtsu** asesinado por su propio hijo; Amaroth ha enviado seis Kretus.
+- **Saébal** tranquila — uno de los pocos puntos sin crisis abierta.
+- Los **Anvur** son demográficamente frágiles desde la Invasión Oscura; reacios a entrar en cualquier conflicto.
 
 Esta crisis continental **justifica la militarización** de Coria y hace creíble que Eris y el lector admiren al régimen al inicio.
 
@@ -58,10 +67,10 @@ Esta crisis continental **justifica la militarización** de Coria y hace creíbl
 
 ### Línea de tiempo compacta
 
-- **Año 0** — comienzo narrativo del libro. Eris en Helisil, misión de rutina.
+- **Año 0** — comienzo narrativo del libro. Eris en Elis, misión de rutina.
 - **+ días** — Valdara / Plaza Ocre (Acto I). Primera grieta **sensorial** en Eris: primer *tum tum*, Valagost piel azul, muerte de la mujer de la bandera.
 - **+ semanas** — Nurn, Elerian (Acto II). Primera duda **política** real.
-- **+ meses** — Corte en Helisil, descubrimiento del tritón (Acto III).
+- **+ meses** — Corte en Elis, descubrimiento del tritón (Acto III).
 - **+ semanas** — cena con Faree, huida con Haris, Ygoran (Acto IV).
 - **+ semanas** — desaparición de Lirae (Acto IV).
 - **+ días o semanas** — asalto a Ygoran, muerte de Haris, muerte de Eris (Acto V).
@@ -82,7 +91,7 @@ El libro cubre **meses, no años**. La caída es **rápida**.
 
 ## Vacíos pendientes de resolver
 
-- Fecha precisa del duelo Urius-Huma respecto al presente (más antiguo que la Invasión Oscura — probablemente siglos/milenios antes).
+- Fecha precisa del duelo Agua–Oscuridad y de la transformación de Tyrus en Silmarita (siglos antes de la Invasión Oscura).
 - Cuándo subió Faree al trono (antes de la Invasión Oscura, con seguridad).
 - Edad precisa de Muoro (probablemente **siglos** — antiguo incluso por estándares Naggar).
 

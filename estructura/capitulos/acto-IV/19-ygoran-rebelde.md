@@ -294,13 +294,13 @@ El tejado de la casa de la puerta roja era plano, pavimentado con piedra vieja, 
 
 Eris se sentó contra el murete. Sacó del bolsillo interior la pluma de Lirae. La miró. La dejó entre las rodillas.
 
-De Helisil no había llegado nada en veintitrés días. Ni carta, ni parte, ni rumor suelto. Lirae estaría en Norel — o en el cuartel o en la biblioteca o donde Lirae iba cuando no estaba midiendo —, y el silencio podía significar que estaba bien o que estaba cuidándose de no levantar olas. Eris no sabía cuál de las dos. Se había prohibido pensarlo con más detalle del necesario. No servía de nada.
+De Elis no había llegado nada en veintitrés días. Ni carta, ni parte, ni rumor suelto. Lirae estaría en Norel — o en el cuartel o en la biblioteca o donde Lirae iba cuando no estaba midiendo —, y el silencio podía significar que estaba bien o que estaba cuidándose de no levantar olas. Eris no sabía cuál de las dos. Se había prohibido pensarlo con más detalle del necesario. No servía de nada.
 
 Cerró los ojos un segundo.
 
 Oyó el *tum*.
 
-Muy bajo. Muy lejos. Desde el sur. Desde Helisil. A cien leguas de Ygoran, el sonido seguía llegándole. Dos golpes espaciados.
+Muy bajo. Muy lejos. Desde el sur. Desde Elis. A cien leguas de Ygoran, el sonido seguía llegándole. Dos golpes espaciados.
 
 Eris abrió los ojos.
 
@@ -338,7 +338,7 @@ Eris asintió muy poco.
 
 —¿Sí.
 
-—¿Tú crees que ya nos han dado por perdidos en Helisil.
+—¿Tú crees que ya nos han dado por perdidos en Elis.
 
 —No. Te han dado por obstinada. Es distinto.
 
@@ -374,7 +374,7 @@ Bebió el vino despacio.
 
 No hubo respuesta. Nunca había.
 
-Pero el *tum tum*, al fondo, desde Helisil, volvió a sonar.
+Pero el *tum tum*, al fondo, desde Elis, volvió a sonar.
 
 Dos veces.
 

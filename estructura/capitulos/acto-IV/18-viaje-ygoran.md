@@ -252,7 +252,7 @@ No comentaron más. No lo necesitaban. Eran dos Eldara todavía por dentro aunqu
 
 Noveno día. Décimo.
 
-El río se había hecho ancho. Un par de puentes viejos cruzaban de una orilla a la otra. Carros humanos con mercancía pasaban en dirección opuesta — ellos al sur, Eris y Haris al norte. Algunos levantaban una mano al cruzarse. Eris devolvía el saludo. Había aprendido en el viaje que, fuera de Helisil, los desconocidos se saludaban por la carretera. Fue el detalle más chocante. Era lo que había perdido Helisil al ser Helisil: el saludo al desconocido.
+El río se había hecho ancho. Un par de puentes viejos cruzaban de una orilla a la otra. Carros humanos con mercancía pasaban en dirección opuesta — ellos al sur, Eris y Haris al norte. Algunos levantaban una mano al cruzarse. Eris devolvía el saludo. Había aprendido en el viaje que, fuera de Elis, los desconocidos se saludaban por la carretera. Fue el detalle más chocante. Era lo que había perdido Elis al ser Elis: el saludo al desconocido.
 
 Al noveno día, a última hora, Haris se quedó un rato callado mirando al oeste. Eris lo miró.
 
@@ -266,7 +266,7 @@ Eris se detuvo. El caballo paró en seco.
 
 —El tum.
 
-Eris cerró los ojos un segundo. Lo oyó también. Muy bajo, muy lejos. La misma frecuencia de Helisil. Aquí en Liga Kovax, a nueve días de marcha, seguía.
+Eris cerró los ojos un segundo. Lo oyó también. Muy bajo, muy lejos. La misma frecuencia de Elis. Aquí en Liga Kovax, a nueve días de marcha, seguía.
 
 —No estaba antes — dijo Haris—. Con la Nexalita no lo oía. Ahora sí.
 
@@ -278,11 +278,11 @@ Eris cerró los ojos un segundo. Lo oyó también. Muy bajo, muy lejos. La misma
 
 Pausa.
 
-—¿Es sólo de Helisil —dijo Haris.
+—¿Es sólo de Elis —dijo Haris.
 
 Eris lo pensó.
 
-—No. Helisil es la fuente. Pero llega más lejos de lo que llegaría si fuera sólo Helisil. Alcanza al menos hasta aquí.
+—No. Elis es la fuente. Pero llega más lejos de lo que llegaría si fuera sólo Elis. Alcanza al menos hasta aquí.
 
 —¿Hasta Ygoran.
 
@@ -360,7 +360,7 @@ En algún lado de la ciudad había una red. En esa red estaba Nyree. Eris la lle
 
 Lyris lo había sabido al dar el sobre. Por eso el sobre acababa en Ygoran y no en otro sitio: era el único lugar donde alguien podría recibir a la Kalari sin entregarla en el acto.
 
-Y en Helisil, muy al fondo, el *tum tum* seguía.
+Y en Elis, muy al fondo, el *tum tum* seguía.
 
 Eris picó al caballo.
 

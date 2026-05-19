@@ -187,7 +187,7 @@ El estilo pide ficha técnica renacentista. Funciona perfecto para personajes y 
 - Arcos amplios en la planta baja.
 - **Mesa de control** con **reloj de arena blanca**: los guardianes leen el reloj para calcular cuándo cambia el sentido de la Arteria (es ciencia natural, no a voluntad).
 - Guardianes Yll o humanos al borde de la mesa.
-- El de Helisil es mayor; el de Thuay es modesto, sin ornamentar.
+- El de Elis es mayor; el de Thuay es modesto, sin ornamentar.
 
 ---
 
@@ -217,7 +217,7 @@ El estilo pide ficha técnica renacentista. Funciona perfecto para personajes y 
 
 ---
 
-### 17. Helisil y Kiral Ree
+### 17. Elis y Kiral Ree
 **Tipo**: vista panorámica desde el Orio (alzado).
 **Detalle canónico**:
 - **Meseta alta** sobre roca negra.

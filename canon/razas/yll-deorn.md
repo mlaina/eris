@@ -7,9 +7,23 @@
 ### Rasgos
 
 - **Vinculados a árboles Harel desde el nacimiento** — cada Yll tiene un árbol compañero de vida.
-- **Comunicación onírica** — pueden acceder a planos oníricos, comunicarse mentalmente en sueños.
+- **Comunicación onírica** — pueden acceder a planos oníricos, comunicarse mentalmente en sueños y **coordinar escuadrones en combate** a través del plano onírico.
 - Antigüedad profunda — una de las razas más viejas del mundo.
 - Apariencia: humanoide (detalles concretos por definir — probablemente altos, elegantes, con rasgos sutilmente no-humanos).
+
+### Vínculo Harel — mecánica completa
+
+Cuando nace un Yll se le deja a la sombra de un **Harel** (árbol cuyas hojas son de un color particular). Ese árbol marca al recién nacido con **marcas del mismo color en la piel**. La vida del Yll y la del árbol quedan ligadas:
+
+- **Árbol florece** → marcas del Yll **más brillantes**, mayor energía.
+- **Árbol enferma o herido** → Yll se debilita.
+- **Árbol muere** → marcas del Yll se **vuelven negras**; cae en miseria profunda.
+
+Por eso los Yll protegen sus bosques con celo extremo y rara vez se interesan por lo que ocurre fuera de ellos. Los Harel solo crecen en **dos bosques** del continente.
+
+**Excepción canon**: los **gemelos Yll sin marcas** de Thuay — su madre murió antes de poder vincularlos a un Harel. Son los únicos Yll del mundo sin marcas:
+- **Ilnadir**: miembro destacado de Amaroth, uno de los "cuatro grandes".
+- **Velerian** (también conocido como **Yll Negro**, por su piel gris oscuro): líder de **La Jauría**, ciego de nacimiento, cazador de criaturas míticas. Figura epilogal de la novela. Ver `canon/personajes/velerian.md` y `canon/organizaciones.md`.
 
 ### Cultura
 

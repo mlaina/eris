@@ -40,7 +40,7 @@ Como todo Mirisar vivo del continente (salvo el niño prodigio), **Lirae tuvo un
   - **Péndulo Mirisar** en la sala del segundo piso de Norel — único en Coria, fabricado con un maestro Mirisar viejo hace sesenta años. Mide anomalías muy finas.
   - **Lasca de plomo** en el cinturón, regalo de ese maestro. Pesa muy poco y permite medir tirones gravitatorios microscópicos con los dedos.
 - Uso táctico en combate: frenar caídas, desplazar objetos pesados, alterar trayectorias.
-- Uso exploratorio/académico: estudio del sistema de Arterias de Luz, de las anomalías de la meseta de Helisil.
+- Uso exploratorio/académico: estudio del sistema de Arterias de Luz, de las anomalías de la meseta de Elis.
 
 ## Arco narrativo
 

@@ -65,7 +65,7 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 ### Dónde NO usarlo
 
 ❌ Conversación cotidiana (en ese caso, idioma común).
-❌ Escenas fuera de Helisil/Coria (Nurn, Ygoran, Itsu → idioma común).
+❌ Escenas fuera de Elis/Coria (Nurn, Ygoran, Itsu → idioma común).
 ❌ Cuando **huye de la elegancia forzada** — no meter Nagani porque "queda bien".
 ❌ En escenas de violencia rápida (Acto V) — el Nagani de Theim debería ser mínimo o ritual breve, no interferir con la acción.
 

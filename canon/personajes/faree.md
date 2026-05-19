@@ -9,9 +9,9 @@
 - **Edad**: más de mil años.
 - **Apariencia**: joven (efecto del tritón).
 - **Título**: Rey de Coria.
-- **Hermanos**: dos, ambos menores. Ninguno es Mano de Coria.
-  - **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente pero dinásticamente vinculado a Coria.
-  - **Iren Numari**, hermano pequeño — gobernador de **Zenit** (ciudad-provincia con amplia autonomía dentro de Coria), unos 900 años. Más pragmático y militar que Faree; menos retórico, más directo. No Mano por ser representante de Zenit.
+- **Hermanos**: dos, ambos menores. Ninguno es Mano de Coria — cada uno gobierna un reino Numari independiente, hermanado a Coria por linaje pero soberano.
+  - **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente. Reside en Gistar (ciudad de las dos caras).
+  - **Iren Numari**, hermano pequeño — **rey independiente de Zenit** (isla flotante, Zona Extasiada, cruce de tres Arterias). Unos 900 años. Zenit proclamó su independencia de Coria al inicio de la Invasión Oscura; Iren ya gobernaba allí antes como representante del linaje y se convirtió en rey en pleno conflicto. Más pragmático y militar que Faree; menos retórico, más directo.
 - **Primo**: **Daerin Numari** — cabeza de la rama colateral del linaje. ~800 años. Historiador y guardián del archivo dinástico. **Mano de Coria** por peso familiar e histórico (no representa a ningún estado).
 
 ## Rasgos

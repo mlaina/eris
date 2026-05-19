@@ -92,7 +92,7 @@ Eris se tomó un segundo. La pregunta era en apariencia administrativa — Ygora
 
 —¿A quién, majestad.
 
-—A nosotros también, paradójicamente. Una ciudad que se ocupa de ser Ygoran es una ciudad que no intenta ser Helisil. Eso vale algo.
+—A nosotros también, paradójicamente. Una ciudad que se ocupa de ser Ygoran es una ciudad que no intenta ser Elis. Eso vale algo.
 
 Eris asintió medio grado.
 
@@ -228,7 +228,7 @@ Pero la frecuencia era la misma.
 
 ---
 
-Cruzó a Lorin por el puente mayor al paso. La ciudad estaba plena a esa hora — comercios abiertos, carros, niños naggar de ochenta años jugando a cosas que los humanos llamarían juegos. Nadie le habló. Los capas grises no corrían por Helisil; aquí las capas grises eran piedra.
+Cruzó a Lorin por el puente mayor al paso. La ciudad estaba plena a esa hora — comercios abiertos, carros, niños naggar de ochenta años jugando a cosas que los humanos llamarían juegos. Nadie le habló. Los capas grises no corrían por Elis; aquí las capas grises eran piedra.
 
 En Lorin, Haris estaba en el patio del armero engrasando una lanza nueva. Lo hacía despacio, con un trapo gastado. Levantó la vista cuando Eris entró. Eris le hizo un signo mínimo con la cabeza. Haris dejó la lanza.
 

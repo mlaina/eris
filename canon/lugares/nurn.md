@@ -1,12 +1,12 @@
 # Nurn
 
-**Imperio/ciudad en decadencia.** Lo **opuesto a Helisil**. Humanidad, mezcla, ruido, olor.
+**Imperio/ciudad en decadencia.** Lo **opuesto a Elis**. Humanidad, mezcla, ruido, olor.
 
 ## Imperio vs. capital
 
 - **Nurn** es el **imperio** entero — amplio territorio que ocupa gran parte del continente centro-sur, con muchas metrópolis y una red administrativa compleja.
 - **Nerath** es la **capital** del imperio — ciudad amurallada donde se encuentran el salón del trono (con Tyrus en coma), el coliseo, el consulado Naggar, los barrios de mercados y tintoreros, el río.
-- **El Orio está extramuros** de Nerath, en la llanura inmediata a las puertas de la ciudad. No está dentro de las murallas: llegar a Nerath implica cruzar la muralla por una de las puertas tras desembarcar del Glóbulo. Es una particularidad del imperio respecto de Coria (donde el Orio de Helisil está en el corazón de la ciudad).
+- **El Orio está extramuros** de Nerath, en la llanura inmediata a las puertas de la ciudad. No está dentro de las murallas: llegar a Nerath implica cruzar la muralla por una de las puertas tras desembarcar del Glóbulo. Es una particularidad del imperio respecto de Coria (donde el Orio de Elis está en el corazón de la ciudad).
 
 ## Atmósfera (de Nerath como ciudad)
 
@@ -14,7 +14,7 @@
 - **Ruido** — mercados, tráfico, voces.
 - **Olores** — comida, sudor, incienso, especia, fermento.
 - **Comercio** intenso.
-- **Caos controlado** — no es Ygoran (rebelde, libre), pero tampoco Helisil (monolítico).
+- **Caos controlado** — no es Ygoran (rebelde, libre), pero tampoco Elis (monolítico).
 - **Vitalidad humana y urbana**.
 - **Decadencia burocrática** — imperio en retroceso, administrativamente cansado.
 
@@ -34,8 +34,8 @@
 ## Función narrativa
 
 - **Acto II**: Eris visita Nurn. **Primera vez que prueba algo distinto al protocolo Naggar**. Plato de Elerian → primera grieta sensorial/emocional.
-- **Contraste deliberado** con Helisil:
-  - Helisil: mármol, silencio, altura, blanco, vertical, Nagani.
+- **Contraste deliberado** con Elis:
+  - Elis: mármol, silencio, altura, blanco, vertical, Nagani.
   - Nurn: color, ruido, horizontal, olores, muchas lenguas mezcladas.
 - **Grieta moral por acumulación**: lo humano en Nurn hace que Eris sienta, aunque todavía no piense, que algo no encaja en Coria.
 - **Acto III**: Faree incorpora a Elerian como cocinero real. Nurn queda como **lo perdido** — lo que el imperio absorbe.

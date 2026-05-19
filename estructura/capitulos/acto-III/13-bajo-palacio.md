@@ -186,7 +186,7 @@ Más fuerte que nunca.
 
 Era la criatura.
 
-El tum tum llevaba cien años siendo eso. Eris lo había oído de niña en Itsu. Lo había oído en Valdara. Lo había oído en Helisil. Era el mismo. Siempre había sido el mismo. La cosa de la que venía estaba a veinte pasos de ella.
+El tum tum llevaba cien años siendo eso. Eris lo había oído de niña en Itsu. Lo había oído en Valdara. Lo había oído en Elis. Era el mismo. Siempre había sido el mismo. La cosa de la que venía estaba a veinte pasos de ella.
 
 Eris se aplastó contra la roca con el cuerpo entero. Cerró los ojos un segundo. Volvió a abrirlos. No había cambiado nada en su escondite — la antorcha de Faree seguía clavada al borde, el rey seguía de rodillas, la criatura seguía emergida —, pero lo que oía dentro del cráneo no era ya el tum tum lejano. Era el tum tum de aquí. Detrás de los ojos. Entre el ojo y el ojo.
 

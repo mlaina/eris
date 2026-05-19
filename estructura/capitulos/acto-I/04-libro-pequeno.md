@@ -1,6 +1,6 @@
 # Capítulo 4 — Libro pequeño
 
-La Arteria los dejó en el Orio de Helisil al amanecer.
+La Arteria los dejó en el Orio de Elis al amanecer.
 
 Eris bajó de la rejilla con la pintura seca en el casco y treinta y seis horas encima. Roe, el guardián de siempre, la recibió con la misma sonrisa pequeña. Esta vez no le ofreció la mano. Tampoco hicieron falta los tres dedos. Los Eldara que vuelven con pintura seca no se reciben como los Eldara que vuelven de una misión limpia.
 
@@ -76,7 +76,7 @@ Eris le tocó el hombro al pasar. Una vez. Salió de Lorin sola, por la puerta e
 
 ---
 
-Entró en Helisil por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron una pulgada más de la que se habrían apartado otro día. La pintura seca del casco y del escudo lo explicaba todo. Ella los dejó apartarse. No le pesaba.
+Entró en Elis por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron una pulgada más de la que se habrían apartado otro día. La pintura seca del casco y del escudo lo explicaba todo. Ella los dejó apartarse. No le pesaba.
 
 Al mediodía estaba en Kiral Ree.
 
@@ -362,7 +362,7 @@ Lirae se giró despacio.
 
 —Cuéntame.
 
-Eris le contó. El Orio de Valdara al llegar, el primer golpe. El callejón de subida, el segundo. El balcón del gobernador, el tercero. Y luego la Valagost encapuchada mirándola desde abajo, los labios formando *tum tum* sin sonido, y otra vez dentro de la cabeza. La última al final, con la plaza vacía. Y el rato breve esta mañana al pisar la rejilla del Orio de Helisil: un segundo, como un recuerdo mal colocado.
+Eris le contó. El Orio de Valdara al llegar, el primer golpe. El callejón de subida, el segundo. El balcón del gobernador, el tercero. Y luego la Valagost encapuchada mirándola desde abajo, los labios formando *tum tum* sin sonido, y otra vez dentro de la cabeza. La última al final, con la plaza vacía. Y el rato breve esta mañana al pisar la rejilla del Orio de Elis: un segundo, como un recuerdo mal colocado.
 
 Lirae escuchó sin interrumpir. Tenía la copa entre las manos, sin beber.
 

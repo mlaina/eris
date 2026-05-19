@@ -368,7 +368,7 @@ Eris salió a la galería. El sol del mediodía alto. Las cascadas sonando clara
 
 Caminó hacia Lorin por el puente mayor.
 
-A mitad del puente, se dio cuenta de que por primera vez en muchos años caminaba sola por Helisil sin alguien con quien compartir el resto del día.
+A mitad del puente, se dio cuenta de que por primera vez en muchos años caminaba sola por Elis sin alguien con quien compartir el resto del día.
 
 Muoro estaba en Lorin, pero Muoro no era sitio donde apoyarse.
 
@@ -388,7 +388,7 @@ Daerin le había dado una pista por un minuto y después había cerrado la puert
 
 Sirel era un nombre en piedra.
 
-Eris iba por el puente mayor del palacio blanco de Helisil y por primera vez en cien años no había nadie esperándola arriba.
+Eris iba por el puente mayor del palacio blanco de Elis y por primera vez en cien años no había nadie esperándola arriba.
 
 El *tum tum* seguía, muy bajo, por debajo.
 

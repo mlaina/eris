@@ -137,7 +137,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 > El caldo sabía al caldo. Una mujer Naggar de túnica oscura a las diez de la noche en Nerath era una mujer Naggar de túnica oscura.
 
 **Bien**:
-> No tenía secreto. En Helisil eso no pasaba nunca.
+> No tenía secreto. En Elis eso no pasaba nunca.
 
 ---
 
@@ -147,6 +147,6 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 - [ ] ¿Faree sigue siendo admirable (si aparece, Acto I-II)?
 - [ ] ¿El Nagani está dosificado con sentido?
 - [ ] ¿El worldbuilding emerge por uso y no por exposición?
-- [ ] ¿La prosa está al servicio del tono del escenario (Helisil sobrio, Nurn sensorial, Ygoran visceral)?
+- [ ] ¿La prosa está al servicio del tono del escenario (Elis sobrio, Nurn sensorial, Ygoran visceral)?
 - [ ] ¿La dimensión política sigue presente?
 - [ ] ¿Hay melodrama? (si sí: contener)

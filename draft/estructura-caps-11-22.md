@@ -48,7 +48,7 @@ Total 22 capítulos. Cierra libro.
 5. Daerin la aborda al salir: le cuenta una línea sobre el padre de Eris ("Tu padre vio Itsu arder dos veces. La segunda no la recordaba porque ya no estaba."). Siembra pasado.
 6. Cierre: Eris camina por la galería de los cedros hacia Lorin. Oye el *tum tum* bajo los cedros también.
 
-**Tono**: Helisil, ceremonial, luz blanca, mármol. Sicario refinado. Eris siente el aislamiento del que sabe y no puede decir.
+**Tono**: Elis, ceremonial, luz blanca, mármol. Sicario refinado. Eris siente el aislamiento del que sabe y no puede decir.
 
 **Semillas recogidas**: corte frívola (semilla nueva: "banalidad de los Naggar"). Faree admirable aún pero distinto.
 
@@ -63,7 +63,7 @@ Total 22 capítulos. Cierra libro.
 **Arranque**: dos días después del cap 11. Eris todavía no ha empezado a investigar — Virim le concedió los tres días pero le cambió las fechas (conveniencia: hay un evento oficial en palacio).
 
 **Beats**:
-1. Evento: recepción a una delegación de la Liga Kovax en Helisil (follow-up del cap 5). Eris escolta visible.
+1. Evento: recepción a una delegación de la Liga Kovax en Elis (follow-up del cap 5). Eris escolta visible.
 2. Durante la recepción, atentado. Un agresor aislado — humano, capa gris, daga envenenada — intenta llegar a **Daerin** (no a Faree; a alguien cercano al archivo). Eris lo intercepta. Lo hiere pero no lo mata: quiere interrogarlo.
 3. **Theim entra antes de que nadie pueda preguntar**. Remata al agresor con la hoz. Rápido, frío. Ni Eris ni Lyris llegan a detenerlo.
 4. Consecuencias: Faree endurece protocolo. Las Manos de Coria quedan bajo escrutinio más estricto. Eris registra: Theim silenció al agresor a propósito. ¿Por qué?
@@ -71,7 +71,7 @@ Total 22 capítulos. Cierra libro.
 6. **Escena con Haris** al final: el papel tiene una dirección — un pasillo de servicio del ala oeste del palacio, bajo el nivel del Larien. Haris reconoce la descripción. "Ahí nunca entran los Eldara."
 7. Cierre: *tum tum* más fuerte esa noche en Lorin. Eris decide que va a entrar mañana.
 
-**Tono**: Helisil, acción breve contenida, después silencio espeso. Theim como problema, no solución.
+**Tono**: Elis, acción breve contenida, después silencio espeso. Theim como problema, no solución.
 
 **Semillas recogidas**: culto Silmarita Sangre (disidencia que ataca archivo, no rey — ¿qué buscan?). Daerin como pieza importante.
 
@@ -135,7 +135,7 @@ Total 22 capítulos. Cierra libro.
 5. Sale del despacho. Mira los dos tritones del trono del Larien al cruzar — ya sabe qué son.
 6. Cierre: Eris decide que no puede seguir dentro. Pero aún no sabe cómo salir. Habla con Haris esa noche en Lorin. *"Pronto."* *"Cuando digas."*
 
-**Tono**: claustrofobia refinada. Helisil se ha hecho pequeña.
+**Tono**: claustrofobia refinada. Elis se ha hecho pequeña.
 
 **Cierra Acto III**: Eris sabe la verdad. La verdad la aísla. Faree sabe que ella sabe. El tiempo se agota.
 
@@ -171,7 +171,7 @@ Total 22 capítulos. Cierra libro.
 **Beats**:
 1. Medianoche. Eris sale de Lorin con Haris. Equipamiento mínimo: armadura, lanza, daga, sin cape Eldara ni insignias.
 2. **Antes de salir**, Eris pasa por Norel. Quiere despedirse de Lirae. La puerta del armario donde guardaba el libro pequeño está forzada. Lirae no está. Erion tampoco. Eris entiende. Sale sin tocar el péndulo.
-3. Fuga nocturna por Helisil. **Lyris los intercepta** en la galería del sur — dos esferas blancas bajas, silenciosa. Eris levanta la daga sin darse cuenta. Lyris alza la mano: *"No voy a detenerte, Kalari. No hoy."* Le da un papel doblado. Eris lo guarda. Lyris: *"Vete por el Orio del norte. El guardia de turno es de los míos."* Se desvanece en la penumbra.
+3. Fuga nocturna por Elis. **Lyris los intercepta** en la galería del sur — dos esferas blancas bajas, silenciosa. Eris levanta la daga sin darse cuenta. Lyris alza la mano: *"No voy a detenerte, Kalari. No hoy."* Le da un papel doblado. Eris lo guarda. Lyris: *"Vete por el Orio del norte. El guardia de turno es de los míos."* Se desvanece en la penumbra.
 4. Llegan al Orio. El guardia los deja pasar sin parte. Cogen Arteria.
 5. **Dentro de la Arteria, ya volando**, Haris le pide que desactive la Nexalita. *"Si la llevas, te sienten."* Eris saca el pequeño cuchillo ritual que llevan los Eldara para ceremonias. Se la extrae. Es un dolor exacto, no sentimental. La deja caer en el suelo de la Arteria. Silencio interior súbito. Haris hace lo mismo con la suya.
 6. **Primera conversación con Haris sin Nexalita** desde que se conocen. Palabras completas, voz en alto. Es extraño. Haris: *"Siempre pensé que sonabas más alta de lo que suenas."* Primera risa pequeña desde Nurn.
@@ -191,11 +191,11 @@ Total 22 capítulos. Cierra libro.
 1. Tres días de ruta. Pasando por ciudades y aldeas intermedias, fuera de las Arterias principales.
 2. Sin uniforme Eldara. Los ven como dos Naggar viajeros. Gente común los trata con frialdad, no con miedo — porque no saben quiénes son. Eris no había sido mirada así en un siglo.
 3. **Conversaciones con Haris**. Intimidad verbal que la Nexalita nunca dejó. Hablan de la madre de Eris, de Itsu, del hermano que sostenía mal la espada, de la noche en Elerian (Haris lo supo siempre, por supuesto). No romance — es la clase de cercanía que se tiene con quien ya no va a mentirte.
-4. **El tum tum fuera de Helisil**. Más débil, pero presente. A Eris ya no le sorprende. Haris, ahora que lleva la Nexalita cortada, lo oye también — por primera vez. *"Lirae tenía razón. Es masa."*
+4. **El tum tum fuera de Elis**. Más débil, pero presente. A Eris ya no le sorprende. Haris, ahora que lleva la Nexalita cortada, lo oye también — por primera vez. *"Lirae tenía razón. Es masa."*
 5. Pequeña escena en una posada: un viajero humano menciona Ygoran. *"Ha entrado gente nueva. Un Yll ciego. Nadie lo había visto antes."* Eris lo registra en silencio — **siembra Velerian**.
 6. Cierre: cresta de colina. Abajo, **Ygoran**: puerto caótico, muelles, humo, gente. Haris: *"Nunca había visto un sitio así." Eris: "Yo tampoco." Los dos un minuto callados.
 
-**Tono**: aire libre, luz sin mármol, contraste absoluto con Helisil. Prosa respira más.
+**Tono**: aire libre, luz sin mármol, contraste absoluto con Elis. Prosa respira más.
 
 ---
 
@@ -210,9 +210,9 @@ Total 22 capítulos. Cierra libro.
 4. **Aceptación con reservas**. Nyree: *"Sé quién eres. La mitad de los míos quiere colgarte. La otra mitad quiere preguntarte por qué no lo hiciste antes. Tú verás cuál de las dos vas a responder."* Eris: *"Ninguna, por ahora."* Nyree casi sonríe.
 5. Recorrido rápido por la red. Caótica. Un grupo discute por dinero en una esquina. Un contrabandista reconoce a Eris y escupe al pasar. Haris lo agarra por el cuello — Eris lo suelta.
 6. **Conversación estratégica** Eris-Nyree. Eris quiere hacer algo. Nyree dice que no pueden derribar Coria. Fricción.
-7. Un mensajero llega del norte — por canal no oficial. Versión pública de Helisil: **Lirae ha desaparecido**. Accidente en investigación. Confirmación formal. Eris lo recibe en silencio. Nyree la deja sola un momento.
+7. Un mensajero llega del norte — por canal no oficial. Versión pública de Elis: **Lirae ha desaparecido**. Accidente en investigación. Confirmación formal. Eris lo recibe en silencio. Nyree la deja sola un momento.
 8. **Segunda mención Velerian**: un teniente de Nyree, al pasar, dice: *"El Yll ciego pregunta otra vez por ti. El de la venda."* Nyree: *"Que espere."* Eris lo registra.
-9. Cierre: Eris sola en el tejado del piso franco. Noche. Oye el *tum tum* lejos, desde el sur — Helisil queda por ahí. *"Entonces está aquí debajo también."* No del todo. Pero latente. Eris acepta quedarse.
+9. Cierre: Eris sola en el tejado del piso franco. Noche. Oye el *tum tum* lejos, desde el sur — Elis queda por ahí. *"Entonces está aquí debajo también."* No del todo. Pero latente. Eris acepta quedarse.
 
 **Tono**: portuario, rápido, caótico. Prosa corta, frases entrecortadas. El tum tum sigue.
 
@@ -275,7 +275,7 @@ Total 22 capítulos. Cierra libro.
    - Nyree lo mira un largo rato.
 6. Nyree acepta con reservas. No hay esperanza fácil. Es una alianza de cálculo.
 7. Velerian se levanta. Antes de irse: *"Me llamo Velerian."*
-8. Cierre: Nyree sola. Fuera, los muelles. Un barco pesquero sale. El *tum tum*, desde muy lejos (¿desde Helisil?) sigue sonando. Nyree lo oye por primera vez, no sabe qué es. No importa. Sale del almacén.
+8. Cierre: Nyree sola. Fuera, los muelles. Un barco pesquero sale. El *tum tum*, desde muy lejos (¿desde Elis?) sigue sonando. Nyree lo oye por primera vez, no sabe qué es. No importa. Sale del almacén.
 
 **Tono**: POV Nyree = voz distinta. Más frontal, menos lírica, más pragmática. Español con menos contención que Eris. Prosa se abre.
 

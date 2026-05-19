@@ -18,7 +18,7 @@ Nerath a las diez de la noche eran sus habitantes humanos celebrando. No una fie
 
 Olía a todo a la vez. A fritura de aceite caliente, a vino de segunda, a cuerpo de gente que había trabajado y que ahora descansaba con el calor del día metido en la ropa, a especia fermentando en los puestos que seguían abiertos, a humo de leña de las cocinas.
 
-Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. Nadie la miró dos veces. En Helisil eso no pasaba nunca. Lo agradeció sin ponerle palabra.
+Eris caminó sin rumbo preciso hacia el sur, hacia el pulso bajo de los mercados. Nadie la miró dos veces. En Elis eso no pasaba nunca. Lo agradeció sin ponerle palabra.
 
 Dos calles más abajo, en un callejón interior del barrio de los tintoreros — más silencioso que la avenida, menos fiesta y más oficios cerrando puertas —, un olor distinto la detuvo.
 

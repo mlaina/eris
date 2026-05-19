@@ -11,6 +11,31 @@
 - **Geopolítica viva**: una movilización silmarítica **desequilibra el continente**.
 - **Desestabilizan cualquier planificación racional**.
 
+## Los seis originales
+
+En el origen del mundo existían **seis** Silmaritas, uno por elemento natural:
+
+1. Agua
+2. Tierra
+3. Fuego
+4. Aire
+5. Luz
+6. Oscuridad
+
+Con el paso de los siglos el número ha cambiado — hoy hay **más de seis** Silmaritas activos, aunque no todos intervienen en los asuntos mortales. Algunos (aire, hielo) prácticamente no se manifiestan en política.
+
+## Muerte y herencia de poder
+
+Cuando un Silmarita muere puede pasar una de tres cosas:
+
+- **Absorción**: el poder es absorbido por otro ser, que se convierte en el nuevo Silmarita de ese elemento.
+- **Fragmentación**: el poder se parte y da lugar a **dos** nuevos Silmaritas distintos.
+- **Dispersión parcial**: el poder se pierde en parte, creando efectos impredecibles.
+
+**Cesión voluntaria** = excepción. Si un Silmarita cede voluntariamente su poder a otro ser, **no hay efectos secundarios** ni Zona Extasiada.
+
+Si la muerte es **involuntaria**, además del trasvase de poder se genera una **Zona Extasiada** en el lugar donde murió (ver `canon/lugares/zonas-extasiadas.md`).
+
 ## Unidad de poder
 
 - **Quir**: unidad de poder mágico atribuida a los Silmaritas.
@@ -27,7 +52,7 @@
 
 | Silmarita | Ámbito | Ubicación | Relevancia narrativa |
 |---|---|---|---|
-| **Tyrus — Silmarita de la Sangre** (en coma en Nerath desde la Invasión Oscura) | Sangre, violencia ritual | **Salón del trono del Imperio Nurn, en la capital Nerath** (cuerpo) + culto disperso en Nerath, Tulgur, provincias menores | **Theim es su juramentado**. Identidad del ejecutor. El culto se marca con una **espiral doble roja** en el cuello. Tyrus fue **herido de gravedad en la batalla final de la Invasión Oscura**; desde entonces yace en éxtasis — coma — en el salón del trono de Nerath, y **la regencia del imperio la ejercen otros** (de ahí el declive burocrático: nadie tiene el peso del Silmarita en el asiento). Su culto tiene una **rama disidente** que ataca a Coria y a Faree (atentado de Nerath, Cap 8). |
+| **Tyrus — Silmarita de la Sangre** (en coma en Nerath desde la Invasión Oscura) | Sangre, violencia ritual | **Salón del trono del Imperio Nurn, en la capital Nerath** (cuerpo) + culto disperso en Nerath, Tulgur, provincias menores | **Origen humano**: era general de Nurn cuando presenció el duelo entre el Silmarita del Agua y el Silmarita de la Oscuridad (se mataron mutuamente), absorbió parte de los dos poderes en la Zona Extasiada resultante y, con el emperador **Rior**, descubrió "el poder de la sangre". Fundó los **Inhumanos** y acumuló poder real hasta convertir a los emperadores en títeres. **Theim es su juramentado**. Identidad del ejecutor. El culto se marca con una **espiral doble roja** en el cuello. Tyrus fue **herido de gravedad en la batalla final de la Invasión Oscura**; desde entonces yace en éxtasis — coma — en el salón del trono de Nerath, y **la regencia del imperio la ejercen otros** (de ahí el declive burocrático: nadie tiene el peso del Silmarita en el asiento). Su culto tiene una **rama disidente** que ataca a Coria y a Faree (atentado de Nerath, Cap 8). |
 | **Silmarita de la Piedra** (Koan) | Tierra, piedra | Geoda | Aliado militar de Coria. Hijo: Krod. |
 | **Silmarita Sesset** | Ssilvaris | Siphias | Unifica tribus para invasión masiva. Amenaza geopolítica. |
 | **Silmarita del Hielo** (Lurk) | Hielo | Aret | Moviliza ejército. Crisis continental. |

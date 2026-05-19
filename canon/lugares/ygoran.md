@@ -46,6 +46,6 @@ La decepción de Eris con los rebeldes es **parte esencial del tema**: la mera o
 
 ## Notas de escritura
 
-- **Prosa visceral, física, olfativa**. Contraste máximo con Helisil.
+- **Prosa visceral, física, olfativa**. Contraste máximo con Elis.
 - **Ritmo acelerado** en Acto V — la violencia es **rápida, no barroca**.
 - Ygoran sobrevive al libro — queda en pie, aunque golpeada, como escenario del epílogo.

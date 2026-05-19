@@ -158,7 +158,7 @@ Theim se tomó un momento más. Después habló — bajo, sin ornamento, como si
 
 —Dígalo.
 
-—La Primer Mirisar bajó al ala oeste cinco días después de que usted saliera de Helisil. Sola. Con el péndulo. Llevaba puestas las lasca de plomo a los dos costados del cinturón. El foco gravitatorio del arco no le dejó entrar. Pero estuvo al lado del respiradero una hora. El agua la oyó. El agua salió más de lo que sale habitualmente. Cuando subió de vuelta a Norel, temblaba mal. A las dos horas estaba muerta. Sin herida. Así.
+—La Primer Mirisar bajó al ala oeste cinco días después de que usted saliera de Elis. Sola. Con el péndulo. Llevaba puestas las lasca de plomo a los dos costados del cinturón. El foco gravitatorio del arco no le dejó entrar. Pero estuvo al lado del respiradero una hora. El agua la oyó. El agua salió más de lo que sale habitualmente. Cuando subió de vuelta a Norel, temblaba mal. A las dos horas estaba muerta. Sin herida. Así.
 
 Eris no cerró los ojos.
 

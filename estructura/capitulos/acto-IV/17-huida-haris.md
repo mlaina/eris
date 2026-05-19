@@ -182,7 +182,7 @@ Cruzaron hacia el oeste. Rodearon la primera plaza. Tomaron la calle que bajaba 
 
 ---
 
-El Orio del norte era el más pequeño de los tres de Helisil. Se usaba poco — rutas secundarias, tramos fronterizos hacia el norte donde no había comercio grande. A esa hora tenía un solo guardia, que era el que Lyris había mencionado. Eris no sabía cuál sería. Iban a ver.
+El Orio del norte era el más pequeño de los tres de Elis. Se usaba poco — rutas secundarias, tramos fronterizos hacia el norte donde no había comercio grande. A esa hora tenía un solo guardia, que era el que Lyris había mencionado. Eris no sabía cuál sería. Iban a ver.
 
 En la galería lateral del Orio, antes de los primeros escalones de la plataforma, Lyris los interceptó.
 
@@ -434,7 +434,7 @@ Eris le dio una moneda al establero. Montaron.
 
 Salieron al camino.
 
-Eran las dos de la mañana. El cielo encima de Tegro estaba claro. La luna baja hacia el oeste. No se oía el *tum tum* — o sí, muy muy bajo, muy al fondo, como si Helisil estuviera a una vida de distancia.
+Eran las dos de la mañana. El cielo encima de Tegro estaba claro. La luna baja hacia el oeste. No se oía el *tum tum* — o sí, muy muy bajo, muy al fondo, como si Elis estuviera a una vida de distancia.
 
 Haris miró hacia atrás una vez.
 

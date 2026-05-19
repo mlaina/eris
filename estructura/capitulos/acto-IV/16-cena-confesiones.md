@@ -76,7 +76,7 @@ Elerian sirvió el primer plato a Lyris. Luego a Daerin. Luego a Faree. Luego a 
 
 Cuando el plato de Eris cayó frente a ella, Elerian le ajustó el borde un milímetro con dos dedos — el mismo gesto —. Eris le miró una vez, de pasada. Elerian le devolvió la mirada medio segundo y se fue.
 
-No había sorpresa. No había reconocimiento obvio. No había saludo. Elerian cocinaba para el rey y ya. Había llegado a Kiral Ree tres días antes — un carruaje del palacio lo había ido a recoger a Nerath, y eso en Helisil lo sabían los escribas de la casa y pronto lo iba a saber todo el resto. Ya sabía quién era Eris desde antes de la cena.
+No había sorpresa. No había reconocimiento obvio. No había saludo. Elerian cocinaba para el rey y ya. Había llegado a Kiral Ree tres días antes — un carruaje del palacio lo había ido a recoger a Nerath, y eso en Elis lo sabían los escribas de la casa y pronto lo iba a saber todo el resto. Ya sabía quién era Eris desde antes de la cena.
 
 Eris miró el plato.
 
