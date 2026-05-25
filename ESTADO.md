@@ -58,12 +58,12 @@ Marcos dirige por bloques: abordar lo que tiene claro, aparcar lo dudoso.
 
 ### 🟡 Dudosos — aparcados hasta nueva conversación
 
-| Cap | Por qué espera |
-|---|---|
-| 9, 10 | Reescritos en 02-may, pendientes relectura de Marcos antes de validar. |
-| 11, 12 | Acto III va a reescribirse según `draft/acto-III-rediseno.md`. Aparcados hasta cerrar Actos IV-V. **Cap 12 NO puede ser "atentado en la corte"**: ya hubo atentado en Nurn (cap 8), no se repite tan pronto. Reescritura como **Reunión de Las Manos** (ver rediseño). El archivo todavía se llama `12-atentado-corte.md` con contenido viejo — renombrar/reescribir cuando toque. |
-| 14, 15 | Igual: dependen de la reescritura del Acto III. |
-| 17, 18, 19 | Acto IV intermedio. Marcos no los ha marcado claros aún. |
+| Cap        | Por qué espera                                                                                                                                                                                                                                                                                                                                                                     |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 9, 10      | Reescritos en 02-may, pendientes relectura de Marcos antes de validar.                                                                                                                                                                                                                                                                                                             |
+| 11, 12     | Acto III va a reescribirse según `draft/acto-III-rediseno.md`. Aparcados hasta cerrar Actos IV-V. **Cap 12 NO puede ser "atentado en la corte"**: ya hubo atentado en Nurn (cap 8), no se repite tan pronto. Reescritura como **Reunión de Las Manos** (ver rediseño). El archivo todavía se llama `12-atentado-corte.md` con contenido viejo — renombrar/reescribir cuando toque. |
+| 14, 15     | Igual: dependen de la reescritura del Acto III.                                                                                                                                                                                                                                                                                                                                    |
+| 17, 18, 19 | Acto IV intermedio. Marcos no los ha marcado claros aún.                                                                                                                                                                                                                                                                                                                           |
 
 ### ⚪ Cerrados (no se tocan en esta tanda)
 
