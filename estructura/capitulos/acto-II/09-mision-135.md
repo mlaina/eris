@@ -20,7 +20,7 @@ El despacho interior — sala pequeña, una mesa con el mapa del continente grab
 
 —Todo mi escuadrón?
 
-—Así es, los quince
+—Así es. Los quince.
 
 —¿Por Arteria.
 
@@ -448,11 +448,11 @@ Eris lo dijo bien. Alto, claro, firme.
 
 —*Ravys Enmaur.*
 
-Doces voces del escuadrón lo repitieron al mismo tiempo.
+Doce voces del escuadrón lo repitieron al mismo tiempo.
 
 —*Ravys Enmaur.*
 
-Illia no dijo nada. No miró a Eris al decirlo. No miró a nadie. El fuejo de la ira brillaba en sus ojos al obervar a su hermano convertirse en ceniza.
+Illia no dijo nada. No miró a Eris al decirlo. No miró a nadie. Siguió mirando el fuego hasta que se apagó.
 
 ---
 

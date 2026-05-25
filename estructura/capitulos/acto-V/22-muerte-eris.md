@@ -1,4 +1,4 @@
-# Capítulo 21 — El muelle
+# Capítulo 22 — El muelle
 
 Theim llegó al amanecer.
 
@@ -158,13 +158,17 @@ Theim se tomó un momento más. Después habló — bajo, sin ornamento, como si
 
 —Dígalo.
 
-—La Primer Mirisar bajó al ala oeste cinco días después de que usted saliera de Elis. Sola. Con el péndulo. Llevaba puestas las lasca de plomo a los dos costados del cinturón. El foco gravitatorio del arco no le dejó entrar. Pero estuvo al lado del respiradero una hora. El agua la oyó. El agua salió más de lo que sale habitualmente. Cuando subió de vuelta a Norel, temblaba mal. A las dos horas estaba muerta. Sin herida. Así.
+—La Primer Mirisar bajó al ala oeste cinco días después de que usted saliera de Elis. Sola. No volvió a subir. Cuando entraron en Norel a buscarla, el péndulo seguía en su sitio. Las notas también. Ella no.
 
 Eris no cerró los ojos.
 
-—¿Sin herida.
+—¿Y abajo.
 
-—Sin herida.
+—Abajo no se busca.
+
+—Ya.
+
+Silencio.
 
 —¿Sola.
 
@@ -174,7 +178,7 @@ Eris no cerró los ojos.
 
 Theim la miró.
 
-—Porque no había terminado de creerla todavía. Según dijo ella misma, antes de que la encontrara la servidumbre. Lo último que dijo fue: *ahora sí.*
+—Eso lo sabe usted.
 
 Eris cerró los ojos un segundo largo.
 

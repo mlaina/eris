@@ -47,4 +47,4 @@ Nyree POV. Tras la muerte de Eris:
 **Lugares**: [[../lugares/ygoran]] · [[../lugares/sacrio|Sacrio (aliados Ssilvaris)]]
 **Razas**: [[../razas/valagost]]
 **Otros**: [[../organizaciones|La Jauría / Amaroth]]
-**Capítulos clave**: [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19 (recibe a Eris)]] · [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo (POV Nyree, alianza con Velerian)]].
+**Capítulos clave**: [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19 (recibe a Eris)]] · [[../../estructura/capitulos/acto-V/23-epilogo-nyree|epílogo cap 23 (POV Nyree, alianza con Velerian)]].

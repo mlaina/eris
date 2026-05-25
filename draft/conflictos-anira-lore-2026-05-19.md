@@ -51,7 +51,7 @@ Aplicado:
 
 ## 5. ✅ Velerian — RESUELTO (2026-05-19)
 
-Decisión: **Velerian** = Velirean (mismo personaje, fijamos la ortografía "Velerian" del canon previo y del cap 22 escrito). Aceptado todo el setup del doc nuevo.
+Decisión: **Velerian** = Velirean (mismo personaje, fijamos la ortografía "Velerian" del canon previo y del cap 23 escrito). Aceptado todo el setup del doc nuevo.
 
 Aplicado:
 - `canon/personajes/velerian.md` reescrito con la identidad completa: Yll de Thuay, piel gris oscuro, ciego de nacimiento, gemelo sin marcas de Ilnadir, líder de La Jauría, capacidad extraordinaria de sentir criaturas.

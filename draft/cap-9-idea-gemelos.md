@@ -55,7 +55,7 @@ Eris, en el patio del cortijo, registra las dos cosas a la vez. **Le potencia la
 ## Coste de la decisión
 
 - Hay que reescribir partes del cap 9 (la baja, la ceremonia, el patio nocturno con Haris).
-- Hay que afinar caps 20-21 cuando lleguemos para que el gemelo superviviente esté presente y su silencio se lea.
+- Hay que afinar caps 21-22 cuando lleguemos para que el gemelo superviviente esté presente y su silencio se lea.
 - El nombre **Sirel Enmaur** desaparece (era nombre menor, no se ha usado en otros capítulos validados — verificar).
 
 ---

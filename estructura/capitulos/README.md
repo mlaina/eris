@@ -23,7 +23,7 @@ Capítulos escritos del manuscrito. Agrupados por acto. Estado de cada uno en [[
 ## Acto III — Revelación
 
 - [[acto-III/11-corte-hueca|11 — La corte hueca]] · 🔄 sólo cambios mecánicos
-- [[acto-III/12-atentado-corte|12 — (reescribir como Reunión de Las Manos)]] · ⚠️ contenido obsoleto
+- [[acto-III/12-reunion-manos|12 — Reunión de Las Manos]] · 🔄 reescrito 2026-05-25
 - [[acto-III/13-bajo-palacio|13 — Bajo el palacio]] · 🔄 reescrito desde cero, pendiente confirmar
 - [[acto-III/14-lirae-pared|14 — Lirae y la pared]] · 🔄 depende del rediseño
 - [[acto-III/15-aislamiento|15 — Aislamiento]] · 🔄 depende del rediseño
@@ -38,11 +38,9 @@ Capítulos escritos del manuscrito. Agrupados por acto. Estado de cada uno en [[
 
 ## Acto V — Tragedia
 
-> ⚠️ **Renumeración pendiente** 20→21, 21→22, 22→23 (porque el cap 20 del Acto IV ya existe).
-
-- [[acto-V/20-asalto-ygoran|20 → 21 — Asalto a Ygoran]] · 🔄 primera pasada
-- [[acto-V/21-muerte-eris|21 → 22 — Muerte de Eris]] · 🔄 primera pasada
-- [[acto-V/22-epilogo-nyree|22 → 23 — Epílogo (POV Nyree)]] · 🔄 primera pasada
+- [[acto-V/21-asalto-ygoran|21 — Asalto a Ygoran]] · 🔄 primera pasada
+- [[acto-V/22-muerte-eris|22 — Muerte de Eris]] · 🔄 primera pasada
+- [[acto-V/23-epilogo-nyree|23 — Epílogo (POV Nyree)]] · 🔄 primera pasada
 
 ---
 

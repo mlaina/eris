@@ -1,7 +1,7 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-05-25 (limpieza y grafo Obsidian).
-**Próxima decisión bloqueante**: validar las 5 inserciones de enriquecimiento de lore propuestas en [[draft/enriquecimiento-lore-2026-05-19]].
+**Última sesión**: 2026-05-25 (limpieza y grafo Obsidian + verificación de enriquecimiento de lore).
+**Próxima decisión bloqueante**: hipótesis tritón–Eris en cap 13 (opciones en [[sesiones/2026-05-16-cap20-descubrimiento-lirae]]); decisiones del cap 12 (Reunión de Las Manos) en [[draft/acto-III-rediseno]].
 
 ---
 
@@ -39,7 +39,7 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 | 6 | [[estructura/capitulos/acto-II/06-nurn-dia]] | ✅ validado |
 | 7 | [[estructura/capitulos/acto-II/07-cena-elerian]] | ✅ validado |
 | 8 | [[estructura/capitulos/acto-II/08-atentado]] | ✅ validado |
-| 9 | [[estructura/capitulos/acto-II/09-mision-135]] | 🔶 validado a medias — pendiente pasada en frío (ver [[sesiones/2026-05-02-acto-II-reescritura]]) |
+| 9 | [[estructura/capitulos/acto-II/09-mision-135]] | ✅ validado (pasada en frío 2026-05-25: erratas + frase épica de Illia reescrita) |
 | 10 | [[estructura/capitulos/acto-II/10-pesadillas]] | 🔄 reescrito 2026-05-02, pendiente relectura |
 
 ### Acto III — Revelación
@@ -47,7 +47,7 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 | # | Archivo | Estado |
 |---|---|---|
 | 11 | [[estructura/capitulos/acto-III/11-corte-hueca]] | 🔄 sólo cambios mecánicos (Virim→Aluren); toda la estructura se reescribe según [[draft/acto-III-rediseno]] |
-| 12 | [[estructura/capitulos/acto-III/12-atentado-corte]] | ⚠️ contenido obsoleto (no puede ser "atentado en la corte" — ya hubo atentado en Nurn cap 8). Reescribir como **Reunión de Las Manos** según rediseño. Renombrar archivo cuando toque. |
+| 12 | [[estructura/capitulos/acto-III/12-reunion-manos]] | 🔄 reescrito desde cero 2026-05-25 (Reunión de Las Manos, asunto (a) Iretha + roces (b) Loroa). Pendiente relectura de Marcos |
 | 13 | [[estructura/capitulos/acto-III/13-bajo-palacio]] | 🔄 reescrito desde cero 2026-05-02 (descenso accidental, Eris sola, tritón). Pendiente confirmar versión + integrar canon nuevo del cap 20 |
 | 14 | [[estructura/capitulos/acto-III/14-lirae-pared]] | 🔄 depende del rediseño Acto III |
 | 15 | [[estructura/capitulos/acto-III/15-aislamiento]] | 🔄 depende del rediseño Acto III |
@@ -64,43 +64,25 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 ### Acto V — Tragedia
 
-⚠️ **Renumeración pendiente**: el cap 20 de Acto IV (descubrimiento Lirae) ya existe → los archivos del Acto V deben renumerarse 20→21, 21→22, 22→23. **No ejecutado todavía**. Requiere también renombrar archivos y actualizar referencias.
-
-| # actual | Archivo | # tras renumeración | Estado |
-|---|---|---|---|
-| 20 | [[estructura/capitulos/acto-V/20-asalto-ygoran]] | 21 | 🔄 primera pasada, pulir |
-| 21 | [[estructura/capitulos/acto-V/21-muerte-eris]] | 22 | 🔄 primera pasada, pulir. Tono contenido máximo |
-| 22 | [[estructura/capitulos/acto-V/22-epilogo-nyree]] | 23 | 🔄 primera pasada, pulir. POV Nyree |
+| # | Archivo | Estado |
+|---|---|---|
+| 21 | [[estructura/capitulos/acto-V/21-asalto-ygoran]] | 🔄 primera pasada, pulir |
+| 22 | [[estructura/capitulos/acto-V/22-muerte-eris]] | 🔄 primera pasada, pulir. Tono contenido máximo. ✅ ajuste *"ahora sí"* aplicado 2026-05-25 |
+| 23 | [[estructura/capitulos/acto-V/23-epilogo-nyree]] | 🔄 primera pasada, pulir. POV Nyree |
 
 ---
 
 ## Pendientes vivos al cierre
 
-### 🎯 Bloque principal — enriquecimiento de capítulos con lore
-
-5 inserciones de alto valor narrativo propuestas en [[draft/enriquecimiento-lore-2026-05-19]] con párrafo modelo. **No aplicar hasta que Marcos valide párrafo a párrafo.**
-
-| # | Cap | Núcleo |
-|---|---|---|
-| 1 ⭐ | 11 o 16 | Crisis de Itsu — Daerin le dice a Eris que su hermano asesinó a GoEtsu |
-| 2 ⭐ | 19 | Setup [[canon/personajes/velerian]] en Ygoran (Yll sin marcas cruza un muelle) |
-| 3 | 19 | [[canon/lugares/sacrio]] → "las Serasin" + piratería |
-| 4 | 5 | Faree precisa la crisis continental (Sesset, Hielo en Tarsos, Elkorn) |
-| 5 | 6 o 7 | Elerian alude a Tyrus en coma (caldo por cánula desde hace cuarenta años) |
-
 ### 🟢 Pulido de capítulos validados a medias
 
-- Cap 9 — pasada en frío (verificar despacho con Aluren, línea de los diez mil soldados, patio del armero).
 - Cap 13 — confirmar versión actual e integrar canon nuevo del cap 20 (hipótesis Mirisar, por qué el tritón no apagó la magia a Eris).
 - Cap 16 — pulido.
-- Caps 20-22 Acto V — pulido + renumeración a 21-23.
+- Caps 21-23 Acto V — pulido.
 
 ### 🔴 Ajustes obligatorios pendientes
 
-- **Renumeración del Acto V**: 20→21, 21→22, 22→23. Renombrar archivos y actualizar referencias.
-- **Ajuste cap-22-tras-renumeración**: la conversación Eris-Theim en el muelle no puede atribuir a Lirae *"ahora sí"* — esa frase queda eliminada del canon. Theim sólo puede saber que Lirae bajó al ala oeste y no volvió. Decidido en [[sesiones/2026-05-16-cap20-descubrimiento-lirae]].
-- **Cap 12 reescritura**: contenido actual obsoleto. Reescribir como **Reunión de Las Manos** según [[draft/acto-III-rediseno]]. Renombrar archivo (`12-atentado-corte.md` → algo nuevo).
-- **Outline maestro desincronizado**: [[estructura/outline-5actos]] tiene numeración vieja (22 caps; los archivos reales suman 23 con cap 20 nuevo y renumeración pendiente). Resincronizar al final.
+- **Outline maestro desincronizado**: [[estructura/outline-5actos]] tiene numeración vieja (22 caps; los archivos reales suman 23 con cap 20 nuevo + Acto V ya renumerado a 21-23 + cap 12 reescrito como Reunión de Las Manos). Resincronizar al final.
 
 ### 🟡 Decisiones narrativas para futuras sesiones
 
@@ -141,10 +123,10 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 - Cap 19: Ygoran. [[canon/personajes/nyree]] los acepta con reservas. 23 días.
 - Cap 20: POV Lirae. Descubrimiento del tritón. Nunca más se sabrá de ella.
 
-**Acto V — Tragedia** (tras renumeración: 21-23)
-- Cap 21 (=20 actual): Asalto. [[canon/personajes/muoro]] al frente. [[canon/personajes/theim]] mata a [[canon/personajes/haris]].
-- Cap 22 (=21 actual): Muelle al amanecer. Corte de las dos manos. Decapitación en elipsis.
-- Cap 23 (=22 actual) — **POV [[canon/personajes/nyree]]**. 22 muertos. Aparece [[canon/personajes/velerian]]. Cierre ambiguo.
+**Acto V — Tragedia**
+- Cap 21: Asalto. [[canon/personajes/muoro]] al frente. [[canon/personajes/theim]] mata a [[canon/personajes/haris]].
+- Cap 22: Muelle al amanecer. Corte de las dos manos. Decapitación en elipsis.
+- Cap 23 — **POV [[canon/personajes/nyree]]**. 22 muertos. Aparece [[canon/personajes/velerian]]. Cierre ambiguo.
 
 ---
 

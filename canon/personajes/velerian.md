@@ -58,4 +58,4 @@ Si Faree depende del tritón (criatura mítica), y Velerian **caza criaturas mí
 **Razas**: [[../razas/yll-deorn]]
 **Sistemas**: [[../sistemas/triton]] · [[../sistemas/silmaritas]]
 **Otros**: [[../organizaciones|La Jauría / Amaroth (Ilnadir)]]
-**Capítulo**: [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo (POV Nyree)]]. Posible setup en [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19]] según [[../../draft/enriquecimiento-lore-2026-05-19]].
+**Capítulo**: [[../../estructura/capitulos/acto-V/23-epilogo-nyree|epílogo cap 23 (POV Nyree)]]. Setup aplicado en [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19]] (Yll sin marcas en el muelle).

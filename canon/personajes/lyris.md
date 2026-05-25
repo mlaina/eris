@@ -79,4 +79,4 @@ Son **dos personajes distintos**. Ambas Mirisar graduadas en la Sandrie en époc
 **Razas**: [[../razas/naggar]]
 **Sistemas**: [[../sistemas/mirisar]] · [[../sistemas/nexalita]]
 **Otros**: [[../nagani|Kirala (tratamiento)]]
-**Capítulos clave**: [[../../estructura/capitulos/acto-I/02-elis-lirae|cap 2]] · [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4]] · [[../../estructura/capitulos/acto-II/08-atentado|cap 8 (apaga la calle)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (sobre "asunto de las velas")]] · [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo ("¿Duele." / "Sí.")]].
+**Capítulos clave**: [[../../estructura/capitulos/acto-I/02-elis-lirae|cap 2]] · [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4]] · [[../../estructura/capitulos/acto-II/08-atentado|cap 8 (apaga la calle)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (sobre "asunto de las velas")]] · [[../../estructura/capitulos/acto-V/23-epilogo-nyree|epílogo cap 23 ("¿Duele." / "Sí.")]].

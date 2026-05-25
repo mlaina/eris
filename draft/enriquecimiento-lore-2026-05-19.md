@@ -2,13 +2,13 @@
 
 Sesión 2026-05-19. Tras la integración de `Anira Lore.pages` y el cierre de los 9 conflictos, quedan **5 inserciones de alto valor narrativo** para enriquecer los capítulos ya escritos sin abrir nueva trama.
 
-**No aplicar todavía**. Marcos valida párrafo a párrafo antes de tocar texto.
+**Estado**: ✅ las 5 inserciones aplicadas. Verificado 2026-05-25 (sesión [[sesiones/2026-05-25-limpieza-y-grafo]]).
 
 **Regla absoluta**: tono Sicario, prosa nunca de ficha, ninguna inserción puede sonar a info-dump. Si una mención exige más de tres líneas para encajar, se descarta.
 
 ---
 
-## ⭐ 1. Crisis de Itsu (GoEtsu asesinado) — cap 11 o cap 16
+## ⭐ 1. Crisis de Itsu (GoEtsu asesinado) — cap 11 o cap 16 — ✅ aplicada en cap 5
 
 ### Por qué importa
 El doc nuevo confirma que **GoEtsu** — el padre de Eris — ha sido asesinado por uno de sus hijos durante el arco del libro. Es el bonus narrativo más grande de toda la integración. Eris debería enterarse en algún momento, y el momento natural es en la corte, por boca de **Daerin Numari** (Mano historiador, primo de Faree, único Mano que la trata con afecto mudo).
@@ -34,15 +34,15 @@ Si en el cap 11 ya hay demasiada carga, la noticia puede caer en la cena con Far
 - Abrir una trama que no se cierra en el libro. Hay que dejarlo como **dato sentido pero no actuable** — Eris no va a Itsu, no escribe, no llora. Sigue el procedimiento.
 - Demasiado peso en el cap 11 si ya hay siembra de Ygoran (Faree) + Tyrus + tritón.
 
-### Decisión pendiente
-Marcos elige: cap 11 o cap 16. O ambos (mención breve en 11, eco en 16).
+### Resolución
+Aplicada en **cap 5** (línea 133-135), no en cap 11/16. Daerin la suelta por acústica del Larien tras la audiencia de Atalar — Gabara es el conde que cenó con el padre, así que el enganche cae natural ahí. El cap 11 lleva una siembra paralela y complementaria: cartas viejas del archivo, *"su padre vio Itsu arder dos veces — la segunda no la recordaba"*, ambigüedad sobre si ya estaba muerto, ausente o no en sí. Son dos pistas escalonadas, no redundantes.
 
 ---
 
-## ⭐ 2. Setup de Velerian / La Jauría en Ygoran (cap 19)
+## ⭐ 2. Setup de Velerian / La Jauría en Ygoran (cap 19) — ✅ aplicada
 
 ### Por qué importa
-El epílogo (cap 22) presenta a Velerian. Sin setup previo, suena a deus ex machina. **Una sola frase** en cap 19 lo convierte en algo ganado.
+El epílogo (cap 23) presenta a Velerian. Sin setup previo, suena a deus ex machina. **Una sola frase** en cap 19 lo convierte en algo ganado.
 
 ### Encaje propuesto — cap 19 (Ygoran rebelde)
 Ya hay un párrafo de "Ygoran a ras de calle": Valagost, humanos, Anvur, Ssilvaris de Sacrio. **Añadir una línea** sobre un Yll inusual cruzando un muelle al fondo.
@@ -61,12 +61,12 @@ Ya hay un párrafo de "Ygoran a ras de calle": Valagost, humanos, Anvur, Ssilvar
 - Si Eris lo mira demasiado, parece importante (mal). Si lo mira muy poco, no se siembra (mal).
 - Hay que medir el peso: cuatro o cinco frases máximo, en medio de una descripción de calle larga.
 
-### Decisión pendiente
-Marcos valida el párrafo y la ubicación exacta dentro del cap 19.
+### Resolución
+Aplicada literal del modelo en cap 19 (línea 11), dentro del barrido de calle de Ygoran a ras de suelo. Eris lo registra como un dato más.
 
 ---
 
-## 3. Refinar Sacrio en cap 19 — un detalle de palabra
+## 3. Refinar Sacrio en cap 19 — un detalle de palabra — ✅ aplicada
 
 ### Por qué importa
 Coste cero, gana textura.
@@ -84,9 +84,12 @@ El cap 19 dice ya: *"Una cuadrilla de Ssilvaris pasó por la calle lateral con e
 ### Riesgos
 - Mínimos. Solo asegurarse de que "Serasin" se ha mencionado antes para que el lector lo registre, o que el contexto lo deja claro.
 
+### Resolución
+Aplicada en cap 19 (línea 11). "Las Serasin" como apuesto + cierre Sicario *"La piratería seguía pagando mejor que la pesca."*
+
 ---
 
-## 4. Crisis continental en cap 5 (audiencia del Larien) — precisión geopolítica
+## 4. Crisis continental en cap 5 (audiencia del Larien) — precisión geopolítica — ✅ aplicada
 
 ### Por qué importa
 La audiencia del Larien (cap 5) menciona la crisis continental para anclar el peso militar de Coria. Ahora podemos **precisar** los movimientos con nombres concretos, sin alargar el cap.
@@ -108,12 +111,12 @@ Donde Faree resume el estado del mundo (si existe esa línea — si no, la cabe 
 - Si Faree ya habla de la crisis con otras palabras, esta inserción **sustituye**, no añade.
 - Hay que comprobar que no quede como ficha de geopolítica.
 
-### Decisión pendiente
-Marcos compara con el cap 5 actual y decide si sustituye, añade o descarta.
+### Resolución
+Aplicada en cap 5 (línea 189), por boca del escriba de inteligencia antes del informe principal de Nurn: *"Sesset ha tomado Siphias. El Hielo desciende sobre Tarsos por un puente que Theris no ve. Elkorn moviliza Úrenor contra Irithin. Tres frentes, ninguno en Coria."* Encajada como apunte previo al informe — no sustituye nada, añade.
 
 ---
 
-## 5. Tyrus en coma en Nerath (cap 6 o cap 7)
+## 5. Tyrus en coma en Nerath (cap 6 o cap 7) — ✅ aplicada en cap 7
 
 ### Por qué importa
 El Acto II transcurre en Nurn. **Tyrus yace en coma en el salón del trono de Nerath, la capital**. Una alusión de Elerian convierte la decadencia imperial en una imagen concreta — un cocinero alimenta a una Naggar mientras su emperador-dios duerme.
@@ -136,24 +139,19 @@ Elerian podría soltar la imagen mientras cocina, sin subrayarla:
 - El cap 7 está validado. Solo se tocaría con el OK explícito de Marcos.
 - Riesgo: la imagen es tan fuerte que puede pisar el plato del Itsu (el flashback del séptimo año). Hay que medir si cabe sin distraer.
 
-### Decisión pendiente
-Marcos releé cap 7 con la inserción mental y decide si pisa o complementa.
+### Resolución
+Aplicada en cap 7 (línea 297), dentro de la conversación de los cuadernos en el cuarto de Elerian. Encajada como respuesta a *"¿Para quién cocinabas antes?"* — el emperador, la cánula, los cuarenta años, el maestro, el *"Cocino para los que aún pueden comer."* Imagen entera, sin nombrar a Tyrus.
 
 ---
 
-## Resumen operativo
+## Resumen operativo — cierre
 
-| # | Cap | Coste | Pago | Estado del cap | Recomendación |
-|---|---|---|---|---|---|
-| 1 | 11 o 16 | 3 frases | Padre asesinado entra al arco | 11 a reescribir, 16 retocado | **Aplicar** — escoger cap |
-| 2 | 19 | 5 frases | Setup Velerian → cap 22 ganado | Pendiente relectura | **Aplicar** |
-| 3 | 19 | 1 palabra + 1 frase | Textura Sacrio | Pendiente relectura | **Aplicar** |
-| 4 | 5 | 3 frases | Crisis continental concreta | ✅ Validado | **Marcos decide** |
-| 5 | 6 o 7 | 4 frases | Tyrus en coma imagen | ✅ Validado | **Marcos decide** |
+| # | Cap | Estado |
+|---|---|---|
+| 1 | 5 (línea 133) + siembra paralela en 11 | ✅ aplicada |
+| 2 | 19 (línea 11) | ✅ aplicada |
+| 3 | 19 (línea 11) | ✅ aplicada |
+| 4 | 5 (línea 189) | ✅ aplicada |
+| 5 | 7 (línea 297) | ✅ aplicada |
 
-## Próximo paso
-
-1. Marcos lee las cinco propuestas con la prosa modelo.
-2. Para cada una, indica: **aplicar tal cual / aplicar con ajustes / descartar**.
-3. Yo aplico solo lo aprobado, párrafo a párrafo, sin tocar nada más.
-4. Cada inserción aplicada se marca en este draft con ✅ y fecha.
+Bloque cerrado. Verificación 2026-05-25.

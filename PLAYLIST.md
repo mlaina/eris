@@ -99,14 +99,14 @@ Canciones que acompañan la lectura de cada capítulo. Línea: contemporánea, c
 
 ## Acto V — Tragedia
 
-### Cap 20 — Asalto
+### Cap 21 — Asalto
 **When the Levee Breaks** — Led Zeppelin
 *Por qué*: la rotura grande, peso bíblico que arrasa. Encaja con Muoro liderando, Theim al frente, la decapitación de Haris.
 
-### Cap 21 — Muelle al amanecer (muerte de Eris)
+### Cap 22 — Muelle al amanecer (muerte de Eris)
 **Hurt** — Johnny Cash
 *Por qué*: oficio terminado, dolor sin melodrama, autoridad final. Encaja con el corte de las manos, la noticia de Lirae y la decapitación en elipsis.
 
-### Cap 22 — Epílogo (POV Nyree)
+### Cap 23 — Epílogo (POV Nyree)
 **Dust to Dust** — The Civil Wars
 *Por qué*: el después, promesa de seguir, polvo asentándose. Encaja con los 22 muertos contados, Velerian apareciendo y la cena paralela de Faree con Lyris.

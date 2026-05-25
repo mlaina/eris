@@ -1,4 +1,4 @@
-# Capítulo 22 — Epílogo
+# Capítulo 23 — Epílogo
 
 Nyree recorrió la casa al atardecer.
 
