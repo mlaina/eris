@@ -124,9 +124,15 @@ El mayor tragó saliva.
 
 Se fueron.
 
-Eris, desde la grada, no movió un músculo. Pero por dentro le había pasado algo pequeño y exacto: su padre había cenado con Gabara también, hacía cien años. Varias veces. Gabara había sido el pacto que rebajó la violencia en su tierra entonces. Había sido bueno. Y ahora, tres generaciones después, se había convertido en esto — otro noble cobrando rentas muertas. *Los hijos y nietos cambian*, pensó Eris. *El apellido no.*
+Eris, desde la grada, no movió un músculo. Por dentro le había pasado algo pequeño y exacto: su padre había cenado con Gabara también, hacía cien años. Varias veces. Gabara había sido el pacto que rebajó la violencia en su tierra entonces. Había sido bueno. Y ahora, tres generaciones después, se había convertido en esto — otro noble cobrando rentas muertas. *Los hijos y nietos cambian*, pensó Eris. *El apellido no.*
 
 Faree no la miró ni un segundo durante ese pasaje. Eris lo agradeció. Faree sabía cuándo mirar.
+
+Daerin tampoco la miró. Al cabo de un momento — mientras Lyris se preparaba para llamar al segundo peticionario y la sala se reordenaba — la grada le devolvió al oído de Eris una frase mínima. La acústica del Larien hacía esas cosas a quien sabía aprovecharla.
+
+—Ya no cenarán una cuarta. Tu hermano partió la mesa por la mitad.
+
+Eris no preguntó cuál. Daerin no lo dijo.
 
 ---
 
@@ -179,6 +185,12 @@ La tercera petición fueron dos casas Naggar que llevaban once meses bloqueándo
 La última no fue una petición. Fue un informe.
 
 Entró un escriba, no un diplomático. Un Naggar joven con la túnica gris de la orden de inteligencia, cara de no haber dormido. Descendió hasta el círculo de las lunas sin acompañantes.
+
+—Antes del informe principal, las novedades del continente. Sesset ha tomado Siphias. El Hielo desciende sobre Tarsos por un puente que Theris no ve. Elkorn moviliza Úrenor contra Irithin. Tres frentes, ninguno en Coria.
+
+Faree no movió la cabeza. La información la tenía.
+
+—Continúe.
 
 —Informe mensual sobre Nurn —dijo, con voz más plana de lo necesario—. Tercer mes consecutivo de declive administrativo. Tres prefecturas han dejado de transmitir cuentas al gobierno central. El cocinero imperial ha sido sustituido cuatro veces en siete meses. Los tribunales resuelven con dos meses de retraso. **El culto al Silmarita de la Sangre gana seguidores en los distritos del río** — hay comunidades abiertas donde hace un año no las había. Hay incidentes menores contra comerciantes Naggar: dos golpes con palos, un incendio nocturno, una grieta de pintura en la puerta del consulado.
 
@@ -287,3 +299,11 @@ Eris salió de Kiral Ree por la puerta lateral del ala sur, sin prisa. En el pat
 No vino.
 
 Eris salió del palacio.
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/faree]] (en esplendor, cinco peticiones, anuncio del viaje a Nurn) · [[../../../canon/personajes/lyris]] · [[../../../canon/personajes/manos-de-coria]] (Virim en grada con rol diplomático)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (Larien)]] · [[../../../canon/lugares/nurn]] (anuncio del viaje)
+**Razas**: [[../../../canon/razas/naggar]]
+**Estilo**: [[../../../estilo/tono]] (compresión Eldara en operación vs soltura cortesana de Faree en palacio — dos orgullos contrapuestos)

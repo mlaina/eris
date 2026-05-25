@@ -451,3 +451,12 @@ No se estaba quieto esta tarde. Llevaba oyéndolo desde que había pisado la rej
 Lo pensó otra vez.
 
 No le cerraba con el hombre de ojos grises tomándose la entrada de un coliseo.
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/muoro]] · [[../../../canon/personajes/theim]] (afrenta con Maelor en el vestuario) · [[../../../canon/personajes/maelor|Maelor (campeón del coliseo)]]
+**Lugares**: [[../../../canon/lugares/nurn|Nurn (Nerath, coliseo)]]
+**Razas**: humanos · [[../../../canon/razas/otras-razas|Kretus (criatura, marca de Maelor)]]
+**Sistemas**: [[../../../canon/sistemas/silmaritas]] (Maelor sobrevivió la caza Kretus en la Invasión Oscura)
+**Otros**: [[../../../canon/organizaciones]]

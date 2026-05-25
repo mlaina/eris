@@ -72,3 +72,12 @@ Algo que **Eris percibe** vinculado posiblemente al tritón, a la Valagost o a u
 - **Faree**: rey al que sirve → al que se enfrenta.
 - **Theim**: antagonista ejecutor. La destruye.
 - **Nyree**: aliada inestable en Ygoran. La sobrevive.
+
+## Conexiones
+
+**Personajes**: [[haris]] · [[lirae]] · [[muoro]] · [[faree]] · [[theim]] · [[nyree]] · [[lyris]] · [[elerian]] · [[manos-de-coria]] · [[escuadron-eris]] · [[maelor]]
+**Lugares**: [[../lugares/itsu]] · [[../lugares/coria-elis]] · [[../lugares/ygoran]] · [[../lugares/sandrie]] · [[../lugares/valdara]] · [[../lugares/nurn]] · [[../lugares/indra]]
+**Razas**: [[../razas/naggar]] · [[../razas/valagost]]
+**Sistemas**: [[../sistemas/nexalita]] · [[../sistemas/mirisar]] · [[../sistemas/triton]] · [[../sistemas/arterias-de-luz]]
+**Otros**: [[../organizaciones]] · [[../nagani]] · [[../cronologia]]
+**Capítulos donde aparece**: todos salvo [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20]] (POV Lirae) y [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo]] (POV Nyree).

@@ -288,7 +288,17 @@ Eris bebió un sorbo. Pasó la mirada por la mesa. La mirada no se le quedaba qu
 
 —Porque si los ordeno, dejo de añadirles cosas.
 
-Eris asintió un grado. Esa la entendía. Elerian la dejó moverse por el cuarto. No la seguía con los ojos. Ya la había mirado abajo.
+Eris asintió un grado. Esa la entendía.
+
+—¿Para quién cocinabas antes — preguntó.
+
+Elerian se tomó un segundo.
+
+—Aprendí en Nerath con un viejo que servía en palacio. El emperador come tres veces al día por una cánula. Caldo. Cuarenta años. Mi maestro le ajustaba la temperatura. Yo ya no entro al salón del trono. Cocino para los que aún pueden comer.
+
+Eris no contestó.
+
+Elerian la dejó moverse por el cuarto. No la seguía con los ojos. Ya la había mirado abajo.
 
 Elerian cogió la copa de Eris sin pedirla, la dejó en la mesa, con cuidado de que no se volcara. Le puso dos dedos bajo el mentón — uno en cada lado — y le levantó apenas la cara. No con fuerza. Con el mismo gesto medido.
 
@@ -399,3 +409,11 @@ Se quitó la capa. Se acostó en la cama sin haberlo pretendido. La armadura seg
 Fuera, en algún callejón de Nerath, un perro ladraba una sola vez cada veinte segundos.
 
 No tardó ni dos ladridos en dormirse profundamente.
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/elerian]] (cocina emociones, cinco platos)
+**Lugares**: [[../../../canon/lugares/nurn|Nurn (Nerath, local sin letrero en barrio de tintoreros)]] · [[../../../canon/lugares/itsu|Itsu (plato de Itsu, flashback sensorial)]]
+**Sistemas**: [[../../../canon/sistemas/mirisar|Haiz (cigarrillo, microdosis)]]
+**Reglas/memorias activas**: ver [[../../../memory/feedback_no_contador_experiencia]] · [[../../../memory/feedback_no_tautologias]] · [[../../../memory/feedback_nexalita_sensorial]]

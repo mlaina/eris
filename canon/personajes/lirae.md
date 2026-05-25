@@ -61,6 +61,14 @@ Lirae supervisa personalmente al niño humano nacido con el puente abierto. Ver 
 ## Distinción Lirae vs Lyris (CRÍTICO)
 
 - **Lirae** = Mirisar gravitatoria, amiga de Eris, Primer Mirisar (cargo). Este archivo.
-- **Lyris** = Mirisar lumínica retirada del ejercicio, Mayordoma Real. Ver `lyris.md`.
+- **Lyris** = Mirisar lumínica retirada del ejercicio, Mayordoma Real. Ver [[lyris]].
 
 Son **dos personajes distintos**. Ambas son Mirisar (graduadas en la Sandrie), con especialidades distintas. Lirae sigue en la Sandrie; Lyris hace décadas que pasó al servicio de palacio.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[lyris]] · [[faree]] · [[nino-prodigio]] · [[manos-de-coria]]
+**Lugares**: [[../lugares/sandrie]] · [[../lugares/coria-elis|Elis (Norel, palacio)]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/mirisar]] · [[../sistemas/triton]] · [[../sistemas/nexalita]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-I/02-elis-lirae|cap 2 (POV Lirae)]] · [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4 (Norel)]] · [[../../estructura/capitulos/acto-II/10-pesadillas|cap 10]] · [[../../estructura/capitulos/acto-III/14-lirae-pared|cap 14 (la pared)]] · [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20 (descubrimiento, POV Lirae, muere)]].

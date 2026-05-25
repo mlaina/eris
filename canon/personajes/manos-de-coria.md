@@ -67,3 +67,11 @@ Daerin, en cambio, **no representa a ningún estado ni provincia**. Su peso es p
 - **Acto I-II**: las Manos son la cúspide de la propaganda del orden — 8 poderosos, silenciosos, eficaces. Eris está entre ellos y lo vive como orgullo.
 - **Acto III-IV**: cuando Eris empiece a dudar, las Manos se irán reposicionando. Algunos la protegerán (Iralen, Aluren posiblemente), otros la vigilarán (Virim, Telaia), Lyris ambiguo (ver `lyris.md`).
 - **Acto V**: Muoro lidera el asalto a Ygoran contra ella. Algunos de los demás habrán reaccionado según cómo hayamos ido definiendo sus lealtades — material abierto para escribir con Marcos.
+
+## Conexiones
+
+**Las 9 Manos**: [[eris]] · [[lyris]] · [[muoro]] · [[lirae]] · Virim · Iralen · Telaia · Aluren · Daerin Numari
+**Personajes relacionados**: [[faree]] (el rey que las convoca) · [[haris]] (no es Mano, pero es Eldara bajo Eris)
+**Lugares**: [[../lugares/coria-elis|Elis (Larien, Norel, Lorin)]]
+**Razas**: [[../razas/naggar]]
+**Hermanos del rey** (no Manos): Turtei Numari (rey de Neidimia) · Iren Numari (rey independiente de [[../lugares/zonas-extasiadas|Zenit]]).

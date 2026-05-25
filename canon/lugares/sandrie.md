@@ -2,6 +2,8 @@
 
 **Academia Mirisar de Coria.** El único lugar del continente que sabe formar, rehabilitar y graduar Mirisar de manera sistemática. Su prestigio es absoluto.
 
+> **Conexiones rápidas**: [[../personajes/lirae]] (Primer Mirisar, dirige) · [[../personajes/lyris]] (graduada hace siglos, hoy [[../nagani|Kirala]]) · [[../personajes/nino-prodigio|Erion]] (caso único) · [[../sistemas/mirisar]] · [[../sistemas/triton]] (las anomalías que Lirae mide) · [[coria-elis|Elis (Norel, Lorin)]] · [[mapa-anira]]. Lorin = cuartel Eldara dentro del complejo.
+
 ## Qué es
 
 - Institución de formación, investigación y rehabilitación para Mirisar.

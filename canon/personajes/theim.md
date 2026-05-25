@@ -54,3 +54,10 @@ Encarna el tema del brief: "la maquinaria del poder no se detiene por vínculos 
 - **Sadismo en la ejecución, no en el discurso** — no hace monólogos de villano, pero disfruta el combate perfecto como disfrutaría un orfebre su pieza.
 - **Solo respeta a quien es mejor que él**. Maelor es el primer humano en cuatro siglos que le hace sentir que hay algo a su altura. Esa búsqueda obsesiva de un par a quien medirse es el único motor que aún lo mueve.
 - El aburrimiento de la inmortalidad se le escapa por los ojos — demasiada espera entre una cosa interesante y la siguiente.
+
+## Conexiones
+
+**Personajes**: [[faree]] · [[eris]] · [[haris]] · [[muoro]] · [[maelor]]
+**Lugares**: [[../lugares/coria-elis]] · [[../lugares/ygoran]] · [[../lugares/nurn]]
+**Sistemas**: [[../sistemas/silmaritas|Silmarita de la Sangre (Tyrus)]] · [[../sistemas/triton]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4 (sombra en corredor)]] · [[../../estructura/capitulos/acto-II/06-nurn-dia|cap 6 (afrenta con Maelor)]] · [[../../estructura/capitulos/acto-II/08-atentado|cap 8 (calle de los tintoreros)]] · [[../../estructura/capitulos/acto-V/20-asalto-ygoran|asalto a Ygoran (mata a Haris)]] · [[../../estructura/capitulos/acto-V/21-muerte-eris|muelle (corta manos, decapita)]].

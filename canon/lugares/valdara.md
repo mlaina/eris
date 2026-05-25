@@ -2,6 +2,8 @@
 
 **Ciudad costera bajo control Naggar desde hace generaciones.** Escenario de la **Plaza Ocre** — primera gran grieta moral.
 
+> **Conexiones rápidas**: [[../personajes/eris]] · [[../personajes/escuadron-eris]] · [[../razas/valagost|Valagost (mujer encapuchada del tum tum)]] · [[../razas/naggar|Naggar (régimen colonial)]] · [[../../estructura/capitulos/acto-I/03-plaza-ocre|cap 3 — Plaza Ocre]] · [[mapa-anira]].
+
 ## Nombre y pasado
 
 - **Nombre original**: **Targo**.

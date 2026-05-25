@@ -2,6 +2,8 @@
 
 **La perla negra.** Capital Valagost de Kelios. Ciudad construida sobre dos **Igies gemelos** (árboles colosales del norte, madera negra).
 
+> **Conexiones rápidas**: [[../personajes/eris]] · [[../personajes/escuadron-eris]] (Misión 133) · [[../razas/valagost]] · [[../sistemas/arterias-de-luz|Ruta Indra → Thuay → Loroa → Jomla → Elis]] · [[../../estructura/capitulos/acto-I/01-prologo|cap 1 — Misión 133]] · [[mapa-anira]].
+
 ## Rasgos físicos
 
 - **Sin puerto** — toda la ciudad es puerto. Los barcos se amarran en cualquier tramo de la negra madera.

@@ -49,3 +49,11 @@ Eris lo vio desde lejos durante la Invasión Oscura. Posiblemente lucharon en el
 - Sensorialmente: sudor, polvo del coliseo, sangre seca, rastas blancas pesadas.
 - No romantizar la marca del Kretus — es cicatriz, no don. Él vive con ella.
 - **El Kretus (criatura)**: lobo negro gigante (ver glosario). Caza mental + física. Siniestros y crueles. No confundir con la élite multirracial de Amaroth, que también se llama Kretus (homonimia cultural).
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[theim]] · [[haris]]
+**Lugares**: [[../lugares/nurn|Nurn (Nerath, coliseo)]]
+**Razas**: humanos · [[../razas/otras-razas|Kretus (criatura)]]
+**Otros**: [[../organizaciones|Amaroth (Kretus humanos, homonimia)]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-II/06-nurn-dia|cap 6 (coliseo, afrenta con Theim)]].

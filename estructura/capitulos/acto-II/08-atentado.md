@@ -325,3 +325,11 @@ Eris salió del cuartel sola, por la puerta este, otra vez. La armadura le pesab
 Eris oyó el *tum*.
 
 No se detuvo a escucharlo.
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/lyris]] (apaga la calle, marca uno a uno a Theim) · [[../../../canon/personajes/theim]] (corte de piernas + garganta con gorgoteo lento al arquero) · [[../../../canon/personajes/escuadron-eris]] (Ravys, Kroma, Therel, Nerei)
+**Lugares**: [[../../../canon/lugares/nurn|Nurn (calle de los tintoreros)]] · [[../../../canon/lugares/sandrie|Lorin (vuelta)]]
+**Razas**: humanos (caza-recompensas, no Silmarita) · [[../../../canon/razas/naggar]]
+**Sistemas**: [[../../../canon/sistemas/mirisar]] (Lyris lumínica, focos lumínicos para marcar) · [[../../../canon/sistemas/nexalita]]

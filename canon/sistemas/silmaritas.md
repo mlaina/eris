@@ -24,6 +24,14 @@ En el origen del mundo existían **seis** Silmaritas, uno por elemento natural:
 
 Con el paso de los siglos el número ha cambiado — hoy hay **más de seis** Silmaritas activos, aunque no todos intervienen en los asuntos mortales. Algunos (aire, hielo) prácticamente no se manifiestan en política.
 
+## Conexiones
+
+**Juramentados nombrados**: [[../personajes/theim]] (Silmarita de la Sangre, Tyrus) · Dérula de [[../lugares/aret]] (Silmarita del Hielo) · Silmarita de la Piedra ([[../lugares/geoda]]) · Silmarita del Bosque (Irithin, [[../lugares/deengar]])
+**Personajes que los cazan**: [[../personajes/velerian]] (caza criaturas míticas)
+**Sistemas relacionados**: [[triton]] (jerarquía mítica del mundo) · [[mirisar]]
+**Lugares afectados**: [[../lugares/zonas-extasiadas]] (donde muere un Silmarita)
+**Lore extendido**: [[../organizaciones]] · [[../cronologia]]
+
 ## Muerte y herencia de poder
 
 Cuando un Silmarita muere puede pasar una de tres cosas:

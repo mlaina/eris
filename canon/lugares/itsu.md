@@ -2,6 +2,8 @@
 
 **Tierra natal de Eris.** Región desértica, fronteriza, marcada por conflicto.
 
+> **Conexiones rápidas**: [[../personajes/eris]] (nacida aquí) · GoEtsu (padre, "Señor del Desierto", asesinado por uno de los gemelos) · [[../organizaciones|Amaroth → Kretus enviados a Itsu]] · [[../razas/otras-razas|Vyries (consultores)]] · [[../personajes/elerian|Elerian (pan de Itsu)]] · [[mapa-anira]].
+
 ## Geografía y atmósfera
 
 - Tierras **desérticas o semi-áridas** (Eris es "Hija del Señor del Desierto"). Sol implacable: los habitantes van **siempre cubiertos de pies a cabeza**.

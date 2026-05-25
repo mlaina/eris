@@ -33,3 +33,11 @@
 - No hacerle demasiado inocente ni demasiado trágico desde el inicio. Debe ser joven, pero competente.
 - Su diálogo es más directo y afectivo que el de Eris.
 - Tiene sentido del humor — único personaje que hace reír a Eris.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[muoro]] · [[theim]] · [[escuadron-eris]] · [[nyree]]
+**Lugares**: [[../lugares/ygoran]] · [[../lugares/coria-elis]] · [[../lugares/sandrie|Lorin (cuartel Eldara)]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/nexalita]]
+**Muere en**: [[../../estructura/capitulos/acto-V/20-asalto-ygoran|asalto a Ygoran]] — decapitación por [[theim]].

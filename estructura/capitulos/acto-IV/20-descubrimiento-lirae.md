@@ -294,3 +294,14 @@ La mota se apagó.
 
 ---
 
+
+---
+
+## Canon relacionado
+
+**POV**: [[../../../canon/personajes/lirae]] (último capítulo con Lirae viva; nunca más se sabrá de ella).
+**Personajes**: [[../../../canon/personajes/lirae]] · [[../../../canon/personajes/eris]] (referida — *"No la creí"*)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (jardín de las rosas, pasadizo, caverna del lago subterráneo)]]
+**Sistemas**: [[../../../canon/sistemas/triton]] (descubrimiento canónico: piel lechosa, manchas azules, aleta, anula focos Mirisar a distancia) · [[../../../canon/sistemas/mirisar]] (focos Poisé apagados por el tritón)
+**Pendientes que abre este cap**: hipótesis para [[../acto-III/13-bajo-palacio|cap 13]] (¿por qué el tritón no apagó la magia a Eris?) · ajuste obligatorio en [[../acto-V/22-epilogo-nyree|epílogo]] (eliminar atribución *"ahora sí"* a Lirae).
+**Sesión de validación**: [[../../../sesiones/2026-05-16-cap20-descubrimiento-lirae]]

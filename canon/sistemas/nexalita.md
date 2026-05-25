@@ -28,6 +28,13 @@
 
 - **Acto I**: **símbolo de disciplina, unidad y perfección militar**. Eris y su escuadrón se mueven como un solo organismo. Espectáculo de competencia Eldara.
 - **Acto II**: primeras fricciones — la conexión revela emociones que Eris no quiere compartir (dudas morales tras Plaza Ocre).
+
+## Conexiones
+
+**Quien la usa**: [[../personajes/escuadron-eris|el escuadrón Eldara]] (Eris, Muoro, Haris, Illia, Ravys, Therel, Nerei...)
+**Quien la administra**: [[../lugares/sandrie|Lorin]] (cuerpo Eldara) — no la corte, no [[../personajes/lyris|Lyris]]
+**Sistemas relacionados**: [[mirisar]] · [[arterias-de-luz]]
+**Capítulo crítico**: [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (extracción de Nexalita en la Arteria)]] — Haris primero, luego Eris. Silencio interior súbito.
 - **Acto III**: la Nexalita deja de ser solo técnica; se insinúa su **sustrato arcano**. No es solo tecnología — hay algo más profundo.
 - **Acto IV**: Eris corta su Nexalita o la desactiva al huir. Ruptura simbólica con Coria.
 - **Acto V**: **Theim corta las manos tatuadas de Eris** — destruye no solo el cuerpo sino **la pertenencia simbólica**. Es el gesto ritual de desaparición de identidad Eldara.

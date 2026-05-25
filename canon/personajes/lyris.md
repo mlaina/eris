@@ -60,14 +60,23 @@ Posibilidades que encajan:
 ## Distinción Lyris vs Lirae (CRÍTICO)
 
 - **Lyris** = **este archivo**. Mayordoma Real, Mirisar lumínica retirada, 400+ años.
-- **Lirae** = Primer Mirisar de Coria, gravitatoria, amiga de Eris, ~100 años. Ver `lirae.md`.
+- **Lirae** = Primer Mirisar de Coria, gravitatoria, amiga de Eris, ~100 años. Ver [[lirae]].
 
-Son **dos personajes distintos**. Ambas Mirisar graduadas en la Sandrie en épocas distintas, con especialidades distintas y caminos distintos (Lirae siguió en la Sandrie; Lyris pasó a palacio hace siglos).
+Son **dos personajes distintos**. Ambas Mirisar graduadas en la Sandrie en épocas distintas, con especialidades distintas y caminos distintos (Lirae siguió en la Sandrie; Lyris hace décadas que pasó al servicio de palacio).
 
 ## Notas de escritura
 
-- Tono elevado, frases perfectamente construidas (registro cortesano Naggar — soltura, retórica, subordinada larga; ver `canon/sistemas/nexalita.md`).
+- Tono elevado, frases perfectamente construidas (registro cortesano Naggar — soltura, retórica, subordinada larga; ver [[../sistemas/nexalita]]).
 - Usa **Nagani con soltura natural**, no ornamental.
 - Nunca se le ve "en ropa de calle" — siempre en función ceremonial, con túnica apropiada.
 - **Las dos esferas de luz blanca** son su firma visual — incluirlas en sus escenas a menos que esté en intimidad.
 - **Los ojos**: azules, brillan más cuando canaliza o piensa fuerte. Veta residual Haiz muy tenue.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[lirae]] · [[faree]] · [[manos-de-coria]]
+**Lugares**: [[../lugares/coria-elis|Elis (Kiral Ree)]] · [[../lugares/sandrie]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/mirisar]] · [[../sistemas/nexalita]]
+**Otros**: [[../nagani|Kirala (tratamiento)]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-I/02-elis-lirae|cap 2]] · [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4]] · [[../../estructura/capitulos/acto-II/08-atentado|cap 8 (apaga la calle)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (sobre "asunto de las velas")]] · [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo ("¿Duele." / "Sí.")]].

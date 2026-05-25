@@ -327,3 +327,14 @@ No esta noche.
 Apretó los dientes. Bajó de la tribuna. Pasó junto a Haris sin decir palabra.
 
 Entraron en la niebla.
+
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/muoro]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/escuadron-eris]] (Ravys, Illia, Therel, Nerei en posición)
+**Lugares**: [[../../../canon/lugares/valdara|Valdara (antes Targo)]]
+**Razas**: [[../../../canon/razas/valagost|Valagost (mujer encapuchada del tum tum)]] · [[../../../canon/razas/naggar]]
+**Sistemas**: [[../../../canon/sistemas/nexalita]] · [[../../../canon/sistemas/triton]] (primer "tum tum" canónico, primera grieta sensorial)
+**Estilo**: [[../../../estilo/restricciones]] (distinción grieta sensorial Acto I / duda política Acto II / duda estructural Acto III)
+**Nagani**: [[../../../canon/nagani|Kalari (comandante Eldara)]] · "señora" fuera de registro.

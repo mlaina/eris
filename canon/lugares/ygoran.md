@@ -2,6 +2,8 @@
 
 **Ciudad portuaria caótica, sucia, mestiza, fuera del control absoluto Naggar.** Base rebelde. Escenario del clímax trágico.
 
+> **Conexiones rápidas**: [[../personajes/nyree]] (líder rebelde) · [[../personajes/eris]] · [[../personajes/haris]] (muere aquí) · [[../personajes/theim]] (mata aquí) · [[../personajes/muoro]] (lidera el asalto) · [[../personajes/velerian]] (aparece en el epílogo) · [[../razas/valagost]] · [[sacrio|Sacrio (Ssilvaris aliados de contrabando)]] · [[mapa-anira]].
+
 ## Atmósfera
 
 - Ciudad **portuaria** — muelles, barcos, bodegas, olor a sal y pescado podrido.

@@ -2,6 +2,8 @@
 
 **Razas del bosque de Irithin (Deengar).** Antiguas, oníricas, vinculadas a la naturaleza profunda.
 
+> **Conexiones rápidas**: [[../personajes/velerian|Velerian (Yll Negro, sin marcas Harel)]] · Ilnadir (gemelo, [[../organizaciones|en Amaroth]]) · [[../lugares/deengar|Deengar (bosque de Irithin)]] · Thuay (costa Yll, sin ficha propia aún) · [[../sistemas/silmaritas|Silmarita del Bosque, Irithin]].
+
 ## Yll
 
 ### Rasgos

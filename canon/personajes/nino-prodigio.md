@@ -52,3 +52,10 @@ Opciones abiertas. No está fijada.
 
 - **Cap 10** (sesión 2026-05-02): Eris se cruza con él en el rellano del segundo piso de Norel a las cuatro de la mañana. Está levitando cruzado de piernas, rodeado de seis esferas lumínicas pequeñas en órbita, una de cada color (azul, rojo, ámbar, verde, violeta, blanco). Al ver a Eris, baja, las apaga y se aparta. Eris registra: *"Gravedad y luz a la vez. Un niño. Solo en el rellano. A las cuatro de la mañana."* Lo conoce por nombre — Lirae se lo había mencionado alguna noche sin subrayarlo. Erion vuelve a aparecer al final del cap, a la salida, leyendo un libro en el rellano del primero — gesto cotidiano de niño, contraste con la primera escena.
 - **Cap 14** (primera pasada): Eris vuelve a Norel buscando a Lirae. Erion no está. Dato narrativo: Lirae le pide en cap 14 *"Cuida a Erion."* — lo que sitúa a Erion bajo la sombra de la persecución a Lirae cuando llegue.
+
+## Conexiones
+
+**Personajes**: [[lirae]] (tutora) · [[lyris]] · [[faree]] · [[eris]]
+**Lugares**: [[../lugares/sandrie]] · [[../lugares/coria-elis|Elis (Norel)]]
+**Sistemas**: [[../sistemas/mirisar]] (caso único: nació con el puente abierto)
+**Capítulos**: [[../../estructura/capitulos/acto-II/10-pesadillas|cap 10 (Norel, rellano)]] · [[../../estructura/capitulos/acto-III/14-lirae-pared|cap 14 (Lirae: "Cuida a Erion")]].

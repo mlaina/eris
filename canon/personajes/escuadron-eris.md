@@ -53,3 +53,12 @@ Otros equipos opcionales: cuerdas largas, garfios, ropas civiles para infiltraci
 - Ningún Eldara del núcleo nombrado muere en Acto I-IV (salvo decisión específica de Marcos).
 - **Haris es ancla emocional** del lector — no debe morir hasta Acto V.
 - Desarrollo mínimo de Illia/Ravys en Acto I; se van perfilando solo cuando la trama lo pide.
+
+## Conexiones
+
+**Núcleo nombrado**: [[eris]] · [[muoro]] · [[haris]] · Illia · Ravys · Therel · Nerei
+**Personajes próximos**: [[lirae]] · [[lyris]] · [[manos-de-coria]] · [[theim]]
+**Lugares**: [[../lugares/sandrie|Lorin (cuartel)]] · [[../lugares/coria-elis|Elis]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/nexalita]]
+**Capítulos donde el escuadrón opera**: caps 1 ([[../../estructura/capitulos/acto-I/01-prologo|Misión 133]]), 3 ([[../../estructura/capitulos/acto-I/03-plaza-ocre|Plaza Ocre]]), 6 ([[../../estructura/capitulos/acto-II/06-nurn-dia|Nurn]]), 8 ([[../../estructura/capitulos/acto-II/08-atentado|atentado tintoreros]]), 9 ([[../../estructura/capitulos/acto-II/09-mision-135|Iretha]]).

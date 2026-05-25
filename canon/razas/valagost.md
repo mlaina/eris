@@ -2,6 +2,8 @@
 
 **Raza acuática/costera de piel azul.** Presentes en Kelios, Ygoran y Taorun.
 
+> **Conexiones rápidas**: [[../personajes/nyree]] (líder de Ygoran) · [[../lugares/indra|Indra (Kelios)]] · [[../lugares/ygoran]] · [[../lugares/valdara|Plaza Ocre (mujer encapuchada del tum tum)]] · Taorun (tercera comunidad, sin ficha) · [[../../estructura/capitulos/acto-I/03-plaza-ocre|cap 3]].
+
 ## Rasgos físicos
 
 - **Piel azul** (característica distintiva — mencionada explícitamente en el brief).

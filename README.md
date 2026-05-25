@@ -1,119 +1,116 @@
 # Eris — Proyecto de novela
 
-**Tragedia política y militar ambientada en Anira.** Una guerrera perfecta y leal descubre que el orden que sirve está podrido. Novela draft objetivo: **~300 páginas**.
+**Tragedia política y militar ambientada en Anira.** Una guerrera perfecta y leal descubre que el orden que sirve está podrido. Draft objetivo: **~300 páginas**.
 
-## Cómo está organizado el proyecto
+> 📍 Punto de entrada de cada sesión: **[[ESTADO]]**.
 
-```
-eris/
-├── README.md                          ← este archivo: índice maestro
-│
-├── brief_maestro_eris_anira.md        ← documento maestro original (intocable)
-├── Eris.docx.md                       ← borrador narrativo original (referencia)
-├── Wiki Estados Anira.md              ← wiki de worldbuilding original (referencia)
-│
-├── canon/                             ← fuente única de verdad
-│   ├── personajes/
-│   │   ├── eris.md
-│   │   ├── escuadron-eris.md
-│   │   ├── faree.md
-│   │   ├── theim.md
-│   │   ├── haris.md
-│   │   ├── lirae.md
-│   │   ├── lyris.md
-│   │   ├── muoro.md
-│   │   ├── nino-prodigio.md
-│   │   ├── nyree.md
-│   │   ├── velerian.md
-│   │   └── elerian.md
-│   ├── lugares/
-│   │   ├── coria-elis.md
-│   │   ├── itsu.md
-│   │   ├── nurn.md
-│   │   ├── ygoran.md
-│   │   ├── valdara.md
-│   │   ├── sandrie.md
-│   │   └── anira-geografia.md
-│   ├── razas/
-│   │   ├── naggar.md
-│   │   ├── ssilvaris.md
-│   │   ├── valagost.md
-│   │   ├── anvur.md
-│   │   ├── yll-deorn.md
-│   │   └── otras-razas.md
-│   ├── sistemas/
-│   │   ├── arterias-de-luz.md
-│   │   ├── nexalita.md
-│   │   ├── triton.md
-│   │   ├── silmaritas.md
-│   │   └── mirisar.md
-│   ├── glosario.md                    ← términos A-Z
-│   ├── cronologia.md                  ← línea de tiempo
-│   └── nagani.md                      ← reglas del idioma (Kalari, Kirala, fórmulas)
-│
-├── estilo/
-│   ├── tono.md                        ← voz, registro, prosa por escenario
-│   └── restricciones.md               ← prohibiciones del brief
-│
-├── estructura/
-│   ├── outline-5actos.md              ← 22 capítulos organizados
-│   └── capitulos/                     ← un .md por capítulo, agrupados por acto
-│       ├── acto-I/                    ← Gloria (caps 1-4 escritos)
-│       ├── acto-II/                   ← Grietas
-│       ├── acto-III/                  ← Revelación
-│       ├── acto-IV/                   ← Fuga
-│       └── acto-V/                    ← Tragedia
-│
-└── draft/                             ← (vacía; prosa final por acto)
-```
+---
 
-## Decisiones canónicas (ya fijadas)
+## 🧭 Mapa del proyecto
+
+### El manuscrito
+
+- [[estructura/outline-5actos]] — outline de los 5 actos y 22-23 capítulos.
+- [[estructura/capitulos]] — capítulos escritos, agrupados por acto:
+  - [[estructura/capitulos/acto-I/01-prologo|01 Prólogo]] · [[estructura/capitulos/acto-I/02-elis-lirae|02 Elis (POV Lirae)]] · [[estructura/capitulos/acto-I/03-plaza-ocre|03 Plaza Ocre]] · [[estructura/capitulos/acto-I/04-libro-pequeno|04 Libro pequeño]]
+  - [[estructura/capitulos/acto-II/05-audiencia-larien|05 Audiencia del Larien]] · [[estructura/capitulos/acto-II/06-nurn-dia|06 Nurn día]] · [[estructura/capitulos/acto-II/07-cena-elerian|07 Cena con Elerian]] · [[estructura/capitulos/acto-II/08-atentado|08 Atentado tintoreros]] · [[estructura/capitulos/acto-II/09-mision-135|09 Misión 135]] · [[estructura/capitulos/acto-II/10-pesadillas|10 Pesadillas]]
+  - [[estructura/capitulos/acto-III/11-corte-hueca|11 La corte hueca]] · [[estructura/capitulos/acto-III/12-atentado-corte|12 (reescribir como Reunión de Las Manos)]] · [[estructura/capitulos/acto-III/13-bajo-palacio|13 Bajo el palacio]] · [[estructura/capitulos/acto-III/14-lirae-pared|14 Lirae y la pared]] · [[estructura/capitulos/acto-III/15-aislamiento|15 Aislamiento]]
+  - [[estructura/capitulos/acto-IV/16-cena-confesiones|16 La cena: confesiones]] · [[estructura/capitulos/acto-IV/17-huida-haris|17 Huida con Haris]] · [[estructura/capitulos/acto-IV/18-viaje-ygoran|18 Viaje a Ygoran]] · [[estructura/capitulos/acto-IV/19-ygoran-rebelde|19 Ygoran rebelde]] · [[estructura/capitulos/acto-IV/20-descubrimiento-lirae|20 Descubrimiento (POV Lirae)]]
+  - [[estructura/capitulos/acto-V/20-asalto-ygoran|21 Asalto Ygoran]] · [[estructura/capitulos/acto-V/21-muerte-eris|22 Muerte de Eris]] · [[estructura/capitulos/acto-V/22-epilogo-nyree|23 Epílogo (POV Nyree)]] *(renumeración pendiente)*
+
+### El mundo
+
+- [[canon/_canon|Canon]] — índice maestro. Fuente única de verdad.
+  - [[canon/personajes/_personajes|Personajes]] (14 fichas)
+  - [[canon/lugares/_lugares|Lugares]] (20 fichas + [[canon/lugares/mapa-anira|mapa]])
+  - [[canon/razas/_razas|Razas]] (6 fichas)
+  - [[canon/sistemas/_sistemas|Sistemas]] (5 fichas: Mirisar, Nexalita, Arterias de Luz, Silmaritas, Tritón)
+  - [[canon/glosario]] · [[canon/cronologia]] · [[canon/nagani]] · [[canon/organizaciones]]
+
+### Cómo escribir
+
+- [[estilo/tono]] — voz Sicario, regla "nunca prosa de ficha".
+- [[estilo/restricciones]] — prohibiciones del brief.
+- [[memory/MEMORY|Memoria activa]] — reglas atemporales de estilo y proceso.
+
+### Histórico y proceso
+
+- [[ESTADO]] — estado vivo del proyecto. **Leer al arrancar cada sesión.**
+- [[sesiones/README|Sesiones]] — log cronológico inmutable de cada sesión de trabajo.
+- [[draft/acto-III-rediseno]] — rediseño activo del Acto III.
+- [[draft/enriquecimiento-lore-2026-05-19]] — 5 inserciones de lore pendientes de validar.
+- [[draft/revision-pivotes-actos-I-II]] — propuestas globales para Actos I-II.
+
+### Referencia y originales (no tocar)
+
+- `brief_maestro_eris_anira.md` — brief original.
+- `Eris.docx.md` — borrador narrativo original.
+- `Wiki Estados Anira.md` — wiki de worldbuilding.
+- `Anira Lore.pages` — doc de lore integrado el 2026-05-19 (ver [[sesiones/2026-05-19-anira-lore]]).
+- `mapa.svg` — mapa Inkscape (render en [[canon/lugares/mapa-anira]]).
+- `PLAYLIST.md` — canciones por capítulo.
+
+---
+
+## ⚙️ Decisiones canónicas estructurales
 
 1. **Eris es Eldara de Coria** (brief es canon). No Kretus.
-2. **Estructura**: 5 actos como agrupación; los capítulos tienen tipología (algunos son "Misión N", otros temáticos).
-3. **Final canónico**: los **eventos grandes** de la Misión 136 (Theim mata a Haris y a Eris en Ygoran) y el Epílogo (Nyree + Velerian) se mantienen.
-4. **POV**: tercera persona limitada muy cercana a Eris. Único shift: epílogo desde Nyree.
+2. **5 actos** como agrupación; los capítulos tienen tipología (Misión N, temáticos, etc.).
+3. **Final canónico**: Theim mata a [[canon/personajes/haris|Haris]] y a [[canon/personajes/eris|Eris]] en [[canon/lugares/ygoran|Ygoran]]; epílogo POV [[canon/personajes/nyree|Nyree]] con aparición de [[canon/personajes/velerian|Velerian]].
+4. **POV**: tercera persona limitada muy cercana a Eris. Shifts: cap 2 ([[canon/personajes/lirae|Lirae]]), cap 20 ([[canon/personajes/lirae|Lirae]]), epílogo ([[canon/personajes/nyree|Nyree]]).
 
-## Cómo usar este proyecto para escribir
+---
+
+## 🧱 Cómo usar este proyecto
 
 ### Antes de empezar una escena
 
-1. Consultar `estructura/outline-5actos.md` para ubicarse en el acto y capítulo.
-2. Consultar `canon/personajes/` para cada personaje que aparezca.
-3. Consultar `canon/lugares/` para el escenario.
-4. Consultar `estilo/tono.md` para ajustar la voz según el lugar.
-5. Consultar `estilo/restricciones.md` como checklist final.
+1. Consultar [[estructura/outline-5actos]] para ubicarse.
+2. Consultar [[canon/personajes/_personajes|personajes]] presentes.
+3. Consultar [[canon/lugares/_lugares|lugar]] de la escena.
+4. Consultar [[estilo/tono]] para ajustar la voz.
+5. Repasar [[estilo/restricciones]] como checklist final.
 
 ### Si aparece un término o nombre desconocido
 
-1. Buscar en `canon/glosario.md`.
-2. Si no está, buscar en los archivos originales (`brief_maestro_eris_anira.md`, `Wiki Estados Anira.md`).
-3. Si es nuevo: añadirlo al glosario.
+1. Buscar en [[canon/glosario]].
+2. Si no está, en los originales (`brief_maestro_eris_anira.md`, `Wiki Estados Anira.md`, `Anira Lore.pages`).
+3. Si es nuevo: consultar con Marcos antes de fijarlo. Al fijarse, actualizar el archivo canon correspondiente.
 
 ### Si hay una decisión pendiente durante la escritura
 
-- Buscar "⚠️" en los archivos canon y en el outline para ver decisiones marcadas como pendientes.
-- Consultar con Marcos antes de fijarlas.
-- Al fijarse, actualizar el archivo canon correspondiente.
+- Buscar "⚠️" en los archivos canon y en el outline para decisiones marcadas como pendientes.
+- Consultar con Marcos antes de fijarlas. Al fijarse, actualizar el archivo canon.
 
-## Proceso iterativo de escritura
+### Al cerrar la sesión
 
-1. **Escribir por acto**. Un acto por sesión, aproximadamente.
-2. **Dentro del acto**: capítulos consecutivos. Si algún capítulo requiere decisión pendiente, pausar y preguntar.
-3. **Al terminar un acto**: Marcos lee y redirige. Ajustamos en `draft/`.
-4. **Al terminar el libro**: revisión final, consistencia de Nagani, nombres, tono.
+- Escribir [[sesiones/_plantilla|sesión nueva en sesiones/]] (`AAAA-MM-DD-<slug>.md`).
+- Actualizar [[ESTADO]] reflejando lo que queda vivo.
+- Si surge una regla nueva, crearla en [[memory/MEMORY|memory/]] como `feedback_*.md` y referenciar desde el log de sesión.
+
+---
 
 ## Contradicciones conocidas del material original
 
-- **Borrador (Eris.docx)** tiene a Eris con escuadrón "Kretus" (Kyle, Kurt, Mae, Nat'nei, Ellion) — esos nombres son Kretus de Amaroth según la wiki, no Eldara. **Resolución**: reescribir el borrador como Eldara; conservar Haris.
-- **Lirae vs Lyris** — personajes distintos, no confundir. Lirae = amiga, Primer Mirisar de Coria (gravitatoria). Lyris = Kirala (Mayordoma Real), Mirisar lumínica graduada hace siglos y retirada del ejercicio.
-- **Anira vs Aniradnam** — son el mismo mundo. Aniradnam = completo; Anira = habitual.
+- **Borrador (Eris.docx)** tiene a Eris con escuadrón "Kretus" (Kyle, Kurt, Mae, Nat'nei, Ellion) — esos nombres son Kretus de Amaroth según la wiki, no Eldara. **Resolución**: reescribir como Eldara; conservar Haris.
+- **Lirae vs Lyris** — personajes distintos. [[canon/personajes/lirae|Lirae]] = amiga, Primer Mirisar gravitatoria. [[canon/personajes/lyris|Lyris]] = Kirala, Mirisar lumínica retirada.
+- **Anira vs Aniradnam** — mismo mundo. Aniradnam = completo; Anira = habitual.
 
-Ver `estructura/outline-5actos.md` para la resolución detallada.
+Ver [[estructura/outline-5actos]] para la resolución detallada del arco.
 
-## Estado actual
+---
 
-- [x] Fase 0: organización del material canon.
-- [ ] Fase 1: resolución de decisiones pendientes con Marcos (durante escritura).
-- [ ] Fase 2: escritura por actos.
-- [ ] Fase 3: revisión final.
+## 🕸️ Tip — Vista de grafo en Obsidian
+
+El grafo "todo conectado" se ve como una bola peluda. Para que se entienda, configurar **grupos por carpeta** (`Vista gráfica → engranaje → Grupos`):
+
+| Query | Color sugerido |
+|---|---|
+| `path:canon/personajes` | azul |
+| `path:canon/lugares` | verde |
+| `path:canon/sistemas` | naranja |
+| `path:canon/razas` | violeta |
+| `path:estructura/capitulos` | rojo |
+| `path:sesiones` | gris |
+
+Para navegar día a día, más útil que el grafo: **panel derecho → "Vínculos a este archivo" (backlinks)**. Eso sí enseña qué referencia cada ficha.

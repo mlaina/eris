@@ -509,3 +509,13 @@ Eris salta la primera. El aire denso y cálido la recibe. La ingravidez vuelve. 
 Hacia Valdara. En el mismo viaje.
 
 Elis, a la espalda, se queda dorada y muda un minuto más. Luego desaparece.
+
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/muoro]] · [[../../../canon/personajes/escuadron-eris]]
+**Lugares**: [[../../../canon/lugares/indra]] · [[../../../canon/lugares/valdara]]
+**Razas**: [[../../../canon/razas/naggar]] · [[../../../canon/razas/valagost]]
+**Sistemas**: [[../../../canon/sistemas/nexalita]] · [[../../../canon/sistemas/mirisar]] (duelo gravitatorio, regla un dedo = un foco) · [[../../../canon/sistemas/arterias-de-luz]] (ruta Indra→Thuay→Loroa→Jomla)
+**Estilo**: [[../../../estilo/tono]] (voz Sicario)

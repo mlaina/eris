@@ -126,3 +126,12 @@ Jerarquía **por mérito**. No por años. Un Mirisar joven con talento excepcion
 ## Conexión (tentativa) con el tritón
 
 El Poisé es el plano de energía bruta. El **tritón** bajo el palacio, las **anomalías gravitatorias** de Lirae, el **"tum tum"** que Eris oye sólo en Coria, la **rejuvenecimiento de Faree** — pueden ser distintas manifestaciones de una fuente Poisé enorme bajo Kiral Ree. **No resolver canónicamente aún** (material de Acto III). Dejar abierto.
+
+## Conexiones
+
+**Personajes Mirisar**: [[../personajes/lirae]] (gravitatoria, Primer Mirisar) · [[../personajes/lyris]] (lumínica retirada) · [[../personajes/nino-prodigio|Erion (caso único)]]
+**Personajes vinculados**: [[../personajes/eris]] (lleva foco de luz por contrato en cap 1) · [[../personajes/faree]] (rejuvenecimiento, posible vínculo Poisé-tritón) · [[../personajes/elerian]] (Haiz en microdosis)
+**Lugares**: [[../lugares/sandrie]] (academia)
+**Sistemas relacionados**: [[triton]] (lo anula localmente) · [[nexalita]] · [[silmaritas]]
+**Glosario**: [[../glosario|Haiz, Poisé, Primer Mirisar, Mirisar de contrato]]
+**Capítulos**: [[../../estructura/capitulos/acto-I/01-prologo|cap 1 (duelo con mirisar gravitatorio)]] · [[../../estructura/capitulos/acto-I/02-elis-lirae|cap 2 (Lirae mide)]] · [[../../estructura/capitulos/acto-I/04-libro-pequeno|cap 4 (Lirae, Mirisar sónica)]] · [[../../estructura/capitulos/acto-II/10-pesadillas|cap 10 (Erion)]] · [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20 (el tritón anula la magia)]].

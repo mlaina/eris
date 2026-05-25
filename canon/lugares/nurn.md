@@ -2,6 +2,8 @@
 
 **Imperio/ciudad en decadencia.** Lo **opuesto a Elis**. Humanidad, mezcla, ruido, olor.
 
+> **Conexiones rápidas**: [[../personajes/elerian]] (chef de Nerath) · [[../personajes/maelor|Maelor (coliseo)]] · [[../personajes/eris]] (cap 6, 7) · [[../personajes/theim]] (afrenta con Maelor) · Tyrus en coma (Silmarita de la Sangre, [[../sistemas/silmaritas]]) · [[../razas/otras-razas|humanos]] · [[mapa-anira]].
+
 ## Imperio vs. capital
 
 - **Nurn** es el **imperio** entero — amplio territorio que ocupa gran parte del continente centro-sur, con muchas metrópolis y una red administrativa compleja.

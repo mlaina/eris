@@ -2,6 +2,8 @@
 
 **Raza dominante en Coria.** Élite civilizatoria, longeva, ritual. La identidad de Eris y de Faree.
 
+> **Conexiones rápidas**: [[../personajes/eris]] · [[../personajes/faree]] · [[../personajes/lirae]] · [[../personajes/lyris]] · [[../personajes/muoro]] · [[../personajes/haris]] · [[../personajes/manos-de-coria]] · [[../personajes/escuadron-eris|Eldara]] · [[../lugares/coria-elis|Coria/Elis]] · [[../lugares/itsu|Itsu (mestizaje)]] · [[../sistemas/nexalita]] · [[../sistemas/arterias-de-luz|Naggar controlan todas las Arterias]] · [[../nagani|Nagani (lengua)]].
+
 ## Rasgos físicos
 
 - **Descendientes de los elfos originales** — la rama que más se asemeja al arquetipo del alto elfo clásico.

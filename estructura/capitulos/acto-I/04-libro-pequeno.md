@@ -479,3 +479,12 @@ Se durmió contra el hombro de Lirae sin haberlo pretendido.
 Lirae se quedó despierta una hora más, por si volvía. No volvió.
 
 A medianoche, apagó la última candela y dejó que la luna llevara toda la luz.
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/lirae]] · [[../../../canon/personajes/lyris]] · [[../../../canon/personajes/haris]] · [[../../../canon/personajes/theim|Theim (primera aparición — sombra en corredor con hoz de hueso)]] · [[../../../canon/personajes/manos-de-coria]] (cruce con otra Mano en el corredor)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (Kiral Ree, Norel)]] · [[../../../canon/lugares/sandrie|Lorin (cuartel Eldara)]]
+**Razas**: [[../../../canon/razas/naggar]]
+**Sistemas**: [[../../../canon/sistemas/mirisar]] (levitación conjunta; Lirae propone Mirisar sónica para el tum tum) · [[../../../canon/sistemas/triton]] (tum tum bajo)
+**Otros**: [[../../../canon/nagani|Kirala (Lyris)]]

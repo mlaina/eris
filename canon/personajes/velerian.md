@@ -50,3 +50,12 @@ El canon del lore le da plataforma orgánica (La Jauría, su gemelo Ilnadir en A
 ## Simbolismo
 
 Si Faree depende del tritón (criatura mítica), y Velerian **caza criaturas míticas**, existe un eco temático: Velerian es **la única amenaza plausible al corazón oculto del régimen**. El libro no cierra la tragedia con consuelo sino con la sugerencia de que **la próxima guerra se librará en el nivel mítico**, no solo político.
+
+## Conexiones
+
+**Personajes**: [[nyree]] · [[faree]]
+**Lugares**: [[../lugares/ygoran]] · [[../lugares/zonas-extasiadas|Zenit (sede de La Jauría)]] · Thuay (origen Yll, sin ficha propia aún)
+**Razas**: [[../razas/yll-deorn]]
+**Sistemas**: [[../sistemas/triton]] · [[../sistemas/silmaritas]]
+**Otros**: [[../organizaciones|La Jauría / Amaroth (Ilnadir)]]
+**Capítulo**: [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo (POV Nyree)]]. Posible setup en [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19]] según [[../../draft/enriquecimiento-lore-2026-05-19]].

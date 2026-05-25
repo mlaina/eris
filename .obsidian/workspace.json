@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "431bf3e875e71643",
+        "id": "a24f3f0714d833cb",
         "type": "tabs",
         "children": [
           {
-            "id": "84a815b0801d8772",
+            "id": "d707806e6681c266",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory/feedback_rango_detalles.md",
+                "file": "canon/_canon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "feedback_rango_detalles"
+              "title": "_canon"
             }
           }
         ]
@@ -183,39 +183,48 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "84a815b0801d8772",
+  "active": "d707806e6681c266",
   "lastOpenFiles": [
-    "memory/MEMORY.md",
-    "estilo/restricciones.md",
-    "estructura/capitulos/acto-I/01-prologo.md",
-    "estilo/tono.md",
-    "canon/personajes/elerian.md",
-    "canon/lugares/indra.md",
-    "canon/lugares/deengar.md",
-    "canon/lugares/coria-elis.md",
-    "canon/lugares/aret.md",
-    "canon/lugares/trei.md",
-    "Sin título.base",
-    "2026-05-21.md",
-    "Sin título.canvas",
     "canon/glosario.md",
-    "canon/lugares/geoda.md",
-    "canon/lugares/asnare.md",
-    "canon/lugares/anira-geografia.md",
-    "draft/referencias-marcos/prologo-fabrica-entrada.jpeg",
-    "estructura/outline-5actos.md",
-    "memory/feedback_no_contador_experiencia.md",
-    "memory/feedback_nexalita_sensorial.md",
-    "Eris.docx.md",
-    "Wiki Estados Anira.md",
-    "v1.md",
-    "Q&A-marcos-2026-04-20.md",
-    "PLAYLIST.md",
-    "mapa.svg",
+    "canon/_canon.md",
+    "canon/razas/_razas.md",
+    "Sin título.base",
+    "sesiones/_plantilla.md",
+    "canon/lugares/_lugares.md",
+    "Sin título.canvas",
+    "estructura/capitulos/acto-II/07-cena-elerian.md.tmp.10792.1779702708435",
+    "estructura/capitulos/acto-II/05-audiencia-larien.md.tmp.10792.1779702696113",
+    "README.md.tmp.10792.1779701821411",
+    "canon/sistemas/_sistemas.md",
+    "canon/personajes/_personajes.md",
+    "canon/lugares/_lugares.md.tmp.10792.1779701369031",
+    "personajes/README.md",
+    "personajes",
+    "razas/README.md",
+    "razas",
+    "canon/personajes/faree.md",
+    "estructura/capitulos/acto-I/02-elis-lirae.md",
+    "canon/personajes/eris.md",
     "ESTADO.md",
+    "canon/personajes/README.md",
+    "sesiones/2026-05-25-limpieza-y-grafo.md",
+    "estructura/capitulos/README.md",
+    "estructura/capitulos/README.md.tmp.10792.1779699776736",
+    "README.md.tmp.10792.1779699764215",
+    "canon/README.md",
+    "canon/lugares/valdara.md.tmp.10792.1779699597434",
+    "canon/sistemas/README.md",
+    "canon/razas/README.md",
+    "canon/lugares/README.md",
+    "sesiones/2026-05-19-anira-lore.md",
+    "sesiones/2026-05-16-cap20-descubrimiento-lirae.md",
+    "sesiones/2026-05-02-acto-II-reescritura.md",
+    "sesiones/README.md",
+    "memory/feedback_obsidian_links.md",
+    "memory/feedback_sesiones_cierre.md",
+    "draft/referencias-marcos/prologo-fabrica-entrada.jpeg",
+    "mapa.svg",
     "ilustraciones/images/Muoro.png",
-    "ilustraciones/images/Eris.png",
-    "draft/acto-III-rediseno.md",
-    "CLAUDE.md"
+    "ilustraciones/images/Eris.png"
   ]
 }

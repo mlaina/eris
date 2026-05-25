@@ -33,3 +33,11 @@ El brief lo marca como "muy potente". Muoro no es un traidor: es **lo que Eris h
 - Rara vez muestra emoción abierta; cuando lo hace, pesa.
 - Puede conocer el tritón (o al menos haber oído rumores siglos antes). A decidir.
 - Su último encuentro con Eris — si hay diálogo antes del combate en Ygoran — debería ser **seco, sin reproches, con tristeza implícita**.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[haris]] · [[theim]] · [[faree]] · [[escuadron-eris]] · [[manos-de-coria]]
+**Lugares**: [[../lugares/coria-elis]] · [[../lugares/ygoran]] · [[../lugares/sandrie|Lorin (cuartel Eldara)]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/nexalita]] · [[../sistemas/triton]]
+**Aparece en**: caps 1, 3, 4, 5, 6, 7, 8, 9 ([[../../estructura/capitulos/acto-II/09-mision-135|cortijo]]), [[../../estructura/capitulos/acto-V/20-asalto-ygoran|asalto a Ygoran]] (lidera), [[../../estructura/capitulos/acto-V/21-muerte-eris|muelle]] ("Lo siento").

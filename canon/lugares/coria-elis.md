@@ -2,6 +2,8 @@
 
 **Corazón político y estético de la historia.** Símbolo del poder bello por fuera y monstruoso por dentro.
 
+> **Conexiones rápidas**: [[../personajes/faree]] (rey) · [[../personajes/lyris]] (Kirala) · [[../personajes/manos-de-coria|Las Manos]] · [[../personajes/eris]] (Kalari) · [[../sistemas/triton]] (bajo Kiral Ree) · [[../sistemas/mirisar]] · [[../razas/naggar]] · [[sandrie|Sandrie / Norel / Lorin]] · [[../organizaciones]] · [[mapa-anira]].
+
 ## Coria (el reino)
 
 Régimen del continente Anira dominado por los **Naggar** (ver `canon/razas/naggar.md`).

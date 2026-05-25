@@ -40,3 +40,11 @@ Nyree POV. Tras la muerte de Eris:
 - Llega Velerian / Yll Negro, cazador ciego de criaturas míticas.
 - Velerian propone alianza: "quemar a los que tienen poder".
 - Nyree acepta. **El libro no termina con esperanza fácil sino con una promesa de guerra más larga**.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[haris]] · [[velerian]] · [[muoro]] · [[theim]]
+**Lugares**: [[../lugares/ygoran]] · [[../lugares/sacrio|Sacrio (aliados Ssilvaris)]]
+**Razas**: [[../razas/valagost]]
+**Otros**: [[../organizaciones|La Jauría / Amaroth]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19 (recibe a Eris)]] · [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo (POV Nyree, alianza con Velerian)]].

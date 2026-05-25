@@ -27,6 +27,14 @@ Las Arterias **cambian de dirección de impulso siguiendo un patrón científico
 
 Es una ciencia compleja y, a veces, imprevisible: los cambios pueden adelantarse o retrasarse unos minutos. Los Eldara y otros viajeros aprenden a respetar la ventana de los guardianes — llegar tarde significa esperar el próximo ciclo.
 
+## Conexiones
+
+**Quién las controla**: [[../razas/naggar|Naggar]] (Coria cobra peaje).
+**Sistemas relacionados**: [[mirisar]] (frenado por vectores gravitatorios; [[../personajes/lirae|Lirae]] las estudia) · [[nexalita]]
+**Lugares con Orios mencionados**: [[../lugares/coria-elis|Elis (Jomla)]] · [[../lugares/indra|Indra (Thuay)]] · [[../lugares/liga-kovax|Loroa]] · [[../lugares/ygoran]] · [[../lugares/zonas-extasiadas|Zenit (cruce de tres Arterias)]]
+**Otros**: [[../organizaciones|La Jauría (acceso prioritario)]]
+**Capítulos**: [[../../estructura/capitulos/acto-I/01-prologo|cap 1 (ruta Indra→Coria)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (extracción de Nexalita en la Arteria)]] · [[../../estructura/capitulos/acto-IV/18-viaje-ygoran|cap 18 (Liga Kovax)]].
+
 ## Glóbulos
 
 **Cápsulas en forma de cilindro ovalado** que **solo se usan dentro de las Arterias**. Fuera de una Arteria no tienen función y no se llevan: no son equipaje universal, no acompañan a los viajeros en barcos, caminos ni cuarteles. Se cargan y se precintan en los Orios antes de entrar a la Arteria; se descargan en el Orio de llegada.

@@ -39,6 +39,13 @@
 - **Puede salir del agua activamente**: no está atrapado en el lago. Capaz de apoyar la cabeza en piedra firme, fuera del agua.
 - **El cuerpo entero nunca se ve**. La criatura se muestra en fragmentos — cabeza emergiendo, una aleta, una mole-sombra bajo el agua. Coherente con "el lector nunca lo ve del todo".
 
+## Conexiones
+
+**Personajes vinculados**: [[../personajes/faree]] (pacto, rejuvenecimiento) · [[../personajes/lirae]] (muere descubriéndolo, cap 20) · [[../personajes/eris]] (lo ve en cap 13) · [[../personajes/muoro]] (lo conoce hace 200 años) · [[../personajes/velerian]] (caza criaturas míticas — amenaza futura)
+**Lugares**: [[../lugares/coria-elis|Elis (Kiral Ree, ala oeste, lago subterráneo)]]
+**Sistemas relacionados**: [[mirisar]] (el tritón **anula la canalización Mirisar localmente**) · [[silmaritas]] (jerarquía mítica del mundo)
+**Capítulos clave**: [[../../estructura/capitulos/acto-III/13-bajo-palacio|cap 13 (Eris lo ve)]] · [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20 (POV Lirae, descubrimiento)]].
+
 ## Capacidades demostradas
 
 - **Rejuvenecimiento ritualizado** (cap 13): Faree se arrodilla al borde del agua, la criatura emite una luz pálida azulada que envuelve al rey, le borra arrugas, le devuelve firmeza a la piel y al cuello. Tiempo de operación: ~10 segundos visibles.

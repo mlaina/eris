@@ -50,3 +50,11 @@ Esta elección cambia el subtexto. **Preguntar a Marcos antes de Acto III.**
 ## Restricción clave
 
 **NO convertirlo en villano obvio demasiado pronto.** Hasta Acto III debe ser genuinamente admirable. La revelación del tritón es la primera gran grieta. Incluso después, su monstruosidad se revela **con elegancia**, no con crueldad obvia.
+
+## Conexiones
+
+**Personajes**: [[eris]] · [[lyris]] · [[theim]] · [[elerian]] · [[manos-de-coria|Manos de Coria (Daerin, Aluren, Virim)]]
+**Lugares**: [[../lugares/coria-elis|Elis (Kiral Ree, ala oeste)]]
+**Razas**: [[../razas/naggar]]
+**Sistemas**: [[../sistemas/triton]] · [[../sistemas/mirisar]] · [[../sistemas/nexalita]]
+**Capítulos clave**: [[../../estructura/capitulos/acto-II/05-audiencia-larien|cap 5 (audiencia Larien)]] · [[../../estructura/capitulos/acto-III/11-corte-hueca|cap 11 (corte hueca)]] · [[../../estructura/capitulos/acto-III/13-bajo-palacio|cap 13 (ritual con tritón)]] · [[../../estructura/capitulos/acto-IV/16-cena-confesiones|cap 16 (cena)]] · [[../../estructura/capitulos/acto-V/22-epilogo-nyree|epílogo (cena con Lyris)]].

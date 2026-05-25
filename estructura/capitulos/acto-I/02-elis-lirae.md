@@ -281,3 +281,14 @@ Entró. Cerró las puertas del balcón.
 Elis siguió, detrás del vidrio, pareciendo eterna.
 
 Pero las cascadas, esa noche, sonaban un poco más bajas.
+
+---
+
+## Canon relacionado
+
+**POV**: [[../../../canon/personajes/lirae]] (único shift del Acto I; el otro es el [[../acto-V/22-epilogo-nyree|epílogo]]).
+**Personajes**: [[../../../canon/personajes/lirae]] · [[../../../canon/personajes/lyris]] · [[../../../canon/personajes/nino-prodigio|Erion]] · [[../../../canon/personajes/eris]] (ausente, redirigida)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (Norel, Kiral Ree)]] · [[../../../canon/lugares/sandrie]]
+**Razas**: [[../../../canon/razas/naggar]]
+**Sistemas**: [[../../../canon/sistemas/mirisar]] (introducción del Poisé, Haiz, focos, gravitatoria) · [[../../../canon/sistemas/triton]] (anomalías del péndulo, siembra)
+**Otros**: [[../../../canon/nagani|Kirala (tratamiento de Lyris)]] · [[../../../canon/sistemas/nexalita]] (NO es comunicación de palacio — llega mensajero con sello)
