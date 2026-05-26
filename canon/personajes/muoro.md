@@ -40,4 +40,4 @@ El brief lo marca como "muy potente". Muoro no es un traidor: es **lo que Eris h
 **Lugares**: [[../lugares/coria-elis]] · [[../lugares/ygoran]] · [[../lugares/sandrie|Lorin (cuartel Eldara)]]
 **Razas**: [[../razas/naggar]]
 **Sistemas**: [[../sistemas/nexalita]] · [[../sistemas/triton]]
-**Aparece en**: caps 1, 3, 4, 5, 6, 7, 8, 9 ([[../../estructura/capitulos/acto-II/09-mision-135|cortijo]]), [[../../estructura/capitulos/acto-V/22-asalto-ygoran|asalto a Ygoran (cap 22)]] (lidera), [[../../estructura/capitulos/acto-V/23-muerte-eris|muelle (cap 23)]] ("Lo siento").
+**Aparece en**: caps 1, 3, 4, 5, 6, 7, 8, 9 ([[../../estructura/capitulos/acto-II/09-mision-135|cortijo]]), [[../../estructura/capitulos/acto-V/22-asalto-ygoran|asalto a Ygoran (cap 22)]] (lidera), [[../../estructura/capitulos/acto-V/23-el-muelle|muelle (cap 23)]] ("Lo siento").

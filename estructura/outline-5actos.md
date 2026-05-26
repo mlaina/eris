@@ -337,7 +337,7 @@ Acto I: **~80 páginas**.
 | 20 | [[capitulos/acto-IV/20-descubrimiento-lirae\|Descubrimiento]] | IV | **Lirae** |
 | 21 | [[capitulos/acto-V/21-tejado-ygoran\|El tejado (Ygoran en calma)]] | V | Eris |
 | 22 | [[capitulos/acto-V/22-asalto-ygoran\|Asalto a Ygoran]] | V | Eris |
-| 23 | [[capitulos/acto-V/23-muerte-eris\|Muerte de Eris (muelle)]] | V | Eris |
+| 23 | [[capitulos/acto-V/23-el-muelle\|El muelle]] | V | Eris |
 | 24 | [[capitulos/acto-V/24-epilogo-nyree\|Epílogo]] | V | **Nyree** |
 
 **Shifts de POV**: tres en todo el libro. Cap 2 (Lirae, para mostrar Elis desde dentro y sembrar el péndulo), Cap 20 (Lirae, descubrimiento del tritón y su muerte) y Cap 24 (Nyree, epílogo tras la muerte de Eris).

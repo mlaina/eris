@@ -67,8 +67,8 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 | #   | Archivo                                          | Estado                                                                                     |
 | --- | ------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | 21  | [[estructura/capitulos/acto-V/21-tejado-ygoran]] | 🔄 NUEVO 2026-05-25 (pausa en Ygoran; Nyree-Eris-Haris; Haris se quita la Nexalita; Eris la conserva como última carta). Pendiente relectura |
-| 22  | [[estructura/capitulos/acto-V/22-asalto-ygoran]] | 🔄 reescrito 2026-05-25 (caoticidad + Muoro lidera + Theim aparte + Eris usa la Nexalita ofensivamente). Pendiente relectura |
-| 23  | [[estructura/capitulos/acto-V/23-muerte-eris]]   | 🔄 primera pasada, pulir. Tono contenido máximo. ✅ ajuste *"ahora sí"* aplicado 2026-05-25 |
+| 22  | [[estructura/capitulos/acto-V/22-asalto-ygoran]] | ✅ validado 2026-05-26 (reescrito: Nyree por pasadizo, Krela al frente sobrevive, asalto coordinado por fachada, Muoro orden de rendición, Nexalita ofensiva como explosión y como trampa-faro, Eris cae sobre Illia y la mata por el cuello, Theim de cuclillas con sonrisa de loco) |
+| 23  | [[estructura/capitulos/acto-V/23-el-muelle]]     | ✅ validado 2026-05-26 (reescrito en noche cerrada: huida con Theim interceptando *"asesina de la suya"*; catapulta destruye el mercante; combate desigual; Theim agradece haber encontrado el escondrijo de Nyree; mano derecha y luego daga; mano izquierda; Eris grita, llora, sube los muñones; *"Mírate, Eris. Ya no eres una Mano de Coria"*; diatriba 600 años; Eris se incorpora medio palmo: *"Púdrete."* / *"Estoy en ello."*; visión final corta y emocional — Elerian, Lirae, Haris, calor en el pecho, *"Por un segundo, Eris no estuvo sola"* —; *tum tum* apagado por primera vez en cien años; Theim limpia la hoz en el muslo del pantalón y se va; cierre en silencio sin pescadores ni Muoro) |
 | 24  | [[estructura/capitulos/acto-V/24-epilogo-nyree]] | 🔄 primera pasada (duplicación arreglada + cifras suavizadas 2026-05-25). POV Nyree        |
 
 ---
