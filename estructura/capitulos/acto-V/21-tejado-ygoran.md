@@ -1,154 +1,288 @@
 # Capítulo 21 — El tejado
 
-Eris llevaba treinta y un días en Ygoran cuando empezó a enseñar a las chicas.
+Eris llevaba treinta y un días en Ygoran cuando llegó al patio antes que las chicas.
 
-Habían sido cuatro al principio. Tres se sostenían ya. La cuarta tardaba más, pero también lo tenía. Bloqueo con la muñeca, no con el brazo. Pie por fuera primero, después la planta entera. Distancia corta, no larga. Eris se las daba en el patio interior, dos horas por la mañana, antes de que el sol bajara al fondo del muelle. Haris se había quedado en el cuarto de armas con dos chicos nuevos.
+La sesión empezaba al alba. En Lorin, al alba significaba al alba. El cuerpo estaba formado antes de que el primer borde de sol tocara las almenas, las lanzas en línea, los escudos abiertos, la Nexalita al mínimo y catorce respiraciones esperando una sola orden.
 
-Las chicas eran rápidas. Una de las tres — Berys la mayor, hija de la cocinera Berys, dieciocho años, manos secas — bloqueaba ya con un margen que en Lorin habría tardado un año. Eris se lo dijo. Berys no sonrió por ello, lo cual era buena señal. En Ygoran no se aprendía por elogio.
+En Ygoran, al alba significaba otra cosa.
 
-Al terminar la sesión, Eris se sentaba en el banco del rincón. Cinco minutos. El cuerpo se enfriaba. Los dedos volvían a temperatura. Las chicas se iban a sus oficios. Eris se quedaba un rato.
+Berys mayor llegó tarde porque había subido dos cubos de agua a la cocina y el segundo se le había roto por el asa. La cuarta chica no vino. Su hermano pequeño tenía fiebre desde la noche anterior y su madre había salido al puerto a buscar a un médico que no cobrara por adelantado. Otra apareció con harina en el pelo y una quemadura reciente en el dorso de la mano. La vara de práctica que Eris había dejado apoyada contra la pared no estaba. Alguien la había usado para trabar una puerta interior mientras reparaban el pestillo.
 
-En esos cinco minutos solía registrar lo mismo. Que era buena con ellas. Que las leía como había leído a los suyos. Que el oficio le seguía en las manos, en los pies, en la lectura de los hombros del otro antes de que se moviera el otro. El oficio le pertenecía como había pertenecido siempre.
+Eris esperó cinco minutos.
 
-Lo que ya no le pertenecía era para quién lo hacía.
+Después diez.
+
+A los once minutos, empezó con las tres que había.
+
+Bloqueo con muñeca, no con brazo. Pie por fuera primero. Distancia corta. Otra vez. Otra vez.
+
+Berys mayor aprendía rápido. Demasiado rápido para alguien que dormía poco y pasaba media mañana oliendo a caldo. La chica de la harina tenía buen equilibrio, pero miraba a la puerta cada pocos golpes. A los veinte minutos salió corriendo porque alguien la llamó desde la cocina. Volvió con las manos mojadas. No pidió disculpas.
+
+Eris no se las pidió.
+
+Siguieron.
+
+La segunda interrupción llegó con un niño de seis años que cruzó el patio cargando una cesta de cebollas. Se detuvo en medio, miró a Eris, miró las lanzas, decidió que el camino más corto seguía siendo el centro y pasó entre dos golpes. Berys mayor bajó la vara para no darle en la cabeza.
+
+En Lorin, aquello habría terminado la sesión.
+
+En Ygoran, nadie se extrañó.
+
+Eris apretó la mandíbula.
+
+—Otra vez.
+
+Volvieron.
+
+Al terminar la primera hora, Eris tenía una lista limpia en la cabeza. No había puntualidad. No había cadena de mando estable. Las armas cambiaban de sitio. Los turnos se rompían por fiebre, por cocina, por puerto, por deuda, por un hijo que no podía quedarse solo. Nadie protegía el material. Nadie aislaba el entrenamiento. Nadie entendía que si una persona llegaba seis minutos tarde, la línea entera empezaba seis minutos tarde.
+
+No era una unidad.
+
+Era una casa intentando parecer un frente.
+
+Y lo hacía mal.
 
 ---
 
-Esa tarde Nyree la buscó.
+Después de la sesión, Eris se quedó en el banco del rincón con la vara sobre las rodillas.
 
-—Eris.
+El patio siguió moviéndose alrededor. Berys mayor llevó las varas al cuarto de armas y salió con una cesta vacía para la cocina. La chica de la harina se sentó en el suelo a pelar raíces sin quitarse las vendas de las muñecas. Mari cruzó con una maza corta en una mano y un niño dormido en la otra. Illen discutía con un hombre viejo sobre dos sacos de grano que habían llegado mojados. Krela, la Ssilvaris de Nyree, inspeccionó el pestillo roto, lo arrancó con dos dedos y dijo que así cerraba peor, pero al menos ya no mentía.
 
-—Nyree.
+Nadie estaba quieto.
 
-—Ven.
+Nadie hacía una sola cosa.
 
-Subieron al segundo piso, a la sala de la mesa grande de madera gastada. Mari no estaba. Illen tampoco. La sala estaba abierta a la ventana del patio interior — entraba olor a especia cocida desde la cocina, y al fondo, más bajo, la sal del puerto.
+Eris miró la puerta interior, la cocina, el corredor del segundo piso, la escalera.
 
-Nyree no se sentó al otro lado de la mesa esta vez. Se sentó al mismo lado que Eris. Las dos contra la pared, mirando la ventana.
+En Lorin, un soldado era un soldado mientras estaba en servicio. Comía cuando le tocaba, dormía cuando le tocaba, sangraba cuando le tocaba. Su familia, si la tenía, quedaba fuera de la línea. Su miedo quedaba fuera de la línea. Su hambre quedaba fuera de la línea. La línea se mantenía porque todo lo que no era línea se arrancaba antes.
 
-Sirvió vino sin preguntar. Un vino joven, no de los buenos, el que se servía en la red cuando no había acto formal. Eris cogió la copa.
+Aquí no.
 
-—Treinta y un días — dijo Nyree.
+Aquí Berys mayor bloqueaba con la muñeca y después calculaba si el caldo alcanzaba para treinta. Mari cubría una puerta por la noche y por la mañana limpiaba vómito de un niño que no era suyo. Illen llevaba mensajes, grano, nombres, deudas y tres llaves que no debían estar en la misma mano pero estaban. Krela mandaba en un pasillo y arreglaba un pestillo porque nadie más podía.
+
+La red estaba desorganizada.
+
+También estaba viva por demasiados sitios a la vez.
+
+Eris no supo si aquello la irritó menos o más.
+
+---
+
+Nyree la encontró al mediodía en la sala de la mesa grande.
+
+Eris había puesto tres piedras pequeñas sobre el tablero para representar puertas, dos cuchillos para representar calles, una copa vacía para el patio y seis trozos de cuerda para los recorridos de guardia. No había escrito nada. No hacía falta. El mapa estaba en su cabeza.
+
+Nyree entró, miró la mesa y se apoyó en el marco de la puerta.
+
+—No toques mis turnos.
+
+—Están mal.
+
+—Sí.
+
+—Muy mal.
+
+—Sí.
+
+Eris levantó la vista.
+
+—¿Entonces?
+
+Nyree cruzó la sala y apartó una de las piedras con un dedo.
+
+—Ese punto es cocina.
+
+—Es una entrada.
+
+—También es cocina.
+
+—Una entrada no puede depender de cocina.
+
+—En una ciudad que puede separar comida y guerra, no.
+
+Eris no contestó.
+
+Nyree movió otra piedra.
+
+—Ese punto lo guarda Mari dos noches de cada cinco.
+
+—Mari se duerme de pie.
+
+—Mari tiene a su hermana enferma y cuatro niños en el cuarto de al lado.
+
+—Entonces no debe guardar una puerta.
+
+—Si no la guarda Mari, la guarda un chico que ayer no sabía cargar una ballesta.
+
+—No tenéis ballestas.
+
+—Por eso.
+
+Silencio.
+
+Nyree se sentó al otro lado de la mesa. No con ceremonia. Como quien se sienta porque lleva demasiadas horas de pie.
+
+—Tú ves fallos.
+
+—Son fallos.
+
+—Sí. También son vidas. Las dos cosas a la vez.
+
+Eris bajó la mirada al mapa.
+
+Nyree señaló la cuerda más larga.
+
+—Illen puede hacer ese recorrido sólo si el barco de sal llega antes de la segunda campana. Si no llega, se queda en el muelle porque de ese barco salen tres sacos para esta casa y dos para la puerta del barrio del este. Si lo quito del muelle, comen menos. Si come menos la casa, pelea peor la casa. Si pelea peor la casa, tu entrada cae antes.
+
+—Eso no es estructura.
+
+—No. Es lo que hay.
+
+—No aguanta un asalto.
+
+—Ya lo sé.
+
+Nyree lo dijo sin defenderse. Eso le molestó más a Eris.
+
+—Entonces hay que rehacerlo.
+
+—Llevo rehaciéndolo treinta años.
+
+—No se nota.
+
+Nyree sonrió apenas. Sin alegría.
+
+—Porque cada vez que lo rehago, alguien pare, alguien enferma, alguien se endeuda, alguien muere, alguien se enamora de un imbécil y se cambia de barrio, alguien decide que su madre pesa más que la revolución. En Lorin podías quitar todo eso antes de empezar. Yo no.
+
+Eris se quedó quieta.
+
+—Si se lo quito —siguió Nyree—, no tengo red. Tengo soldados sin casa. Y para soldados sin casa ya está Coria.
+
+La frase cayó sobre la mesa con poco ruido.
+
+Eris miró los cuchillos, las piedras, la cuerda.
+
+—Una línea así se rompe.
+
+—Sí.
+
+—Lo sabes.
+
+—Sí.
+
+—Y aun así.
+
+—Y aun así.
+
+Nyree tomó la copa vacía, la puso derecha y la dejó en el centro del mapa.
+
+—Los informes Numari llamaban a esto banda. Iretha lo sabía mejor que ellos. Por eso apuntaba familias, depósitos, niños, cocinas. Tú lees desorden. Ella leía dónde dolía si Coria apretaba.
+
+Eris no miró a Nyree.
+
+La libreta de Iretha le volvió a la cabeza. Nombres pequeños. Depósitos. Raciones. Mujeres con dos apellidos. Viejos que guardaban llaves. Una puerta pintada en rojo al margen. Eris había creído, entonces, que la libreta estaba llena de datos secundarios.
+
+No lo estaban.
+
+Eran el cuerpo.
+
+---
+
+Nyree sirvió vino después.
+
+Un vino joven, áspero, servido en dos copas desparejadas. No era una conversación formal. En Ygoran casi nada lo era.
+
+—Treinta y un días —dijo Nyree.
 
 —Sí.
 
 —Bien para Ygoran. Mucha gente se va antes.
 
-—Ya.
+—No tengo dónde ir.
 
-Silencio.
+—Eso también ayuda.
 
-Nyree giró un poco la cara hacia Eris. La piel azul cenicienta de los Valagost de superficie se le veía de cerca con el resplandor de la ventana — la marca roja del cuello terminaba justo donde empezaba la mandíbula. Eris la registró sin mirarla dos veces.
+Eris cogió la copa. Bebió poco.
 
-—Eris.
+Por la ventana entraba el olor del puerto, sal y cuerda húmeda, y debajo el de la cocina. Alguien reía en el patio. Después una voz mandó callar. Después nadie calló.
 
-—¿Sí.
-
-—¿Qué echas de menos.
-
-Eris tardó.
-
-—El cuerpo.
-
-—¿La gente.
-
-—No la gente. El cuerpo. Catorce respiraciones al fondo. La cadencia. La posibilidad de moverte en plural sin avisar.
-
-—Eso es la Nexalita.
-
-—Eso es la Nexalita.
-
-—Ya.
-
-Nyree bebió un sorbo. Eris también.
-
-—¿La gente, no.
-
-—La gente la quiero. La quiero distinto. La gente sigue cuando me voy. El cuerpo no. El cuerpo lo perdí al cruzar el Orio del norte.
-
-—Ya.
-
-Nyree se tomó un segundo.
-
-—¿La Kalari.
-
-—La Kalari no se echa de menos. La Kalari era oficio. Está aquí. Lo hago con tus chicas. Lo hacía con los míos.
-
-—¿Lo bueno.
-
-—Lo bueno fue del cuerpo. Lo bueno y lo malo. El oficio sigue. El oficio es del cuerpo que lo hace, no del que lo manda.
-
-—¿Lirae.
-
-Eris no contestó al primer segundo.
-
-—Lirae es otra cosa. Lirae no se discute en una mesa.
-
-—Bien.
-
-—Lirae no la pongo aquí. Hoy no.
-
-—Bien.
-
-Silencio.
-
----
-
-Nyree se sirvió más vino. A Eris no le rellenó la copa — Eris no había bajado de la mitad.
+Nyree miró la ventana.
 
 —Eris.
 
-—¿Sí.
+—Sí.
 
-—Te voy a decir una cosa que llevo viendo desde el día doce.
+—Aquí casi todos saben por qué se levantan.
 
-—Diga.
+Eris no contestó.
 
-—Tú no sabes ya para qué te levantas.
+—Berys se levanta porque si no se levanta no hay caldo. Mari porque si no se levanta se le muere media familia y además nos quedamos sin una puerta. Illen porque alguien tiene que mover los sacos antes de que los capitanes del muelle cobren dos veces. Krela porque dice que si deja de levantarse un día, yo me vuelvo idiota antes de la cena.
 
-Eris se quedó muy quieta.
+—Probablemente.
 
-—Ya.
+Nyree aceptó el golpe con una inclinación mínima.
 
-—Te levantas y haces. Haces bien. Pero no sabes para qué. Eso aquí también pasa — la mitad de mi gente lleva treinta años haciendo sin saber para qué. La diferencia es que ellos no han sabido para qué nunca. Tú sí lo sabías hace dos meses. Y ya no.
+—Tú te levantas porque sabes levantarte.
 
-Eris no la miró.
+Eris apretó la copa con los dedos.
 
-—Treinta y un años sin saberlo no es lo mismo que treinta y un días sin saberlo. Treinta y un años se sostiene. Treinta y un días duele.
+—Eso es poco.
 
-—Duele.
+—Sí.
 
-—¿Tienes plan.
+Silencio.
 
-Eris se tomó dos segundos.
+—Te levantas y haces —dijo Nyree—. Haces bien. Enseñas bien. Peleas mejor que nadie aquí. Pero no sabes para qué. Eso lleva viéndose desde el día doce.
 
-—No.
+Eris no se movió.
 
-—Eso es lo que pensaba.
+La frase no la sorprendió. La molestó por exacta.
 
-—Tengo una cosa antes que un plan. Que vendrán. Y cuando vengan, voy a estar preparada.
+—Tengo una cosa antes que un plan —dijo Eris.
+
+—Que vendrán.
+
+—Sí.
+
+—Y cuando vengan estarás preparada.
+
+—Sí.
 
 —Eso no es plan. Es espera con el filo afilado.
 
 —Es lo que tengo.
 
-Nyree asintió un grado.
+Nyree bebió.
 
-—Bien. Espera con el filo afilado vale para los próximos días. No vale para el resto. Cuando lo de los próximos días pase — y va a pasar —, tendrás que decidir si te quedas a cocinar zanahorias con las chicas o si te vuelves a otro sitio. No tienes que decidirlo hoy. Pero tienes que saber que vas a tener que decidirlo.
+—Vale para unos días.
 
-Eris no contestó.
+—Ya.
 
-—Eris.
+—No vale para vivir.
 
-—¿Sí.
+Eris miró la copa. El vino dejaba una línea oscura en la cerámica.
 
-—No hay vergüenza en cocinar zanahorias.
+—No sé si me corresponde vivir aquí.
+
+—No te he pedido que te cases con la casa.
+
+—No he dicho eso.
+
+—Lo has dicho en Eldara.
+
+Eris la miró.
+
+Nyree no retiró la mirada.
+
+—Cuando abrí la primera puerta roja —dijo—, tampoco me pregunté si me correspondía. Había comida detrás de una puerta cerrada y gente con hambre delante. Mi hermano ya estaba muerto. Mi madre no hablaba. Mi padre colgaba como advertencia en la plaza del puerto. No era una pregunta limpia. Era una puerta.
+
+Eris bajó la vista.
+
+—No hay vergüenza en pelar zanahorias —dijo Nyree.
 
 —Ya lo sé.
 
-—No estoy segura de que lo sepas.
-
-Eris la miró entonces. Por primera vez en la conversación.
+—No estoy segura.
 
 —Lo sé. Lo que no sé es si me corresponde.
 
@@ -156,65 +290,41 @@ Eris la miró entonces. Por primera vez en la conversación.
 
 —Es lo que tengo.
 
-Silencio.
+Nyree dejó la copa sobre la mesa, despacio.
 
-Nyree dejó la copa sobre la mesa. La dejó suave, sin ruido. Después miró la ventana del patio.
+—Entonces empieza por no despreciar el caos. Te va a salvar la vida o te la va a quitar. Puede que las dos cosas.
 
-—Cuando llegué a Ygoran — dijo despacio — tenía cuarenta años humanos. Vyrie de Sacrio, sin tierra, sin pacto, con dos cuchillos y una memoria de cómo se hacían acuerdos en el mercado bajo de Liga Kovax. Llegué porque me echaron de otro sitio. No por elección. Aquí encontré un sitio que se podía hacer. Lo hice. Llevo cincuenta años haciéndolo. No me he preguntado ni una sola vez si me correspondía.
-
-—Ya.
-
-—Eso te ahorra muchas tardes feas, Eris.
-
-—Lo sé.
-
-—No es consejo. Es descripción.
-
-—Bien.
-
-Eris se quedó con la copa entre las dos manos.
-
-Por dentro, la frase de Nyree se le instaló sin pedirle permiso. *Tú no sabes ya para qué te levantas.* No la había nombrado nadie así desde que había cruzado el Orio del norte. Eris se la había rondado a sí misma muchas veces, sin nombrarla. Que la nombrara Nyree, con esa voz seca de operativa que llevaba cincuenta años decidiendo a quién mandaba a qué, no la hizo más cierta. La hizo más visible.
-
-—Nyree.
-
-—¿Sí.
-
-—Gracias.
-
-—No me las dé.
-
-—Ya.
-
-Eris dejó la copa sin terminar. Se levantó.
+Eris no contestó.
 
 ---
 
 Subió al tejado al atardecer.
 
-El tejado de la casa de la puerta roja era el mismo donde llevaba subiendo cada dos o tres noches desde la primera semana. Plano, piedra vieja, murete bajo al borde. Desde allí se veía media Ygoran — los muelles al este, los Igies al oeste, las calles de casas bajas al sur. Las gaviotas dormían. El cielo del oeste empezaba a teñirse del naranja sucio que en Ygoran precedía a la noche.
+El tejado de la casa de la puerta roja era plano, de piedra vieja, con un murete bajo al borde. Desde allí se veía media Ygoran: los muelles al este, los Igies al oeste, las calles de casas bajas al sur. No había mármol. No había cascadas domesticadas. Había ropa tendida entre edificios, humo bajo, manchas de sal en los tejados y una línea de barcos quietos contra la luz sucia de la tarde.
 
 Haris ya estaba arriba.
 
-Sentado contra el murete del lado del puerto, con las piernas estiradas, una lanza descansando a su lado. Se había quitado la armadura del torso — sólo la túnica interior, las marcas del cuello a la vista, los brazos al descubierto. La cicatriz del costado izquierdo le brillaba ligera al sol bajo.
+Sentado contra el murete del lado del puerto, con las piernas estiradas y la lanza descansando a su lado. Se había quitado la armadura del torso. Sólo llevaba la túnica interior, las marcas del cuello a la vista, los brazos al descubierto. La cicatriz del costado izquierdo le brillaba ligera con el sol bajo.
 
-Eris se sentó al otro lado del murete, a un metro de él. No habló.
+Eris se sentó a un metro de él.
+
+No habló.
 
 Haris tampoco.
 
 Cinco minutos así.
 
-Las gaviotas del fondo del puerto empezaron su ruido bajo de tarde — el gemido leve que hacían antes de quedarse quietas.
+Las gaviotas del fondo del puerto empezaron su ruido bajo de tarde.
 
 Haris habló entonces.
 
 —Eris.
 
-—¿Sí.
+—Sí.
 
 —Esto ya no tiene sentido utilizar.
 
-No dijo qué. No hacía falta. Eris lo sabía sin levantar la vista.
+No dijo qué. No hacía falta.
 
 —Ya.
 
@@ -222,39 +332,45 @@ No dijo qué. No hacía falta. Eris lo sabía sin levantar la vista.
 
 —Lo has dicho.
 
-—Ya.
+—Sí.
 
 Silencio.
 
-Haris se llevó la mano derecha a la nuca. Eris no miró. Oyó el pequeño chasquido — el sonido de una placa que se desacopla por presión, suave, sin esfuerzo, como el cierre de una hebilla menor — y después nada. La Nexalita de Haris se separó de su nuca con la facilidad con la que se quitaba siempre, sin sangre, sin ceremonia, sin herida. Era complemento. Lo había sido siempre.
+Haris se llevó la mano derecha a la nuca. Eris no miró. Oyó el pequeño chasquido: una placa que se desacoplaba por presión, suave, sin esfuerzo, como el cierre de una hebilla menor. La Nexalita de Haris se separó de su nuca con la facilidad con la que se quitaba siempre. Sin sangre. Sin ceremonia. Sin herida.
 
-Haris la sostuvo entre los dedos un segundo. Pequeña, oscura, plana. Después la dejó en el murete, a su izquierda. El metal apoyado contra la piedra hizo un ruido mínimo.
+Era complemento.
 
-—Sin nadie al fondo — dijo Haris al cabo.
+Lo había sido siempre.
+
+Haris la sostuvo entre los dedos un segundo. Pequeña, oscura, plana. Después la dejó en el murete, a su izquierda. El metal contra la piedra hizo un ruido mínimo.
+
+—Sin nadie al fondo —dijo Haris.
 
 —Sin nadie al fondo.
 
 —Suena distinto.
 
-—¿Cómo.
+—¿Cómo?
 
-—Más bajo. Más cerca. Como si oyera el ruido del puerto por primera vez.
+—Más bajo. Más cerca. Como si oyera el puerto por primera vez.
 
-Eris registró que Haris hablaba ya con voz un grado más amplia que cinco minutos antes — los Eldara comprimían la frase porque la Nexalita rellenaba el resto. Sin ella, el aliento se ensanchaba sin querer.
+Eris registró que Haris hablaba ya con voz un grado más amplia que cinco minutos antes. Los Eldara comprimían la frase porque la Nexalita rellenaba el resto. Sin ella, el aliento se ensanchaba sin pedir permiso.
 
-—Te suena la gente — dijo Eris.
+—Te suena la gente —dijo Eris.
 
-—Suena la gente, sí.
+Haris escuchó.
 
-—Ya.
+Abajo, una mujer discutía con un hombre por una cuerda. Un niño lloraba porque alguien le había quitado algo. Una olla golpeó una piedra. Dos voces se rieron. En un tejado cercano, alguien cantaba mal una canción de puerto.
+
+—Sí —dijo Haris—. La gente.
 
 Una pausa.
 
-—Tú no — dijo Haris.
+—Tú no.
 
 —Yo no.
 
-—¿Por qué.
+—¿Por qué?
 
 Eris se tomó un segundo.
 
@@ -266,11 +382,7 @@ Eris se tomó un segundo.
 
 Haris asintió. No insistió.
 
-—Eris.
-
-—¿Sí.
-
-—¿La vas a usar contra ellos.
+—¿La vas a usar contra ellos?
 
 —Si llego.
 
@@ -278,21 +390,17 @@ Haris asintió. No insistió.
 
 Silencio.
 
-—¿Sabe Nyree.
+—¿Lo sabe Nyree?
 
 —No.
 
-—¿Por qué no.
+—¿Por qué no?
 
 —Porque es la última carta que me queda. Las cartas últimas no se enseñan.
 
 —Ya.
 
 Pausa.
-
-—Eris.
-
-—¿Sí.
 
 —Si la usas y te pasas, te apagas. Lo sabes.
 
@@ -304,11 +412,13 @@ Pausa.
 
 ---
 
-El sol bajó otro grado. La luz se hizo más larga sobre el tejado. La placa de Haris, en el murete, brillaba un poco con un reflejo color naranja por un lado y por el otro estaba ya en sombra.
+El sol bajó otro grado. La luz se hizo más larga sobre el tejado. La placa de Haris, en el murete, brillaba un poco con un reflejo naranja por un lado. Por el otro ya estaba en sombra.
 
-Eris movió el pie y empujó la placa medio dedo hacia dentro, lejos del borde. No quería que se cayera. Haris lo registró. Lo dejó.
+Eris movió el pie y empujó la placa medio dedo hacia dentro, lejos del borde.
 
-—Llévatela si quieres — dijo después.
+Haris lo registró. Lo dejó.
+
+—Llévatela si quieres —dijo.
 
 —No.
 
@@ -322,75 +432,111 @@ Una pausa.
 
 —Eris.
 
-—¿Sí.
+—Sí.
 
-—Si todo sale mal — y va a salir mal — quiero que sepas una cosa.
+—Si todo sale mal, quiero que sepas una cosa.
 
 —Dime.
 
-Haris se tomó un segundo. Después habló con voz baja, sin ornamentar.
+Haris se tomó un segundo.
 
-—Que te seguí porque te seguí. No porque era Eldar. No porque eras Kalari. Te seguí porque eras tú. La Nexalita no entraba en eso. La Nexalita era cómo. No por qué.
+—Te seguí porque te seguí. No porque eras Kalari. No porque era Eldar. Te seguí porque eras tú. La Nexalita era cómo. No por qué.
 
 Eris no contestó enseguida.
 
-Por dentro le subió la frase de Nyree de la tarde y se le mezcló con la de Haris. *Tú no sabes ya para qué te levantas* y *Te seguí porque eras tú*. Las dos frases en la misma cabeza no cuadraban del todo, y sin embargo cabían — cabían como caben las cosas que no se podían colocar pero tampoco se podían tirar.
+Por dentro le subió la frase de Nyree y se le mezcló con la de Haris. *Tú te levantas porque sabes levantarte* y *Te seguí porque eras tú*. Las dos frases no cuadraban del todo, y sin embargo cabían. Cabían como caben las cosas que no se pueden colocar pero tampoco se pueden tirar.
 
-—Haris — dijo Eris al cabo.
+—Haris —dijo Eris al cabo.
 
-—¿Sí.
+—Sí.
 
-—Si pasa lo que va a pasar. No te apartes.
+—Si pasa lo que va a pasar, no te apartes.
 
 —No me iba a apartar.
 
 —Bien.
 
-Otra pausa. Larga.
+Otra pausa.
+
+Larga.
 
 Las gaviotas se callaron al fondo. El sol se metió por detrás de las colinas del oeste. La luz del cielo se hizo gris en dos respiraciones. El puerto se quedó muy quieto.
 
 Eris cerró los ojos un segundo.
 
-El *tum tum*, a cien leguas hacia el sur, debajo de Kiral Ree, seguía sonando como había sonado desde que Eris había aprendido a oírlo. Más bajo a esta distancia. Pero presente. La Nexalita de Eris seguía pegada a la nuca, al mínimo, sin transmitir nada — el escuadrón quedaba demasiado lejos. La de Haris estaba en el murete a un metro de él. La diferencia entre los dos cuerpos, ahora, también se medía por eso.
+El *tum tum*, a cien leguas hacia el sur, debajo de Kiral Ree, seguía sonando como había sonado desde que Eris había aprendido a oírlo. Más bajo a esa distancia. Presente. La Nexalita de Eris seguía pegada a la nuca, al mínimo, sin transmitir nada. La de Haris estaba en el murete, a un metro de él.
+
+La diferencia entre los dos cuerpos, ahora, también se medía por eso.
 
 Eris no abrió los ojos enseguida.
 
-Cuando los abrió, el cielo del oeste tenía el primer punto azul muy oscuro de la noche. Una estrella minúscula. Después otra.
+Cuando los abrió, el cielo del oeste tenía el primer punto azul oscuro de la noche. Una estrella minúscula. Después otra.
 
 Bajó la mano. La apoyó contra la piedra del murete, junto al pie de Haris.
 
 Haris bajó la suya. Sin mirarla. La apoyó al lado.
 
-Las dos manos contra la piedra. Sin tocarse. A un centímetro.
+Las dos manos contra la piedra.
+
+Sin tocarse.
+
+A un centímetro.
 
 Bastaba.
 
 ---
 
-Esa noche cenaron con los demás en la sala del segundo piso. Mari estaba. Illen también. Berys había hecho un caldo grueso con pescado seco y especia roja, suficiente para los veintitantos que aún quedaban activos en la red. Eris comió sin hablar mucho. Haris comió a su lado.
+Esa noche cenaron con los demás en la sala del segundo piso.
 
-Nadie comentó que Haris no llevara la placa en la nuca. Quizá lo notaron. Quizá no.
+Mari estaba. Illen también. Krela comía de pie junto a la ventana porque decía que sentada tardaba más en levantarse. Berys había hecho un caldo grueso con pescado seco y especia roja, suficiente para los veintitantos que aún quedaban activos en la red y para otros que no lo estaban pero seguían dentro de la casa porque fuera era peor.
 
-A las once Eris bajó al cuarto del tercer piso. Haris detrás.
+La cuarta chica no bajó. Su hermano seguía con fiebre. Alguien le subió un cuenco tapado con un paño.
 
-Se acostaron en los dos colchones. Eris cerró los ojos. El tum tum lejano del sur seguía como fondo. La Nexalita al mínimo. Nadie al otro lado.
+Nadie comentó que Haris no llevara la placa en la nuca. Quizá lo notaron. Quizá no. Berys mayor lo vio al servirle caldo. No dijo nada. Le llenó el cuenco un poco más que a los otros.
 
-A los cuarenta minutos Eris seguía despierta. Por dentro, sin pedírselo, le subió la cara de las cuatro chicas del patio que había estado entrenando esa mañana. Berys mayor. Las otras tres. La cuarta que tardaba más.
+Eris comió sin hablar mucho.
 
-Las iba a ver morir, probablemente, en los próximos días. Una. Quizá dos.
+Miró la sala.
+
+Por la mañana había visto fallos. Los seguía viendo. La puerta mal cubierta. El arma apoyada lejos de la mano correcta. Un niño dormido bajo un banco mientras tres adultos discutían rutas encima de su cabeza. El cansancio en los ojos de Mari. La quemadura de la chica de la harina. La manera en que Illen contaba raciones al mismo tiempo que escuchaba una conversación sobre vigías.
+
+Pero ahora los fallos tenían peso.
+
+No eran agujeros limpios en una formación. Eran gente tirando de demasiadas cosas a la vez. Si una caía, no caía sola. Caía una puerta, una olla, una cama, una ruta, un niño, una deuda, una llave.
+
+Coria llamaba a eso debilidad.
+
+Quizá lo era.
+
+También era lo que Coria no sabía construir.
+
+A las once, Eris bajó al cuarto del tercer piso. Haris detrás.
+
+Se acostaron en los dos colchones. Eris cerró los ojos. El *tum tum* lejano del sur seguía como fondo. La Nexalita al mínimo. Nadie al otro lado.
+
+A los cuarenta minutos seguía despierta.
+
+Le subió la cara de las cuatro chicas del patio. Berys mayor. La de la harina. La cuarta, que no había venido por la fiebre de su hermano. La otra, que al bloquear cerraba los ojos medio segundo tarde.
+
+Las iba a ver morir, probablemente, en los próximos días.
+
+Una. Quizá dos.
+
+Y si morían, no moriría sólo una línea peor entrenada que la suya. Moriría una cocina. Una hermana. Una mano que sabía reparar vendas. Una voz que sabía callar a un niño enfermo por la noche.
 
 Eris registró eso.
 
 No se durmió.
 
-Faltaban dos días para el asalto. Aún no lo sabían.
+Faltaban dos días para el asalto.
+
+Aún no lo sabían.
 
 ---
 
 ## Canon relacionado
 
-**Personajes**: [[../../../canon/personajes/eris]] (pivote interno: ya no sabe para qué se levanta; decide conservar la Nexalita como última carta) · [[../../../canon/personajes/haris]] (se quita la Nexalita en el tejado, *"Esto ya no tiene sentido utilizar"*; declaración de fondo: la siguió por ella, no por el Cuerpo) · [[../../../canon/personajes/nyree]] (le dice a Eris la frase que llevaba viendo desde el día doce: no sabe ya para qué se levanta)
-**Lugares**: [[../../../canon/lugares/ygoran|Ygoran (casa de la puerta roja, patio interior, tejado al atardecer, puerto al fondo)]] · [[../../../canon/lugares/sacrio|Sacrio (origen Vyrie de Nyree)]]
-**Sistemas**: [[../../../canon/sistemas/nexalita]] (canon nuevo aplicado: complemento, se quita con dos dedos por presión, sin sangre; Eris la conserva como arma psicológica)
-**Capítulos enlazados**: [[../acto-IV/19-ygoran-rebelde|cap 19 (llegada y aceptación)]] · [[../acto-V/22-asalto-ygoran|cap 22 (asalto, dos días después)]]
+**Personajes**: [[../../../canon/personajes/eris]] (pivote interno: juzga la red de Ygoran como desorganizada y después entiende que el desorden nace de vidas civiles, familias y oficios; conserva la Nexalita como última carta) · [[../../../canon/personajes/haris]] (se quita la Nexalita en el tejado; decide estar sin nadie al fondo; declara que siguió a Eris por ella, no por el Cuerpo) · [[../../../canon/personajes/nyree]] (corrige la mirada militar de Eris: no dirige una unidad, sostiene una red de personas con hambre, hijos, deudas y oficios)
+**Lugares**: [[../../../canon/lugares/ygoran|Ygoran (casa de la puerta roja, patio interior, cocina, sala de la mesa grande, tejado al atardecer, puerto al fondo)]]
+**Sistemas/organizaciones**: [[../../../canon/sistemas/nexalita]] (complemento físico que puede retirarse sin herida; Haris se la quita, Eris la conserva como arma de último recurso) · Puertas Rojas (la matriz de Ygoran funciona como refugio, cocina, depósito, casa y frente a la vez)
+**Capítulos enlazados**: [[../acto-IV/19-ygoran-rebelde|cap 19 (Nyree, Iretha y el origen de las Puertas Rojas)]] · [[../acto-V/22-asalto-ygoran|cap 22 (asalto, dos días después)]]

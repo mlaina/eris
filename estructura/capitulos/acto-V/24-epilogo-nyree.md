@@ -2,11 +2,19 @@
 
 El carromato cruzó la última calle de Loroa al filo de la medianoche.
 
-Calles adoquinadas serpenteando entre almacenes y edificios de piedra oscura. Las farolas, una sí y dos no, encendidas a la mitad. El ruido bajo del puerto interior al fondo — una sirena de barco lejana, un perro que ladraba y otro que le contestaba —. Nyree iba en el interior del carromato. Manto oscuro encima. Capucha. Los ojos en la ventana cubierta de polvo, sin enfocar nada concreto.
+Calles adoquinadas entre almacenes y edificios de piedra oscura. Farolas a media llama, una sí y dos no. El puerto interior sonaba al fondo: una sirena lejana, una cadena contra madera, un perro ladrando desde un patio que no se veía.
 
-El cochero — humano viejo de la red local, sin nombre que la memoria fuera a guardar — dobló por una esquina ciega y metió el carromato dentro de un almacén grande de piedra clara. La puerta de madera se cerró detrás de ellos con dos hombres que la empujaron del interior. El ruido de la calle se cortó.
+Nyree iba dentro del carromato. Manto oscuro. Capucha. Los ojos en la ventana cubierta de polvo, sin mirar nada concreto.
 
-El almacén estaba aparentemente vacío. Sacos viejos contra una pared. Cajas apiladas hasta el techo en otra. Una capilla pequeña al fondo — había sido capilla de los pescadores hace dos siglos, ahora sólo paredes de piedra ennegrecida y un altar al fondo —. La cubierta del almacén tenía, en una viga interior, una marca discreta: una circunferencia de polvo de hierro mezclado del mismo modo que se mezclaba el rojo de las puertas. Era la marca que se ponía dentro, no fuera. Quien sabía mirar, sabía.
+El cochero dobló por una esquina ciega y metió el carromato dentro de un almacén grande de piedra clara. La puerta de madera se cerró detrás con dos hombres empujándola desde dentro.
+
+El ruido de la calle se cortó.
+
+El almacén parecía vacío. Sacos viejos contra una pared. Cajas apiladas hasta el techo en otra. Al fondo, una capilla pequeña que había sido de pescadores hacía dos siglos y ahora no era de nadie. En una viga interior, casi tapada por hollín, una circunferencia de rojo apagado: polvo de hierro, vinagre, aceite.
+
+No era puerta pintada.
+
+Era suficiente.
 
 Nyree bajó del carromato.
 
@@ -14,184 +22,399 @@ Krela la esperaba.
 
 ---
 
-Dos metros de Ssilvaris. Espada ancha a la espalda. Escamas verde oscuro con vetas grises, brillando despacio bajo la luz de dos antorchas encendidas a los lados del portón. El costado izquierdo le pesaba — el corte del recibidor de la puerta roja de Ygoran había aguantado el cosido del médico en el camino, pero seguía rezumando —. Estaba en pie. Llevaba en pie horas.
+Dos metros de Ssilvaris. Espada ancha a la espalda. Escamas verde oscuro con vetas grises, opacas bajo la luz de dos antorchas. El costado izquierdo le pesaba; el corte del recibidor de la puerta roja de Ygoran había aguantado el cosido del médico en el camino, pero seguía rezumando.
+
+Estaba en pie.
+
+Llevaba en pie horas.
 
 Treinta años a la derecha de Nyree. Hoy, dos pasos por delante para recibirla.
 
-—Veintidós perdidos en Ygoran.
+—Veintidós —dijo Krela.
 
-Nyree no contestó en seguida. Se ajustó el manto. Bajó la capucha.
+Nyree se quitó la capucha.
 
-—Habla.
+—Nombres.
 
-—Veintidós muertos contados en la casa. Cinco humanos de la red, una Naggar joven que cubrió a Mari en la escalera, tres mestizos, dos del equipo de Berys, un chico del cuarto de armas, el vigía del puente alto, cuatro operativos nuevos, tres agentes del barrio bajo y Haris.
+—No los tengo todos limpios.
 
-—Sí.
+—Los que tengas.
 
-—Los dos Eldara también.
+Krela respiró una vez. No por cansancio. Por orden.
 
-Nyree apretó la mandíbula medio grado.
+—Haris. Sira, la de la harina. Dorel, cuarto de armas. Taria, la Naggar joven que cubrió a Mari en la escalera. El vigía del puente alto. Un sobrino de Mari. Dos del equipo de Berys. Tres agentes del barrio bajo. Cuatro nuevos. Cinco de la casa. Dos más sin nombre confirmado.
 
-—¿Eris.
+Nyree no cerró los ojos.
+
+—La cuarta.
+
+—Viva. Con fiebre no, pero viva.
+
+—Su hermano.
+
+—Vivo.
+
+—Berys mayor.
+
+—Kaürun.
+
+—Mari.
+
+—Kaürun. Herida en el brazo, no grave. Berys de cocina salió con ella y con tres niños por el pasadizo del sótano.
+
+—Illen.
+
+—Eco. Sacó el cuaderno antes del primer asalto.
+
+Nyree asintió.
+
+La lista entró por su sitio. No por el corazón. Por el sitio donde se guardaban las cosas que iban a servir mañana.
+
+—Eris.
 
 —En el muelle. La guardia marina recogió el cuerpo al amanecer. Depósito comunal del muelle sur.
 
 Silencio.
 
-Nyree no maldijo. La rabia le bajó por dentro como bajaba siempre — recta, sin ruido, hacia la herramienta de tomar nota y la siguiente decisión —. Pero la mandíbula se le quedó apretada otro segundo más de la cuenta.
+Nyree no maldijo. La rabia le bajó por dentro como bajaba siempre: recta, sin ruido, hacia la siguiente decisión. Pero la mandíbula se le quedó apretada otro segundo más de la cuenta.
 
-Krela lo registró sin decir nada.
+Krela lo registró.
 
-—Mari — dijo Nyree al cabo.
+—Theim volvió a la casa después del muelle —dijo.
 
-—Salió con Berys por el pasadizo del sótano. Mari herida en el brazo, no grave. Las dos hacia Kaürun, por el camino del este, distintos pasos.
+Nyree levantó la vista.
 
-—Illen.
+—¿La matriz?
 
-—Sacó el cuaderno antes del primer asalto. Está en la puerta roja de Eco.
+—Quemada.
 
-Cincuenta años en la puerta roja de Ygoran. Eso no se decía aquí. Eso se decía cuando hubiera tiempo de decirlo. Hoy no había.
+—¿El bote?
 
-—Loroa, Eco, Kaürun.
+—También. La puerta, la cocina, el cuarto de armas y el armario del pasadizo. Lo que no se llevó la guardia lo quemó él.
+
+Nyree miró la viga con la circunferencia roja del almacén de Loroa.
+
+Cincuenta años en la puerta roja de Ygoran.
+
+Eso no se decía aquí. Eso se decía cuando hubiera tiempo de decirlo.
+
+Hoy no había.
+
+—Cabrón.
 
 —Sí.
 
-—Hay que abrir otra. No en Ygoran, pero cerca. En Apnio.
+---
 
-—Apnio. Tenemos buenos contactos allí, no costará mucho esfuerzo.
+Nyree cruzó hasta la mesa de carga que había en el centro del almacén. Había un mapa de la Liga Kovax clavado con cuatro cuchillos pequeños. Loroa. Eco. Kaürun. Ygoran, tachada con carbón.
 
-—Empezamos en cuanto normalicemos la situación. Necesitamos tener un buen puerto.
+Nyree puso un dedo sobre Apnio.
+
+—Abrimos aquí.
+
+Krela se acercó.
+
+—Apnio está cerca.
+
+—Por eso.
+
+—También lo va a mirar Coria.
+
+—También por eso.
+
+—Necesitaremos puerto bueno.
+
+—Y familias que no quieran volver a Ygoran.
+
+Krela asintió.
+
+No preguntó si las habría.
+
+—Mañana mando a Illen.
+
+—No. Illen duerme.
+
+Krela la miró.
+
+—Cuatro horas —dijo Nyree—. Después lo mandas.
 
 —Bien.
 
 ---
 
-Krela siguió.
+Krela tardó un segundo más en hablar.
 
-—Y hay otra cosa.
+Nyree lo notó.
+
+—¿Qué?
+
+—Hay otra cosa.
 
 —Habla.
 
-—Un Yll. Piel negra. Llegó hace dos horas a la puerta del almacén. Sin recomendación. Dijo que tenía que verte. Dijo que había oído en el camino del sur que la tormenta de Ygoran había llegado a la ciudad...
+—Un Yll. Piel gris oscura. Llegó hace dos horas a la puerta del almacén. Sin recomendación. Dijo que tenía que verte.
 
-—Nadie debería tener esa información todavía.
+—Nadie debía saber que venía aquí.
 
 —Lo sé.
 
-—¿Armado.
+—Armado.
 
 —Dos dagas. Una bolsa pequeña. Nada más.
 
-—¿Le has registrado.
+—Registrado.
 
-—Sí. Limpio.
+—Sí.
 
-—¿Dónde está.
+—¿Dónde?
 
-—En la capilla. Esperando. No se ha movido en dos horas.
+—En la capilla. No se ha movido.
 
-Nyree miró hacia el fondo del almacén — la puerta de madera vieja de la capilla, dos velas encendidas asomando por el quicio —.
+Nyree miró hacia el fondo del almacén. La puerta vieja de la capilla dejaba salir una línea de vela por debajo.
 
-—¿Cómo sabía que era ésta.
+—¿Cómo encontró la puerta?
 
-—Llegó sin preguntar a nadie del barrio. Directo. Como si supiera exactamente dónde ir.
+—Llegó directo. Sin preguntar a nadie del barrio.
 
-Nyree se tomó un segundo.
+—¿Te fías?
 
-—¿Te fías.
+—No.
 
-—No del todo. Es... inquietante.
+—Bien.
 
-—Ya.
-
-Nyree empezó a caminar hacia la capilla. Krela dos pasos detrás, mano izquierda al mango de la espada.
+Nyree empezó a caminar. Krela fue dos pasos detrás, mano izquierda al mango de la espada.
 
 ---
 
-La puerta de madera vieja crujió al empujarla.
+La puerta de madera crujió al empujarla.
 
-Dentro, la capilla estaba en penumbra. Tres velas encendidas en el altar al fondo. Las sombras danzaban bajas en las paredes de piedra ennegrecida. Olía a vela vieja y a humedad de piedra.
+Dentro, la capilla estaba en penumbra. Tres velas encendidas sobre el altar. Paredes de piedra ennegrecida. Olor a cera vieja y humedad.
 
-En la primera fila de los bancos, una figura sentada. Quieta. Vuelta de tres cuartos hacia el altar, no del todo de frente a la puerta — la posición exacta de quien sabe escuchar lo que entra por la puerta sin tener que mirarlo —.
+En la primera fila de bancos, una figura sentada de tres cuartos hacia el altar. No de espaldas. No de frente. Exactamente en la posición de quien escucha una puerta sin concederle el teatro de girarse.
 
-Nyree caminó hasta el centro del pasillo.
+Nyree avanzó hasta el centro del pasillo.
 
-—No estoy para tonterías. ¿Quién eres.
+—No estoy para tonterías.
 
-La figura no contestó en seguida. Tampoco se volvió. Tenía una daga en la mano derecha. La lanzó al aire. La hoja dio dos vueltas completas, sin ruido, y le cayó otra vez en la mano por el mango. La devolvió al cinturón.
+La figura tenía una daga en la mano derecha. La lanzó al aire. La hoja dio dos vueltas completas, limpias, y cayó otra vez en su mano por el mango.
 
-Después se volvió a medias.
+La guardó.
 
-Yll. Delgado, alto, piel negra. Túnica simple negra. Cabeza rapada. La cara medio en sombra — las velas del altar quedaban detrás de él, la luz le caía oblicua desde la nuca y le dejaba los ojos en penumbra —. Dos hojas finas al cinturón — la que acababa de lanzar y otra gemela — y una bolsa pequeña detrás.
+Único gesto inútil.
 
-Sonrió pequeño. Sin enseñar mucho.
+—Entonces no las traigo —dijo.
 
-—Te acompaño en el sentimiento.
+Voz baja. Suave. Sin prisa.
 
-—No lo volveré a repetir. ¿Quién eres.
+Nyree no se acercó más.
 
-La figura no se inmutó ante el tono agresivo de Nyree.
+—¿Quién eres?
 
-—Sabes —comenzó la figura con una voz suave, casi meditativa—, no eres la única que quiere cambiar el orden establecido.
+La figura se volvió un poco.
 
-Nyree lo observó detenidamente, tratando de leer algo en su postura o tono. Su mente trabajaba rápido, evaluando los peligros y posibles beneficios de cualquier alianza que pudiera surgir de esa reunión. Con las bajas sufridas en Ygoran, su red estaba debilitada, y cada decisión que tomaba era crucial para su supervivencia. Sin embargo, algo en esa figura la inquietaba profundamente.
+Yll. Alto, delgado, piel gris tan oscura que la luz de vela la volvía negra. Cabeza rapada. Túnica simple. Dos hojas finas al cinturón. Sin marcas Harel en el cuello ni en los pómulos.
 
-—¿Y qué hace que tú puedas cambiar algo en este orden? —preguntó Nyree, cruzando los brazos, manteniendo su mirada fría y desafiante.
+La cara quedaba en sombra.
 
-La figura dejó escapar una leve risa, un sonido que parecía no encajar del todo en el silencio solemne de la capilla.
+—Uno que ha oído morir una puerta —dijo.
 
-—Lo que me diferencia es que yo no busco poder ni control —respondió—. Solo quiero ver arder a los que lo tienen.
+—Mucha gente ha oído eso esta noche.
 
-La respuesta hizo que Nyree entrecerrara los ojos, intentando discernir si se trataba de una amenaza velada o de una oferta peligrosa. Su instinto le decía que ese Yll era más de lo que aparentaba.
+—No hablo de Ygoran.
 
-—Todos dicen lo mismo hasta que tienen algo que perder —espetó Nyree—. ¿Qué es lo que realmente quieres de mí?
+Nyree se quedó quieta.
 
-La figura finalmente se levantó. Con un giro lento, se dio la vuelta, revelando un rostro oscuro, cubierto parcialmente por una venda que le tapaba los ojos. Nyree parpadeó un par de veces, sorprendida por su apariencia. Los Yll eran conocidos por su habilidad marcial y percepción, pero ese hombre... parecía desafiar las leyes de la naturaleza. ¿Un guerrero ciego? La idea misma parecía absurda, pero ahí estaba, de pie ante ella con una seguridad desconcertante.
+Krela, en el quicio, no movió la espada.
 
-—Sorprendida, ¿verdad? —dijo el Yll, sonriendo de manera burlona al notar su reacción—. La vista es una de las muchas limitaciones que he dejado atrás.
+—Entonces habla claro.
 
-Nyree sintió un escalofrío. Había enfrentado a todo tipo de seres en su vida, pero ese hombre desprendía un aura diferente, algo que le resultaba difícil de descifrar.
+—Debajo de Kiral Ree hay agua.
 
-—No estoy impresionada, si eso es lo que crees —respondió con un tono calculado, buscando recuperar el control de la conversación—. Pero si crees que puedes acercarte a mí solo por tener una maldita venda en los ojos, te has equivocado de persona.
+Nyree no contestó.
 
-Velerian inclinó la cabeza ligeramente, casi como si disfrutara de la tensión en el aire.
+—La que medía bajó —dijo el Yll—. El agua la apagó.
 
-—Tienes razón. No es la venda lo que debería impresionarte, sino lo que puedo hacer por ti —respondió, manteniendo su tono enigmático—. Y por la causa que dices defender. Estoy aquí porque sé lo que perdiste en Ygoran, y sé lo que podrías ganar si unimos fuerzas.
+Un hilo frío le cruzó la nuca a Nyree.
 
-Nyree dio un paso hacia él, acortando la distancia entre ambos. Quería ver cómo reaccionaba al tenerla tan cerca, pero él se mantuvo inmóvil, inmutable, como si hubiera anticipado cada uno de sus movimientos.
+—Lirae.
 
-—No confío en aliados sin un objetivo claro —le dijo, su mirada fija en él—. Si solo buscas caos, serás una carga, no un recurso. No puedo permitirme perder el tiempo con alguien que solo quiere ver el mundo arder.
+—No sabía su nombre.
 
-Velerian sonrió de nuevo, esa sonrisa cargada de malicia que tanto inquietaba a Nyree.
+—Ahora sí.
 
-—El caos no es el fin, Nyree. Es el medio. Un medio para derrumbar a quienes piensan que son invencibles. Y si juegas bien tus cartas, también será tu oportunidad para tomar lo que siempre has deseado.
+—Ahora sí.
 
-Nyree guardó silencio un momento, calculando cada palabra. El Yll hablaba con una convicción que sugería que sabía más de lo que revelaba. La perspectiva de utilizar a alguien así como un arma contra sus enemigos era tentadora, pero también arriesgada.
+Silencio.
 
-—¿Y si decido que no vale la pena el riesgo? —preguntó, desafiándolo.
+Nyree midió la distancia al banco, la distancia de Krela, la distancia de las dos dagas. El Yll no parecía medir nada. Eso no la tranquilizó.
 
-Velerian se encogió de hombros con calma, como si no le importara en absoluto.
+—Eris no lo nombró.
 
-—Entonces me marcharé, y seguiré mi propio camino. Pero perderás la oportunidad de dar un golpe que podría cambiar todo. No me importa cómo decidas, Nyree. Yo siempre gano. La pregunta es: ¿quieres ganar conmigo?
+—No delante de paredes.
 
-Nyree lo observó en silencio durante unos segundos más, evaluando sus opciones. La Ssilvaris le había dicho que no se fiaba del todo de él, y Nyree compartía esa sensación. Pero veintidós bajas… el desastre en Ygoran aún resonaba en su mente.
+—Dijo que Faree ocultaba algo bajo palacio.
 
-Finalmente, suspiró.
+—Faree no lo oculta. Lo usa. A veces eso se parece.
 
-—¿Quién eres? —preguntó con un tono más suave, aunque aún vigilante.
+—¿Qué es?
 
-Velerian, con la misma sonrisa enigmática en su rostro, dio un paso hacia la luz parpadeante de las velas. La oscuridad pareció retroceder a su alrededor, y la frialdad en su aura se volvió más palpable.
+El Yll sonrió apenas.
 
-—Me llamo Velerian —dijo, sonriendo.
+—Tritón.
 
+La palabra no llenó la capilla. La vació.
 
+Nyree respiró una vez.
+
+—Eso es cuento.
+
+—Los cuentos salen de cosas que comen bastante tiempo.
+
+—Y tú cazas cuentos.
+
+—Cazo lo que queda cuando el cuento deja muertos reales.
+
+Krela cambió el peso de un pie al otro.
+
+Nyree no la miró.
+
+—¿Qué quieres de mí?
+
+—Puertas.
+
+—No.
+
+—Gente que no figure.
+
+—No.
+
+—Rutas fuera de los Orios de Coria.
+
+—No.
+
+—Entonces no te hace falta ganar.
+
+Nyree dio un paso hacia él.
+
+—He enterrado veintidós esta noche. No vengas a venderme victoria.
+
+—No vendo victoria.
+
+—¿Qué vendes?
+
+—Tiempo. Forma. Un enemigo que el rey no pueda nombrar en audiencia.
+
+—Tú.
+
+—No solo.
+
+Nyree lo miró.
+
+—La Jauría no toma partido.
+
+—La Jauría toma contratos.
+
+—No tengo dinero para comprar una guerra contra Coria.
+
+—No he pedido dinero.
+
+—Todos piden algo.
+
+—Sí.
+
+—¿Qué?
+
+El Yll apoyó las manos sobre el respaldo del banco. Dedos largos. Quietos.
+
+—Quiero ver arder a los que tienen poder.
+
+—Eso lo quiere medio continente.
+
+—Medio continente quiere ocupar su silla.
+
+—Y tú no.
+
+—Yo quiero romper la madera.
+
+Nyree no sonrió. Casi.
+
+—Bonita frase.
+
+—Mala madera.
+
+Silencio.
+
+La vela del altar chisporroteó una vez.
+
+Nyree pensó en la puerta roja de Ygoran. En el bote quemado. En Haris muerto en una casa que no era la suya. En Eris diciendo que había algo bajo el palacio y callándose el nombre porque aún le quedaba costumbre de proteger.
+
+La rabia no subió.
+
+Se colocó.
+
+—Si acepto hablar contigo —dijo Nyree—, no mandas sobre mis puertas.
+
+—Bien.
+
+—No tocas a mi gente sin permiso.
+
+—Bien.
+
+—No me das frases bonitas delante de muertos.
+
+—Haré lo posible.
+
+—Harás más que eso.
+
+El Yll inclinó la cabeza.
+
+—Bien.
+
+Nyree dio otro paso.
+
+—Abriremos Apnio. Después me dirás cómo se apaga un tritón.
+
+—No se apaga de una vez.
+
+—No he preguntado eso.
+
+—No.
+
+El Yll se puso en pie.
+
+La luz de las velas le tocó la cara de lleno.
+
+Nyree vio entonces la venda oscura sobre los ojos. Lisa. Sin abertura. Bien ajustada a la nuca. No era herida reciente. No era ocultación de viaje. Era una forma vieja de estar en el mundo.
+
+El Yll no había mirado a nadie desde que ella entró.
+
+Y había sabido siempre dónde estaban todos.
+
+Nyree tardó medio segundo en hablar.
+
+—Eres ciego.
+
+—Sí.
+
+—Y has encontrado mi almacén.
+
+—He encontrado cosas más pequeñas.
+
+Krela soltó aire por la nariz. Muy bajo.
+
+Nyree no apartó la vista de la venda.
+
+—Nombre.
+
+El Yll sonrió.
+
+—Me llamo Velerian.
 
 ---
 
 ## Canon relacionado
 
-**Personajes**: [[../../../canon/personajes/nyree]] (POV; llega a Loroa en carromato al filo de la medianoche tras el asalto a la puerta roja matriz de Ygoran; recibe el parte directo de Krela en el almacén oculto del barrio del canal blanco; decide abrir la próxima puerta roja en Apnio; va a la capilla del refugio a reunirse con el Yll; descubre por su cuenta que el Yll es ciego — Krela no se lo había dicho —; acepta la alianza con Velerian) · Krela (Ssilvaris, segunda de Nyree desde hace treinta años; sobrevivió al recibidor de la puerta roja de Ygoran, herida en el costado; llegó a Loroa antes que Nyree y la espera en el almacén; le da el parte completo al bajar del carromato; *"Cabrón."* / *"Sí."*; no le menciona a Nyree que el Yll es ciego — lo descubre ella sola al entrar a la capilla —; en pie en el quicio de la capilla durante la conversación con Velerian) · [[../../../canon/personajes/velerian]] (Yll ciego, piel negra, túnica negra, cabeza rapada, venda oscura sobre los ojos; doscientos años cazando criaturas míticas; llega al almacén oculto de Loroa sin recomendación tras oír "la tormenta de Ygoran"; espera dos horas inmóvil en la capilla; lanza una daga al aire que da dos vueltas y le cae al mango — único gesto teatral —; propone alianza para apagar al tritón de Elis; *"Solo quiero ver arder a los que lo tienen."*; explica el "medidor" — Lirae bajó cinco días después de Eris, no entró al agua, el arco la rechazó, murió dos horas después en su torre sin herida —; revelación final de la ceguera al ponerse de pie en la luz directa; nombre dicho al cabo: *"Me llamo Velerian."*) · [[../../../canon/personajes/eris]] (referida: muerta en el muelle, decapitada por Theim, manos a los lados, cuerpo en el depósito comunal del muelle sur) · [[../../../canon/personajes/haris]] (referido: cayó en la sala del tercer piso, enterrado al alba en el patio interior antes de que Theim quemara la casa) · [[../../../canon/personajes/lirae]] (referida: la Primer Mirisar, "medidor" del rey; el arco la rechazó, murió en su torre sin herida) · Mari y Berys (referidas: salieron por el pasadizo del sótano hacia Kaürun) · Illen (referida: en la puerta roja de Eco con el cuaderno)
-**Lugares**: [[../../../canon/lugares/liga-kovax|Liga Kovax]] (puertas rojas activas: Loroa, Eco, Kaürun; nueva por abrir en Apnio; almacén oculto en el barrio del canal blanco de Loroa con capilla interior — antes capilla de pescadores, ahora refugio) · [[../../../canon/lugares/ygoran|Ygoran (puerta roja matriz quemada por Theim — solar de ceniza al borde del barrio bajo; depósito comunal del muelle sur)]] · [[../../../canon/lugares/coria-elis|Elis (referida: ala oeste, torre de Lirae)]] · Apnio (próxima puerta roja por abrir, dentro del territorio de Ygoran según [[../../../canon/lugares/mapa-anira|mapa]])
-**Sistemas**: [[../../../canon/sistemas/triton]] (canon ampliado: el tritón mata a distancia; "criatura mítica", "andamio del reino"; el agua del lago de Elis "sonó distinta" hace seis semanas cuando Eris bajó) · [[../../../canon/sistemas/mirisar]] (Lirae como "medidor" del rey, pieza clave del pacto rey-tritón)
-**Nuevo canon — Las Puertas Rojas**: La red de Nyree marca cada nodo en la Liga Kovax con una puerta del mismo rojo apagado — polvo de hierro batido del sur, vinagre, aceite, mezclado por Nyree con sus manos el primer año en Ygoran —. La matriz era la de Ygoran; los demás botes se sacaban del de ahí. Lo entiende quien sabe mirar. Nodos activos al final del libro: Loroa, Eco, Kaürun. Próximo nodo a abrir: Apnio. Variante interna: en algunos refugios como el almacén oculto de Loroa, la marca va dentro — una circunferencia de polvo de hierro en una viga interior — porque la puerta exterior no debe llamar la atención. La matriz quemada de Ygoran no se reabrirá.
-**Capítulos enlazados**: [[../acto-V/22-asalto-ygoran|cap 22 (asalto a la puerta roja matriz, Krela sobrevive, Nyree por el pasadizo del armario)]] · [[../acto-V/23-el-muelle|cap 23 (muerte de Eris, Theim agradece haber encontrado el escondrijo de Nyree en Ygoran)]] · [[../acto-IV/20-descubrimiento-lirae|cap 20 (Lirae descubre el tritón sola; muere días después)]] · [[../acto-III/12-reunion-manos|cap 12 (Reunión de Las Manos, asunto Loroa)]]
+**Personajes**: [[../../../canon/personajes/nyree]] (POV; llega a Loroa tras la caída de la puerta roja matriz de Ygoran; recibe parte de Krela; procesa las bajas como nombres y no sólo cifras; decide abrir Apnio; acepta hablar con Velerian sin entregarle mando sobre sus puertas) · Krela (Ssilvaris, segunda de Nyree desde hace treinta años; sobrevivió al recibidor de Ygoran, herida en el costado; confirma 22 bajas, supervivientes clave y quema de la matriz) · [[../../../canon/personajes/velerian]] (Yll gris oscuro sin marcas Harel visibles, ciego, dos dagas, espera en la capilla; único gesto teatral de la daga; sabe que Lirae bajó y que el agua la apagó; nombra el tritón; pide puertas, gente fuera de registro y rutas; representa la posibilidad de una guerra contra el fundamento mítico de Coria) · [[../../../canon/personajes/eris]] (referida: cuerpo en el depósito comunal del muelle sur; su información sobre lo oculto bajo Kiral Ree llega tarde pero abre el siguiente frente) · [[../../../canon/personajes/haris]] (referido entre las bajas de Ygoran) · [[../../../canon/personajes/lirae]] (referida como la que medía; bajó al ala oeste y no volvió)
+**Lugares**: [[../../../canon/lugares/liga-kovax|Liga Kovax]] (Loroa, almacén oculto con capilla interior y marca roja en viga; nodos activos Loroa, Eco, Kaürun; Apnio como próxima puerta) · [[../../../canon/lugares/ygoran|Ygoran (puerta roja matriz quemada por Theim, cuerpo de Eris en depósito comunal del muelle sur)]] · [[../../../canon/lugares/coria-elis|Elis / Kiral Ree (agua bajo el palacio, tritón)]]
+**Sistemas/organizaciones**: [[../../../canon/sistemas/triton]] (Velerian lo nombra como objetivo futuro; no se resuelve, sólo se abre la guerra mítica) · [[../../../canon/sistemas/mirisar]] (Lirae, la que medía, apagada por el agua/tritón) · Puertas Rojas (red física de refugios, rutas y personas; la matriz de Ygoran queda destruida; Apnio será la siguiente)
+**Capítulos enlazados**: [[../acto-V/22-asalto-ygoran|cap 22 (asalto y huida de Nyree por el pasadizo)]] · [[../acto-V/23-el-muelle|cap 23 (muerte de Eris y hallazgo del escondrijo por Theim)]] · [[../acto-IV/20-descubrimiento-lirae|cap 20 (Lirae baja al lago y no vuelve)]] · [[../acto-IV/19-ygoran-rebelde|cap 19 (Eris calla el nombre del tritón delante de Nyree)]]

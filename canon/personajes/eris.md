@@ -53,7 +53,7 @@ Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — T
 - **I Gloria**: encarna la propaganda del poder. Admirada, eficaz, segura.
 - **II Grietas**: primera incomodidad moral (Plaza Ocre, exclusión racial).
 - **III Revelación**: descubre el tritón bajo el palacio. Lirae no la cree. Aislamiento.
-- **IV Fuga**: rompe con Coria. Huye con Haris a Ygoran. Decepción con los rebeldes. Desaparición de Lirae.
+- **IV Fuga**: rompe con Coria. Huye con Haris a Ygoran. Nyree la obliga a mirar el coste civil de Coria. Desaparición de Lirae.
 - **V Tragedia**: asalto a Ygoran. Haris muere. Theim la persigue, le corta las manos, la decapita.
 
 ## Función narrativa
@@ -62,7 +62,7 @@ Encarnar primero la propaganda del poder y luego su ruptura desde dentro. Su tra
 
 ## Motivo "tum tum"
 
-Algo que **Eris percibe** vinculado posiblemente al tritón, a la Valagost o a una percepción especial. Sin fijar definitivamente. ⚠️ Pendiente de resolver durante escritura.
+Percepción recurrente de Eris vinculada al [[../sistemas/triton|tritón]] bajo Kiral Ree. Aparece primero como anomalía sensorial asociada a la Valagost de Plaza Ocre, crece en Elis y culmina con el descubrimiento del lago subterráneo. No se explica como sistema cerrado: funciona como resonancia narrativa y corporal de lo que Coria esconde.
 
 ## Relaciones clave
 

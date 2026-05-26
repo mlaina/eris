@@ -28,7 +28,8 @@
 
 - **Solo aparece en el epílogo** (o en una brevísima insinuación previa, si conviene sembrarlo).
 - Contacta a Nyree tras la caída de Ygoran.
-- Propone alianza: **"quemar a los que tienen poder"**.
+- Propone alianza sin pedir mando sobre las Puertas Rojas: necesita puertas, gente fuera de registro y rutas fuera de los Orios de Coria.
+- Frase matriz: **"Quiero ver arder a los que tienen poder."**
 - Representa la **continuación estratégica** de la resistencia que Eris ya no puede liderar.
 
 ## Setup en el libro
@@ -58,4 +59,4 @@ Si Faree depende del tritón (criatura mítica), y Velerian **caza criaturas mí
 **Razas**: [[../razas/yll-deorn]]
 **Sistemas**: [[../sistemas/triton]] · [[../sistemas/silmaritas]]
 **Otros**: [[../organizaciones|La Jauría / Amaroth (Ilnadir)]]
-**Capítulo**: [[../../estructura/capitulos/acto-V/24-epilogo-nyree|epílogo cap 24 (POV Nyree)]]. Setup aplicado en [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19]] (Yll sin marcas en el muelle).
+**Capítulo**: [[../../estructura/capitulos/acto-V/24-epilogo-nyree|epílogo cap 24 (POV Nyree; llega a Loroa, nombra el tritón, ofrece una guerra de puertas y rutas, revela la ceguera al final)]]. Setup aplicado en [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19]] (Yll sin marcas en el muelle).

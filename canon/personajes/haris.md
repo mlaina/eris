@@ -4,9 +4,9 @@
 
 ## Identidad
 
-- **Raza**: por definir (probablemente Naggar joven o mestizo — a decidir con Marcos).
-- **Edad**: joven, probablemente el más joven del círculo cercano de Eris.
-- **Rol**: miembro del escuadrón o aliado cercano a Eris. Idealista.
+- **Raza**: Naggar, miembro Eldar.
+- **Edad**: siglo recién cumplido; joven en términos Naggar.
+- **Rol**: miembro del escuadrón de Eris. Idealista, competente, íntimo de Eris.
 
 ## Rasgos
 
@@ -20,6 +20,7 @@
 - **I Gloria**: presencia luminosa en los primeros capítulos. Eris lo mira con cariño de hermana mayor/cuidadora.
 - **II–III**: testigo cercano de las grietas. Hace preguntas que Eris todavía no se atreve a hacer.
 - **IV Fuga**: huye con Eris a Ygoran. Lealtad absoluta. Es lo único que queda cuando todo se rompe.
+- **V Tejado**: se quita la Nexalita en Ygoran. Acto consciente de ruptura con el Cuerpo: siguió a Eris por ella, no por la Kalari ni por la red Eldara.
 - **V Tragedia**: **asesinado por Theim** en el piso franco de Ygoran. Decapitación brutal. Marca la pérdida definitiva de la humanidad en la vida de Eris.
 
 ## Función narrativa

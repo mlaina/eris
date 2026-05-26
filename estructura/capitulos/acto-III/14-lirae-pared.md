@@ -1,409 +1,368 @@
 # Capítulo 14 — Lirae y la pared
 
-Subió a Norel al mediodía.
+Subió a Norel a media mañana.
 
-Había dormido dos horas intermitentes — más descansar que dormir, como había dicho Elerian alguna vez —. Se había vestido con armadura de servicio limpia, no la de la noche. Haris quedaba en Lorin con el escuadrón. Nadie iba a subir a Norel con Eris. Algunas cosas requerían estar sola.
+No había dormido. Había estado sentada en el borde de la cama hasta que el cuartel empezó a moverse, con las manos sobre las rodillas y el *tum tum* detrás de los ojos. Se había lavado la cara. Había pasado por el refectorio sin comer. Aluren le había preguntado si seguía disponible para el parte del sur y ella había dicho que sí.
 
-La torre se alzaba igual que siempre al pie del segundo arroyo. Luz blanca del mediodía, mármol pulido, el agua cayendo de los saltos del oeste. Tirva en el mostrador. Una reverencia. *Kalari.*
+Después ya no pudo seguir disponible.
+
+Haris la vio salir de Lorin. No preguntó. Eris le hizo un gesto mínimo con la barbilla: *Norel*. Haris asintió una vez y volvió a la lanza que estaba limpiando. La Nexalita no dijo nada. Mejor así.
+
+La torre estaba igual que siempre. Mármol blanco, agua clara en el segundo arroyo, luz de mañana sobre las barandillas. Tirva estaba en el mostrador con una pila de libros pequeños a la izquierda y una taza fría a la derecha. Al ver a Eris, no hizo la reverencia completa. Sólo inclinó la cabeza.
+
+—Kalari.
 
 —Tirva.
 
-—Suba. La están esperando.
+—Arriba.
 
-Eris subió sin comentar el *la están esperando*.
+Eris no preguntó si Lirae la esperaba. Subió.
 
-En el rellano del segundo piso, Erion no estaba. En la puerta de la sala de Lirae, sí — Lirae. De pie, sin tocar el pomo, como quien ha esperado oír los pasos.
+En el rellano del segundo piso, Erion no estaba. La puerta de la sala de Lirae estaba abierta un palmo. Desde dentro llegaba el sonido seco del péndulo rozando el aire en una oscilación muy baja.
 
-—Entra.
-
-Entró.
+Eris empujó.
 
 ---
 
-La sala era la misma de siempre. El péndulo en el centro, las mesas bajas, los dos sofás, el armario del fondo, el ventanal grande sobre las cascadas. Había algo pequeño distinto — el armario estaba cerrado con una traba nueva, una barra de hierro fina atravesada por fuera, hecha con una pieza de herrería común. Eris la miró al entrar. Lirae se dio cuenta de que la había mirado.
+Lirae estaba de pie junto al péndulo.
 
-—Desde hace tres noches. No guardo ya el libro pequeño ahí. Sólo pongo la traba para ver si alguien intenta.
+No llevaba la túnica de visita, sino la de trabajo. Pelo recogido mal, mangas subidas, una mancha de tinta en el dorso de la mano derecha. El cuaderno oficial estaba cerrado. El libro pequeño, también. Había una sola hoja suelta sobre la mesa, sin escribir.
 
-—¿Ha intentado alguien.
+El péndulo oscilaba hacia el suroeste.
 
-—Aún no.
+Lirae miró a Eris. No pareció sorprendida.
+
+—Ya.
+
+—Ya.
+
+—Siéntate.
+
+Eris se sentó en el sofá bajo. Lirae no. Se quedó junto a la mesa, con una mano apoyada en el borde de madera y la otra cerca del péndulo, sin tocarlo.
+
+—Lo viste —dijo Lirae.
+
+Eris tardó un segundo.
+
+—Sí.
+
+—Cuéntamelo sin ordenar.
+
+Eris la miró.
+
+—¿Sin ordenar?
+
+—Si lo ordenas demasiado pronto, me contarás la explicación. Quiero los hechos.
 
 Eris asintió.
 
-Lirae le señaló el sofá bajo. Eris se sentó. Lirae no se sentó — se quedó de pie, con los brazos cruzados, apoyada contra la mesa del péndulo.
+Respiró por la nariz. Una vez. Después empezó.
 
-—Tú dirás.
+—Salí al jardín a la una. No buscaba nada. No podía dormir. Vi al rey cruzar solo por el estanque. Sin Kroma. Sin Lyris. Sin Theim. Llevaba una capa oscura y una esfera apagada en la mano.
 
-Eris tomó aire. Había repasado las palabras durante las dos horas de no-sueño. Al decirlas en voz alta, las palabras se volvieron a acomodar por su cuenta.
+Lirae no se movió.
 
-—Anoche entré por debajo del ala oeste. Con Haris. Por la cuarta puerta pasada la escalera baja del corredor antiguo. Bajamos por una escalera pequeña, después un túnel en pendiente, después un vestíbulo. Desde el vestíbulo no se pasaba — hay un foco gravitatorio antiguo que bloquea el arco. Pero hay un respiradero al lado del arco por el que se ve dentro.
+—Lo seguí por el jardín de las rosas viejas. Desapareció contra la pared rocosa. Encontré una abertura detrás de zarzales. Bajé. Escalones, pasaje, sala con tres caminos. Fui por el de la izquierda porque venía luz.
 
-Lirae no parpadeó. Movió un dedo muy poco sobre el brazo contrario. Tomaba nota sin moverse.
+El péndulo siguió oscilando. Muy poco. Suroeste.
 
-—Dentro hay una cámara. Grande. Con un lago subterráneo de fosforescencia gris. El suelo de la cámara tiene espirales dobles grabadas, docenas, dispuestas en un patrón que no reconocí. Al borde del lago estaba el rey.
+—Llegué a una caverna. Grande. Tres pisos, quizá. Había un lago. No veía el otro lado. Faree estaba al borde del agua. Solo. La esfera le daba luz fría.
 
-—Solo.
-
-—Solo.
-
-—¿Sin Kroma. Sin Theim. Sin Lyris.
-
-—Solo.
-
-Lirae asintió muy poco.
+Lirae bajó la vista al péndulo un segundo y la volvió a subir.
 
 —Sigue.
 
-—El rey estaba de rodillas sobre una de las espirales. Con las manos en el suelo. Del agua subió algo.
+—Del agua subió algo.
 
-Hizo una pausa. Pequeña.
+La frase quedó en la sala con una limpieza brutal. Lirae no la recogió enseguida.
 
-—No vi la cara. No vi los ojos. Vi un tronco, un cuello, un trozo de hombro. Grande. Unos tres metros de lo que asomaba. Más abajo debía haber más. Escamoso. Oscuro. Piel que no existe ya en Anira.
+—¿Algo?
 
-—Tritón —dijo Lirae muy bajo.
+—Una cabeza primero. Piel blanca lechosa. Manchas azules en el cuello y la coronilla. Cráneo largo. Sin pelo. Sin orejas. Ojos azules, abiertos, sin párpados. Una aleta detrás, a tres metros del borde.
 
-—O lo que Coria ha llamado tritón durante mil años, sí.
+Lirae cerró los dedos sobre el borde de la mesa.
 
-Lirae apartó la vista un segundo. Miró el péndulo.
+—¿Viste los ojos?
 
-—Sigue.
+—Sí.
 
-—El rey habló. Diez frases. En una lengua que no es Nagani ni común. Vocales largas. Consonantes suaves. Ritmo de negociación, no de orden. La forma del agua respondió con la frecuencia — el *tum tum* cambió un momento, se hizo más baja, más separada. Después el rey metió las manos en el agua hasta los codos. Tres segundos. El pelo le cambió las raíces. Vi cómo las raíces del rey se volvieron negras un instante y luego volvieron al blanco. La piel de las manos ganó un tono nuevo. Y una línea de las cejas del rey, que había estado ahí un siglo, desapareció.
+—¿Estás segura?
 
-Lirae se quedó un rato sin decir nada.
+—Sí.
+
+—Bien. Sigue.
+
+—Faree se arrodilló. Vi su cara antes. Vieja. Arrugas en la boca, en la frente, en el cuello. No la cara que lleva en palacio. Otra. La criatura se acercó. Hubo luz. Salía de ella, no de la esfera. Entró en el rey por la cara y el pecho. Cuando terminó, Faree volvió a tener la cara de siempre. Las raíces del pelo se oscurecieron un momento y luego volvieron al blanco.
+
+Lirae apartó la mirada.
+
+No hacia el ventanal. Hacia el suelo.
+
+—¿Te vio?
+
+—No sé.
+
+—¿El rey?
+
+—No lo sé.
+
+—¿La criatura?
+
+Eris no contestó enseguida.
+
+—Sí.
+
+Lirae levantó la vista.
+
+—¿Cómo?
+
+—No lo sé. Lo supe.
+
+Lirae no dijo nada.
+
+—El *tum tum* era suyo —dijo Eris—. No venía de debajo. Venía de ella. De eso. La cámara vibraba con él. Yo lo tenía detrás de los ojos.
+
+Una de las ventanas dejó pasar una luz más fuerte al moverse una nube. El mármol del suelo se aclaró medio tono. Ninguna de las dos miró.
+
+—Faree habló —añadió Eris—. No en Nagani. No en común. Una lengua vieja. La criatura no habló con voz. Respondió con la frecuencia.
+
+Lirae respiró despacio. Después se sentó en el otro sofá.
+
+El espacio entre las dos quedó demasiado ancho.
+
+---
+
+—Lo que mido —dijo Lirae al cabo— es esto.
+
+Puso dos dedos sobre la hoja en blanco. No escribió.
+
+—Hay una masa bajo el ala oeste. Eso es real. Llevo meses midiendo una perturbación gravitatoria estable, con aceleraciones cada vez más frecuentes. La dirección coincide con lo que acabas de describir. Si hay un pasaje desde el jardín de las rosas, el eje encaja.
+
+—Bien.
+
+—Hay agua, probablemente. No porque el péndulo mida agua, sino porque la variación de masa tiene una respuesta lenta, como fluido contenido. Eso también encaja.
 
 Eris esperó.
 
-—¿Qué quieres que te diga, Eris.
+—Hay una forma viva. Eso no lo puedo afirmar. Puedo aceptar que hayas visto una forma. Tu ojo no inventa volúmenes sin motivo. Pero una forma vista de noche, en luz fría, con privación de sueño y con el cuerpo en alarma no es todavía una criatura consciente.
 
-—Dime lo que mides tú. No lo que ves tú. Lo que mides.
+—Ya.
 
----
+—Hay rejuvenecimiento del rey. Eso tampoco lo puedo afirmar. Puedo aceptar que viste un cambio. Puedo aceptar que Faree estaba más viejo abajo y menos viejo arriba. Pero eso admite varias explicaciones antes de llegar a un pacto con una criatura antigua.
 
-Lirae respiró. Caminó una vuelta al péndulo. Se detuvo.
+Eris no respondió.
 
-—Lo que mido desde hace ocho meses es consistente con una masa considerable bajo el palacio. Con una geometría que cambia de forma sutil a lo largo de las semanas. Con un patrón de anomalías que se acelera. Con una fuente de tirón que está al ala oeste. Con una frecuencia que acompaña esas anomalías — la misma que tú oyes. Todo eso lo mido. Todo eso lo tengo.
+—Efecto de luz. Sustancia en el agua. Haiz administrado de una forma que no conocemos. Un Mirisar viejo deformado por exposición prolongada. Una criatura real pero no consciente. Una lectura tuya contaminada por el *tum*. Interferencia Sandrie. Proyección bajo Nexalita. Incluso una combinación de todo.
 
-—Bien.
+—La Nexalita estaba al mínimo.
 
-—Lo que tú cuentas hoy no lo mido.
+—Al mínimo no es apagada.
 
-—Ya lo sé.
+—No proyecta ojos.
 
-—Déjame terminar.
+—No debería.
 
-—Sigue.
+Eris la miró.
 
-—Tú me cuentas un lago. Lo que yo tengo es masa densa. Un lago es compatible con masa densa si es un lago profundo con piedra debajo. Está bien.
+Lirae sostuvo la mirada.
 
-Hizo una pausa.
+—No estoy diciendo que no, Eris. Estoy diciendo que no puedo saltar desde "vi algo" hasta "Coria se sostiene por un tritón que rejuvenece al rey". Esa frase rompe demasiadas cosas. Para romperlas tengo que medir.
 
-—Me cuentas espirales grabadas en el suelo. Puedo creerlo. La cámara, si existe, es antigua. Cualquier cosa grabada en ese suelo habrá estado ahí desde antes del primer rey Numari.
+—No bajes.
 
-Pausa.
+Lirae se quedó quieta.
 
-—Me cuentas que el rey está solo. Te creo. El rey no deja que nadie lo vea vulnerable, ni siquiera Kroma. Bajar a una sala subterránea solo cuadra con lo que conozco del rey.
+La frase había salido más seca de lo que Eris había previsto. No la retiró.
 
-Pausa.
+—No he dicho que vaya a bajar.
 
-—Me cuentas que sale algo del agua. Aquí empieza el problema.
+—Lo estás pensando.
 
-Eris asintió.
+—Sí.
+
+—No bajes.
+
+Lirae miró el péndulo.
+
+—Si no bajo, no sé.
+
+—Si bajas, puede que no salgas.
+
+—También.
+
+Eris cerró la mano derecha sobre la rodilla. La abrió otra vez.
+
+—Te estoy contando suficiente.
+
+—Para ti, sí.
+
+—Para cualquiera.
+
+—No. Para cualquiera no. Para ti. Y yo te creo a ti más de lo que creería a cualquiera. Ese es el problema.
+
+Eris no contestó.
+
+—Si viniera Aluren con esta historia, lo mandaría a dormir. Si viniera Daerin, le pediría el documento. Si viniera Lyris, buscaría dónde está la segunda frase debajo de la primera. Vienes tú. Eso pesa. Pero no convierte lo que cuentas en prueba.
+
+—No necesito que lo llames prueba.
+
+—¿Qué necesitas?
+
+Eris tardó.
+
+—Que sobrevivas a saberlo.
+
+Lirae bajó los ojos un segundo.
+
+La frase le llegó. Eris lo vio. No por la cara, que casi no cambió. Por la mano sobre la hoja en blanco. Los dedos se aflojaron medio grado.
+
+—Esto no es hostilidad —dijo Lirae.
 
 —Lo sé.
 
-—Tu lectura — y tú lo sabes — es que eso que sale es una criatura viva, consciente, arcaica, con la que el rey negocia en una lengua privada y de la que obtiene rejuvenecimiento a cambio.
-
-—Sí.
-
-—Mi lectura es otra.
-
-—Te escucho.
-
----
-
-Lirae se apoyó en la mesa del péndulo. Habló despacio, con la voz clínica que Eris había aprendido a leer como la voz de Lirae cuando estaba midiendo — no cuando estaba discutiendo.
-
-—Escenario uno: efecto Sandrie inducido. Una Mirisar sónica lo bastante precisa puede meter imágenes en el cerebro de alguien cuando esa persona ya está predispuesta. Tú estás predispuesta — llevas oyendo el *tum* desde Valdara, probablemente desde la infancia según lo que me dijiste anoche. Si hay en el palacio alguien canalizando bajo forma sónica con intención, es posible que lo que viste en el respiradero sea parcial a una visión. Lo que viste está compuesto por el respiradero (lago gris) y una forma metida en tu cabeza.
-
-—Imposible. Haris también la vio.
-
-—Si la misma Mirisar es muy potente, puede inducir al segundo si está cerca. Dos es difícil pero no imposible. Si es Mirisar canalizada con un bloqueador de foco adicional — puede. Ya hemos visto focos gravitatorios fijos en ese corredor. Quien lo puso pudo poner también otras cosas.
-
-—Ya.
-
-—Escenario dos: alucinación compartida por carga emocional extrema. Los dos habéis entrado allí con el cuerpo en tensión. Habéis oído el *tum* durante días. Habéis visto a Theim matar al agresor ayer. Habéis dormido mal. El cerebro compensa. Puede proyectar.
-
-—Ya.
-
-—Escenario tres: la criatura es real pero no consciente. Existe algo en el lago. Vivo, probablemente. Pero no necesariamente inteligente. Algunos animales acuáticos muy antiguos producen fosforescencia, frecuencias bajas, y responden a la presencia humana por reflejo químico. El rey puede haber aprendido a usar esa criatura para obtener un efecto biológico — quizás las escamas segregan algo que rejuvenece la piel por contacto directo. Eso no requiere que la criatura sea consciente.
-
-—El rey le habló.
-
-—Hablarle a un animal no lo convierte en un interlocutor.
-
-—Responde el *tum*.
-
-—Los animales responden a la cercanía. Frecuencia baja puede ser respuesta refleja a masa humana encima del agua.
-
-—Respondió a frases específicas.
-
-—Coincidencia o aprendizaje condicionado durante siglos.
-
-Eris se quedó en silencio un momento largo.
-
-—Escenario cuatro —dijo al cabo.
-
-—Dime.
-
-—Lo que yo vi.
-
-Lirae la miró.
-
-—Eris.
-
-—Lirae.
-
-—No lo descarto. No soy tonta. Las tres hipótesis anteriores son lo que mi entrenamiento me pide decir. Pero yo tampoco pongo la mano en el fuego por ellas. Puede que tú tengas razón. Puede que el rey esté en trato con una criatura consciente que le rejuvenece. Puede. Lo que no puedo es afirmarlo sin prueba, y lo que no puedo es cambiar ocho meses de mediciones por una noche en un respiradero.
-
-—Entiendo.
-
-—Esto no es hostilidad, Eris.
-
-—Ya lo sé.
-
-—Quiero estar contigo en esto.
-
-—Ya lo sé.
-
-—Pero no puedo cruzar la pared.
-
-Eris no dijo nada durante un rato.
-
----
-
-Lirae se sentó, por fin, en el otro extremo del sofá. Los hombros no tocándose esta vez.
-
-Se quedaron así un minuto.
-
-—Eris.
-
-—Sí.
-
-—¿Tú lo crees.
-
-—Sí.
-
-—¿Con cuánta certeza.
-
-—La misma que tú pones cuando el péndulo mide algo claro.
-
-Lirae cerró los ojos un segundo.
-
-—Ya.
-
-Otra pausa.
-
-—Entonces hay un problema —dijo Lirae— y no es el que tú y yo estamos discutiendo. Lo que tú vas a hacer a partir de ahora va a estar basado en una lectura que yo no comparto. Y lo que yo voy a hacer va a estar basado en mediciones que tú consideras insuficientes.
-
-—Ya.
-
-—No nos vamos a pelear por esto.
-
-—No.
-
-—Pero vamos a dejar de estar en el mismo libro un rato.
-
-—Sí.
-
-Eris lo dijo sin inflexión. Lirae también lo había dicho así. Era un diagnóstico, no un ultimátum. El punto exacto donde las dos cosas se aceptaban sin romperse.
-
-Lirae estiró una mano. Le tocó el dorso de los dedos a Eris, un segundo.
-
-Eris le devolvió el gesto.
-
-No se abrazaron. Lirae y Eris no se abrazaban. Era otra clase de amistad.
-
----
-
-—¿Qué vas a hacer —dijo Lirae al cabo.
-
-—Todavía no lo sé. Pensar hoy. Decidir mañana.
-
-—¿Seguir sirviendo.
-
-—Por ahora.
-
-—¿Hasta cuándo.
-
-—Hasta que me pidan algo que no pueda hacer.
-
-—Eso puede ser pronto.
+—No te estoy negando.
 
 —Lo sé.
 
-Silencio.
+—Estoy contra una pared.
 
-—Si te vas —dijo Lirae muy bajo—, avísame antes.
+—Sí.
 
-—Te avisaré.
+Lirae miró el péndulo otra vez.
 
-—Pero sólo a mí.
-
-—Sólo a ti.
-
-—Haris.
-
-—Haris viene conmigo.
-
-—Ya.
-
-Otra pausa.
-
-—Lirae.
-
-—¿Sí.
-
-—Deja de medir en público.
-
-Lirae levantó una ceja.
-
-—Eso ya lo hago.
-
-—Deja de medir.
-
-—Eris.
-
-—Sé lo que te estoy pidiendo.
-
-—No lo voy a dejar. Es lo que sé hacer.
-
-—Lo sé.
-
-—No te voy a prometer eso.
-
-—Te lo pido igual.
-
-Lirae la miró un segundo largo.
-
-—Ya.
+—Y la pared está hecha de lo único que sé hacer.
 
 ---
 
-Eris se levantó del sofá. Se ajustó el cinturón. Recogió la capa del respaldo. Puso la mano en el picaporte.
+Durante un rato no hablaron.
 
-—Lirae.
+El péndulo siguió. Suroeste. Suroeste. Suroeste.
 
-—¿Sí.
+Eris oyó el *tum tum* por debajo. No fuerte. Suficiente. En Norel el sonido tenía otra calidad, como si el mármol de la torre lo filtrara y lo dejara más limpio. Lirae no lo nombró. Quizá lo oía. Quizá no. Ya no importaba.
 
-—Si vienen por ti, no pelees.
+—¿Qué vas a hacer? —preguntó Lirae.
 
-—No pensaba.
+—Seguir por fuera.
 
-—Bien.
+—¿Y por dentro?
 
-—¿Vendrán.
+—No sé.
 
-Eris lo pensó un segundo.
+—Eso no es respuesta.
 
-—Probablemente. Si no pronto, pronto-pronto.
+—Es la que tengo.
 
 Lirae asintió.
 
-—Ya.
+—Si te vas, avísame.
 
-—Cuida a Erion.
+—Sí.
 
-—Erion se cuida solo. Pero le avisaré.
+—A mí. No a Tirva. No a Erion.
+
+—A ti.
+
+—Haris irá contigo.
+
+—Sí.
 
 —Bien.
 
-Silencio.
+Eris miró la hoja en blanco.
+
+—Deja de escribir.
+
+—No.
 
 —Lirae.
 
-—¿Sí.
+—No.
 
-—Gracias.
+—Entonces deja de medir en público.
 
-—Las gracias por mañana.
+—Eso ya lo hago.
 
-Eris sonrió muy poco. Casi.
+—Deja de medir sola.
 
-—Las gracias siempre por mañana, contigo.
+Lirae sonrió sin alegría.
 
-Lirae sonrió también. Un segundo. Después se apagó.
+—Eso no lo hago nunca. Siempre estoy con el péndulo.
+
+—No es gracioso.
+
+—No.
+
+La sonrisa se apagó.
+
+—No puedo prometerte lo que me pides, Eris.
+
+—Lo sé.
+
+—Puedo prometerte otra cosa.
+
+—¿Cuál?
+
+—No bajaré hoy.
+
+Eris la miró.
+
+—Hoy.
+
+—Hoy.
+
+Era poco. Era casi nada. Era, en Lirae, el máximo.
+
+Eris asintió.
+
+—Bien.
+
+---
+
+Se levantó.
+
+Lirae también. No se acercó enseguida. Primero fue al péndulo y lo detuvo con dos dedos. El bronce dejó de oscilar, obediente. La sala quedó más quieta. Demasiado quieta.
 
 —Eris.
 
-—¿Sí.
+—Sí.
 
-—Si tengo que elegir entre dejar de medir y pelear por seguir midiendo — pelearé.
+—Si tienes razón, no sé qué es Coria.
 
-—Lo sé.
+—Yo tampoco.
 
-—No puedo evitarlo.
+—Creía que ibas a decir otra cosa.
 
-—Lo sé.
+—No la tengo.
 
-—Perdóname.
+Lirae llegó hasta ella. Le tocó el dorso de la mano, un segundo. El gesto de siempre. La pregunta y la respuesta a la vez.
 
-—No hay nada que perdonar.
+—Las gracias por mañana —dijo Lirae.
 
-Eris abrió la puerta.
+Eris notó que la frase, esta vez, costaba más.
 
-—Hasta pronto, Lirae.
+—Por mañana.
 
-—Hasta pronto, Eris.
+Fue a la puerta. La abrió.
 
-Eris salió.
+Lirae no la siguió. Volvió a la mesa, abrió el libro pequeño, tomó la pluma y se quedó mirándolo. No escribió. Sólo sostuvo la pluma encima de la página, a un dedo del papel, hasta que Eris salió.
 
----
+Eris bajó la escalera de caracol.
 
-Bajó la escalera de caracol de Norel despacio. En el rellano del primero, Erion leía otra vez el libro que no iba con la hora. La miró. Eris le asintió. Él también.
+En el rellano del primero, Erion no estaba.
 
-En el mostrador, Tirva no levantó la vista.
+Tirva seguía en el mostrador. No levantó la vista al verla pasar. Mejor.
 
-Eris salió a la galería. El sol del mediodía alto. Las cascadas sonando claras a esa hora. Mármol blanco hasta donde llegara la vista.
+Eris salió a la luz blanca de Elis. Cruzó el puente mayor hacia Lorin con el *tum tum* muy bajo, constante, detrás de la frente.
 
-Caminó hacia Lorin por el puente mayor.
+Había ido a Norel para no estar sola.
 
-A mitad del puente, se dio cuenta de que por primera vez en muchos años caminaba sola por Elis sin alguien con quien compartir el resto del día.
-
-Muoro estaba en Lorin, pero Muoro no era sitio donde apoyarse.
-
-Haris era — Haris era Haris, pero Haris se cansaba y ella era su Kalari antes que amiga.
-
-Lirae se quedaba del otro lado de la pared.
-
-Lyris era intocable — ahora más que nunca.
-
-Faree había sido alguien a quien respetar y ahora era otra cosa.
-
-Elerian era una noche cerrada.
-
-Iralen la había avisado.
-
-Daerin le había dado una pista por un minuto y después había cerrado la puerta.
-
-Sirel era un nombre en piedra.
-
-Eris iba por el puente mayor del palacio blanco de Elis y por primera vez en cien años no había nadie esperándola arriba.
-
-El *tum tum* seguía, muy bajo, por debajo.
-
-Ya no dolía tanto.
-
-Era sólo compañía.
+Volvía con algo peor: alguien al otro lado de una pared.
 
 ---
 
-Llegó a Lorin. Entró por la puerta este. Haris estaba en el patio, como siempre. Al verla entrar levantó la vista.
+## Canon relacionado
 
-Ella le hizo un gesto mínimo.
-
-Él asintió.
-
-Siguieron cada uno con lo suyo.
-
-Eso también era una forma de no estar sola.
+**Personajes**: [[../../../canon/personajes/eris]] (cuenta la verdad del cap 13 sin rebajarla; intenta impedir que Lirae baje) · [[../../../canon/personajes/lirae]] (acepta masa, agua y dirección; no acepta todavía el salto a tritón consciente; promete sólo no bajar ese día) · Erion (ausente del rellano, prepara el vacío posterior)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (Norel, sala de Lirae; referencia al jardín de las rosas y cámara bajo Kiral Ree)]]
+**Sistemas**: [[../../../canon/sistemas/triton]] (Eris traslada a Lirae el canon visual del cap 13: piel blanca lechosa, manchas azules, ojos sin párpados, aleta, frecuencia *tum tum*) · [[../../../canon/sistemas/mirisar]] (Lirae se aferra al método y a la medición)
+**Capítulos enlazados**: [[../acto-III/13-bajo-palacio|cap 13 (lo visto por Eris)]] · [[../acto-III/15-aislamiento|cap 15 (aislamiento posterior)]] · [[../acto-IV/20-descubrimiento-lirae|cap 20 (Lirae baja porque necesita medir)]]

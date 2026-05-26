@@ -1,6 +1,6 @@
 # Capítulo 11 — La corte hueca
 
-Aluren le concedió los tres días. Pero no los de esa semana.
+Aluren le concedió los tres días. Pero no esa semana.
 
 —Pasado mañana —dijo—. Hay función de corte. Requerida. Iralen ha preguntado por usted. También Daerin. Después de la función, coja los tres días.
 
@@ -16,7 +16,7 @@ La función era audiencia menor, no Larien. Se celebraba en la Sala de los Cedro
 
 Eris entró por la puerta este. Llevaba armadura de servicio — la misma de siempre — y la capa ceremonial corta sobre los hombros, sin insignia. Las Manos no llevaban insignia. La cara las identificaba. El tatuaje de las manos las confirmaba.
 
-Faree estaba de pie junto al cedro del centro, hablando a media voz con **Iralen** y **Daerin**. Lyris a tres pasos, las dos esferas blancas girando lento. Los consejeros menores en los bancos del fondo. Una casa Naggar de nombre largo esperaba su turno con tres representantes; el turno tardaría media hora. Faree lo hacía así por costumbre: lo importante primero, aunque no estuviera en el orden del día.
+Faree estaba de pie junto al cedro del centro, hablando a media voz con Iralen y Daerin. Lyris a tres pasos, las dos esferas blancas girando lento. Los consejeros menores en los bancos del fondo. Una casa Naggar de nombre largo esperaba su turno con tres representantes; el turno tardaría media hora. Faree lo hacía así por costumbre: lo importante primero, aunque no estuviera en el orden del día.
 
 Faree la vio entrar. Le hizo un gesto mínimo con la barbilla. Eris se acercó al semicírculo interior.
 
@@ -38,7 +38,7 @@ Iralen sonrió de medio lado. Su túnica gris plateada brillaba al sol del medio
 
 —Ha adelgazado por dentro. Es peor.
 
-Daerin se rió sin ruido. Un gesto aristocrático, cortés, practicado durante siglos. Le brillaban los dos anillos en la mano izquierda — el del archivo y uno más que Eris no recordaba haberle visto.
+Daerin se rió sin ruido. Un gesto aristocrático, cortés, practicado hasta volverse natural. Le brillaban los dos anillos en la mano izquierda — el del archivo y uno más que Eris no recordaba haberle visto.
 
 —Mi señora Iralen tiene el ojo afinado —dijo Daerin—. Pero también lo tiene la Kalari. Está aquí, sana, de pie. No lo tome a mal.
 
@@ -72,7 +72,7 @@ Se tomó un segundo. Miró la corteza del cedro. Pasó dos dedos por ella sin ap
 
 —Diga, majestad.
 
-—¿Cómo ha dormido.
+—¿Cómo ha dormido?
 
 Eris no contestó enseguida.
 
@@ -82,15 +82,15 @@ Eris no contestó enseguida.
 
 Faree no añadió. Eris tampoco. El silencio entre ellos duró cinco segundos, que en una corte Naggar era lo que duraba un gesto largo.
 
-—Kalari. Otra. La más discreta. ¿Ygoran.
+—Kalari. Otra. La más discreta. ¿Ygoran?
 
-Eris se tomó un segundo. La pregunta era en apariencia administrativa — Ygoran era puerto rebelde por antonomasia, y el ejército Eldara llevaba cincuenta años sin cerrarla del todo —. Pero Faree no preguntaba por Ygoran por administración.
+Eris se tomó un segundo. La pregunta era en apariencia administrativa — Ygoran era puerto rebelde por antonomasia, una ciudad que el ejército Eldara nunca había terminado de cerrar —. Pero Faree no preguntaba por Ygoran por administración.
 
 —Lo de siempre, majestad. La red de Nyree sigue. La pesca sale. Los capitanes Valagost aguantan el orden mientras se les deja aguantarlo. No vamos a cerrarla este año tampoco.
 
 —Ya. Se lo preguntaba porque, en un mundo razonable, Ygoran no existiría. Y sin embargo existe, y lleva existiendo cincuenta años, y los míos la siguen fallando. A veces me digo que el fallo no es accidente. Que la ciudad sirve.
 
-—¿A quién, majestad.
+—¿A quién, majestad?
 
 —A nosotros también, paradójicamente. Una ciudad que se ocupa de ser Ygoran es una ciudad que no intenta ser Elis. Eso vale algo.
 
@@ -120,23 +120,23 @@ Faree apartó la mano del cedro. La función volvió a su curso.
 
 La casa Naggar pasó. Tres firmas, dos reverencias, un certificado sellado por Lyris. Quince minutos. La rutina del palacio.
 
-Eris se quedó de pie en el fondo de la sala durante el protocolo. Observó. Observó como no había observado en cien años — con la pregunta puesta.
+Eris se quedó de pie en el fondo de la sala durante el protocolo. Observó. Observó como no había observado nunca en Kiral Ree — con la pregunta puesta.
 
-Vio a los consejeros del fondo. Tres Naggar de trescientos, cuatrocientos años, perfumados, con túnicas sencillas que habían costado más que un par de caballos buenos. Uno bostezaba tapándose con los cuatro dedos. Otro cuchicheaba con el de al lado sobre una boda próxima — quién traía a quién, quién no invitaba a quién, quién había roto el compromiso hacía veinte años y seguía ofendido. El tercero tenía los ojos en Iralen.
+Vio a los consejeros del fondo. Tres Naggar viejos, perfumados, con túnicas sencillas que habían costado más que un par de caballos buenos. Uno bostezaba tapándose con los cuatro dedos. Otro cuchicheaba con el de al lado sobre una boda próxima — quién traía a quién, quién no invitaba a quién, quién había roto el compromiso y seguía ofendido. El tercero tenía los ojos en Iralen.
 
-Vio al representante mayor de la casa Naggar que firmaba. Voz temblona — edad — fórmulas correctas, memoria intacta sólo para lo ceremonial. Detrás de él, su hijo, muy joven, no más de ciento veinte, se distraía mirando el cedro. Era un chico que ya estaba esperando que el padre muriera, aunque todavía no lo supiera.
+Vio al representante mayor de la casa Naggar que firmaba. Voz temblona — edad — fórmulas correctas, memoria intacta sólo para lo ceremonial. Detrás de él, su hijo, muy joven para la sala, se distraía mirando el cedro. Era un chico que ya estaba esperando que el padre muriera, aunque todavía no lo supiera.
 
-Vio a Iralen desde la espalda. La túnica le caía limpia. La cabeza se le mantenía a altura exacta de Faree. Eris llevaba años pensando que Iralen era la más aguda de los Naggar de la corte. En ese momento lo confirmó. Iralen sabía también — no todo lo que sabía Eris, pero sabía que algo andaba mal y llevaba tiempo jugando a no saberlo.
+Vio a Iralen desde la espalda. La túnica le caía limpia. La cabeza se le mantenía a altura exacta de Faree. Eris siempre había pensado que Iralen era la más aguda de los Naggar de la corte. En ese momento lo confirmó. Iralen sabía algo también — no lo mismo que Eris, pero sabía que algo andaba mal y llevaba tiempo jugando a no saberlo.
 
-Vio a Daerin. Erudición, cortesía, memoria del archivo. Se reía bajo con su primo el rey, como se había reído probablemente durante ochocientos años. No era frívolo. Era el tipo de hombre que, cuando caía el imperio — el reino, se corrigió Eris — sabía exactamente qué libros iba a salvar primero.
+Vio a Daerin. Erudición, cortesía, memoria del archivo. Se reía bajo con su primo el rey, como se había reído probablemente desde siempre. No era frívolo. Era el tipo de hombre que, cuando caía el imperio — el reino, se corrigió Eris — sabía exactamente qué libros iba a salvar primero.
 
-Vio a Faree. Carisma intacto. Sonrisa fija. Paciente. Atento a cada esquina de la sala. Precisión absoluta. Mil años de precisión. Eris notó por dentro algo que no había notado nunca: la perfección de Faree era **tanta** que ya no parecía un hombre. Parecía una herramienta de sí mismo. Alguien había afilado esa herramienta durante siglos, y la herramienta respondía.
+Vio a Faree. Carisma intacto. Sonrisa fija. Paciente. Atento a cada esquina de la sala. Precisión absoluta. Una precisión acumulada hasta borrar el esfuerzo. Eris notó por dentro algo que no había notado nunca: la perfección de Faree era tan completa que ya no parecía un hombre. Parecía una herramienta de sí mismo. Alguien había afilado esa herramienta durante demasiado tiempo, y la herramienta respondía.
 
 La pregunta que le había hecho Faree —*cómo ha dormido*— se le abrió por dentro en dos. Faree no le había preguntado por cortesía. Le había preguntado por precisión. Le estaba midiendo la piel.
 
 Eris, entonces, hizo algo que no había hecho nunca en Kiral Ree. Dejó de mirar.
 
-Bajó los ojos al suelo. Los dejó ahí durante el resto de la función. No le hacía falta mirar. El suelo era mármol blanco con venas grises — el mismo mármol que había, sesenta metros más abajo, sobre la cámara que Lirae todavía no podía explicar.
+Bajó los ojos al suelo. Los dejó ahí durante el resto de la función. No le hacía falta mirar. El suelo era mármol blanco con venas grises — el mismo mármol que seguía hacia abajo, hacia aquello que Lirae todavía no podía explicar.
 
 ---
 
@@ -152,7 +152,7 @@ Iralen le tocó el brazo a Eris al pasar. Un segundo.
 
 Eris la miró.
 
-—¿Por.
+—¿Por qué?
 
 —Por. Sin más.
 
@@ -172,19 +172,19 @@ Daerin se tomó un segundo. Miró al cielo del patio. El sol estaba ya por detr�
 
 —Mi padre.
 
-—He estado limpiando una sección del archivo este mes. Cartas viejas. Cosas que llevaban doscientos años sin abrirse. Hay una carpeta con correspondencia entre su padre y tres consejeros de Faree de antes de la Invasión Oscura. No todo es importante. Una frase sí.
+—He estado limpiando una sección del archivo este mes. Cartas viejas. Cosas que llevaban generaciones sin abrirse. Hay una carpeta con correspondencia entre su padre y tres consejeros de Faree de antes de la Invasión Oscura. No todo es importante. Una frase sí.
 
 Eris esperó.
 
-—Su padre vio Itsu arder dos veces. La segunda no la recordaba — estaba escrito por uno de los consejeros a otro, después de una reunión con él— porque para entonces ya no estaba.
+—Su padre vio Itsu arder dos veces. La segunda no la recordaba — estaba escrito por uno de los consejeros a otro, después de una reunión con él — porque para entonces ya no estaba.
 
 Eris se tomó un segundo.
 
-—¿Ya no estaba.
+—¿Ya no estaba?
 
 —La frase no es mía. Y es ambigua. Puede significar que ya había muerto. Puede significar que ya no estaba ahí. Puede significar que ya no estaba en sí.
 
-—¿Cuál cree usted.
+—¿Cuál cree usted?
 
 Daerin la miró con los dos anillos un instante al sol.
 
@@ -192,13 +192,13 @@ Daerin la miró con los dos anillos un instante al sol.
 
 Eris no contestó enseguida.
 
-—¿Por qué me lo cuenta, señor Numari.
+—¿Por qué me lo cuenta, señor Numari?
 
-—Porque llevo ocho siglos limpiando archivo, Kalari. Y porque reconozco un parecido cuando lo veo.
+—Porque llevo demasiado tiempo limpiando archivo, Kalari. Y porque reconozco un parecido cuando lo veo.
 
 Eris se quedó muy quieta.
 
-—¿Parecido.
+—¿Parecido?
 
 —Con usted. Hoy. En la sala.
 
@@ -210,13 +210,13 @@ Se fue.
 
 ---
 
-Eris salió de Kiral Ree por la galería de los cedros al cabo de media hora. La galería era un pasillo exterior abierto, con columnas blancas a los dos lados, cedros viejos creciendo en macetones grandes que alguien en algún siglo había pensado sensato. La luz del mediodía caía oblicua entre las columnas.
+Eris salió de Kiral Ree por la galería de los cedros al cabo de media hora. La galería era un pasillo exterior abierto, con columnas blancas a los dos lados, cedros viejos creciendo en macetones grandes que alguien, alguna vez, había pensado sensato. La luz del mediodía caía oblicua entre las columnas.
 
 En algún punto de la galería, Eris oyó el *tum*.
 
 Bajo los cedros.
 
-No era sorpresa ya. Lo había oído en el patio, lo había oído en la Sala, lo había oído — por dentro — cuando Faree le había preguntado cómo había dormido. Estaba ahí siempre. Lo que era nuevo no era el sonido. Era la **nitidez**.
+No era sorpresa ya. Lo había oído en el patio, lo había oído en la Sala, lo había oído — por dentro — cuando Faree le había preguntado cómo había dormido. Estaba ahí siempre. Lo que era nuevo no era el sonido. Era la nitidez.
 
 Se detuvo junto al tercer macetón. Respiró despacio. El *tum* vino otra vez. Después otro. Los dos golpes, iguales, exactos. Eris cerró los ojos un segundo.
 
@@ -228,7 +228,7 @@ Pero la frecuencia era la misma.
 
 ---
 
-Cruzó a Lorin por el puente mayor al paso. La ciudad estaba plena a esa hora — comercios abiertos, carros, niños naggar de ochenta años jugando a cosas que los humanos llamarían juegos. Nadie le habló. Los capas grises no corrían por Elis; aquí las capas grises eran piedra.
+Cruzó a Lorin por el puente mayor al paso. La ciudad estaba plena a esa hora — comercios abiertos, carros, niños Naggar jugando a cosas que los humanos llamarían juegos. Nadie le habló. Los de las capas grises no corrían por Elis; aquí las capas grises eran piedra.
 
 En Lorin, Haris estaba en el patio del armero engrasando una lanza nueva. Lo hacía despacio, con un trapo gastado. Levantó la vista cuando Eris entró. Eris le hizo un signo mínimo con la cabeza. Haris dejó la lanza.
 
@@ -250,4 +250,4 @@ Eris pasó a su lado. Sin palabras, sin Nexalita, con un gesto mínimo del ment�
 
 Haris asintió. También sin Nexalita.
 
-Mañana empezaban.
+Al alba salía.

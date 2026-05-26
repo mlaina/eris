@@ -308,7 +308,7 @@ Eris la leyó dos veces.
 
 Pasó a la siguiente. Otra carta, anterior, dirigida a Durek. Misma letra. La firma: **N**.
 
-El cuaderno era una lista. Nombres de hombres, al lado de cada nombre el nombre de una mujer y los nombres de los hijos. Con edades. Con la aldea o el pueblo de procedencia. Algunos del valle, algunos de Iretha misma, algunos de aldeas más al norte, ya en Nurn. Una columna a la derecha decía "asignación" — los hombres estaban asignados a rutas, a depósitos, a guardias. Otra columna, separada, en otra letra más fina: "segunda mano". Mujeres y adolescentes, con lanza, con turno de defensa del cortijo. Edades al lado: catorce, quince, dieciséis, cuarenta y dos, treinta y nueve, sesenta y ocho. La defensa era trabajo asignado también.
+El cuaderno era una lista. Nombres de hombres, al lado de cada nombre el nombre de una mujer y los nombres de los hijos. Con edades. Con la aldea o el pueblo de procedencia. Algunos del valle, algunos de Iretha misma, algunos de aldeas más al norte, ya en Nurn. Una columna a la derecha decía "asignación" — los hombres estaban asignados a rutas, a depósitos, a guardias. Otra columna, separada, en otra letra más fina: "segunda mano". Mujeres y adolescentes, con lanza, con turno de defensa del cortijo. Edades al lado: catorce, quince, dieciséis, cuarenta y dos, treinta y nueve, sesenta y ocho. En tres márgenes aparecía la misma marca pequeña, una puerta pintada en rojo junto a nombres de depósito. La defensa era trabajo asignado también.
 
 No era una banda con cuatro rehenes y diez combatientes profesionales.
 

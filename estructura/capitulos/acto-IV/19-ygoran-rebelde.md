@@ -1,72 +1,12 @@
 # Capítulo 19 — Ygoran
 
-Entraron por la puerta del sur a última hora de la tarde.
+La puerta roja se cerró detrás de ellos.
 
-La puerta era poco más que un arco roto en el muro exterior, vigilado por dos hombres humanos en ropa civil con garrote. Los dos miraron a Eris y a Haris al pasar. Uno de los dos — un grandote de barba rala — se enderezó un dedo más. Reconoció las lanzas cortas. No las reconoció como Eldara — las reconoció como armas de oficio, no de aldea. Registró.
+No chirrió. No golpeó. Encajó en el marco con un sonido seco y corto, como una caja bien hecha. Dentro había un pasillo estrecho, dos puertas cerradas, una escalera al fondo y olor a especia cocida, humedad vieja y hierro.
 
-No dijo nada.
+Al pie de la escalera esperaba una mujer.
 
-Pasaron.
-
-Ygoran a ras de calle era otra ciudad que Ygoran desde la colina. Olía a sal, a pescado seco, a humo de fritura, a metal oxidado, a orina en los rincones. Había gente por todas partes. Valagost de piel azul con marcas y tatuajes rojos cruzaban las calles en ropa de trabajo — en Ygoran los Valagost gobernaban, y se notaba en la cantidad. Humanos por todas partes también. Algún Naggar menor haciendo contrabando por el mercado bajo. Algún Anvur grande cargando sacos en los muelles al fondo. Una cuadrilla de Ssilvaris pasó por la calle lateral — las Serasin. Escamas rojizas, armaduras ligeras. Venían a ajustar acuerdos con algún capitán Valagost. La piratería seguía pagando mejor que la pesca. Al fondo del muelle, un Yll viejo y delgado caminaba sin báculo. Piel gris oscuro, ojos vendados. Nadie le abría paso pero todos se apartaban. Llevaba el cuello desnudo — ninguna marca, ningún Harel —. Lo cruzó una vez y no volvió a verlo. Los niños corrían sin supervisión. Una mujer vieja vendía un pescado fresco en una caja de madera al lado de una mula muerta que nadie había retirado todavía.
-
-Al fondo, a la izquierda, se alzaban los Igies. Los troncos rojizos enormes subiendo desde el fondo del mar, el más cercano hueco — **Apnio**, la ciudad dentro del árbol, donde Eris sabía por informes que se resolvían los acuerdos que Ygoran no quería que se resolvieran a la vista.
-
-Eris dirigió los caballos a paso lento por la calle del mercado bajo.
-
-Haris a su lado, un cuerpo detrás.
-
-Siguieron.
-
----
-
-A los cinco minutos, un chico humano de unos quince años apareció junto al caballo de Eris.
-
-Era flaco, de pelo oscuro, ojos negros. Llevaba un brazalete tricolor — rojo, amarillo, verde — en la muñeca izquierda. Era el brazalete de los operadores menores de Ygoran, el que Eris había aprendido a leer en los informes de inteligencia. No era un niño. Era un agente joven en cuerpo de niño.
-
-Caminó a la altura del estribo de Eris dos pasos. Después levantó la vista.
-
-—¿Comen caliente hoy.
-
-—Nos gustaría.
-
-—Sigan a pie. Atan los caballos en el segundo establo. Es gratis. Después caminan tres calles al norte y tres al este. Puerta roja. No toquen. Empujen.
-
-—¿Quién lo manda.
-
-—Alguien que lee bien.
-
-El chico se soltó del estribo. Desapareció entre dos puestos del mercado como si nunca hubiera estado ahí.
-
-Eris miró a Haris.
-
-—*Están avisados.*
-
-—*Lyris.*
-
-—*O gente de ella.*
-
-—*O ambas.*
-
-—*Vamos.*
-
----
-
-El establo estaba donde el chico había dicho. Un Anvur pequeño de cara marcada recogió los caballos sin preguntar. No pidió pago. Marcó algo en una pizarra vieja con un carboncillo.
-
-Caminaron tres calles al norte y tres al este.
-
-La puerta roja estaba en una casa de dos pisos, segunda de la izquierda, con un techo que una tormenta vieja había partido. Eris empujó.
-
-La puerta no chirrió.
-
-Entraron.
-
----
-
-Pasillo estrecho, oscuro. Dos puertas. Al fondo, una escalera. Al pie de la escalera, una mujer.
-
-Era Valagost. Piel azul cenicienta, las marcas rojas características de Ygoran recorriéndole el cuello y el antebrazo izquierdo — dos espirales y una línea quebrada. Edad indeterminable con precisión; los Valagost envejecían distinto que los Naggar. Podría tener ochenta años humanos, podría tener doscientos. Pelo oscuro recogido al cuello con un cordón. Túnica de tela gruesa azul marino, botas altas. La cara delgada, huesuda. Los ojos oscuros, con el brillo húmedo característico de los Valagost de superficie. Sin joyas. Dos dagas cruzadas en el cinturón — no ocultas — y una espada corta en la espalda.
+Valagost. Piel azul cenicienta. Marcas rojas de Ygoran en el cuello y en el antebrazo izquierdo: dos espirales y una línea quebrada. Pelo oscuro recogido con un cordón. Túnica de tela gruesa azul marino, botas altas, dos dagas cruzadas en el cinturón y una espada corta a la espalda.
 
 Reconoció a Eris.
 
@@ -76,322 +16,495 @@ No lo hizo con sorpresa.
 
 —Ya no.
 
-—Bien. Eris.
+La mujer miró la Nexalita en la nuca de Eris. Después la de Haris.
 
-—Nyree.
+—Eso dice tu boca.
 
-—Suban.
+Eris no contestó.
 
-Subieron. Nyree los llevó al segundo piso, a una sala rectangular con una mesa grande de madera gastada, tres sillas, una ventana abierta a un patio interior por donde subía olor a especia cocida. No había decoración. Había un mapa de Ygoran clavado en una de las paredes con cuatro clavos.
+—Nyree —dijo la mujer.
 
-—Siéntense.
+—Eris.
 
-Se sentaron.
+—Ese es Haris.
 
-Nyree se sentó enfrente.
+—Sí.
 
-No les ofreció ni agua.
+—Subid.
+
+No les dio la espalda hasta que pasaron el primer escalón. Después sí. Subió delante, despacio, como quien no teme dos lanzas detrás porque el edificio entero ya ha decidido qué hacer si las lanzas se mueven.
+
+Eris lo registró.
+
+Dos cuerpos detrás de la primera puerta. Uno arriba, al final de la escalera. Un agujero pequeño en la pared izquierda, a media altura: ojo de vigilancia. La casa era vieja. La red, no.
+
+Subieron.
 
 ---
 
-—He tenido aviso suyo hace seis días. Lo he tenido de tres canales distintos. Antes de que preguntes, no sé cuáles. Mis canales no se cruzan entre ellos — por eso me llegan tres veces las cosas importantes. Lo único que sé es que uno de ellos tiene la firma de Lyris y los otros dos no.
+La sala del segundo piso era rectangular. Mesa grande de madera gastada, cuatro sillas, una ventana abierta a un patio interior. En la pared había un mapa de Ygoran clavado con cuatro cuchillos cortos, no con clavos. Sobre el mapa, marcas en carbón. Dos círculos cerca de los muelles. Tres cruces en el barrio bajo. Una línea roja, fina, desde la casa hasta Apnio.
 
-Eris asintió.
+Nyree señaló dos sillas.
 
-—¿Te fías.
+—Sentad.
 
-—No sé. Pero sé quién viene. Eso es más de lo que suelo saber.
+Eris se sentó. Haris también.
 
-Nyree se tomó un segundo.
+Nyree no se sentó enseguida. Primero les quitó las medidas. La lanza corta de Haris. La mano izquierda de Eris cerca del cinturón. El peso del zurrón. La falta de capa de Eris, cortada en la huida. La Nexalita al mínimo.
 
-—Hay dos problemas. Primero: la mitad de los míos quiere colgarte. Tú llevas siglo y medio matando a gente parecida a la mía. La comandante Eldara no es precisamente nombre querido en esta ciudad.
+Después se sentó enfrente.
 
-—Ya.
+No ofreció agua.
 
-—Segundo: la otra mitad quiere saber por qué no lo hiciste antes. Por qué te has marchado ahora y no hace sesenta años. Qué ves ahora que no veías. Qué sabes que no sabíamos.
-
-—Ya.
-
-—Tienes que decidir con cuál de las dos mitades hablas primero.
-
-Eris no contestó enseguida.
-
-—Con ninguna de las dos, por ahora.
-
-Nyree levantó una ceja.
+—He tenido aviso de que veníais —dijo—. Tres canales. Uno con firma de Lyris. Dos sin firma. Cuando tres canales que no se conocen dicen lo mismo, escucho.
 
 —Bien.
 
-—Vine porque me han dicho que aquí hay gente que se pregunta cosas que yo también me pregunto. No vine con respuestas. No vengo a decirles qué se hace. Vengo a mirar unas semanas. Si encuentro un sitio, me quedo. Si no encuentro, me voy.
+—No he dicho que me fíe.
 
-—Eris.
+—No lo esperaba.
 
-—¿Sí.
+Nyree apoyó los antebrazos sobre la mesa.
 
-—Soy operativa. No me gusta la gente que viene a mirar.
+—Hay dos problemas. Primero: la mitad de los míos quiere colgarte de la viga del mercado. No por metáfora. Viga real. Cuerda real.
 
-—Ya.
+Haris movió la mandíbula medio grado.
 
-—Pero tampoco me fío de la gente que viene con un plan hecho. Esos son los que trabajan para otros.
+Nyree lo vio.
 
-Eris asintió muy poco.
-
-—Entonces aprovechemos que no te fías de ninguno de los dos perfiles.
-
-Nyree casi sonrió. Un centímetro.
+—Tú también, Eldar.
 
 —Ya.
 
----
+—Segundo: la otra mitad quiere saber por qué ahora. Por qué la Kalari de Coria descubre tarde que Coria tiene dientes. Por qué no le parecieron dientes cuando masticaban a otros.
 
-Nyree les asignó dos camas en una habitación del tercer piso — un cuarto pequeño con dos colchones en el suelo, una ventana cerrada, una palangana y una jarra de agua. Les dio una bolsa con dos trozos de pan moreno y un pedazo de queso fuerte. Les dijo que no salieran esa noche.
+La frase cayó limpia.
 
-—Mañana Berys te lleva a ver la cocina, la lavandería, el cuarto de armas y el sótano. Por ese orden. Después te presento a tres personas que son importantes. Después decidimos.
+Eris no apartó la vista.
 
-—Bien.
+—No he venido a pedir perdón.
 
-—Eris.
+—Eso me ahorra tiempo.
 
-—¿Sí.
+—He venido porque Faree miente.
 
-—El que viene a verme en Ygoran se arremanga. No viene a hablar de estrategia. Se arremanga.
+Nyree soltó una risa seca. Una sola.
 
-—Me arremangaré.
+—Eso no nos sirve. Aquí lo sabe hasta el niño que roba sardinas.
 
-—Bien.
+—Miente sobre algo bajo el palacio.
 
-Nyree salió. Cerró la puerta.
+Nyree dejó de reír.
 
-Eris y Haris se sentaron en los colchones. Comieron el pan y el queso sin apetito especial. Haris bebió agua de la jarra con las dos manos.
+No preguntó enseguida.
 
-—Kalari.
+Ahí Eris entendió que Nyree no había llegado a donde estaba por oír todas las frases. Había llegado por saber qué frases dejar respirar.
 
-—Ya no.
+—¿Qué hay bajo el palacio? —preguntó al fin.
 
-—Eris.
+Eris no contestó.
 
-—¿Sí.
+Nyree asintió muy poco.
 
-—Aquí no pasa nada bien.
+—Bien. No has venido a contarlo todo. Entonces empezamos por lo que sí vas a contar.
+
+Sacó una hoja doblada de debajo del mapa. La puso sobre la mesa.
+
+Era una copia de una carta.
+
+Eris reconoció la letra.
+
+Nyree.
+
+Iretha.
+
+El cortijo.
+
+El invierno.
+
+Las familias.
+
+—¿Dónde está mi cuaderno? —preguntó Nyree.
+
+Eris sintió que Haris se quedaba quieto a su lado.
+
+—Conmigo.
+
+—No con Aluren.
 
 —No.
 
-—Pero al menos pasa.
+—No con Faree.
 
-Eris casi sonrió.
+—No.
 
-—Ya.
+—¿Por qué?
 
----
+—Porque si lo entregaba, habría otra operación. Otro cortijo. Otros niños con lanza.
 
-Al día siguiente a las siete de la mañana, Berys los recogió.
+Nyree la miró durante varios segundos.
 
-Berys era humana, cuarenta años, baja, fuerte, con las manos llenas de cicatrices pequeñas de cocina. Llevaba mandil. No se presentó — le habían dicho que se presentara poco —. Les señaló la cocina con la barbilla.
+—Así que entendiste algo.
 
-La cocina era un caos productivo. Dieciocho personas preparando a la vez desayuno para los ochenta operativos de la red, comida para los contactos de fuera, vendaje para dos heridos de la noche anterior y una sopa para un anciano del barrio que no podía cocinarse solo. El fuego no se apagaba nunca. La leña la cargaba un chico de doce años que llevaba las uñas negras.
+—Tarde.
 
-Eris miró todo sin comentar. Haris también.
+—Sí.
 
-Berys los puso a pelar zanahorias dos horas.
+Nyree recogió la copia y la dobló otra vez.
 
-Nadie les preguntó por qué pelaban zanahorias.
+—Durek era mío.
 
----
+Haris bajó los ojos a la mesa.
 
-El resto del día fue igual. La lavandería era un sótano húmedo con tres tinajas grandes; lavaron ropa manchada de sangre con dos mujeres que no les dirigieron la palabra. El cuarto de armas era un desván lleno de hachas, garrotes, tres espadas cortas mal afiladas, dos ballestas baratas, una lanza vieja. Haris levantó la lanza y la miró. La dejó sin comentar. El sótano era un cuarto de contabilidad — mesa larga, papeles, un abaco —. Aquí trabajaban cuatro personas, todas humanas, todas con los dedos manchados de tinta.
+Eris no los bajó.
 
-Al caer la tarde, Berys los llevó a una sala pequeña del segundo piso. Allí esperaban tres personas.
+—Lo supuse.
 
-Una era un hombre alto, humano, con cicatriz larga en la mandíbula, que Eris entendió al mirarlo: el jefe de operaciones de campo. Segundo era una mujer Naggar, vieja — trescientos, cuatrocientos años — de pelo gris largo, sentada con las manos sobre las rodillas, la cabeza ladeada. Miraba sin hostilidad. Eris supo al segundo que aquella era la inteligencia de la red. La tercera era un chico de veinte años, muy joven, medio Anvur medio humano — los rasgos cruzados sin gracia —, que tomaba notas en un cuaderno con letra pequeñísima.
+—Era un mal jefe, un hombre violento y un imbécil con las contraseñas. También era mío. El cortijo era depósito, posta y refugio de invierno. Había familias porque yo no separo familias cuando Coria empieza a cerrar caminos. Si separas familias, mueren. Si las dejas juntas, pelean. Algunas veces pierden. Vosotros lo llamáis núcleo armado.
 
-Nyree entró.
+—El informe decía banda.
 
-—Mari, Illen, Tors. La ex-Kalari Eris. El ex-Eldar Haris.
+—Claro.
 
-Los tres asintieron. Ni Mari ni Illen ni Tors la saludaron con la mano. La miraron.
+Nyree inclinó la cabeza.
 
-Eris se sentó.
+—Los informes Numari siempre dicen banda. Banda, pirata, agitador, célula, contrabandista. Nunca dicen familia. Nunca dicen pan. Nunca dicen invierno.
 
----
+Eris recordó el cuaderno. La columna de nombres. Mujeres. Hijos. Edades. Segunda mano.
 
-Las tres horas siguientes fueron preguntas.
+—Yo leí los nombres.
 
-Mari preguntaba de cuestiones tácticas. Desde cuándo estaban las rondas de guardia del ala oeste de Kiral Ree en ese patrón, cuántos Eldara había en Lorin de reserva, cuáles eran las rutas internas del palacio que no figuraban en mapas oficiales, qué protocolos de seguridad había alrededor del rey durante viajes. Eris contestaba lo que contestaba. Lo sabía. Lo decía sin ornamentar y sin ocultar.
+—Después.
 
-Illen preguntaba de inteligencia. Qué sabía Eris de los Silmaritas activos en Coria, qué información había sobre el culto de la Sangre y sus ramas, quién era Theim realmente, por qué Faree había incorporado a Elerian al palacio tras Nurn.
+—Sí.
 
-Eris contestó todo menos la cámara subterránea. No mencionó el lago. No mencionó la forma. No mencionó el rejuvenecimiento. Mari lo notó. No preguntó.
+—Después de matar.
 
-Tors no hablaba. Escribía.
+—Sí.
 
-Al cabo de tres horas, Nyree se levantó.
+Haris se movió.
 
-—Basta por hoy. Mañana seguimos.
+—Ravys murió allí.
 
-Mari asintió. Illen asintió. Tors asintió sin levantar la vista.
+Nyree lo miró por primera vez como si Haris fuera algo más que una sombra de Eris.
 
-Eris y Haris subieron al cuarto del tercer piso.
+—Lo sé.
 
----
+—Era nuestro.
 
-Los días siguientes se acumularon.
+—También lo sé.
 
-Quince días. Luego veinte. Luego veintitrés.
+—No fue limpio para nadie.
 
-Eris pelaba zanahorias por la mañana, ayudaba en la lavandería dos tardes a la semana, participaba en reuniones de operación cuando Nyree la invitaba. No estaba al mando. No hacía falta: Mari lo era y no necesitaba ayuda. Eris contaba lo que sabía cuando se lo preguntaban. Oía lo que se contaba cuando se lo dejaban oír. Caminaba por los muelles al atardecer dos veces por semana. Había aprendido a esquivar los dos Orios del norte de la ciudad, que eran los que cualquier agente Naggar pasaría sin mirar.
+—No he dicho que lo fuera.
 
-Haris se había hecho útil en el cuarto de armas. Había afilado las tres espadas cortas hasta dejarlas buenas. Le habían dado una lanza nueva. Le enseñaba a los operativos jóvenes a bloquear tajos con la muñeca y no con el brazo. Era querido en la red — no porque hiciera esfuerzo para gustar, sino porque no lo hacía y eso en Ygoran se leía como honestidad.
+Nyree volvió a Eris.
 
-Eris no era querida. Era aceptada.
+—Pero tus muertos entran en piedra. Los míos entran en parte como combatientes neutralizados.
 
-Era diferente. Era suficiente.
+Eris no contestó.
 
----
-
-El día veintitrés Nyree subió al tercer piso a buscar a Eris.
-
-La encontró en el cuarto.
-
-—Eris.
-
-Eris leía por primera vez un libro viejo que Illen le había prestado — un libro de historia no oficial de Coria escrito por un Naggar disidente hacía ochenta años. Lo dejó.
-
-—Nyree.
-
-—Baja un momento. Quiero enseñarte algo.
-
-Bajaron al patio interior. En el banco del rincón estaban sentadas cuatro operativas humanas jóvenes, las mismas que Haris había empezado a entrenar dos semanas antes. Tres bloqueaban con la muñeca sin romperse el brazo. La cuarta lo hacía con media pulgada de margen todavía, pero lo haría pronto.
-
-Nyree miró a Eris con la cara fija.
-
-—Son nuevas. No saben quién eres. Si te ven enseñarles tú, aprenden más rápido. Haris no lo dice, pero está cansado. Mañana coges tú dos horas.
-
-Eris miró a las cuatro.
-
-—Bien.
-
-—No se me olvida quién has sido, Eris. Sólo es que aquí el pasado vale lo que sirve hoy.
-
-—Lo entiendo.
-
-—Ya.
-
-Subió Nyree al segundo piso. Eris se quedó un rato mirando a las cuatro, que repetían el gesto de bloqueo en una secuencia lenta. Dos de ellas sonreían entre golpe y golpe. Era raro — en Lorin nadie sonreía entrenando.
-
-Volvió al cuarto.
-
-Haris no estaba. Había subido al cuarto de armas.
-
-Eris se sentó en el colchón con el libro otra vez en las manos. No leyó. Miró la página sin leer. Se quedó así un rato largo.
-
-Al cabo cerró el libro. Se acostó. No durmió.
+No había respuesta que no fuera obscena.
 
 ---
 
-Subió al tejado cuando cayó la noche.
+Nyree se levantó y fue hasta la ventana.
 
-El tejado de la casa de la puerta roja era plano, pavimentado con piedra vieja, rodeado de un murete bajo. Desde allí se veía media Ygoran — los muelles al este, los Igies al oeste, las calles de casas bajas al sur. El cielo estaba despejado. La luna, en cuarto creciente.
+El patio interior de abajo tenía tres cuerdas de ropa, dos ollas grandes sobre un fuego bajo y una mujer humana limpiando una herida en el brazo de un chico. El chico no gritaba. Miraba la pared.
 
-Eris se sentó contra el murete. Sacó del bolsillo interior la pluma de Lirae. La miró. La dejó entre las rodillas.
+—Yo nací junto al agua —dijo Nyree—. No en una casa bonita de capitán. En una casa de tablones sobre el barro, al borde de los Igies bajos. Mi padre guiaba barcazas por las raíces cuando la marea cubría las marcas. Mi madre llevaba cuentas en un depósito de pescado seco. Éramos pobres de la manera normal. Eso no mata siempre.
 
-De Elis no había llegado nada en veintitrés días. Ni carta, ni parte, ni rumor suelto. Lirae estaría en Norel — o en el cuartel o en la biblioteca o donde Lirae iba cuando no estaba midiendo —, y el silencio podía significar que estaba bien o que estaba cuidándose de no levantar olas. Eris no sabía cuál de las dos. Se había prohibido pensarlo con más detalle del necesario. No servía de nada.
+Eris escuchó.
 
-Cerró los ojos un segundo.
+Haris también.
 
-Oyó el *tum*.
+—Después llegaron los Numari con un acuerdo de protección. No Faree con corona, no. Los Numari de la bahía. Turtei, sus prefectos, sus sellos, sus hijos menores, sus primos con manos limpias. Compraron el Orio por fuera, compraron a dos capitanes Valagost por dentro y dijeron que venían a ordenar el comercio. Ordenar. Es una palabra preciosa. Sirve para todo.
 
-Muy bajo. Muy lejos. Desde el sur. Desde Elis. A cien leguas de Ygoran, el sonido seguía llegándole. Dos golpes espaciados.
+Nyree volvió a la mesa.
 
-Eris abrió los ojos.
+—Primero ordenaron los muelles. Después los pesos. Después las salidas de pesca. Después el grano que entraba por la Liga Kovax. Después dijeron que las familias sin licencia no podían guardar más de tres días de comida porque el acopio alimentaba la piratería.
 
-*Entonces está aquí debajo también*, pensó. No del todo. Pero latente. Algo más amplio que el lago del palacio.
+Eris sintió una presión en el esternón.
 
-O era el palacio de verdad, y la distancia no importaba.
+Faree en la cena: *los pequeños acuerdos*. Las lámparas. Los hijos.
 
-Cualquiera de las dos cosas era grave.
+Nyree siguió.
 
----
+—Un invierno cerraron el depósito donde trabajaba mi madre. No por castigo. Por auditoría. Una palabra limpia también. Dentro había comida para medio barrio. Fuera había niños con fiebre. Mi padre abrió una puerta a golpes con otros seis. Sacaron sacos. Los pillaron al amanecer.
 
-Al rato subió al tejado Illen, la Naggar vieja.
+No subió la voz.
 
-Traía dos copas de vino. Le dio una a Eris sin pedir permiso. Se sentó al otro lado del murete, a dos metros.
+Eso era peor.
 
-—Eris.
-
-—Illen.
-
-Bebieron un rato en silencio.
-
-—¿Cómo llevas la espera — dijo Illen al cabo.
-
-—La espera la llevo bien. Lo que no llevo bien es no saber qué están esperando ellos para hacer lo que van a hacer.
-
-—Tardan porque no se fían. No de la Kalari que huyó, sino de la Kalari que no huye por azar. El rey está calculando si te utilizas desde dentro. Esa clase de cálculo requiere tiempo.
-
-—Ya.
-
-—Mientras tanto, aprende los muelles. Es lo único útil en una ciudad que no es la tuya. Yo llevo cincuenta años aquí y sigo aprendiendo a tocarlos.
-
-Eris asintió muy poco.
-
-—Illen.
-
-—¿Sí.
-
-—¿Tú crees que ya nos han dado por perdidos en Elis.
-
-—No. Te han dado por obstinada. Es distinto.
-
-—¿Y a Haris.
-
-—A Haris también. Al rey no se le escapa un Eldar joven. Aunque no sea éste el que preocupa hoy.
+—A mi padre lo colgaron por pirata. A mi madre la metieron tres meses en un almacén de deuda. Salió sin voz. Mi hermano pequeño murió antes de que ella saliera. No en una batalla. No en una plaza. Murió con la lengua seca porque una puerta con sello Numari estaba cerrada y el hombre con la llave estaba esperando a que terminara el inventario.
 
 Silencio.
 
-—¿Qué crees que hace Lirae a esta hora — dijo Eris muy bajo.
+El fuego del patio crujió abajo.
 
-Illen la miró con un respeto antiguo. Se tomó un segundo.
+—Por eso odio a los Numari —dijo Nyree—. No porque maten. Todo el poder mata. Los odio porque primero te explican por qué es razonable que mueras.
 
-—Mide. Es lo que hace Lirae. Mientras mida, sigue viva. Como las de nuestra edad — la Primer Mirisar y yo somos casi de la misma, aunque las Mirisar envejezcan distinto —, una sigue viva mientras tenga el oficio en las manos. Puedes contar con eso.
+Eris no respiró durante un segundo.
 
-—Ya.
+La frase le entró entera.
 
-Eris asintió.
+No como acusación.
 
-Illen se levantó. Dejó la copa vacía en el murete.
+Como mecanismo.
 
-Bajó al segundo piso. La puerta del techo se cerró suave.
+Faree explicando Coria. Faree explicando lámparas. Faree explicando hijos. Faree explicando custodia. Aluren explicando núcleo limpio. Muoro explicando que quien firma mata y la lanza no.
+
+Toda su vida había sido una sucesión de explicaciones razonables con cuerpos al final.
+
+Eris bajó la mirada a sus manos.
+
+Tatuajes grises. Manos Eldara. Manos de Coria.
+
+Había estado toda su vida en el bando equivocado.
+
+No como frase de rabia. No como castigo. Como una cuenta que por fin daba el resultado.
+
+El cuerpo no supo dónde ponerlo.
+
+La sala se alejó un grado. La mesa pareció más larga. La voz del patio bajó como si viniera de otra habitación. Haris dijo algo, quizá su nombre. Eris lo oyó sin entender.
+
+Nyree no se acercó.
+
+No la consoló.
+
+Le dejó el golpe donde estaba.
 
 ---
 
-Eris se quedó sola.
+Eris volvió por partes.
 
-Miró el puerto. Los muelles, abajo, estaban vacíos a esa hora. Sólo un pesquero pequeño amarrado al último embarcadero se balanceaba en una marea baja. Una gaviota gritó una sola vez en el silencio y se fue. El sonido se perdió contra la sal.
+Primero la madera de la mesa bajo los dedos.
 
-Bebió el vino despacio.
+Después el olor a especia.
 
-—*Lirae* — dijo muy bajo. No a Lirae; a nadie. A la noche.
+Después Haris, a su lado, demasiado quieto.
 
-No hubo respuesta. Nunca había.
+Después Nyree enfrente.
 
-Pero el *tum tum*, al fondo, desde Elis, volvió a sonar.
+—Sigue —dijo Eris.
 
-Dos veces.
+La voz le salió normal.
 
-Y ya no le pareció, a Eris, un sonido ajeno.
+Eso también la sorprendió.
 
-Le pareció — por primera vez en un siglo — un sonido suyo.
+Nyree la observó.
 
-Bajó del tejado cuando la luna ya estaba alta.
+—¿Quieres más?
 
-En el cuarto, Haris dormía con la cara vuelta hacia la puerta. Eris se acostó en su colchón sin hacer ruido. No durmió, pero descansó.
+—Sí.
 
-Al día siguiente le dijo a Nyree que se quedaba.
+—Bien.
 
-Nyree no sonrió.
+Nyree se sentó otra vez.
 
-—Ya lo sabía.
+—La primera puerta roja fue la de ese depósito. No la pinté el día de mi padre. La pinté después, cuando volví con diecisiete personas y nos llevamos todo lo que quedaba dentro. Polvo de hierro, vinagre, aceite. Rojo apagado. No bonito. Visible para quien sabe mirar. Desde entonces, una puerta roja significa que allí alguien guarda comida, papeles, rutas o gente para cuando venga un hombre razonable con un sello.
+
+Eris pensó en Iretha.
+
+En los márgenes del cuaderno.
+
+—Durek guardaba una.
+
+—Durek guardaba tres. Perdimos una cuando entrasteis. Salvamos dos porque tú escondiste el cuaderno.
+
+—No lo hice por ti.
+
+—Lo sé.
+
+—Lo hice porque no podía entrar en otra Iretha.
+
+—Eso también lo sé.
+
+Nyree apoyó la espalda en la silla.
+
+—No soy limpia, Eris. No hagas esa estupidez conmigo. He mandado quemar almacenes. He pagado a contrabandistas de Haiz. He dejado que Durek siguiera mandando después de saber que pegaba a los suyos porque no tenía a nadie mejor en ese tramo. Si te quedas aquí buscando una bandera que no manche, te vas mañana.
+
+—No busco eso.
+
+—¿Qué buscas?
+
+Eris tardó.
+
+—Un sitio desde el que no servir al rey.
+
+—Eso es poco.
+
+—Es lo que tengo hoy.
+
+Nyree asintió.
+
+—Hoy puede servir.
+
+Haris soltó aire muy bajo.
+
+Nyree lo oyó.
+
+—¿Y tú?
+
+Haris levantó la vista.
+
+—Yo voy con ella.
+
+—Mala respuesta.
+
+—Es la mía.
+
+—Tu vida no es equipaje de Eris.
+
+Haris no se enfadó. Eso, en él, ya era una respuesta.
+
+—Lo sé.
+
+—Entonces dime otra.
+
+Haris miró a Eris un instante. Después a Nyree.
+
+—He servido al Cuerpo desde que era niño. He matado cuando me dijeron que matara. En Iretha vi a una niña sentarse junto al cuerpo de su hermano y entendí tarde que no estaba mirando a enemigos. En Elis el rey quiso encerrar a Eris por mirar demasiado. Si vuelvo, vuelvo a eso. No vuelvo.
+
+Nyree sostuvo su mirada.
+
+—Mejor.
+
+---
+
+La conversación siguió hasta que la luz se fue de la ventana.
+
+Nyree preguntó por Lorin. Por los turnos. Por los Eldara que seguirían una orden de captura sin hacer preguntas. Por Muoro. Por Lyris. Por Theim. Por el ala sur. Por la cena. Por Elerian. Por Iretha otra vez.
+
+Eris contestó.
+
+No todo.
+
+No nombró el tritón. No todavía. No delante de Haris tampoco de esa manera, en esa sala, con ojos en las paredes y la ciudad entera oliendo a red. Dijo que Faree ocultaba algo bajo Kiral Ree. Dijo que Lirae lo estaba midiendo. Dijo que si Lirae bajaba, podía morir.
+
+Nyree escuchó sin interrumpir.
+
+—Eso es lo que no has venido a contar —dijo al final.
+
+—Sí.
+
+—Pero lo has traído contigo.
+
+—Sí.
+
+—Bien. Aquí cada uno trae su monstruo. Mientras no lo suelte en la cocina, veremos.
+
+Eris no habría sabido decir si era humor.
+
+Haris sí. Casi sonrió.
+
+Nyree golpeó la mesa con dos dedos.
+
+Se abrió la puerta.
+
+Entró una mujer humana baja, fuerte, con mandil y manos llenas de cicatrices pequeñas de cocina.
+
+—Berys —dijo Nyree—. Dos colchones arriba. Pan, queso, agua. Mañana a las siete: cocina, lavandería, cuarto de armas. Por ese orden.
+
+Berys miró a Eris. Después a Haris.
+
+No hizo preguntas.
+
+—Bien.
+
+Se fue.
+
+Nyree se levantó.
+
+—No sois de la red.
 
 —Ya.
 
-Fue el acuerdo.
+—No sois invitados.
+
+—Ya.
+
+—Sois problema útil mientras sigáis siendo más útil que problema. Si alguien de los míos intenta mataros esta noche y lo matáis, os echo. Si os dejáis matar, también me complicáis. Así que cerrad la puerta y dormid poco.
+
+—Bien.
+
+Nyree caminó hacia la puerta.
+
+Antes de salir, se detuvo.
+
+—Eris.
+
+—Sí.
+
+—No me debes tu shock. No me sirve. Mañana pela zanahorias.
+
+Eris asintió.
+
+—Mañana pelo zanahorias.
+
+Nyree salió.
+
+---
+
+El cuarto del tercer piso tenía dos colchones en el suelo, una ventana cerrada, una palangana, una jarra de agua y una bolsa con pan moreno y queso fuerte.
+
+Haris cerró la puerta.
+
+No puso el pestillo. Lo miró, lo tocó, decidió no ponerlo.
+
+—Si quieren entrar, entran —dijo.
+
+—Sí.
+
+Se sentaron en los colchones.
+
+Durante un rato no comieron.
+
+La casa se movía debajo: pasos en escalera, una discusión en voz baja, agua en una palangana, alguien riéndose en el patio, una tos larga en el cuarto de al lado. Vida sin mármol. Vida con grietas.
+
+Eris miró sus manos otra vez.
+
+Había pensado muchas veces que Coria era dura. Había pensado, desde Iretha, que Coria podía equivocarse. Había pensado, bajo el palacio, que Faree escondía una monstruosidad.
+
+No había pensado esto.
+
+Que la monstruosidad no estaba debajo del palacio.
+
+Que debajo del palacio sólo había una forma antigua alimentando algo que ya existía arriba.
+
+—Eris —dijo Haris.
+
+—Sí.
+
+—Respira.
+
+Eris se dio cuenta de que no lo estaba haciendo bien.
+
+Respiró.
+
+Una vez.
+
+Después otra.
+
+El *tum tum* sonó muy bajo, desde algún sitio al sur que ya no era sólo Elis.
+
+Haris lo oyó también. Se le vio en los ojos.
+
+No dijo nada.
+
+Eris se tumbó sobre el colchón sin quitarse las botas.
+
+No durmió.
+
+Pero cuando amaneció, seguía allí.
+
+Y cuando Berys abrió la puerta a las siete, Eris se levantó.
+
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] (recibe el golpe político central: no sólo Faree miente, ella ha servido al bando equivocado) · [[../../../canon/personajes/haris]] (explicita que no vuelve a Lorin por decisión propia, no sólo por seguir a Eris) · [[../../../canon/personajes/nyree]] (Valagost de Ygoran; pasado ligado a abusos Numari sobre comida, deuda, Orio y comercio; origen simbólico de las Puertas Rojas) · Berys (cocina de la puerta roja; integra a Eris desde trabajo práctico, no desde discurso)
+**Lugares**: [[../../../canon/lugares/ygoran|Ygoran (puerta roja matriz, casa de la red de Nyree, patio interior)]]
+**Sistemas/organizaciones**: Puertas Rojas (red física de refugios, depósitos y rutas de Nyree; la matriz de Ygoran nace del primer depósito recuperado por Nyree) · [[../../../canon/sistemas/nexalita]] (Eris y Haris siguen con la Nexalita puesta al mínimo)
+**Capítulos enlazados**: [[../acto-II/09-mision-135|cap 9 (Iretha, cuaderno de Nyree, familias y depósitos)]] · [[../acto-IV/18-viaje-ygoran|cap 18 (llegada a la puerta roja)]] · [[../acto-V/24-epilogo-nyree|cap 24 (Puertas Rojas tras la caída de Ygoran)]]

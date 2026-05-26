@@ -6,6 +6,12 @@ La lanza de Illia en la mano derecha. La daga corta en lumbar. El hombro izquier
 
 Pies casi sin tocar la piedra. Respiración rota. Atrás, ningún sonido — Theim no corría —. Pero Eris sabía.
 
+Pasó junto a una puerta abierta. Dentro, una mujer apagaba una lámpara con la mano desnuda para no dejar luz en la calle. Un niño lloraba sin voz, con la boca abierta contra el pecho de alguien. En el suelo había cebollas derramadas de una cesta rota.
+
+Eris no entró. No miró dos veces.
+
+Si Theim la seguía, cada puerta por la que pasara quedaba marcada.
+
 ---
 
 Theim habló sin moverse.
@@ -14,7 +20,7 @@ Theim habló sin moverse.
 
 Eris no contestó.
 
-—Illia. Haris...
+—Illia. Haris.
 
 Theim ladeó la cabeza un grado.
 
@@ -72,7 +78,11 @@ Eris no contestó.
 
 Pausa.
 
-—Te tengo que dar las gracias. Llevaba años buscando el escondrijo de Nyree Numari en Ygoran. Gracias a ti lo he encontrado al fin.
+—Te tengo que dar las gracias. Llevaba años buscando el escondrijo de Nyree en Ygoran. Gracias a ti lo he encontrado al fin.
+
+Eris no pensó en Nyree primero.
+
+Pensó en el cuenco tapado que alguien había subido para el hermano enfermo de la cuarta chica. En Berys llenándole el cuenco a Haris un poco más que a los demás. En Mari dormida de pie junto a una puerta que no debía guardar y guardaba igual.
 
 Eris apretó la lanza de Illia.
 
@@ -94,14 +104,15 @@ Theim habló sin levantar la voz.
 
 —Cállate.
 
-IEris lanzó un par de golpes rápidos con su lanza que Theim bloqueó con facilidad.
+Eris lanzó dos golpes rápidos con la lanza. Theim los apartó con facilidad.
 
-—Sabes... Hace dos días, la Primera Mirisar despareció misteriosamente...  La maga gravitatoria.
-
+—Lirae bajó al ala oeste.
 
 Eris paró.
 
-—La encontraron ayer. Muerta. Sola. En los jardines.
+Theim ladeó la cabeza, casi curioso.
+
+—No volvió.
 
 Eris bajó la lanza una pulgada.
 
@@ -174,13 +185,13 @@ Eris habló entre jadeos.
 
 Theim la miró un segundo largo.
 
-—¿Manipulado.
+—¿Manipulado?
 
 —Sí.
 
 —Eris.
 
-—¿Qué.
+—¿Qué?
 
 —Llevo seiscientos años con Faree. Serví a su padre antes. He hecho más trabajos sucios de los que recuerdo. No me ha manipulado nadie.
 
@@ -188,13 +199,13 @@ Eris no tenía aire para contestar.
 
 —Faree, Koan, Elkorn. Todos los reyes de este lado del mapa quieren lo mismo. Más.
 
-Eso es viejo, Eris. Más viejo que tu, más viejo que yo y más viejo que Faree.
+Eso es viejo, Eris. Más viejo que tú, más viejo que yo y más viejo que Faree.
 
 Silencio.
 
 ---
 
-Eris intentó hablar. Las palabras se le formaban en la boca y se le quedaban a medio camino — Lirae, agua, sola, jardines —, ninguna salió entera. La visión empezó a nublarse por los bordes. Cada latido le vaciaba un poco más por los dos muñones.
+Eris intentó hablar. Las palabras se le formaban en la boca y se le quedaban a medio camino — Lirae, agua, sola, no volvió —, ninguna salió entera. La visión empezó a nublarse por los bordes. Cada latido le vaciaba un poco más por los dos muñones.
 
 Theim la miró un segundo. Después se levantó despacio. Dio dos pasos hacia atrás. La hoz colgada de la mano derecha, la punta a un palmo del suelo. La sonrisa de loco seguía en la cara, ya sin destellos rojos — los ojos se le habían quedado quietos, oscuros, mirando —.
 
@@ -228,11 +239,11 @@ Eris cerró los ojos.
 
 Vio, sin querer.
 
-No fue una cara. No fueron palabras. Fue un calor pequeño en el centro del pecho, ahí donde el cuerpo Eldara llevaba cuatro siglos sin sentir nada.
+No fue una cara. No fueron palabras. Fue un calor pequeño en el centro del pecho, ahí donde el cuerpo Eldara había aprendido a no dejar nada suelto.
 
 Elerian. Lirae. Haris.
 
-Los tres juntos. Sin orden, sin separación. Tres respiraciones acompañándole la suya.
+Los tres juntos. Sin orden, sin separación. Tres respiraciones acompañando la suya.
 
 Por un segundo, Eris no estuvo sola.
 
@@ -248,7 +259,7 @@ El *tum tum* se había ido.
 
 Por primera vez en cien años.
 
-La hoz le separo la cabeza del resto del cuerpo...
+La hoz bajó.
 
 ---
 
@@ -286,7 +297,7 @@ Eris no estaba.
 
 ## Canon relacionado
 
-**Personajes**: [[../../../canon/personajes/eris]] (huye por las callejuelas del barrio bajo; Theim la intercepta y le suelta *"No la tenía por traidora. Por asesina, sí. Pero no de la suya. Illia. Haris..."*; corre al puerto; intenta escapar en un mercante que una catapulta destruye desde un tejado; combate breve y desigual con Theim; manos cortadas en dos golpes — las Manos de Coria literales en el suelo —; *"Ya no es una Mano de Coria"* dicho por Theim; última acusación al rey; *"Púdrete."*; decapitada en la noche cerrada; visión final no de caras sino de un calor pequeño en el pecho — Elerian, Lirae, Haris, los tres juntos, sin orden, *"Por un segundo, Eris no estuvo sola"* —; *tum tum* apagado por primera vez en cien años) · [[../../../canon/personajes/theim]] (la intercepta en el callejón con *"No la tenía por traidora. Por asesina, sí. Pero no de la suya."*; camina por el muelle desde el este con la sonrisa de loco; planeó el ataque al barco; *"Te tengo que dar las gracias. Llevaba años buscando el escondrijo de Nyree Numari en Ygoran. Gracias a ti lo he encontrado al fin."*; corta las manos en dos golpes; *"Mírate, Eris. Ya no es una Mano de Coria."*; se agacha a la altura de Eris por primera vez en cuatro siglos; diatriba breve sobre seiscientos años de servicio y la igualdad de todos los reyes; *"Estoy en ello."*; decapita; limpia la hoz en el muslo del pantalón de Eris; se va por un camino interior, se desvanece entre las sombras del extremo oeste) · [[../../../canon/personajes/lirae]] (referida: muerta sola en los jardines del palacio tras bajar al ala oeste; aparece en la visión final de Eris) · [[../../../canon/personajes/elerian]] (aparece en la visión final de Eris: el ojo blanco, la copa, lo que Eris no le dijo) · [[../../../canon/personajes/haris]] (aparece en la visión final de Eris: en el cuarto de armas de Ygoran, sin Nexalita, mirando la placa quitada) · [[../../../canon/personajes/nyree]] (referida: Theim llevaba años buscando su escondrijo en Ygoran y lo ha encontrado al fin gracias a Eris) · [[../../../canon/personajes/faree]] (referido: el rey al que Theim sirve desde hace seiscientos años y al padre antes) · Tripulantes humanos del mercante (cuatro, tres salen a flote, uno no)
-**Lugares**: [[../../../canon/lugares/ygoran|Ygoran (callejuelas del barrio bajo de noche; muelle de noche cerrada con farolas bajas; cuarto embarcadero con el mercante destruido; escondrijo de Nyree encontrado por Theim a través de Eris)]] · referencias a [[../../../canon/lugares/coria-elis|Elis (ala oeste, jardines, cámara del tritón con las espirales que también lleva Theim en el antebrazo izquierdo)]]
-**Sistemas**: [[../../../canon/sistemas/nexalita]] (sin uso ofensivo en este cap; Eris ya no está en condiciones de canalizar; el *tum tum* se apaga por primera vez en cien años en el momento exacto de la decapitación) · [[../../../canon/sistemas/triton]] (Theim conoce al tritón, lleva sus espirales tatuadas en el antebrazo izquierdo) · [[../../../canon/sistemas/mirisar]] (Lirae, Primer Mirisar gravitatoria, muerta tras bajar al ala oeste)
+**Personajes**: [[../../../canon/personajes/eris]] (huye por las callejuelas del barrio bajo; entiende que cada puerta civil que cruza queda marcada por Theim; corre al puerto; intenta escapar en un mercante que una catapulta destruye desde un tejado; combate breve y desigual con Theim; recibe la noticia seca de Lirae — bajó al ala oeste y no volvió —; manos cortadas en dos golpes; *"Ya no es una Mano de Coria"* dicho por Theim; última acusación al rey; *"Púdrete."*; decapitada en la noche cerrada; visión final no de caras sino de un calor pequeño en el pecho — Elerian, Lirae, Haris, los tres juntos, sin orden, *"Por un segundo, Eris no estuvo sola"* —; *tum tum* apagado para ella) · [[../../../canon/personajes/theim]] (la intercepta en el callejón con *"No la tenía por traidora. Por asesina, sí. Pero no de la suya."*; camina por el muelle desde el este con la sonrisa de loco; planeó el ataque al barco; *"Te tengo que dar las gracias. Llevaba años buscando el escondrijo de Nyree en Ygoran. Gracias a ti lo he encontrado al fin."*; usa la verdad de Lirae para romperle el ritmo; corta las manos en dos golpes; *"Mírate, Eris. Ya no es una Mano de Coria."*; diatriba breve sobre seiscientos años de servicio y la igualdad de todos los reyes; *"Estoy en ello."*; decapita; limpia la hoz en el muslo del pantalón de Eris; se desvanece entre las sombras del extremo oeste) · [[../../../canon/personajes/lirae]] (referida: bajó al ala oeste y no volvió; aparece en la visión final de Eris) · [[../../../canon/personajes/elerian]] (aparece en la visión final de Eris: el ojo blanco, la copa, lo que Eris no le dijo) · [[../../../canon/personajes/haris]] (aparece en la visión final de Eris: en el cuarto de armas de Ygoran, sin Nexalita, mirando la placa quitada) · [[../../../canon/personajes/nyree]] (referida: Theim llevaba años buscando su escondrijo en Ygoran y lo ha encontrado al fin gracias a Eris) · [[../../../canon/personajes/faree]] (referido: el rey al que Theim sirve desde hace seiscientos años y al padre antes) · Tripulantes humanos del mercante (cuatro, tres salen a flote, uno no)
+**Lugares**: [[../../../canon/lugares/ygoran|Ygoran (callejuelas del barrio bajo de noche; muelle de noche cerrada con farolas bajas; cuarto embarcadero con el mercante destruido; escondrijo de Nyree encontrado por Theim a través de Eris)]] · referencias a [[../../../canon/lugares/coria-elis|Elis (ala oeste, cámara del tritón con las espirales que también lleva Theim en el antebrazo izquierdo)]]
+**Sistemas**: [[../../../canon/sistemas/nexalita]] (sin uso ofensivo en este cap; Eris ya no está en condiciones de canalizar) · [[../../../canon/sistemas/triton]] (Theim conoce al tritón, lleva sus espirales tatuadas en el antebrazo izquierdo; el *tum tum* se apaga para Eris al morir) · [[../../../canon/sistemas/mirisar]] (Lirae, Primer Mirisar gravitatoria, bajó al ala oeste y no volvió; el lector conoce su muerte por cap 20)
 **Capítulos enlazados**: [[../acto-V/22-asalto-ygoran|cap 22 (asalto a Ygoran, salida del tejado, Eris coge la lanza de Illia)]] · [[../acto-III/13-bajo-palacio|cap 13 (cámara del tritón, espirales en el suelo)]] · [[../acto-IV/20-descubrimiento-lirae|cap 20 (Lirae descubre el tritón sola; cierre del arco aquí)]] · [[../acto-V/24-epilogo-nyree|cap 24 (epílogo POV Nyree)]]

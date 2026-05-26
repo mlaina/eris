@@ -176,7 +176,7 @@ Lo miró de cerca. Faree tenía pelo blanco impecable, sonrisa serena, túnica s
 
 Eris la registró sin parpadear.
 
-Lyris, en el extremo de la mesa, tenía la cabeza inclinada hacia Faree un grado. No mucho. Lo suficiente para que las dos esferas blancas también estuvieran inclinadas hacia el rey. Era una postura que se le veía a Lyris en mil audiencias. Pero esta mañana la cabeza no estaba inclinada para atender. Estaba inclinada para **medir**. Eris conocía esa postura. Era la misma con la que Lirae se inclinaba sobre el péndulo cuando una anomalía no le cuadraba con la pesa que esperaba.
+Lyris, en el extremo de la mesa, tenía la cabeza inclinada hacia Faree un grado. No mucho. Lo suficiente para que las dos esferas blancas también estuvieran inclinadas hacia el rey. Era una postura que se le veía a Lyris en mil audiencias. Pero esta mañana la cabeza no estaba inclinada para atender. Estaba inclinada para medir. Eris conocía esa postura. Era la misma con la que Lirae se inclinaba sobre el péndulo cuando una anomalía no le cuadraba con la pesa que esperaba.
 
 Eris pasó la mirada de Lyris a Lirae.
 
@@ -262,7 +262,33 @@ Después la cabeza calculó una cuarta. La Kalari de Coria, dentro del palacio, 
 
 Eris empujó.
 
-La puerta se abrió.
+La puerta cedió un palmo.
+
+Del otro lado no había despacho. Había oscuridad, aire frío, y un tramo de corredor que bajaba por dentro de la pared. No vio más. No necesitaba más.
+
+El *tum* volvió. Una sola vez.
+
+La regla la cubría para pasar. La cabeza se lo puso delante como una autorización limpia. Pero Lyris seguía dentro del despacho. Daerin la había mirado desde el rellano. Lirae había girado sola hacia Norel. Y Faree, si había querido usar ese pasillo sin su Kirala, no lo había hecho para que una Kalari lo siguiera a esa hora.
+
+Eris cerró la puerta sin ruido.
+
+No hoy.
+
+---
+
+La reunión no terminó ahí. Cambió de forma.
+
+Primero fue un parte de Aluren sobre dos relevos de frontera que podían haber esperado. Después una consulta de Telaia sobre escoltas comerciales que no requería a Eris, pero que la tuvo de pie en una antesala más de lo necesario. Más tarde, una cena corta con dos consejeros menores en la que nadie comió de verdad y nadie dijo nada que no pudiera haberse escrito en tres líneas.
+
+El palacio sabía retener sin dar orden de retención.
+
+Al anochecer, Aluren le comunicó lo que ya estaba decidido: cuarto de Mano en el ala sur, disponibilidad hasta el alba, salida aplazada por si el rey requería otra consulta antes de que cerrara la jornada.
+
+Eris aceptó.
+
+Theim seguía sin aparecer. Lyris no volvió a cruzarse con ella. Lirae tampoco.
+
+Cuando cerró la puerta del cuarto asignado, la palma derecha aún recordaba el frío de la madera.
 
 ---
 
@@ -271,5 +297,5 @@ La puerta se abrió.
 **Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/faree]] (primera grieta visible: arruga al cuello, mano a la sien, retirada por la puerta interior sin Lyris) · [[../../../canon/personajes/lyris]] (ambigüedad: la Kirala no sigue al rey por primera vez) · [[../../../canon/personajes/lirae]] (mira a Eris una vez, mira al rey una vez) · [[../../../canon/personajes/manos-de-coria]] (reunión privada: Aluren, Iralen, Telaia, Daerin, Muoro)
 **Lugares**: [[../../../canon/lugares/coria-elis|Elis (Kiral Ree, despacho privado tras el Larien, puerta interior)]] · [[../../../canon/lugares/nurn|Iretha (cierre operativo de la 135)]] · Loroa (refuerzo prorrogado)
 **Sistemas**: [[../../../canon/sistemas/triton]] (siembra silenciosa: el cansancio físico de Faree)
-**Capítulos enlazados**: [[../acto-II/09-mision-135|cap 9 (135, eco)]] · [[../acto-II/05-audiencia-larien|cap 5 (Loroa)]] · [[../acto-III/11-corte-hueca|cap 11 (corte hueca, antecedente)]] · [[../acto-III/13-bajo-palacio|cap 13 (continúa por la puerta empujada)]]
+**Capítulos enlazados**: [[../acto-II/09-mision-135|cap 9 (135, eco)]] · [[../acto-II/05-audiencia-larien|cap 5 (Loroa)]] · [[../acto-III/11-corte-hueca|cap 11 (corte hueca, antecedente)]] · [[../acto-III/13-bajo-palacio|cap 13 (recoge por la noche la ruta sospechada bajo Kiral Ree)]]
 **Sesión de origen**: rediseño en [[../../../draft/acto-III-rediseno]] (asunto principal (a) Iretha + roces (b) Loroa, voto Marcos 2026-05-25)

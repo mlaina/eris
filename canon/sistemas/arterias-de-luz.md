@@ -33,7 +33,7 @@ Es una ciencia compleja y, a veces, imprevisible: los cambios pueden adelantarse
 **Sistemas relacionados**: [[mirisar]] (frenado por vectores gravitatorios; [[../personajes/lirae|Lirae]] las estudia) · [[nexalita]]
 **Lugares con Orios mencionados**: [[../lugares/coria-elis|Elis (Jomla)]] · [[../lugares/indra|Indra (Thuay)]] · [[../lugares/liga-kovax|Loroa]] · [[../lugares/ygoran]] · [[../lugares/zonas-extasiadas|Zenit (cruce de tres Arterias)]]
 **Otros**: [[../organizaciones|La Jauría (acceso prioritario)]]
-**Capítulos**: [[../../estructura/capitulos/acto-I/01-prologo|cap 1 (ruta Indra→Coria)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (extracción de Nexalita en la Arteria)]] · [[../../estructura/capitulos/acto-IV/18-viaje-ygoran|cap 18 (Liga Kovax)]].
+**Capítulos**: [[../../estructura/capitulos/acto-I/01-prologo|cap 1 (ruta Indra→Coria)]] · [[../../estructura/capitulos/acto-IV/17-huida-haris|cap 17 (fuga por el Orio antes del cambio de sentido)]] · [[../../estructura/capitulos/acto-IV/18-viaje-ygoran|cap 18 (Liga Kovax)]].
 
 ## Glóbulos
 

@@ -34,3 +34,9 @@ Log cronológico de cada sesión de trabajo en *Eris*. Una entrada por sesión, 
 - [[2026-05-16-cap20-descubrimiento-lirae]] — Cap 20 nuevo (POV Lirae) + canon del tritón.
 - [[2026-05-19-anira-lore]] — Integración del lore de 20 páginas. 9 conflictos resueltos.
 - [[2026-05-25-limpieza-y-grafo]] — Limpieza del repo, ESTADO consolidado, links Obsidian en canon.
+- [[2026-05-26-pulido-cap10]] — Pulido fino del cap 10: sueño, Itsu y *tum tum* como residuo perceptivo.
+- [[2026-05-26-pulido-cap11]] — Pulido fino del cap 11: corte hueca, métricas temporales, cierre hacia cap 12.
+- [[2026-05-26-ajuste-cap12]] — Ajuste del cierre del cap 12 para que el cap 13 siga siendo el descubrimiento accidental.
+- [[2026-05-26-reescritura-caps14-15]] — Reescritura de caps 14-15 desde el cap 13 canónico: Lirae y la pared, aislamiento y sobre de Kiral Ree.
+- [[2026-05-26-reescritura-acto-IV-cap21]] — Reescritura/afianzado de caps 16-19 y refinado del cap 21: Puertas Rojas, Nyree y red civil de Ygoran.
+- [[2026-05-26-adaptacion-final-caps23-24]] — Adaptación sprint final de caps 23-24: muerte de Eris, parte de bajas, matriz quemada y Velerian/tritón.

@@ -6,7 +6,7 @@ La tercera noche soñó algo distinto.
 
 ---
 
-*El pan se partía entre cuatro manos distintas. La mano de su madre, que se acordaba. La mano de Elerian, que leía. La mano del chico de Iretha con el ojo derecho más cerrado, que no llegaba. Y una cuarta mano que no conocía — alguien, desde más abajo, abajo del suelo, que empujaba el pan hacia arriba como quien empuja una puerta.*
+*El pan se partía entre cuatro manos distintas. La mano de su madre, que se acordaba. La mano de Elerian, que leía. La mano del chico de Iretha con el ojo derecho más cerrado, que no llegaba. Y una cuarta mano que no conocía — algo, desde más abajo, empujando el pan hacia arriba como quien empuja una puerta.*
 
 *El pan se partía en cuatro trozos desiguales. El trozo más grande era siempre para el que hubiera caminado más ese día. Esa noche le tocaba a todos a la vez. La madre no había cenado. Elerian no había cenado. El chico de Iretha no había llegado a cenar. Ella tenía el trozo en las dos manos y no se decidía a partirlo más.*
 
@@ -18,17 +18,13 @@ La tercera noche soñó algo distinto.
 
 *Tum. Tum.*
 
-*Maelor entraba por una puerta lateral. La hoz de Theim colgaba de su cinturón, no la espada corta. Rastas blancas pesadas. No decía nada. Se sentaba y cogía el trozo más grande sin pedirlo. Tenía derecho porque había caminado más.*
-
-*Tum. Tum.*
-
 *Ravys estaba de pie al fondo, con el yelmo a medio arrancar y la lanza todavía en el cuello. Miraba el pan sin tocarlo. Illia, a un palmo de él, le hablaba sin que se le oyera.*
 
 *Tum. Tum.*
 
-*El sonido venía de abajo del suelo de la casa de Itsu y era, al mismo tiempo, el sonido que Eris oía en su cabeza en Valdara. Eris sabía en el sueño lo que no sabía despierta: que los dos eran el mismo sonido. Que siempre habían sido el mismo. Que el primero no había sido en Valdara, que el primero había sido cuando ella era una niña de ocho años con hambre comiendo pan en el trozo grande, y la casa había empezado a respirar por debajo.*
+*El sonido venía de abajo del suelo de la casa de Itsu y era, al mismo tiempo, el sonido que Eris oía en su cabeza en Valdara. En el sueño no había diferencia entre los dos. La casa respiraba por debajo. El pan seguía en sus manos. Nadie comía.*
 
-*Nunca lo había olvidado. Sólo había dejado de oírlo durante cien años.*
+*No parecía recuerdo. Parecía una cosa tapada.*
 
 ---
 
@@ -52,9 +48,11 @@ Se llevó dos dedos a la sien por costumbre. Ya no servía de nada. Llevaba cuat
 
 O era el palacio. O era su cabeza. O eran las dos cosas — Eris ya no estaba segura de poder separarlas.
 
-Lo que sí sabía, desde hacía cuatro noches, era que el sonido no era nuevo. El primero no había sido en Valdara. El primero había sido en Itsu, en la casa de su madre, en la misma frecuencia y en el mismo ritmo, cuando ella era niña.
+Lo que el sueño le había dejado no era una certeza. Era peor: la sensación de que el sonido no era nuevo. De que Valdara no había sido el principio, sólo el primer sitio donde había vuelto a oírlo despierta.
 
-Lo había dejado de oír al llegar a Lorin, noventa y seis años atrás. Volvía ahora.
+Lorin, de algún modo, lo había tapado.
+
+Ahora volvía.
 
 ---
 
@@ -166,7 +164,7 @@ Lirae se tomó un segundo.
 
 —¿Sí.
 
-—Tú vienes a las cuatro de la mañana después de tres días sin dormir, después de un sueño con cuatro muertos, después de Iretha, y me dices que oyes un *tum*. Yo te digo: el péndulo mide algo, sí, pero podría ser muchas cosas. Una falla geológica. Un asentamiento de la roca bajo Kiral Ree. Un sistema antiguo de drenaje del que nadie se acuerda. Una pieza de mármol que se está moviendo en una bóveda. O algo construido por un Mirisar muerto hace siglos y olvidado. Antes de saltar a una explicación grande hay que descartar las pequeñas.
+—Tú vienes a las cuatro de la mañana después de tres días sin dormir, después de un sueño lleno de muertos, después de Iretha, y me dices que oyes un *tum*. Yo te digo: el péndulo mide algo, sí, pero podría ser muchas cosas. Una falla geológica. Un asentamiento de la roca bajo Kiral Ree. Un sistema antiguo de drenaje del que nadie se acuerda. Una pieza de mármol que se está moviendo en una bóveda. O algo construido por un Mirisar muerto hace siglos y olvidado. Antes de saltar a una explicación grande hay que descartar las pequeñas.
 
 —¿Las has descartado tú.
 

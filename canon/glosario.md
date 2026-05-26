@@ -148,7 +148,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Nat'nei** — Yll heredera de Deengar, hija del rey Prian. Formada en Amaroth. Una de las Yll con mayor capacidad onírica conocida. Pieza clave del equipo Kretus.
 - **Nel** — negación en Nagani.
 - **Nerath** — capital del Imperio Nurn. Ciudad amurallada. En el salón del trono yace Tyrus en coma. El Orio está extramuros. Ver `canon/lugares/nurn.md`.
-- **Nexalita** — implante en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
+- **Nexalita** — placa/complemento en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
 - **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Turtei Numari**, hermano mediano del rey Faree.
 - **Ni, Na, Nar, Nina, Nana, Narna** — pronombres Nagani.
 - **Norel** — torre-biblioteca en Elis.
@@ -171,6 +171,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Preonis** — joven Guardián del Filo de Fireon. Competente pero cuestionado.
 - **Prian** — rey actual de los Yll de Deengar. Padre de Nat'nei.
 - **Pulka** — pez de inteligencia extraordinaria que tiende trampas a sus cazadores. Cazar uno es el rito de liderazgo de la secta Seiun de Saébal.
+- **Puertas Rojas** — red clandestina de refugios, depósitos y rutas de Nyree. Nodos físicos marcados en rojo apagado; no son portales. Ver `canon/organizaciones.md`.
 - **Puentes milenarios** — elemento base del mundo.
 
 ## Q
@@ -222,7 +223,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Tritón** — criatura mítica bajo el palacio. Ver `canon/sistemas/triton.md`.
 - **Trior** — consejo de tres Anvur elegidos por el pueblo. Gobierno de Trei.
 - **Tulgur** — raza orcoide con tres subtipos (Orcos, Do-üler, Berej). Habitan Soúntor. Culto al Silmarita de la Sangre. Unificación reciente bajo Gortaj. Ver `canon/razas/otras-razas.md`.
-- **Tum tum** — motivo perceptivo de Eris, posiblemente vinculado al tritón. ⚠️ Pendiente.
+- **Tum tum** — motivo perceptivo de Eris vinculado al tritón bajo Kiral Ree. Resonancia corporal, presión y llamada; no se explica como sistema técnico cerrado. Ver `canon/sistemas/triton.md`.
 - **Túnderor** — territorio Düregar del norte, dominio del Silmarita de la Caza Elkorn.
 - **Turia** — Quintar de Theris que perdió a su tirador en la Invasión Oscura. Encontró un templo del Silmarita del Viento y se convirtió en su élite. Forma a sus propios jinetes.
 - **Turtei Numari** — hermano mediano del rey Faree. Rey de Neidimia. Reside en Gistar (ciudad de las dos caras: una en sombra, una iluminada). La parte oscura es hervidero de mafias que intenta combatir.

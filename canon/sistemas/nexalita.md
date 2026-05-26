@@ -35,10 +35,10 @@
 **Quien la usa**: [[../personajes/escuadron-eris|el escuadrón Eldara]] (Eris, Muoro, Haris, Illia, Ravys, Therel, Nerei...)
 **Quien la administra**: [[../lugares/sandrie|Lorin]] (cuerpo Eldara) — no la corte, no [[../personajes/lyris|Lyris]]
 **Sistemas relacionados**: [[mirisar]] · [[arterias-de-luz]]
-**Capítulo crítico**: cap nuevo Acto V (calma en Ygoran) — Haris se la quita con dos dedos: *"Esto ya no tiene sentido utilizar."* Eris conserva la suya para usarla ofensivamente en el asalto.
+**Capítulo crítico**: [[../../estructura/capitulos/acto-V/21-tejado-ygoran|cap 21 (tejado de Ygoran)]] — Haris se la quita con dos dedos: *"Esto ya no tiene sentido utilizar."* Eris conserva la suya para usarla ofensivamente en el asalto.
 - **Acto III**: la Nexalita deja de ser solo técnica; se insinúa su **sustrato arcano**. No es solo tecnología — hay algo más profundo.
 - **Acto IV**: Eris y Haris huyen de Lorin con la Nexalita puesta y al mínimo. No la desactivan en la huida; Lyris les da pistas para más tarde.
-- **Acto V**: en Ygoran, Haris se quita la Nexalita en calma (acto consciente de despedida del Cuerpo). Eris la conserva como **arma psicológica** para el asalto previsto — sabe que vendrán Eldara a por ella y la Nexalita es su único canal contra ex-camaradas. En el muelle, **Theim corta las manos tatuadas de Eris** — destruye no solo el cuerpo sino **la pertenencia simbólica**. La Nexalita queda en su nuca al morir; Theim no la recoge: no es esa la marca que él desagrega.
+- **Acto V**: en Ygoran, Haris se quita la Nexalita en calma (acto consciente de despedida del Cuerpo). Eris la conserva como **arma de último recurso** para el asalto previsto — sabe que vendrán Eldara a por ella y la Nexalita es su único canal contra ex-camaradas. En el muelle, **Theim corta las manos tatuadas de Eris** — destruye no solo el cuerpo sino **la pertenencia simbólica**. La Nexalita queda en su nuca al morir; Theim no la recoge: no es esa la marca que él desagrega.
 
 ## Dimensión temática
 
@@ -69,7 +69,7 @@ Eris se mueve entre ambos registros. Con Muoro es mínima; con Lyris se permite 
 - Con **Haris** (joven, siglo recién cumplido): es el único del escuadrón que todavía no ha gastado la boca. Por eso él es quien **saca a Eris de sus imperativos** con comentarios ligeramente más largos ("Pero igual", "Ya, bueno. Tú dices muchas cosas").
 - Con **humanos y razas no-Naggar sin Nexalita** (Elerian, la guardia humana de Valdara): Eris tiene que **verbalizar mucho más**, porque el contexto no viaja por la nuca. Ese esfuerzo la incomoda y es útil narrativamente — revela lo que el idioma Eldara le ahorraba antes.
 - **Con Faree en la corte**: Eris sostiene el registro Eldara frente a la retórica real. El contraste **es político**: cuando ella responde corto, está afirmando su oficio; cuando se le alarga la frase, está aceptando el idioma de palacio. Material clave para las escenas de Acto III–IV (corte hueca, cena).
-- **Cuando Haris se quita la Nexalita en Ygoran (Acto V cap nuevo)**: pierde el idioma del grupo. Empieza a hablar con voz, suena *"como suena la gente"*. Eris, que la conserva, sigue en compresión Eldara — el contraste entre los dos cuerpos al hablar se hace audible en el cap nuevo y en el asalto.
+- **Cuando Haris se quita la Nexalita en Ygoran (cap 21)**: pierde el idioma del grupo. Empieza a hablar con voz, suena *"como suena la gente"*. Eris, que la conserva, sigue en compresión Eldara — el contraste entre los dos cuerpos al hablar se hace audible en el cap 21 y en el asalto.
 
 ## Notas de escritura
 

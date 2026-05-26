@@ -67,7 +67,7 @@
 
 ## Conexión con "tum tum"
 
-Hipótesis probable: el **motivo "tum tum"** que Eris percibe está vinculado al tritón. Sería una **resonancia** — el latido de lo arcano bajo la ciudad, perceptible para quien tiene sensibilidad especial (Valagost, Eris por sangre, etc.). ⚠️ **Fijar durante escritura.**
+El **motivo "tum tum"** que Eris percibe queda vinculado al tritón. Funciona como resonancia corporal del latido arcano bajo Kiral Ree: aparece primero asociado a la Valagost de Plaza Ocre, se intensifica en Elis y se confirma en el lago subterráneo. No se explica como regla técnica cerrada; debe leerse como percepción, presión y llamada.
 
 ## Temática
 

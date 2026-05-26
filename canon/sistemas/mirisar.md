@@ -123,9 +123,9 @@ Jerarquía **por mérito**. No por años. Un Mirisar joven con talento excepcion
 - **Fragilidad física**: un Mirisar sin dedos es un ex-Mirisar. El cuerpo es frágil y el sistema lo sabe.
 - **El niño prodigio**: rompe la regla. Es un fenómeno que la Sandrie estudia con cuidado. Puede ser futuro pilar del régimen, amenaza, arma, o secreto. Sin decidir.
 
-## Conexión (tentativa) con el tritón
+## Conexión con el tritón
 
-El Poisé es el plano de energía bruta. El **tritón** bajo el palacio, las **anomalías gravitatorias** de Lirae, el **"tum tum"** que Eris oye sólo en Coria, la **rejuvenecimiento de Faree** — pueden ser distintas manifestaciones de una fuente Poisé enorme bajo Kiral Ree. **No resolver canónicamente aún** (material de Acto III). Dejar abierto.
+El Poisé es el plano de energía bruta. El **tritón** bajo el palacio interactúa con esa capa: provoca las anomalías gravitatorias de Lirae, está ligado al **"tum tum"** que percibe Eris, rejuvenece a Faree y en cap 20 anula localmente los focos Mirisar. No explicarlo como manual técnico; mantenerlo como relación arcana observada por efectos.
 
 ## Conexiones
 

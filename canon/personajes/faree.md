@@ -13,6 +13,7 @@
   - **Turtei Numari**, hermano mediano — rey de **Neidimia**, reino vecino independiente. Reside en Gistar (ciudad de las dos caras).
   - **Iren Numari**, hermano pequeño — **rey independiente de Zenit** (isla flotante, Zona Extasiada, cruce de tres Arterias). Unos 900 años. Zenit proclamó su independencia de Coria al inicio de la Invasión Oscura; Iren ya gobernaba allí antes como representante del linaje y se convirtió en rey en pleno conflicto. Más pragmático y militar que Faree; menos retórico, más directo.
 - **Primo**: **Daerin Numari** — cabeza de la rama colateral del linaje. ~800 años. Historiador y guardián del archivo dinástico. **Mano de Coria** por peso familiar e histórico (no representa a ningún estado).
+- **Hijo muerto**: tuvo un hijo que mandó a los Eldara antes de Eris. Murió en servicio años atrás. Faree no suele nombrarlo en presencia de Eris; en la cena del cap 16 usa esa memoria para hablar de protección, obediencia y el peligro de que una comandante confunda vigilancia con sospecha.
 
 ## Rasgos
 

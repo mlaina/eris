@@ -1,48 +1,124 @@
 # Capítulo 18 — Al norte
 
-El primer día durmieron al raso en una loma seca.
+Llegaron a Tegro dos horas después.
 
-No hubo fuego. No hubo frío tampoco — la estación estaba templada aún. Haris montó guardia las cuatro primeras horas; Eris las cuatro siguientes. En medio, dormían muy mal sobre las mantas de campaña. Eran dos soldados que habían salido de cien misiones así. Lo habían hecho en peor, también.
+El Orio era un nodo menor en el norte de la Liga Kovax, encajado contra una ladera seca. A esa hora el patio de desembarque estaba casi vacío. Dos cargadores humanos dormían contra un saco. Un Anvur pequeño vigilaba una pila de Glóbulos. En el extremo del patio, junto al reloj de arena blanca, un Naggar mayor de túnica oscura esperaba con las manos cruzadas detrás.
 
-Los caballos descansaban atados a un árbol bajo.
+Eris todavía tenía el cuerpo lleno del impulso de la Arteria.
 
-En algún momento de la segunda guardia, Eris se dio cuenta de algo. Había una cosa que en las cien misiones nunca había hecho: dormir sin Nexalita. El zumbido bajo de los hermanos del escuadrón había estado ahí cada noche de campaña durante un siglo. Era un arrullo que se olvidaba por lo constante. Ahora que no estaba, se oía lo que había debajo.
+Haris recuperó el Glóbulo común. Sacó las lanzas, el zurrón y las bolsas. No habló. La mano derecha le tembló una vez. Después paró.
 
-Se oía el viento.
+Eris se acercó al Naggar mayor.
 
-Se oía la respiración de Haris tres metros más allá, donde dormía.
+—Vanir.
 
-Se oía un insecto pequeño en el arbusto de la izquierda que Eris no sabía nombrar.
+—¿Sí?
 
-Se oía, muy muy bajo, el *tum*.
+—Vengo por el asunto de las velas.
 
-Dos veces.
+Vanir no cambió la cara.
 
-Después silencio.
+—Tarde.
+
+—Sí.
+
+—Bien. Si hubieran llegado a tiempo, me habría preocupado.
+
+Se dio la vuelta y caminó hacia la pared del fondo. Eris y Haris lo siguieron.
+
+En una hornacina detrás de una pila de cajas, Vanir sacó un sobre envuelto en tela encerada. No se lo dio todavía.
+
+—El palacio preguntará por ustedes en todos los Orios antes de que amanezca. Si duermen en Tegro, los cogen. Si toman otra Arteria principal, los cogen. Si se quedan en una posada, alguien los vende antes del desayuno.
+
+—Entonces.
+
+—Se mueven ahora.
+
+Vanir le entregó el sobre.
+
+Eris lo abrió.
+
+Dentro había dos hojas. La primera, una ruta seca por caminos secundarios de la Liga Kovax: Tegro, tres aldeas de paso, Loroa por fuera, una barcaza de sal, dos jornadas de costa, Ygoran. La segunda era más pequeña. No era mapa. Era una lista de marcas.
+
+Una de ellas era una puerta pintada en rojo.
+
+Eris se quedó quieta.
+
+La había visto antes.
+
+No en Elis. No en un informe limpio. En el cuaderno de Iretha. En tres márgenes, al lado de depósitos y nombres de familia. Una marca pequeña que entonces no había sabido colocar.
+
+—¿Qué es? —preguntó Haris.
+
+Vanir miró a Eris, no a Haris.
+
+—Si lo reconoce, es que ya ha visto más de lo que debía.
+
+—Iretha —dijo Eris.
+
+Vanir no preguntó.
+
+—La puerta roja de Ygoran es matriz. Si llegan ahí y los dejan entrar, están dentro de la red. Si no los dejan, no lo intenten una segunda vez.
+
+—¿Quién nos deja?
+
+—La puerta.
+
+Haris miró a Vanir.
+
+—Eso no responde.
+
+—Responde lo justo.
+
+Vanir plegó las manos detrás de la espalda.
+
+—Hay dos caballos en la puerta lateral. Los cambian al amanecer en Arel. En Loroa no entran al Orio. Rodean el lago blanco por el canal viejo. La barcaza se llama *Senda Baja*. No digan nombres. No enseñen rangos. No usen Nagani fuera de necesidad. Y no vuelvan a la luz.
+
+Eris guardó las hojas en el zurrón.
+
+—¿Lyris preparó esto?
+
+—Lyris preparó que usted llegara viva a Tegro. Lo demás lo preparó gente que no firma con sello rojo.
+
+—Nyree.
+
+—Entre otros.
+
+Vanir dio un paso atrás.
+
+—Vayan.
+
+Eris no le dio las gracias. Ya le había dicho que no.
+
+Haris abrió la puerta lateral.
+
+Fuera, el aire de Tegro olía a polvo y establo. Dos caballos grises estaban ensillados, sin lujo, buenos de piernas. El establero, un humano joven con sueño en la cara, no miró las armas. Tampoco los ojos.
+
+Montaron.
+
+Eran más de las dos de la mañana cuando dejaron Tegro.
 
 ---
 
-Segundo día. Montaron al amanecer.
+No durmieron.
 
-Tegro quedaba a media jornada detrás. Las rutas que Vanir había marcado en el mapa eran una sucesión de senderos secundarios y aldeas pequeñas. Evitaban los Orios principales — demasiados guardianes, demasiados ojos. La primera parada seria del mapa era una aldea humana llamada **Kirmin**, a dos días a caballo.
+La primera ruta bajaba por un camino de piedra vieja entre bancales sin cultivar. El cielo estaba claro. La luna quedaba baja, a la derecha. Detrás, Tegro desapareció antes de que amaneciera.
 
-Eris iba delante. Haris detrás, un cuerpo de caballo. Los dos con capa oscura, lanza corta cruzada a la espalda, capucha baja.
+Eris iba delante. Haris detrás, un cuerpo de caballo.
 
-Hacia el mediodía se cruzaron con un carro que bajaba. Familia humana — padre, madre, tres niños pequeños. Los miraron medio segundo y siguieron. Ni saludo, ni alarma.
+Las dos Nexalitas seguían al mínimo. Desde la Arteria, la red de Lorin había quedado como un ruido bajo en la nuca, remoto y mal colocado. No eran palabras. No eran órdenes. Eran catorce cuerpos que seguían existiendo en algún sitio detrás de ella.
 
-Eris no había sido mirada así en un siglo. Ni con miedo, ni con reverencia. Con indiferencia de camino. Ella era una viajera de paso y nada más. No fue desagradable. Fue raro.
+Eris no la cerró.
 
-—¿Cómo se ve desde fuera —dijo Haris al rato, con la voz.
+Todavía no.
 
-Eris tardó.
+Al alba llegaron a Arel. Tres casas, un pozo, un establo largo con techo de paja vieja. Un hombre Naggar de pelo blanco les cambió los caballos sin pedir pago. Miró la lanza de Haris, vio la forma Eldara del encordado y fingió no verla.
 
-—Más pequeño.
+—Sur —dijo.
 
-—¿Qué.
+—Sur.
 
-—Todo.
-
-Haris asintió.
+—No paren en Loroa.
 
 —Ya.
 
@@ -50,291 +126,159 @@ Siguieron.
 
 ---
 
-Kirmin fue dos días después.
+La Liga Kovax no se parecía a Coria.
 
-Aldea humana de sesenta casas bajas alrededor de un pozo central. Olía a humo de leña y a cabra. Había una posada — una sola — en la casa más grande del pueblo. El posadero era un humano viejo, ojos pequeños, bigote gris. Les cobró tres monedas por dos camas en cuarto doble y dos caballos en el establo.
+Eso fue lo primero.
 
-—¿De dónde vienen.
+No había mármol que ordenara la vista. No había agua obligada a caer donde un arquitecto había decidido. Había tierra seca, casas bajas de piedra desigual, canales de riego con barro en los bordes, niños humanos descalzos corriendo detrás de carros, Naggar viejos sentados al sol sin túnica buena, una mujer Valagost vendiendo pescado seco en una manta al lado de una fuente rota.
 
-—Tegro.
+La gente miraba a Eris y Haris sin saber qué eran.
 
-—¿Adónde van.
+Dos Naggar armados.
 
-—Sur. Amaroth.
+Viajeros.
 
-—Bien.
+Problema posible.
 
-No apuntó nada. No preguntó nombres. En Kirmin, por lo visto, no se apuntaba.
+Nada más.
 
-Cenaron en la sala común. Sopa caliente, pan negro, un vaso de vino ligero. Había otros seis huéspedes — cuatro humanos, un mestizo grande del que Eris no habría sabido decir qué razas lo componían, un Naggar muy mayor de cara arrugada que bebía solo en la esquina. Ninguno los miró dos veces.
+Eris no había sido mirada así en un siglo. Ni con reverencia ni con miedo exacto. Con cálculo común. Con la cuenta pequeña de alguien que decide si apartarse medio paso o seguir barriendo.
 
-Haris comió despacio.
+—Más pequeño —dijo Haris al mediodía.
 
-—El pan está mal —dijo.
+Eris supo qué quería decir.
 
-—Lo está.
+—Sí.
 
-—Eso es tranquilizador.
-
-Eris levantó la ceja.
-
-—¿Por.
-
-—Nadie que cocine aquí está al servicio del rey.
-
-Eris asintió muy poco.
-
-—Ya.
-
-Siguieron comiendo.
-
----
-
-En la cama — Haris en una, ella en la otra, separadas por metro y medio —, Eris no se durmió enseguida.
-
-—Haris.
-
-—¿Sí.
-
-—Mañana por la noche, si ya estamos a cinco días de marcha, quiero que hagas una cosa.
-
-—Dime.
-
-—Vuelve solo.
-
-Haris tardó un segundo.
+—Coria no parece pequeña desde dentro.
 
 —No.
 
-—No te lo estoy ordenando. Te lo estoy pidiendo.
-
-—La respuesta es la misma.
-
-—Haris.
-
-—Kalari.
-
-—No soy Kalari.
-
-—Hoy sí.
-
-Silencio.
-
-—¿Por qué —dijo Haris al cabo.
-
-—Porque si yo me equivoco en esto, que me equivoque yo.
-
-—Llevo cien años contigo, Eris. No voy a dejar de estarlo para que tú te equivoques más cómoda.
+—Desde aquí, sí.
 
 Eris no contestó.
 
-—Duerme.
-
-—Ya.
+Le pesó más de lo que quiso.
 
 ---
 
-Tercer día. Cuarto. Quinto.
+Rodearon Loroa por el canal viejo al anochecer.
 
-Rutinas del viaje. Montar al alba, cabalgar hasta el mediodía, descanso de media hora, cabalgar hasta el atardecer, buscar techo o dormir al raso. Los caballos aguantaban bien. Los cuerpos también. Los dos habían hecho esto muchas veces.
+Desde la loma, Eris vio el lago blanco al fondo. Agua lechosa, sin reflejo limpio, con luces bajas sobre los embarcaderos. El Orio de la ciudad quedaba más arriba, con su garganta azul encendida y una línea de carros esperando turno. Allí habría registro, guardianes, nombres.
 
-Lo que era nuevo era el tiempo de hablar.
+Ellos no subieron.
 
-Durante la Nexalita, los Eldara no hablaban con voz larga. No hacía falta. Haris y Eris llevaban cien años compartiendo dos o tres palabras por día a la luz y un murmullo bajo continuo por la nuca. Ahora no había nuca. Sólo voz.
+Siguieron por la orilla baja hasta una caseta de madera torcida.
 
-La voz descubría cosas.
+La barcaza *Senda Baja* esperaba allí.
 
-Al cuarto día, en un sendero que subía por un valle de robles secos, Haris le contó a Eris la historia de sus padres.
+El barquero era Anvur, pequeño para los suyos, dos brazos principales ocupados con una cuerda y los otros dos con una pipa sin encender. No preguntó nada. Señaló el fondo de la barcaza.
 
-No la había contado nunca. Eris no la había preguntado nunca. Los Eldara no preguntaban y los Eldara no contaban — lo pasado del Eldar era Lorin, y Lorin había empezado cuando el cuerpo empezaba, y antes no había nada relevante. Esa era la regla.
+—Armas abajo.
 
-Las reglas Eldara se habían caído del caballo con la Nexalita.
+Eris y Haris dejaron las lanzas junto al zurrón. Las dagas siguieron en lumbar.
 
-—Mi madre era Naggar de Ygoran — empezó Haris—. Mi padre también. Los dos emigraron a Valdara antes de la Invasión Oscura. Eran comerciantes de telas. Se dedicaron a eso cuarenta años. Nunca volvieron a Ygoran. No les gustaba. Decían que era ciudad sucia.
-
-—¿Se conocían.
-
-—Se casaron allí. Mi hermana mayor nació en Valdara. Yo también. Tengo un hermano que nació cuando yo tenía treinta años — eso es, hace setenta años. Está en Valdara todavía, aprendiendo telas. No me ha visto en cuarenta.
-
-—¿No vas.
-
-—No. Lorin se pasó eso. Los Eldara no volvemos a las familias más de una vez cada diez años. Y yo no volví nunca. No porque no quisiera. Porque, cuando había tiempo, no sabía qué iba a decirles. Cuando tuve claro lo que iba a decirles, ya no había tiempo.
-
-Eris no comentó. Cabalgaron un rato en silencio.
-
-—¿Tu madre —dijo Haris.
-
-Eris tardó.
-
-—Muerta.
-
-—Ya.
-
-—Asedio del séptimo año de la Invasión. Ya lo sabes.
-
-—Lo sabía sin saber los detalles. Ahora ya no los necesito.
-
-—Ya.
-
-Pausa.
-
-—¿Tu padre —dijo Haris.
-
-Eris se tomó un segundo largo.
-
-—Padre difunto también.
-
-—¿Cuándo.
-
-—No lo sé exactamente.
-
-Haris la miró.
-
-—¿Cómo que no.
-
-—Mi padre dejó Itsu hace setenta y cinco años. Después de la Invasión. No se le volvió a ver vivo ni se le vio muerto. Se dio por muerto hace sesenta. Pero no hay cuerpo.
-
-—Ya.
-
-—Daerin me dio una pista hace dos semanas. Una carta vieja. Alguien había escrito, hace ochenta años, que mi padre *ya no estaba*. Ambiguo. Puede significar muerto. Puede significar otras cosas.
-
-Haris no comentó.
-
-Cabalgaron un rato más.
-
----
-
-Sexto día. Séptimo.
-
-El terreno cambió. Las colinas secas dieron paso a pastos altos, y después a una ladera larga que bajaba al valle del río que corría hacia Ygoran. El clima también cambió — más húmedo, más salado. El viento del noroeste traía olor a mar lejano.
-
-El octavo día durmieron en otra posada, esta en una aldea mixta humano-Naggar llamada **Jiren**. Era más grande que Kirmin. La gente los miró dos veces — los Naggar del norte de Liga Kovax, más cauto. La posadera, una Naggar mediana edad con el pelo teñido de rojo humano, les cobró doble por las preguntas que no hacía.
-
-En la sala común había más viajeros esa noche. Un grupo de cuatro comerciantes humanos hablaba en una mesa del rincón. Se oían cosas sueltas.
-
-—... Ygoran, sí, sí, pero ya no es como antes.
-
-—Se lo decía al socio en primavera. La banda de Nyree no controla todo eso.
-
-—No, no lo controla.
-
-—Pero sigue ella arriba.
-
-—Sigue ella arriba.
-
-Eris no giró la cabeza. Haris tampoco. Los dos comían con la misma velocidad de antes.
-
-—Cincuenta años lleva.
-
-—Cincuenta años seguirá.
-
-—Los capitanes Valagost la dejan hacer. Mientras la pesca salga por el Orio, Nyree pone su orden por dentro y los capitanes el de fuera.
-
-—Es acuerdo viejo.
-
-—Es acuerdo viejo.
-
-Los cuatro cambiaron de tema. Empezaron a hablar de una carga de aceite que se había perdido en la Arteria la semana pasada.
-
-Eris terminó la sopa.
-
-—*Nyree sigue arriba* — dijo a Haris por la voz, muy bajo.
-
-—*Lo he oído.*
-
-—*Es lo que Lyris escribía en el sobre.*
-
-—*Sí.*
-
-No comentaron más. No lo necesitaban. Eran dos Eldara todavía por dentro aunque ya no llevaran la placa.
-
----
-
-Noveno día. Décimo.
-
-El río se había hecho ancho. Un par de puentes viejos cruzaban de una orilla a la otra. Carros humanos con mercancía pasaban en dirección opuesta — ellos al sur, Eris y Haris al norte. Algunos levantaban una mano al cruzarse. Eris devolvía el saludo. Había aprendido en el viaje que, fuera de Elis, los desconocidos se saludaban por la carretera. Fue el detalle más chocante. Era lo que había perdido Elis al ser Elis: el saludo al desconocido.
-
-Al noveno día, a última hora, Haris se quedó un rato callado mirando al oeste. Eris lo miró.
-
-—¿Qué.
-
-—Estoy oyéndolo.
-
-Eris se detuvo. El caballo paró en seco.
-
-—¿El tum.
-
-—El tum.
-
-Eris cerró los ojos un segundo. Lo oyó también. Muy bajo, muy lejos. La misma frecuencia de Elis. Aquí en Liga Kovax, a nueve días de marcha, seguía.
-
-—No estaba antes — dijo Haris—. Con la Nexalita no lo oía. Ahora sí.
-
-—Ya.
-
-—Nunca lo oí.
-
-—Ya.
-
-Pausa.
-
-—¿Es sólo de Elis —dijo Haris.
-
-Eris lo pensó.
-
-—No. Elis es la fuente. Pero llega más lejos de lo que llegaría si fuera sólo Elis. Alcanza al menos hasta aquí.
-
-—¿Hasta Ygoran.
-
-—Probablemente.
-
-—Entonces no es sólo el palacio.
+—Esas también —dijo el Anvur.
 
 —No.
 
-—Entonces Lirae tenía razón cuando decía que la masa era grande.
+El Anvur la miró.
 
-—Sí. La masa es grande. Y está resonando con más cosas que el lago.
+Eris le sostuvo la mirada.
+
+El Anvur soltó aire por la nariz.
+
+—Naggar.
+
+—Sí.
+
+—Todos sois un trabajo.
+
+Empujó la barcaza con los dos brazos inferiores. La madera se separó del barro. Salieron al canal.
+
+---
+
+La noche en el canal fue lenta.
+
+No había Arteria. No había velocidad limpia. Sólo agua oscura, madera que crujía, insectos, una cuerda mojada golpeando el borde de la barcaza. Haris se sentó frente a Eris, con la espalda contra un saco de sal.
+
+—La puerta de Iretha —dijo al cabo.
+
+—Sí.
+
+—Estaba en el cuaderno.
+
+—Tres veces.
+
+—¿Por qué no lo dijiste?
+
+—No sabía qué era.
+
+—Ahora sí.
+
+Eris miró el agua.
+
+—Ahora sé que el cortijo era parte de algo más grande. Que no eran una banda suelta. Que tenían depósitos, familias, rutas y una puerta.
+
+—Ya lo sabíamos.
+
+—Lo sabíamos con la cabeza. No con mapa.
 
 Haris asintió.
 
-—Me lo pensé. Al salir de Tegro. Me pensé que no lo iba a oír al irnos.
+El agua golpeó otra vez el costado.
 
-—Ya.
+—Entonces vamos a entrar en la casa de quien firmó aquellas cartas.
 
-Siguieron.
+—Sí.
 
----
+—Después de Iretha.
 
-Décimo primer día. Décimo segundo.
+—Sí.
 
-El paisaje bajó a valle. Campos cultivados, pueblos más frecuentes. Humanos sobre todo. La lengua común se oía por todas partes. El Nagani, nunca.
+Haris se quedó callado.
 
-El décimo segundo día al atardecer llegaron a la cresta de la última colina antes del puerto.
+La frase que no dijo quedó igual.
 
-Desviaron los caballos del camino. Se acercaron al borde. Se detuvieron.
-
-Abajo, a dos kilómetros, estaba Ygoran.
+Eris también la oyó: *después de lo que hicimos en Iretha*.
 
 ---
 
-Era grande. Más de lo que Eris había imaginado.
+Al amanecer dejaron la barcaza en un embarcadero sin nombre.
 
-Descendía en terrazas sucesivas por una ladera al mar. La parte alta tenía casas de piedra oscura, calles estrechas, un par de templos viejos con techo caído. La parte media — la más extendida — era una maraña de callejones, mercados, humo constante. La parte baja, los muelles. Una línea larga de piedra gris con barcos de pesca amarrados, algunos de cabotaje, uno más grande de mercancía. El mar se abría al horizonte, gris azulado, sin luz de sol directa a esa hora. Unos gritos lejanos de gaviota subían por la ladera.
+Había dos caballos más. Peores que los de Tegro, mejores que ir a pie. El barquero les devolvió las lanzas y no volvió a mirarlos.
 
-A la izquierda, donde la ciudad tocaba otra vez la tierra alta, había un bosque denso. No era bosque natural: los árboles eran **Igies** gigantes — troncos rojizos, altos, de los que salían del fondo del mar en los bajíos del litoral. Eris los había estudiado en Lorin como accidente geográfico, no como lugar. Vistos así, eran enormes.
+El segundo día fue costa.
 
-Entre los Igies y los muelles se movía gente. Mucha gente. Trabajadores, pescadores, contrabandistas, los cargadores que Ygoran necesitaba para exportar el pescado de Igie al continente.
+El camino corría entre colinas bajas y salinas abandonadas. El aire olía a agua quieta y algas secas. Al oeste, a ratos, se veía el mar en franjas grises. Al este, pueblos pequeños, algunos humanos, algunos mixtos, ninguno suficientemente grande para tener registro propio.
 
-Olía a sal desde donde estaban.
+No pararon más que para cambiar agua y dejar que los caballos respiraran.
 
-Haris, al lado, miraba sin hablar.
+Al caer la tarde, el viento cambió.
 
-—Nunca había visto un sitio así —dijo al cabo.
+Trajo pescado.
+
+Humo.
+
+Metal mojado.
+
+Ygoran estaba cerca.
+
+---
+
+La vieron desde la última curva del camino costero.
+
+No desde una cresta limpia, como en los informes. Desde abajo, casi de golpe. Casas oscuras subiendo por la ladera, muelles largos, humo en capas, barcos de pesca amarrados en líneas torcidas. A la izquierda, los Igies rojizos salían del agua como columnas vivas. Uno de ellos, hueco y enorme, tenía luces dentro.
+
+Apnio.
+
+Haris frenó el caballo medio paso.
+
+—Nunca había visto un sitio así.
 
 —Yo tampoco.
 
-—Huele a pescado.
+—Huele peor de cerca.
 
 —Sí.
 
@@ -342,30 +286,69 @@ Haris, al lado, miraba sin hablar.
 
 —Sí.
 
-—Kalari.
+Entraron por la puerta del sur a última hora de la tarde.
 
-—¿Sí.
+Era poco más que un arco roto en el muro exterior, vigilado por dos hombres humanos en ropa civil con garrote. Los dos miraron a Eris y a Haris al pasar. Uno reconoció las lanzas cortas como armas de oficio, no de aldea. Registró. No dijo nada.
 
-—No sé si nos van a recibir bien.
+Ygoran a ras de calle era ruido.
 
-—Nadie nos va a recibir. Vamos a entrar. A ver qué.
+Valagost de piel azul con marcas rojas cruzaban entre puestos de pescado. Humanos cargaban cajas. Un Naggar menor discutía con una mujer Ssilvaris por el precio de una cuerda. Un niño corría con una sardina viva en la mano. Al fondo del muelle, un Yll viejo y delgado caminaba sin báculo, los ojos vendados, el cuello desnudo. Nadie le abría paso, pero todos se apartaban.
 
-Haris asintió.
+Eris lo registró y siguió.
 
-—Ya.
+No habían venido por él.
 
-Se quedaron un minuto largo mirando la ciudad. El sol se había puesto ya detrás de las colinas. La luz se iba despacio. Abajo, las lámparas empezaban a encenderse — primero una, luego dos, luego decenas en las ventanas dispersas.
+A los cinco minutos, un chico humano de unos quince años apareció junto al caballo de Eris.
 
-En algún lado de la ciudad había una red. En esa red estaba Nyree. Eris la llevaba conocida por informes Kalari desde hacía cuarenta años — la había estudiado, la había ordenado perseguir dos veces sin éxito, había leído las seis actas de los que habían vuelto vivos y las diez de los que no habían vuelto. Sabía qué buscaba Nyree, cómo la buscaba, y por qué la red de Ygoran había aguantado cincuenta años cuando redes mayores habían caído en veinte. Sabía también que Nyree la reconocería al entrar.
+Flaco, pelo oscuro, ojos negros. Brazalete tricolor en la muñeca izquierda. Rojo, amarillo, verde. Operador menor de Ygoran. Eris lo había visto en informes.
 
-Lyris lo había sabido al dar el sobre. Por eso el sobre acababa en Ygoran y no en otro sitio: era el único lugar donde alguien podría recibir a la Kalari sin entregarla en el acto.
+—¿Comen caliente hoy?
 
-Y en Elis, muy al fondo, el *tum tum* seguía.
+—Nos gustaría.
 
-Eris picó al caballo.
+—Segundo establo. Después tres calles al norte y tres al este. No llamen. Empujen.
 
-—Bajamos.
+—¿Quién lo manda?
 
-Haris picó al suyo.
+—Alguien que lee bien.
 
-Bajaron a Ygoran con la luz cayendo.
+El chico desapareció entre dos puestos.
+
+Haris miró a Eris.
+
+—*Están avisados.*
+
+—*Sí.*
+
+El establo estaba donde el chico había dicho. Un Anvur de cara marcada recogió los caballos sin preguntar. No pidió pago. Marcó algo en una pizarra vieja con carbón.
+
+Caminaron.
+
+Tres calles al norte. Tres al este.
+
+La casa era de dos pisos, segunda de la izquierda, con un techo que una tormenta vieja había partido. La puerta estaba pintada de un rojo apagado, casi marrón. No era pintura buena. Era polvo de hierro, vinagre, aceite. La misma marca del cuaderno de Iretha, ya no como dibujo sino como madera entera.
+
+Eris se detuvo delante.
+
+Haris también.
+
+—Iretha —dijo él.
+
+—Iretha.
+
+Eris apoyó la mano en la puerta.
+
+No llamó.
+
+Empujó.
+
+La puerta roja se abrió hacia dentro.
+
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] (reconoce la marca de Puerta Roja desde el cuaderno de Iretha; llega a Ygoran sin volver a la luz de los Orios principales) · [[../../../canon/personajes/haris]] (sostiene la fuga y verbaliza el peso de entrar en la red de quien firmó Iretha) · Vanir (guardián de Tegro activado por Lyris; entrega ruta y clave) · [[../../../canon/personajes/nyree]] (presencia indirecta mediante ruta, marcas y puerta matriz)
+**Lugares**: [[../../../canon/lugares/liga-kovax|Liga Kovax (Tegro, Loroa por fuera, canal viejo)]] · [[../../../canon/lugares/ygoran|Ygoran (puerta roja matriz, entrada sur, Apnio al fondo)]]
+**Sistemas**: [[../../../canon/sistemas/arterias-de-luz]] (se evita la red principal tras la huida; los Orios son puntos de vigilancia) · [[../../../canon/sistemas/nexalita]] (Eris y Haris conservan la Nexalita al mínimo)
+**Capítulos enlazados**: [[../acto-II/09-mision-135|cap 9 (cuaderno de Nyree con la marca de puerta roja)]] · [[../acto-IV/17-huida-haris|cap 17 (salida por Arteria en último momento)]] · [[../acto-IV/19-ygoran-rebelde|cap 19 (presentación con Nyree)]]

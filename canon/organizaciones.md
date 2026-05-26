@@ -28,6 +28,33 @@ Estructuras que cruzan fronteras nacionales. Fichas breves para consulta.
 
 ---
 
+## Puertas Rojas
+
+**Red clandestina de refugios, depósitos, rutas y casas seguras creada por Nyree.** No son portales ni magia: son nodos físicos marcados con una puerta o una señal roja.
+
+### Rasgos
+
+- Marca visible para quien sabe mirar: rojo apagado hecho con polvo de hierro, vinagre y aceite.
+- Función: guardar comida, papeles, rutas, armas o personas cuando llega un poder con sello, deuda o auditoría.
+- Mezclan logística civil y resistencia armada: cocina, familias, niños, enfermos, combatientes, contrabando y mensajes conviven en el mismo espacio.
+- Su fragilidad operativa es real, pero también nace de que no separan la guerra de la vida diaria como hace Coria.
+
+### Nodos conocidos
+
+- **Ygoran**: matriz original. Quemada por Theim durante el asalto; no se reabre.
+- **Loroa**: nodo activo al final. En el almacén oculto, la marca puede ir dentro como circunferencia de polvo de hierro en una viga.
+- **Eco**: nodo activo al final.
+- **Kaürun**: nodo activo al final.
+- **Apnio**: próximo nodo a abrir.
+
+### Función narrativa
+
+- Materializar la resistencia de Nyree sin idealizarla.
+- Conectar el cuaderno de Iretha, la llegada de Eris a Ygoran, el cap 21 y el epílogo.
+- Recordar que la oposición a Coria no es una estructura limpia: es una red de supervivencia.
+
+---
+
 ## La Jauría
 
 **Cazadores a sueldo.** Base en **Zenit**.
