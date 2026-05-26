@@ -1,431 +1,197 @@
 # Capítulo 24 — Epílogo
 
-Nyree recorrió la casa al atardecer.
+El carromato cruzó la última calle de Loroa al filo de la medianoche.
 
-Había durado ocho horas limpiarla. Mari había dirigido. Dieciséis operativos habían bajado los cuerpos al patio interior. Los Eldara muertos — los habían contado, aunque la cifra exacta dependía de a quién le preguntaras: siete según Mari, ocho según Berys, que se había encontrado un cuerpo en la despensa que nadie había visto caer —. Los habían dejado en una fila al fondo, con las armaduras puestas, para que viniera a buscarlos quien vendría a buscarlos. Los que se habían retirado al amanecer con Theim y Muoro fueron pocos. Los suyos los habían velado en la sala grande del segundo piso, de dos en dos, con las velas que pudieron conseguir.
+Calles adoquinadas serpenteando entre almacenes y edificios de piedra oscura. Las farolas, una sí y dos no, encendidas a la mitad. El ruido bajo del puerto interior al fondo — una sirena de barco lejana, un perro que ladraba y otro que le contestaba —. Nyree iba en el interior del carromato. Manto oscuro encima. Capucha. Los ojos en la ventana cubierta de polvo, sin enfocar nada concreto.
 
-Veintidós muertos contados. Algún herido grave todavía vivo iba a sumar a la cuenta los días siguientes.
+El cochero — humano viejo de la red local, sin nombre que la memoria fuera a guardar — dobló por una esquina ciega y metió el carromato dentro de un almacén grande de piedra clara. La puerta de madera se cerró detrás de ellos con dos hombres que la empujaron del interior. El ruido de la calle se cortó.
 
-Cinco humanos de la red, una Naggar — no la vieja Illen, Illen había salido por el pasadizo del oeste a tiempo, sino una joven de treinta años que había subido a la escalera a cubrir a Mari —, tres mestizos, dos del equipo de cocina de Berys, un chico del cuarto de armas, el vigía del puente alto, cuatro operativos nuevos de los que Nyree apenas se había aprendido los nombres, tres agentes de calle del barrio bajo y, por fin, Haris.
+El almacén estaba aparentemente vacío. Sacos viejos contra una pared. Cajas apiladas hasta el techo en otra. Una capilla pequeña al fondo — había sido capilla de los pescadores hace dos siglos, ahora sólo paredes de piedra ennegrecida y un altar al fondo —. La cubierta del almacén tenía, en una viga interior, una marca discreta: una circunferencia de polvo de hierro mezclado del mismo modo que se mezclaba el rojo de las puertas. Era la marca que se ponía dentro, no fuera. Quien sabía mirar, sabía.
 
-Haris estaba en la sala grande, en el rincón de la izquierda, cubierto con una capa que alguien había encontrado. Le habían juntado la cabeza con el cuerpo. La pierna se la habían puesto al lado. Las dos partes no iban ya a pegarse, pero ponerlas juntas era lo que se hacía.
+Nyree bajó del carromato.
 
-Nyree lo miró un rato largo. No le tocó. Nunca había sido mucho de tocar a los muertos.
-
-Eris no estaba ahí.
-
-Eris la había traído la guardia marina de la ciudad — la guardia marina de Ygoran tenía sus propios protocolos, no dependía de Nyree, y había ido a recoger el cuerpo del muelle sur al oír el parte de los pescadores. Se lo habían llevado al depósito comunal en un carro. Los Eldara vendrían a recogerlo cuando quisieran.
-
-Nyree lo sabía. No había ido a verlo. No iba a ir. Haris sí, porque Haris había muerto en su casa. Eris había muerto fuera. Eran distinciones antiguas que Ygoran mantenía aunque nadie supiera ya por qué.
+Krela la esperaba.
 
 ---
 
-Salió al patio interior.
+Dos metros de Ssilvaris. Espada ancha a la espalda. Escamas verde oscuro con vetas grises, brillando despacio bajo la luz de dos antorchas encendidas a los lados del portón. El costado izquierdo le pesaba — el corte del recibidor de la puerta roja de Ygoran había aguantado el cosido del médico en el camino, pero seguía rezumando —. Estaba en pie. Llevaba en pie horas.
 
-Mari estaba sentada en un banco, con una venda improvisada en el brazo izquierdo. Berys le traía una taza de algo caliente. Illen, recién llegada del pasadizo del oeste, de pie contra la pared, tomaba notas en el cuaderno que Tors había usado dos días antes — Tors estaba bien; había salido con Illen —. Nyree registró la estampa sin decir nada.
+Treinta años a la derecha de Nyree. Hoy, dos pasos por delante para recibirla.
 
-—¿Cuántos se nos han ido — preguntó.
+—Veintidós perdidos en Ygoran.
 
-—Veintidós — dijo Mari.
+Nyree no contestó en seguida. Se ajustó el manto. Bajó la capucha.
 
-—¿Heridos.
+—Habla.
 
-—Catorce. Cuatro graves.
-
-—¿Se salvan.
-
-—Dos sí, dos no.
-
-Nyree asintió.
-
-—Que los dos que no se salvan tengan lo que necesiten. No escatiméis en nada.
+—Veintidós muertos contados en la casa. Cinco humanos de la red, una Naggar joven que cubrió a Mari en la escalera, tres mestizos, dos del equipo de Berys, un chico del cuarto de armas, el vigía del puente alto, cuatro operativos nuevos, tres agentes del barrio bajo y Haris.
 
 —Sí.
 
-—Mari.
+—Los dos Eldara también.
 
-—¿Sí.
+Nyree apretó la mandíbula medio grado.
 
-—La red ha aguantado.
+—¿Eris.
 
-—Apenas.
-
-—Apenas es mucho.
-
-—Sí.
+—En el muelle. La guardia marina recogió el cuerpo al amanecer. Depósito comunal del muelle sur.
 
 Silencio.
 
-—Nyree — dijo Illen desde la pared.
+Nyree no maldijo. La rabia le bajó por dentro como bajaba siempre — recta, sin ruido, hacia la herramienta de tomar nota y la siguiente decisión —. Pero la mandíbula se le quedó apretada otro segundo más de la cuenta.
 
-—¿Sí.
+Krela lo registró sin decir nada.
 
-—Hay alguien que quiere verte.
+—Mari — dijo Nyree al cabo.
 
-—¿Quién.
+—Salió con Berys por el pasadizo del sótano. Mari herida en el brazo, no grave. Las dos hacia Kaürun, por el camino del este, distintos pasos.
 
-—Un Yll. Ha llegado hace una hora por la puerta del oeste. Sin recomendación. Dice que tiene que ver con lo de Elis.
+—Illen.
 
-—¿Ha dado nombre.
+—Sacó el cuaderno antes del primer asalto. Está en la puerta roja de Eco.
 
-—No.
+Cincuenta años en la puerta roja de Ygoran. Eso no se decía aquí. Eso se decía cuando hubiera tiempo de decirlo. Hoy no había.
 
-—¿Cómo ha entrado sin recomendación.
+—Loroa, Eco, Kaürun.
 
-—Le abrieron los guardianes del Orio del este. Le conocían — no de aquí, de Kaurün, por la caza del año pasado. Uno de los guardianes se acordaba bien. Lo ha traído a la tercera calle abajo. Está en el almacén viejo.
+—Sí.
 
-—¿Peligroso.
+—Hay que abrir otra. No en Ygoran, pero cerca. En Apnio.
 
-—Puede.
+—Apnio. Tenemos buenos contactos allí, no costará mucho esfuerzo.
 
-Nyree tardó un segundo.
+—Empezamos en cuanto normalicemos la situación. Necesitamos tener un buen puerto.
+
+—Bien.
+
+---
+
+Krela siguió.
+
+—Y hay otra cosa.
+
+—Habla.
+
+—Un Yll. Piel negra. Llegó hace dos horas a la puerta del almacén. Sin recomendación. Dijo que tenía que verte. Dijo que había oído en el camino del sur que la tormenta de Ygoran había llegado a la ciudad...
+
+—Nadie debería tener esa información todavía.
+
+—Lo sé.
 
 —¿Armado.
 
-—Dos hojas finas al cinturón. Nada más. Y ciego.
+—Dos dagas. Una bolsa pequeña. Nada más.
 
-—¿Ciego.
+—¿Le has registrado.
 
-—Ciego. Con venda.
+—Sí. Limpio.
 
-Nyree miró el patio. El sol ya estaba en el borde de la colina oeste. La luz caía muy baja sobre los muertos del fondo.
+—¿Dónde está.
 
-—Voy.
+—En la capilla. Esperando. No se ha movido en dos horas.
 
-—¿Sola.
+Nyree miró hacia el fondo del almacén — la puerta de madera vieja de la capilla, dos velas encendidas asomando por el quicio —.
 
-—Sola.
+—¿Cómo sabía que era ésta.
+
+—Llegó sin preguntar a nadie del barrio. Directo. Como si supiera exactamente dónde ir.
+
+Nyree se tomó un segundo.
+
+—¿Te fías.
+
+—No del todo. Es... inquietante.
+
+—Ya.
+
+Nyree empezó a caminar hacia la capilla. Krela dos pasos detrás, mano izquierda al mango de la espada.
 
 ---
 
-El almacén estaba a diez minutos a pie. Era un local grande y bajo que había sido depósito de sal hacía años y que alguien no había vuelto a usar desde entonces. Olía a madera podrida y, todavía, por el fondo, a sal vieja.
+La puerta de madera vieja crujió al empujarla.
 
-Nyree empujó la puerta.
+Dentro, la capilla estaba en penumbra. Tres velas encendidas en el altar al fondo. Las sombras danzaban bajas en las paredes de piedra ennegrecida. Olía a vela vieja y a humedad de piedra.
 
-Dentro, junto a una pared, en una caja vuelta del revés a modo de asiento, estaba el Yll.
+En la primera fila de los bancos, una figura sentada. Quieta. Vuelta de tres cuartos hacia el altar, no del todo de frente a la puerta — la posición exacta de quien sabe escuchar lo que entra por la puerta sin tener que mirarlo —.
 
-Delgado, alto, con la piel grisácea de los Yll. Túnica simple color tierra. La venda en los ojos era una tira de tela oscura anudada a la nuca. Encima, el pelo corto, casi al rape. Llevaba al cinturón dos hojas finas — no lanzas, no espadas, algo intermedio — y una pequeña bolsa de cuero atada detrás.
+Nyree caminó hasta el centro del pasillo.
 
-Al oír la puerta, giró la cara hacia ella. La sonrisa ligera ya estaba puesta.
+—No estoy para tonterías. ¿Quién eres.
 
-Caminaba, hablaba, miraba con una precisión que no cabía en un ciego.
+La figura no contestó en seguida. Tampoco se volvió. Tenía una daga en la mano derecha. La lanzó al aire. La hoja dio dos vueltas completas, sin ruido, y le cayó otra vez en la mano por el mango. La devolvió al cinturón.
 
-—Nyree.
+Después se volvió a medias.
 
-—Yll.
+Yll. Delgado, alto, piel negra. Túnica simple negra. Cabeza rapada. La cara medio en sombra — las velas del altar quedaban detrás de él, la luz le caía oblicua desde la nuca y le dejaba los ojos en penumbra —. Dos hojas finas al cinturón — la que acababa de lanzar y otra gemela — y una bolsa pequeña detrás.
 
-—Siéntate.
-
-Nyree se sentó en una caja similar, a tres metros.
-
-—¿Cómo sabes mi nombre.
-
-—He preguntado en la puerta. He preguntado cómo se llamaba la que llevaba esto arriba. Me lo han dicho en el mismo tono en que me habrían dicho el nombre de una tormenta que acababa de pasar.
-
-—Ya.
+Sonrió pequeño. Sin enseñar mucho.
 
 —Te acompaño en el sentimiento.
 
-—¿Por los veintidós.
+—No lo volveré a repetir. ¿Quién eres.
 
-—Por los veintidós. Y por la comandante.
+La figura no se inmutó ante el tono agresivo de Nyree.
 
-—¿Conocías a la comandante.
+—Sabes —comenzó la figura con una voz suave, casi meditativa—, no eres la única que quiere cambiar el orden establecido.
 
-—No. Sabía de ella.
+Nyree lo observó detenidamente, tratando de leer algo en su postura o tono. Su mente trabajaba rápido, evaluando los peligros y posibles beneficios de cualquier alianza que pudiera surgir de esa reunión. Con las bajas sufridas en Ygoran, su red estaba debilitada, y cada decisión que tomaba era crucial para su supervivencia. Sin embargo, algo en esa figura la inquietaba profundamente.
 
-—¿Cómo.
+—¿Y qué hace que tú puedas cambiar algo en este orden? —preguntó Nyree, cruzando los brazos, manteniendo su mirada fría y desafiante.
 
-—Como se sabe de las cosas que uno hace muchos años sin poder hacerlas. La Kalari era una persona a la que a mí me habría gustado conocer. Llegué tarde por un día.
+La figura dejó escapar una leve risa, un sonido que parecía no encajar del todo en el silencio solemne de la capilla.
 
-Nyree lo miró un segundo más. No contestó a eso.
+—Lo que me diferencia es que yo no busco poder ni control —respondió—. Solo quiero ver arder a los que lo tienen.
 
-—¿Qué quieres — dijo al cabo.
+La respuesta hizo que Nyree entrecerrara los ojos, intentando discernir si se trataba de una amenaza velada o de una oferta peligrosa. Su instinto le decía que ese Yll era más de lo que aparentaba.
 
-—Proponerte una cosa.
+—Todos dicen lo mismo hasta que tienen algo que perder —espetó Nyree—. ¿Qué es lo que realmente quieres de mí?
 
-—Dime.
+La figura finalmente se levantó. Con un giro lento, se dio la vuelta, revelando un rostro oscuro, cubierto parcialmente por una venda que le tapaba los ojos. Nyree parpadeó un par de veces, sorprendida por su apariencia. Los Yll eran conocidos por su habilidad marcial y percepción, pero ese hombre... parecía desafiar las leyes de la naturaleza. ¿Un guerrero ciego? La idea misma parecía absurda, pero ahí estaba, de pie ante ella con una seguridad desconcertante.
 
----
+—Sorprendida, ¿verdad? —dijo el Yll, sonriendo de manera burlona al notar su reacción—. La vista es una de las muchas limitaciones que he dejado atrás.
 
-El Yll sacó la bolsa de cuero. La puso sobre la tapa de una caja entre los dos.
+Nyree sintió un escalofrío. Había enfrentado a todo tipo de seres en su vida, pero ese hombre desprendía un aura diferente, algo que le resultaba difícil de descifrar.
 
-—Llevo doscientos años cazando criaturas míticas. En Sesset, en Irithin, en Koan. Las apago una a una. La del fondo del lago de Elis es la siguiente. Lo sé desde hace seis semanas. Antes sabía que algo pasaba. Ahora sé lo que pasa.
+—No estoy impresionada, si eso es lo que crees —respondió con un tono calculado, buscando recuperar el control de la conversación—. Pero si crees que puedes acercarte a mí solo por tener una maldita venda en los ojos, te has equivocado de persona.
 
-—¿Y qué te ha hecho saberlo.
+Velerian inclinó la cabeza ligeramente, casi como si disfrutara de la tensión en el aire.
 
-—El agua del lago sonó distinta hace seis semanas. Eso lo oigo yo. Oigo lo que no habla. Una presencia que había estado mil años respondiendo igual cambió su respuesta una vez. Eso pasa sólo cuando alguien no esperado entra a mirar.
+—Tienes razón. No es la venda lo que debería impresionarte, sino lo que puedo hacer por ti —respondió, manteniendo su tono enigmático—. Y por la causa que dices defender. Estoy aquí porque sé lo que perdiste en Ygoran, y sé lo que podrías ganar si unimos fuerzas.
 
-—La comandante — dijo Nyree al cabo.
+Nyree dio un paso hacia él, acortando la distancia entre ambos. Quería ver cómo reaccionaba al tenerla tan cerca, pero él se mantuvo inmóvil, inmutable, como si hubiera anticipado cada uno de sus movimientos.
 
-—La comandante.
+—No confío en aliados sin un objetivo claro —le dijo, su mirada fija en él—. Si solo buscas caos, serás una carga, no un recurso. No puedo permitirme perder el tiempo con alguien que solo quiere ver el mundo arder.
 
-—Ya.
+Velerian sonrió de nuevo, esa sonrisa cargada de malicia que tanto inquietaba a Nyree.
 
-—Eso es lo que ocurrió. Después, la Primer Mirisar bajó por su cuenta, cinco días más tarde, a comprobar lo que la comandante le había contado y ella no había terminado de creer. No llegó a entrar al agua — el arco la rechazó. Pero estuvo cerca lo suficiente. Dos horas después estaba muerta, sin herida, en su propia torre. Eso no lo hace cualquier bicho. Eso lo hace sólo algo que sabe matar a distancia. Con eso, el pacto perdió su única testigo viva que medía bien. Al rey le dolió más eso que la deserción de su Kalari. Al rey le dolerá aún más, en sucesivos meses, que ya no tenga medidor. Pero yo sí lo mido.
+—El caos no es el fin, Nyree. Es el medio. Un medio para derrumbar a quienes piensan que son invencibles. Y si juegas bien tus cartas, también será tu oportunidad para tomar lo que siempre has deseado.
 
-Nyree frunció la boca.
+Nyree guardó silencio un momento, calculando cada palabra. El Yll hablaba con una convicción que sugería que sabía más de lo que revelaba. La perspectiva de utilizar a alguien así como un arma contra sus enemigos era tentadora, pero también arriesgada.
 
-—¿Tú cazas tritones.
+—¿Y si decido que no vale la pena el riesgo? —preguntó, desafiándolo.
 
-—Yo cazo criaturas míticas. La del lago de Elis es una. No es la única.
+Velerian se encogió de hombros con calma, como si no le importara en absoluto.
 
-—¿Para qué.
+—Entonces me marcharé, y seguiré mi propio camino. Pero perderás la oportunidad de dar un golpe que podría cambiar todo. No me importa cómo decidas, Nyree. Yo siempre gano. La pregunta es: ¿quieres ganar conmigo?
 
-—Para apagarlas.
+Nyree lo observó en silencio durante unos segundos más, evaluando sus opciones. La Ssilvaris le había dicho que no se fiaba del todo de él, y Nyree compartía esa sensación. Pero veintidós bajas… el desastre en Ygoran aún resonaba en su mente.
 
-—¿Por qué.
+Finalmente, suspiró.
 
-—Porque las criaturas míticas son los andamios de los reinos. Quita el andamio, el reino se cae. No en seguida. En varios años. Pero se cae.
+—¿Quién eres? —preguntó con un tono más suave, aunque aún vigilante.
 
-Nyree se tomó un segundo largo.
+Velerian, con la misma sonrisa enigmática en su rostro, dio un paso hacia la luz parpadeante de las velas. La oscuridad pareció retroceder a su alrededor, y la frialdad en su aura se volvió más palpable.
 
-—Eso no es política.
+—Me llamo Velerian —dijo, sonriendo.
 
-—Es mecánica política. Lo que tú y los tuyos no habéis podido hacer en cincuenta años de combate callejero, lo que los reyezuelos de la Liga Kovax no han hecho en siglos, lo que ningún tribuno popular consigue — eso lo hace un cazador bueno con paciencia. Apagas el andamio, el edificio se cae solo. Se cae lento. Por eso se puede organizar para que caiga sobre los que quieres que caiga.
 
-—¿Y tú puedes.
-
-—Yo solo, no. Yo con los ojos y las manos de gente como la tuya, sí.
-
-Nyree asintió muy poco.
-
-—¿Qué me pides.
-
-—Que no me cierres la puerta. Que me des rutas de la red que conoces. Que me des contactos en Elis cuando los consiga. Que me prepares gente que entienda que lo que viene no es un ataque al palacio, es un trabajo paciente en los huesos del palacio.
-
-—¿Cuánto tiempo.
-
-—Cinco años si hay suerte. Veinte si no.
-
-Nyree se rió sin ruido. Fue una risa amarga.
-
-—Veinte años.
-
-—Tu oficio ya lleva cincuenta y no se ha caído Coria. Veinte es rápido.
-
-—Ya.
-
-Silencio.
-
-—Yll — dijo Nyree.
-
-—¿Sí.
-
-—Lo que propones no es alianza. Es ponerme al servicio de tu caza.
-
-—Es. No lo voy a fingir.
-
-—No ofreces nada a cambio más que la promesa de un edificio caído.
-
-—No. Ofrezco dos cosas más.
-
-—Dime.
-
-—La primera: la red de Nyree, después del andamio caído, se queda en una posición que hoy no tiene. Cuando el rey caiga — y va a caer —, habrá hueco. Los huecos los ocupan los organizados. Tú estás organizada. Otros no. Yo te ayudo a estar mejor organizada mientras espero.
-
-Nyree asintió medio grado.
-
-—¿La segunda.
-
-El Yll bajó la voz un poco.
-
-—Venganza por los tuyos. La de veras.
-
-—Explícate.
-
-—La comandante, el Eldar Haris, los veintidós de esta casa, la Primer Mirisar de Elis, los operativos tuyos que han caído desde hace cincuenta años en rondas de Eldara, los Valagost que se han hundido en los Orios al tocar las puertas equivocadas — todos tienen el mismo nombre en el cuaderno que yo llevo dentro. *El nombre es lo que hay en el lago*. Matar al del lago es todos a la vez. No una venganza simbólica. Una venganza mecánica. El cuerpo en el fondo que te los ha matado durante siglos se apaga. Dejan de morir.
-
-Nyree se quedó pensando un segundo largo.
-
-—Eso no es venganza. Es parada de la herida.
-
-—Es las dos. Tú eliges cómo llamarlo.
-
-—Ya.
-
-Silencio.
 
 ---
 
-Nyree se levantó. Dio dos pasos. Paró. Volvió a sentarse.
-
-—Si trabajo contigo no voy a ser tu herramienta.
-
-—No lo espero.
-
-—Te voy a discutir cada paso.
-
-—Me lo espero.
-
-—Y si veo que me engañas en algo, la siguiente cosa que ves — o oyes — soy yo con una hoja en tu cuello.
-
-—Me lo espero también.
-
-—Bien.
-
-El Yll asintió.
-
-—Acepto las reservas.
-
-—No son reservas. Son condiciones.
-
-—Condiciones.
-
-—Sí.
-
-Silencio.
-
-Nyree estiró la mano. No para apretar la del Yll — el Yll no había extendido la suya —. La dejó abierta sobre la caja que había entre los dos.
-
-El Yll puso la suya encima.
-
-Ni apretón ni ceremonia. Sólo dos manos un segundo sobre una caja vuelta del revés en un almacén vacío.
-
-—¿Tu nombre —preguntó Nyree.
-
-El Yll retiró la mano.
-
-Se quedó un segundo.
-
-Después habló muy bajo.
-
-—Me llamo Velerian.
-
-Nyree asintió una vez.
-
-—Velerian.
-
-—Nyree.
-
-Se levantaron los dos.
-
----
-
-Velerian salió primero. Caminó por el almacén hacia la puerta sin torcer la cabeza. Su paso era igual de preciso que al entrar. Se fue a la calle.
-
-Nyree se quedó en el almacén.
-
-Se sentó otra vez en la caja.
-
-Se tomó su tiempo.
-
-El sol, por las grietas del tejado podrido, ya no entraba. El almacén estaba en penumbra. Fuera se oían los ruidos habituales de Ygoran al anochecer — pescaderos cerrando puestos, una disputa en una calle cercana, un perro que ladraba y otro que le contestaba. Había veintidós muertos en su casa, y una comandante Eldara descuartizada en el depósito comunal, y probablemente otros veinte heridos que iban a convertirse en muertos los días siguientes.
-
-Y había alguien que acababa de ofrecerle una forma de matar a lo que le había estado matando durante cincuenta años. Despacio, no hoy, no pronto. Pero real.
-
-No era consuelo. No lo era. Pero era otra cosa.
-
-Lo que Nyree pensó entonces lo pensó en palabras cortas, porque no tenía ganas de largas.
-
-*A los tuyos te los hemos matado*, pensó. *Y sin embargo la que está de pie aquí soy yo, viva, con un cazador ciego al otro lado del almacén y una herida con nombre por fin.*
-
-*No es justo. Pero es lo que hay.*
-
----
-
-Salió del almacén al cabo de diez minutos. Cruzó la calle. En la esquina, se detuvo.
-
-Miró los muelles.
-
-Desde donde estaba — un cruce cualquiera, a cien pasos del mar — se veía un trozo del embarcadero principal. Un barco pesquero salía en ese momento a faenar. La marea bajaba. El barco se separó del muelle, tomó rumbo al noroeste, y empezó a disminuir. Sus luces amarillas al bordo encendieron contra la penumbra.
-
-Nyree siguió con la vista el barco hasta que se hizo pequeño.
-
-Oyó entonces — por primera vez en su vida consciente — un sonido que llevaba cincuenta años en el sur y que ella no había registrado como sonido.
-
-*Tum.*
-
-Dos veces.
-
-*Tum.*
-
-Venía del sur. Muy bajo. Muy lejos.
-
-Nyree giró la cabeza hacia donde venía. Elis estaba en esa dirección, a muchas leguas. No sabía qué era el sonido. No tenía por qué saberlo todavía. Alguien — un Yll ciego que acababa de decirle su nombre — la ayudaría a averiguarlo.
-
-Volvió a mirar el barco pesquero.
-
-El barco se perdió al fondo.
-
-La luz del sol se fue con él.
-
-Nyree caminó de vuelta hacia la casa de la puerta roja. Tenía veintidós cuerpos por enterrar y una red que había aguantado apenas y que iba a pelear veinte años más si hacía falta.
-
-Caminó recta.
-
-La noche de Ygoran se cerró alrededor.
-
----
-
-En Elis, esa misma noche, el rey de Coria cenó con su Kirala en el Salón menor norte. Comieron lo que preparó el cocinero de la casa. Faree no preguntó por Elerian. Elerian había salido dos días antes — se había ido a Thuay con una carta de recomendación y un saco de monedas pequeñas, porque Faree no retenía ya a nadie que hubiera visto lo que no debía ver.
-
-Lyris sirvió el vino.
-
-—Majestad.
-
-—Kirala.
-
-—La operación de Ygoran se cerró esta mañana.
-
-—Ya. Theim me lo comunicó al mediodía.
-
-—¿Y Muoro.
-
-—En camino. Llega mañana.
-
-—Bien.
-
-Silencio.
-
-—Majestad.
-
-—¿Sí.
-
-—¿Duele.
-
-Faree la miró un segundo. La misma pregunta que Eris había hecho a Theim en el muelle ocho horas antes. Lyris no lo sabía — nadie había estado ahí para contarlo — pero hacía la misma pregunta con las mismas palabras.
-
-Faree asintió medio grado.
-
-—Sí.
-
-—Ya.
-
-Bebió.
-
-Por debajo del palacio, bajo ocho metros de mármol, el *tum tum* seguía sonando.
-
-Sonaría mil años más.
-
-O no.
-
-Eso iba a decidirlo un Yll ciego de Ygoran.
-
-Pero esa noche, todavía, el *tum tum* sonaba.
-
-Y el rey de Coria, a la luz de dos velas, cenaba con su Kirala como había cenado mil veces.
-
-Y Ygoran, al norte, enterraba a sus muertos.
-
-Y un barco pesquero salía al mar.
-
-Y las lunas —Myll y la Luna Blanca— subían despacio por encima de las torres blancas de Elis, como llevaban subiendo cada noche desde antes de que nadie tuviera palabra para llamarlas.
-
-Nadie habría dicho, al mirar la ciudad esa noche, que algo hubiera cambiado.
-
-Nadie.
-
-Pero algo había cambiado.
-
-Había muerto Eris.
-
-Y el *tum tum* se había hecho audible un paso más allá de los muros de la ciudad.
-
-Bastaría con eso, si hubiera tiempo.
-
-Y si no, bastaría con nada.
-
-Pero algo había cambiado.
-
-Sólo había que saber escucharlo.
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/nyree]] (POV; llega a Loroa en carromato al filo de la medianoche tras el asalto a la puerta roja matriz de Ygoran; recibe el parte directo de Krela en el almacén oculto del barrio del canal blanco; decide abrir la próxima puerta roja en Apnio; va a la capilla del refugio a reunirse con el Yll; descubre por su cuenta que el Yll es ciego — Krela no se lo había dicho —; acepta la alianza con Velerian) · Krela (Ssilvaris, segunda de Nyree desde hace treinta años; sobrevivió al recibidor de la puerta roja de Ygoran, herida en el costado; llegó a Loroa antes que Nyree y la espera en el almacén; le da el parte completo al bajar del carromato; *"Cabrón."* / *"Sí."*; no le menciona a Nyree que el Yll es ciego — lo descubre ella sola al entrar a la capilla —; en pie en el quicio de la capilla durante la conversación con Velerian) · [[../../../canon/personajes/velerian]] (Yll ciego, piel negra, túnica negra, cabeza rapada, venda oscura sobre los ojos; doscientos años cazando criaturas míticas; llega al almacén oculto de Loroa sin recomendación tras oír "la tormenta de Ygoran"; espera dos horas inmóvil en la capilla; lanza una daga al aire que da dos vueltas y le cae al mango — único gesto teatral —; propone alianza para apagar al tritón de Elis; *"Solo quiero ver arder a los que lo tienen."*; explica el "medidor" — Lirae bajó cinco días después de Eris, no entró al agua, el arco la rechazó, murió dos horas después en su torre sin herida —; revelación final de la ceguera al ponerse de pie en la luz directa; nombre dicho al cabo: *"Me llamo Velerian."*) · [[../../../canon/personajes/eris]] (referida: muerta en el muelle, decapitada por Theim, manos a los lados, cuerpo en el depósito comunal del muelle sur) · [[../../../canon/personajes/haris]] (referido: cayó en la sala del tercer piso, enterrado al alba en el patio interior antes de que Theim quemara la casa) · [[../../../canon/personajes/lirae]] (referida: la Primer Mirisar, "medidor" del rey; el arco la rechazó, murió en su torre sin herida) · Mari y Berys (referidas: salieron por el pasadizo del sótano hacia Kaürun) · Illen (referida: en la puerta roja de Eco con el cuaderno)
+**Lugares**: [[../../../canon/lugares/liga-kovax|Liga Kovax]] (puertas rojas activas: Loroa, Eco, Kaürun; nueva por abrir en Apnio; almacén oculto en el barrio del canal blanco de Loroa con capilla interior — antes capilla de pescadores, ahora refugio) · [[../../../canon/lugares/ygoran|Ygoran (puerta roja matriz quemada por Theim — solar de ceniza al borde del barrio bajo; depósito comunal del muelle sur)]] · [[../../../canon/lugares/coria-elis|Elis (referida: ala oeste, torre de Lirae)]] · Apnio (próxima puerta roja por abrir, dentro del territorio de Ygoran según [[../../../canon/lugares/mapa-anira|mapa]])
+**Sistemas**: [[../../../canon/sistemas/triton]] (canon ampliado: el tritón mata a distancia; "criatura mítica", "andamio del reino"; el agua del lago de Elis "sonó distinta" hace seis semanas cuando Eris bajó) · [[../../../canon/sistemas/mirisar]] (Lirae como "medidor" del rey, pieza clave del pacto rey-tritón)
+**Nuevo canon — Las Puertas Rojas**: La red de Nyree marca cada nodo en la Liga Kovax con una puerta del mismo rojo apagado — polvo de hierro batido del sur, vinagre, aceite, mezclado por Nyree con sus manos el primer año en Ygoran —. La matriz era la de Ygoran; los demás botes se sacaban del de ahí. Lo entiende quien sabe mirar. Nodos activos al final del libro: Loroa, Eco, Kaürun. Próximo nodo a abrir: Apnio. Variante interna: en algunos refugios como el almacén oculto de Loroa, la marca va dentro — una circunferencia de polvo de hierro en una viga interior — porque la puerta exterior no debe llamar la atención. La matriz quemada de Ygoran no se reabrirá.
+**Capítulos enlazados**: [[../acto-V/22-asalto-ygoran|cap 22 (asalto a la puerta roja matriz, Krela sobrevive, Nyree por el pasadizo del armario)]] · [[../acto-V/23-el-muelle|cap 23 (muerte de Eris, Theim agradece haber encontrado el escondrijo de Nyree en Ygoran)]] · [[../acto-IV/20-descubrimiento-lirae|cap 20 (Lirae descubre el tritón sola; muere días después)]] · [[../acto-III/12-reunion-manos|cap 12 (Reunión de Las Manos, asunto Loroa)]]
