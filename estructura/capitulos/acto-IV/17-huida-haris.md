@@ -258,149 +258,47 @@ La Arteria los recibió con el zumbido grave de siempre. Aire cálido dentro. Pa
 
 Se acomodaron en los dos bancos del lado del tramo.
 
-Eris miró a Haris.
+Eris cerró los ojos un instante. El zumbido de la Arteria — el grave constante, casi sordo — se le coló por la nuca con la sensación familiar del tránsito.
 
-—*Ahora.*
+La Nexalita seguía puesta. La de Haris también. Las dos al mínimo, como habían salido. A distancia del cuartel, los catorce hermanos ya no eran murmullo cercano: eran fondo, lejos, atenuado con cada legua. Lo que llegaba ya no era voz — era un eco bajo de cuerpos que ella conocía y que probablemente no la volverían a sentir cerca.
 
-Haris asintió.
+Eris abrió los ojos.
 
----
-
-El cuchillo ritual Eldara — el que se usaba para la ceremonia de inserción de la Nexalita al nuevo recluta y para la retirada del difunto — no era un cuchillo grande. Tenía la hoja corta, fina, tallada en un metal oscuro que no brillaba. Eris lo llevaba en una funda interior del cinturón, como todos los Eldara. Nunca lo había sacado.
-
-Lo sacó.
-
-Haris la miró.
-
-—Kalari.
+—Haris.
 
 —¿Sí.
 
-Haris hablaba con voz — no por la Nexalita. No quería usar la Nexalita para esto.
-
-—Yo primero.
-
-Eris lo miró.
-
-—¿Por qué.
-
-—Porque si te equivocas, no quiero que me hagas a mí. Y si te equivocas, yo sigo con la mía y te acompaño fuera.
-
-Eris tardó un segundo.
+—Al mínimo. Ni la abras ni la cierres. Si alguien escucha desde Lorin, que oiga lo mismo que oiría si durmieras.
 
 —Bien.
 
-Haris se sentó mejor. Se quitó la capa del cuello. Se bajó la túnica interior unos dedos, hasta dejar al descubierto la nuca. La Nexalita era una placa pequeña, del tamaño de una uña del pulgar, de un metal similar al del cuchillo. Se insertaba a los veinte años en la base del cráneo del Eldar, en una ceremonia de dos minutos. Se retiraba a la muerte. No se retiraba nunca a un vivo. Nunca.
-
-Eris respiró hondo. Metió la punta del cuchillo por el lado interior de la placa, a un milímetro del hueso. Empujó — no fuerte, preciso. La placa se separó de la nuca con un sonido seco, muy bajo.
-
-Haris tomó aire. La placa cayó a la mano de Eris. Había un poco de sangre — poca — saliendo por la pequeña incisión. Eris le apretó la zona con un trozo de paño limpio que llevaba preparado.
-
-—¿Bien.
-
-Haris tardó en contestar.
+—Lyris dijo "el asunto de las velas" para Vanir. Eso lo guardamos para Tegro.
 
 —Sí.
 
-—¿Oyes algo.
-
-—No. Oigo ambiente. Nada más.
-
-Eris asintió.
-
-—Tu turno.
-
-—Mi turno.
-
----
-
-Haris cogió el cuchillo. Eris se dio la vuelta en el banco. Se quitó la capa. Se bajó la túnica. La nuca al aire.
-
-—Eris.
-
-—Haris.
-
-—¿Estás segura.
-
-—Hazlo.
-
-Haris no dijo nada más.
-
-La punta del cuchillo entró por el lado interior de su Nexalita con la misma precisión. Eris sintió el metal frío contra el hueso. Después, el tirón. Después, nada.
-
-Nada.
-
-En cien años, Eris no había estado sola una sola vez dentro de su propia cabeza. La Nexalita había sido aire — el aire que uno no nota mientras respira. Catorce hermanos dentro. Catorce respiraciones al fondo, presentes aunque no estuvieran hablando. Murmullo bajo constante, al que se había acostumbrado tanto que ya no lo registraba como murmullo. Era fondo. Era compañía. Era casa.
-
-Todo se fue.
-
-Eris se quedó sola dentro de su cabeza por primera vez en cien años.
-
-El silencio interior fue como entrar en una sala sin eco. Las paredes más cerca. El sonido propio, más alto. El pensamiento, más pesado — como si sin la red que lo diluía tuviera que cargar con todo el peso de golpe.
-
-Eris respiró.
-
-Haris le apretó el paño en la nuca. Le devolvió la placa entre los dedos. Eris la cogió. La miró. Pequeña, oscura, plana. Con una mancha minúscula de su propia sangre al borde.
-
-La apretó en el puño un momento. La soltó al suelo de la Arteria.
-
-Haris soltó la suya al lado.
-
-Las dos placas cayeron, una a la izquierda y otra a la derecha, y rodaron lentamente en la ingravidez. En un minuto estarían al fondo del tramo. En dos, recogidas por los mantenimientos. En tres, fundidas con otras piezas metálicas.
-
-Haris se sentó otra vez.
-
----
-
-Tres minutos en silencio.
-
-Los dos con la nuca vendada. Los dos respirando más alto de lo que habían respirado nunca.
-
-Al cabo, Haris habló.
-
-Con la voz. Con la voz alta, como una persona normal que habla a otra persona normal en una sala.
-
-—Oye.
-
-—Dime.
-
-—Siempre pensé que sonabas más alta de lo que suenas.
-
-Eris lo miró.
-
-Se tomó un segundo.
-
-—Llevo cien años hablando. ¿Dónde pensabas que estaba la voz.
-
-—Más adentro. La Nexalita la dejaba más adentro. Ahora la oigo por fuera. Y suena como suena la gente.
-
-Eris dejó escapar un sonido corto por la nariz. La segunda risa pequeña de Eris en dos años.
-
-—Suena como suena la gente —repitió.
-
-—Ya.
-
 Silencio.
+
+Eris se llevó la mano al bolsillo interior del cinturón. La pluma de Lirae estaba ahí — el mango de madera oscura con la marca quemada del lado izquierdo. La tocó dos segundos. La dejó.
+
+El sobre de Lyris al otro lado. Pequeño. Doblado en tres.
+
+El zumbido de la Arteria siguió.
 
 —Haris.
 
 —¿Sí.
 
-—Gracias.
+—Lo de la nuca lo decidimos después. No esta noche.
 
-—Las gracias por mañana, Kalari.
+Haris tardó un segundo.
 
-—Ya no soy Kalari.
+—Lo de la nuca lo decidimos después.
 
-Haris se tomó un segundo.
+—Sí.
 
-—Hoy sí.
+—Bien.
 
-—Vale.
-
-—Mañana lo discutimos.
-
-—Mañana.
+Eris cerró los ojos otra vez. El tránsito siguió hasta Tegro en silencio.
 
 ---
 

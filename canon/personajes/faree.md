@@ -57,4 +57,4 @@ Esta elección cambia el subtexto. **Preguntar a Marcos antes de Acto III.**
 **Lugares**: [[../lugares/coria-elis|Elis (Kiral Ree, ala oeste)]]
 **Razas**: [[../razas/naggar]]
 **Sistemas**: [[../sistemas/triton]] · [[../sistemas/mirisar]] · [[../sistemas/nexalita]]
-**Capítulos clave**: [[../../estructura/capitulos/acto-II/05-audiencia-larien|cap 5 (audiencia Larien)]] · [[../../estructura/capitulos/acto-III/11-corte-hueca|cap 11 (corte hueca)]] · [[../../estructura/capitulos/acto-III/13-bajo-palacio|cap 13 (ritual con tritón)]] · [[../../estructura/capitulos/acto-IV/16-cena-confesiones|cap 16 (cena)]] · [[../../estructura/capitulos/acto-V/23-epilogo-nyree|epílogo cap 23 (cena con Lyris)]].
+**Capítulos clave**: [[../../estructura/capitulos/acto-II/05-audiencia-larien|cap 5 (audiencia Larien)]] · [[../../estructura/capitulos/acto-III/11-corte-hueca|cap 11 (corte hueca)]] · [[../../estructura/capitulos/acto-III/13-bajo-palacio|cap 13 (ritual con tritón)]] · [[../../estructura/capitulos/acto-IV/16-cena-confesiones|cap 16 (cena)]] · [[../../estructura/capitulos/acto-V/24-epilogo-nyree|epílogo cap 24 (cena con Lyris)]].

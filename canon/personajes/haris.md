@@ -40,4 +40,4 @@
 **Lugares**: [[../lugares/ygoran]] · [[../lugares/coria-elis]] · [[../lugares/sandrie|Lorin (cuartel Eldara)]]
 **Razas**: [[../razas/naggar]]
 **Sistemas**: [[../sistemas/nexalita]]
-**Muere en**: [[../../estructura/capitulos/acto-V/21-asalto-ygoran|asalto a Ygoran (cap 21)]] — decapitación por [[theim]].
+**Muere en**: [[../../estructura/capitulos/acto-V/22-asalto-ygoran|asalto a Ygoran (cap 22)]] — decapitación por [[theim]].

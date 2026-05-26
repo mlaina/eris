@@ -14,23 +14,17 @@ Sin firma. La firma no hacía falta.
 
 ---
 
-Eris miró a Haris. Haris leyó el sobre por encima del hombro. Se tomó tres segundos.
+Eris miró a Haris. Haris leyó el sobre por encima del hombro. Se tomó tres segundos. Después, en voz baja:
 
-—*Es ahora.*
+—Es ahora.
 
-—*Es ahora.*
+—Es ahora —dijo Eris.
 
-—*Trae a Haris.*
+—Te pide traerme.
 
-—*Para que me mire peor, si es que me mira peor.*
+—Para que veas tú lo que voy a ver yo.
 
-—*O para que Haris vea lo que tú vas a ver.*
-
-Eris asintió muy poco.
-
-—*Vamos.*
-
-Haris se levantó del banco. Fue a su cuarto a cambiarse y al armero por la armadura limpia. Salió a los diez minutos con el yelmo bajo el brazo.
+Haris asintió un grado. No preguntó más. Se levantó del banco, fue a su cuarto a cambiarse y al armero por la armadura limpia. Salió a los diez minutos con el yelmo bajo el brazo.
 
 Eris había hecho lo mismo.
 
@@ -314,11 +308,11 @@ Haris se levantó del taburete. Hicieron la salida por la puerta lateral — la 
 
 Al pasar Eris, Elerian levantó la vista un segundo.
 
-—*No vuelvas* — dijo muy bajo, para que Haris tampoco lo oyera sin querer —. *Nunca.*
+—No vuelvas —dijo muy bajo, para que Haris tampoco lo oyera sin querer—. Nunca.
 
-—*No voy a volver.*
+—No voy a volver.
 
-—*Ya.*
+—Ya.
 
 Eris pasó. Haris detrás.
 
@@ -326,23 +320,19 @@ Elerian siguió apagando velas.
 
 ---
 
-Cruzaron el palacio por los corredores de servicio hasta la puerta norte. Salieron. El aire de fuera, por primera vez en dos horas, olía a algo que no era vela cera cocinada. Olía a jardín de noche, a tierra húmeda.
+Cruzaron el palacio por los corredores de servicio hasta la puerta norte. Salieron. El aire de fuera, por primera vez en dos horas, olía a algo que no fuera cera quemada. Olía a jardín de noche, a tierra húmeda.
 
 Eris caminó rápido. Haris detrás.
 
-Cruzaron el puente mayor en silencio. La Nexalita, esa vez, no al mínimo. Directa.
+Cruzaron el puente mayor en silencio. La Nexalita, esa vez, no al mínimo. Directa. No palabras — pulso. Eris dejó pasar a Haris el estado del cuerpo entero: alarma sostenida, cabeza fría, decisión cerrada. Haris devolvió otro pulso, breve, que en cuerpo Eldara se leía como *recibido, listo*.
 
-—*Cuatro semanas en hospitalidad*— dijo Haris.
+A media altura del puente, Eris bajó la voz hasta el límite de lo audible.
 
-—*Sí.*
+—Esta noche.
 
-—*No sales nunca de ahí.*
+—Esta noche.
 
-—*No.*
-
-—*Esta noche.*
-
-—*Esta noche.*
+—Treinta minutos desde Lorin.
 
 ---
 
@@ -392,20 +382,32 @@ Eris y Haris se quedaron solos en el patio.
 
 Eris miró el cielo. Había nubes del oeste. La luna estaría baja esa noche.
 
-Haris, muy bajo:
+Haris, muy bajo, sin Nexalita:
 
-—*Aluren ya sabe.*
+—Aluren ya sabe.
 
-—*Sí.*
+—Sí.
 
-—*Muoro también.*
+—Muoro también.
 
-—*No del todo. Pero lo suficiente.*
+—No del todo. Lo suficiente.
 
-—*Ya.*
+—Ya.
 
-—*Treinta minutos y salimos.*
+Una pausa.
 
-—*Treinta minutos.*
+—Treinta minutos —dijo Eris.
+
+—Treinta minutos.
 
 Entraron al cuartel.
+
+---
+
+## Canon relacionado
+
+**Personajes**: [[../../../canon/personajes/eris]] · [[../../../canon/personajes/haris]] (sentado en taburete de escolta, oye todo) · [[../../../canon/personajes/faree]] (ofrecimiento de "hospitalidad" = custodia; discurso de las lámparas y los hijos) · [[../../../canon/personajes/lyris]] (silenciosa) · [[../../../canon/personajes/manos-de-coria|Daerin]] (señal cortés *peligro* a Lyris) · [[../../../canon/personajes/elerian]] (cocina en Kiral Ree desde hace tres días; reproduce el menú de Nerath; aviso final: *no vuelvas*) · [[../../../canon/personajes/muoro]] (Aluren lo manda escoltar mañana — Eris entiende lo que significa)
+**Lugares**: [[../../../canon/lugares/coria-elis|Elis (Kiral Ree, Salón menor norte; Lorin, patio del armero)]] · [[../../../canon/lugares/nurn|Nerath (eco del menú de Elerian)]] · [[../../../canon/lugares/itsu|Itsu (pan de harina negra que ya no abre)]]
+**Sistemas**: [[../../../canon/sistemas/nexalita]] (pulso sensorial en el puente, no conversación)
+**Capítulos enlazados**: [[../acto-II/07-cena-elerian|cap 7 (cena original con Elerian en Nerath)]] · [[../acto-III/13-bajo-palacio|cap 13 (Eris ya sabe lo del tritón)]] · [[../acto-IV/17-huida-haris|cap 17 (huida esa misma noche)]]
+**Reglas/memorias activas**: [[../../../memory/feedback_nexalita_sensorial]] (aplicada en este pase: reescritas tres zonas de diálogo Nexalita conversacional a voz + pulso sensorial)

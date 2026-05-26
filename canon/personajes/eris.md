@@ -80,4 +80,4 @@ Algo que **Eris percibe** vinculado posiblemente al tritón, a la Valagost o a u
 **Razas**: [[../razas/naggar]] · [[../razas/valagost]]
 **Sistemas**: [[../sistemas/nexalita]] · [[../sistemas/mirisar]] · [[../sistemas/triton]] · [[../sistemas/arterias-de-luz]]
 **Otros**: [[../organizaciones]] · [[../nagani]] · [[../cronologia]]
-**Capítulos donde aparece**: todos salvo [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20]] (POV Lirae) y [[../../estructura/capitulos/acto-V/23-epilogo-nyree|epílogo (cap 23)]] (POV Nyree).
+**Capítulos donde aparece**: todos salvo [[../../estructura/capitulos/acto-IV/20-descubrimiento-lirae|cap 20]] (POV Lirae) y [[../../estructura/capitulos/acto-V/24-epilogo-nyree|epílogo (cap 24)]] (POV Nyree).

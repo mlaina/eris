@@ -38,9 +38,10 @@ Capítulos escritos del manuscrito. Agrupados por acto. Estado de cada uno en [[
 
 ## Acto V — Tragedia
 
-- [[acto-V/21-asalto-ygoran|21 — Asalto a Ygoran]] · 🔄 primera pasada
-- [[acto-V/22-muerte-eris|22 — Muerte de Eris]] · 🔄 primera pasada
-- [[acto-V/23-epilogo-nyree|23 — Epílogo (POV Nyree)]] · 🔄 primera pasada
+- [[acto-V/21-tejado-ygoran|21 — El tejado (Ygoran en calma)]] · 🔄 escrito 2026-05-25
+- [[acto-V/22-asalto-ygoran|22 — Asalto a Ygoran]] · 🔄 reescrito 2026-05-25 (caos + Nexalita ofensiva + Muoro lidera)
+- [[acto-V/23-muerte-eris|23 — Muerte de Eris]] · 🔄 primera pasada
+- [[acto-V/24-epilogo-nyree|24 — Epílogo (POV Nyree)]] · 🔄 primera pasada (duplicación arreglada + cifras suavizadas)
 
 ---
 

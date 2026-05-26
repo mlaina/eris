@@ -1,4 +1,4 @@
-# Capítulo 22 — El muelle
+# Capítulo 23 — El muelle
 
 Theim llegó al amanecer.
 

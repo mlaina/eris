@@ -286,7 +286,7 @@ Pero las cascadas, esa noche, sonaban un poco más bajas.
 
 ## Canon relacionado
 
-**POV**: [[../../../canon/personajes/lirae]] (único shift del Acto I; el otro del libro es el [[../acto-V/23-epilogo-nyree|epílogo cap 23]]).
+**POV**: [[../../../canon/personajes/lirae]] (único shift del Acto I; el otro del libro es el [[../acto-V/24-epilogo-nyree|epílogo cap 24]]).
 **Personajes**: [[../../../canon/personajes/lirae]] · [[../../../canon/personajes/lyris]] · [[../../../canon/personajes/nino-prodigio|Erion]] · [[../../../canon/personajes/eris]] (ausente, redirigida)
 **Lugares**: [[../../../canon/lugares/coria-elis|Elis (Norel, Kiral Ree)]] · [[../../../canon/lugares/sandrie]]
 **Razas**: [[../../../canon/razas/naggar]]

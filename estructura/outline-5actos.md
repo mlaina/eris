@@ -1,5 +1,7 @@
 # Outline — Estructura de los 5 actos
 
+> ⚠️ **Outline desincronizado con los archivos reales.** Esta arquitectura es la base estructural del libro, pero las **descripciones individuales de capítulos** abajo tienen numeración antigua (22 caps; los archivos reales son **24**). La sincronización completa se hará al final del proyecto. Mientras tanto, **la fuente de verdad de la numeración real es [[../ESTADO]] § "Estado de los capítulos"** y la tabla resumen al final de este archivo.
+
 Arquitectura general del libro. Los **actos son agrupaciones de capítulos**; los **capítulos tienen tipología** (algunos son "Misión N", otros títulos temáticos).
 
 **Extensión objetivo**: ~300 páginas totales. ~60 páginas por acto. ~4-5 capítulos por acto, cada uno de ~12-15 páginas.
@@ -309,36 +311,36 @@ Acto I: **~80 páginas**.
 
 ---
 
-## Tabla resumen de capítulos (22 capítulos totales)
+## Tabla resumen de capítulos (24 capítulos totales — estado real al 2026-05-25)
 
-| # | Título | Tipo | Acto | Páginas aprox. | POV |
-|---|---|---|---|---|---|
-| 1 | Misión 133 (Indra + redirección) | Misión | I | 1–22 | Eris |
-| 2 | Lirae (Elis en paralelo) | Interior | I | 23–45 | **Lirae** |
-| 3 | La Plaza Ocre | Evento | I | 46–80 | Eris |
-| 4 | Libro pequeño (vuelta a Elis) | Interior | II | 81–100 | Eris |
-| 5 | Nurn (Elerian) | Viaje | II | 101–118 | Eris |
-| 6 | Misión 135: la línea | Misión | II | 119–135 | Eris |
-| 7 | Pesadillas | Interior | II | 136–150 | Eris |
-| 8 | La corte hueca | Escenario | III | 151–163 | Eris |
-| 9 | El atentado en la corte | Evento | III | 164–175 | Eris |
-| 10 | Bajo el palacio | Revelación | III | 176–193 | Eris |
-| 11 | Lirae y la pared | Interior | III | 194–205 | Eris |
-| 12 | Aislamiento | Interior | III | 206–217 | Eris |
-| 13 | La cena: confesiones | Ceremonia | IV | 218–232 | Eris |
-| 14 | Huida con Haris | Fuga | IV | 233–245 | Eris |
-| 15 | Viaje a Ygoran | Viaje | IV | 246–256 | Eris |
-| 16 | Ygoran: la rebelde | Escenario | IV | 257–265 | Eris |
-| 17 | Desaparición confirmada | Interior | IV | 266–273 | Eris |
-| 18 | Vuelta a Coria | Perspectiva | V | 274–283 | Eris |
-| 19 | Misión 136 (1/2): asalto | Misión | V | 284–292 | Eris |
-| 20 | Persecución en los muelles | Misión | V | 293–298 | Eris |
-| 21 | Misión 136 (2/2): muerte | Misión | V | 299–305 | Eris |
-| 22 | Epílogo | Perspectiva | V | 306–312 | **Nyree** |
+| # | Archivo | Acto | POV |
+|---|---|---|---|
+| 1 | [[capitulos/acto-I/01-prologo\|Prólogo]] | I | Eris |
+| 2 | [[capitulos/acto-I/02-elis-lirae\|Elis (POV Lirae)]] | I | **Lirae** |
+| 3 | [[capitulos/acto-I/03-plaza-ocre\|La Plaza Ocre]] | I | Eris |
+| 4 | [[capitulos/acto-I/04-libro-pequeno\|Libro pequeño]] | I | Eris |
+| 5 | [[capitulos/acto-II/05-audiencia-larien\|El Larien]] | II | Eris |
+| 6 | [[capitulos/acto-II/06-nurn-dia\|Nurn día]] | II | Eris |
+| 7 | [[capitulos/acto-II/07-cena-elerian\|El cocinero (Elerian)]] | II | Eris |
+| 8 | [[capitulos/acto-II/08-atentado\|Atentado tintoreros]] | II | Eris |
+| 9 | [[capitulos/acto-II/09-mision-135\|Misión 135]] | II | Eris |
+| 10 | [[capitulos/acto-II/10-pesadillas\|Pesadillas]] | II | Eris |
+| 11 | [[capitulos/acto-III/11-corte-hueca\|La corte hueca]] | III | Eris |
+| 12 | [[capitulos/acto-III/12-reunion-manos\|Reunión de Las Manos]] | III | Eris |
+| 13 | [[capitulos/acto-III/13-bajo-palacio\|Bajo el palacio]] | III | Eris |
+| 14 | [[capitulos/acto-III/14-lirae-pared\|Lirae y la pared]] | III | Eris |
+| 15 | [[capitulos/acto-III/15-aislamiento\|Aislamiento]] | III | Eris |
+| 16 | [[capitulos/acto-IV/16-cena-confesiones\|La cena: confesiones]] | IV | Eris |
+| 17 | [[capitulos/acto-IV/17-huida-haris\|Huida con Haris]] | IV | Eris |
+| 18 | [[capitulos/acto-IV/18-viaje-ygoran\|Viaje a Ygoran]] | IV | Eris |
+| 19 | [[capitulos/acto-IV/19-ygoran-rebelde\|Ygoran rebelde]] | IV | Eris |
+| 20 | [[capitulos/acto-IV/20-descubrimiento-lirae\|Descubrimiento]] | IV | **Lirae** |
+| 21 | [[capitulos/acto-V/21-tejado-ygoran\|El tejado (Ygoran en calma)]] | V | Eris |
+| 22 | [[capitulos/acto-V/22-asalto-ygoran\|Asalto a Ygoran]] | V | Eris |
+| 23 | [[capitulos/acto-V/23-muerte-eris\|Muerte de Eris (muelle)]] | V | Eris |
+| 24 | [[capitulos/acto-V/24-epilogo-nyree\|Epílogo]] | V | **Nyree** |
 
-**Total: ~312 páginas**. El margen sobre 300 permite ajustes durante la escritura.
-
-**Shifts de POV**: dos en todo el libro. Cap 2 (Lirae, para mostrar Elis desde dentro y sembrar el péndulo) y Cap 22 (Nyree, epílogo tras la muerte de Eris).
+**Shifts de POV**: tres en todo el libro. Cap 2 (Lirae, para mostrar Elis desde dentro y sembrar el péndulo), Cap 20 (Lirae, descubrimiento del tritón y su muerte) y Cap 24 (Nyree, epílogo tras la muerte de Eris).
 
 ---
 

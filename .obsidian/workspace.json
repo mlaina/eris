@@ -4,24 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "360ca597bed9619f",
+        "id": "beff98d034e6af6f",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a36c3154263b02",
+            "id": "0c238d5af7aa1f98",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estructura/capitulos/acto-III/13-bajo-palacio.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "13-bajo-palacio"
+            }
+          },
+          {
+            "id": "c21ad0e09eba29ad",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "estructura/capitulos/acto-IV/16-cena-confesiones.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "16-cena-confesiones"
+            }
+          },
+          {
+            "id": "f9b6e27c04bc2b8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estructura/capitulos/acto-IV/20-descubrimiento-lirae.md",
+                "file": "estructura/capitulos/acto-V/22-asalto-ygoran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20-descubrimiento-lirae"
+              "title": "22-asalto-ygoran"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,21 +216,34 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a6a36c3154263b02",
+  "active": "dd4849e554ddb54e",
   "lastOpenFiles": [
-    "README.md.tmp.12356.1779706113172",
-    "ESTADO.md.tmp.12356.1779706109042",
-    "ESTADO.md.tmp.12356.1779706103737",
+    "estructura/capitulos/acto-IV/16-cena-confesiones.md",
+    "estructura/capitulos/acto-V/22-asalto-ygoran.md",
+    "sesiones/2026-05-25-propuestas-mejora-capitulos.md",
+    "draft/revision-v1-partes-criticas.md",
+    "estructura/outline-5actos.md.tmp.12356.1779722458762",
+    "ESTADO.md.tmp.12356.1779722403516",
+    "CLAUDE.md.tmp.12356.1779722370645",
+    "ESTADO.md",
+    "estructura/capitulos/README.md.tmp.12356.1779722327028",
+    "README.md.tmp.12356.1779722322327",
+    "canon/personajes/faree.md.tmp.12356.1779722307295",
+    "estructura/capitulos/acto-V/22-asalto-ygoran.md.tmp.12356.1779722047481",
+    "estructura/capitulos/acto-V/21-tejado-ygoran.md",
+    "estructura/capitulos/acto-V/23-muerte-eris.md",
+    "estructura/capitulos/acto-V/24-epilogo-nyree.md",
+    "canon/sistemas/nexalita.md.tmp.12356.1779721679837",
+    "memory/feedback_dictado_wispr.md",
+    "estructura/capitulos/acto-III/13-bajo-palacio.md",
+    "estructura/capitulos/acto-III/13-bajo-palacio.md.tmp.12356.1779711285735",
+    "estructura/capitulos/acto-III/13-bajo-palacio.md.tmp.12356.1779710110511",
+    "AGENTS.md",
+    "CODEX.md",
+    "CLAUDE.md",
+    "estructura/capitulos/acto-IV/20-descubrimiento-lirae.md",
     "estructura/capitulos/acto-III/12-reunion-manos.md",
     "estructura/capitulos/acto-III/12-atentado-corte.md",
-    "ESTADO.md.tmp.12356.1779705551014",
-    "ESTADO.md.tmp.12356.1779705546225",
-    "estructura/capitulos/acto-II/09-mision-135.md.tmp.12356.1779705523320",
-    "canon/personajes/lyris.md.tmp.12356.1779705400271",
-    "canon/personajes/haris.md.tmp.12356.1779705395028",
-    "canon/personajes/faree.md.tmp.12356.1779705392488",
-    "README.md.tmp.12356.1779705326133",
-    "ESTADO.md.tmp.12356.1779705297107",
     "estructura/capitulos/acto-V/21-asalto-ygoran.md",
     "estructura/capitulos/acto-V/22-muerte-eris.md",
     "estructura/capitulos/acto-V/23-epilogo-nyree.md",
@@ -209,19 +255,6 @@
     "sesiones/_plantilla.md",
     "canon/lugares/_lugares.md",
     "canon/sistemas/_sistemas.md",
-    "canon/personajes/_personajes.md",
-    "personajes/README.md",
-    "razas/README.md",
-    "canon/personajes/faree.md",
-    "estructura/capitulos/acto-I/02-elis-lirae.md",
-    "canon/personajes/eris.md",
-    "ESTADO.md",
-    "canon/personajes/README.md",
-    "sesiones/2026-05-25-limpieza-y-grafo.md",
-    "estructura/capitulos/README.md",
-    "canon/README.md",
-    "canon/sistemas/README.md",
-    "canon/razas/README.md",
     "draft/referencias-marcos/prologo-fabrica-entrada.jpeg",
     "mapa.svg",
     "ilustraciones/images/Muoro.png",

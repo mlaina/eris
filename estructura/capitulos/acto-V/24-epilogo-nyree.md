@@ -1,10 +1,10 @@
-# Capítulo 23 — Epílogo
+# Capítulo 24 — Epílogo
 
 Nyree recorrió la casa al atardecer.
 
-Había durado ocho horas limpiarla. Mari había dirigido. Dieciséis operativos habían bajado los cuerpos al patio interior. Los Eldara muertos — siete; los tres que quedaban vivos se habían retirado con Theim y Muoro al amanecer — los habían dejado en una fila al fondo, con las armaduras puestas, para que viniera a buscarlos quien vendría a buscarlos. A los suyos los habían velado en la sala grande del segundo piso, de dos en dos, con las velas que pudieron conseguir.
+Había durado ocho horas limpiarla. Mari había dirigido. Dieciséis operativos habían bajado los cuerpos al patio interior. Los Eldara muertos — los habían contado, aunque la cifra exacta dependía de a quién le preguntaras: siete según Mari, ocho según Berys, que se había encontrado un cuerpo en la despensa que nadie había visto caer —. Los habían dejado en una fila al fondo, con las armaduras puestas, para que viniera a buscarlos quien vendría a buscarlos. Los que se habían retirado al amanecer con Theim y Muoro fueron pocos. Los suyos los habían velado en la sala grande del segundo piso, de dos en dos, con las velas que pudieron conseguir.
 
-Veintidós muertos.
+Veintidós muertos contados. Algún herido grave todavía vivo iba a sumar a la cuenta los días siguientes.
 
 Cinco humanos de la red, una Naggar — no la vieja Illen, Illen había salido por el pasadizo del oeste a tiempo, sino una joven de treinta años que había subido a la escalera a cubrir a Mari —, tres mestizos, dos del equipo de cocina de Berys, un chico del cuarto de armas, el vigía del puente alto, cuatro operativos nuevos de los que Nyree apenas se había aprendido los nombres, tres agentes de calle del barrio bajo y, por fin, Haris.
 
@@ -87,14 +87,6 @@ Nyree tardó un segundo.
 —¿Ciego.
 
 —Ciego. Con venda.
-
-Nyree miró el patio. El sol ya estaba en el borde de la colina oeste. La luz caía muy baja sobre los muertos del fondo.
-
-—Voy.
-
-—¿Sola.
-
-—Sola.
 
 Nyree miró el patio. El sol ya estaba en el borde de la colina oeste. La luz caía muy baja sobre los muertos del fondo.
 

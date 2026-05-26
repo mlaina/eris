@@ -1,6 +1,6 @@
-# CLAUDE.md — instrucciones para Claude
+# AGENTS.md — instrucciones para Codex
 
-Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia política y militar ambientada en Anira/Aniradnam. Draft objetivo: ~300 páginas, **24 capítulos**, 5 actos. Idioma: **español**.
+Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia política y militar ambientada en Anira/Aniradnam. Draft objetivo: ~300 páginas, 22 capítulos, 5 actos. Idioma: **español**.
 
 ## Antes de nada: lee `ESTADO.md`
 
@@ -20,7 +20,7 @@ Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia polític
 - **Tono**: Sicario. Sobrio, operativo, frases cortas, observacional. No melodrama ni barroco épico.
 - **Prosa nunca en ficha**: toda información táctica/estructural va en narrativa continua. Sin bullets, sin "Objetivo:", sin notas meta entre paréntesis.
 - **Habla Eldara**: 1-2 palabras por frase entre ellos (Nexalita rellena contexto). Orgullo militar. En palacio los Naggar se enorgullecen de lo contrario: soltura y retórica larga.
-- **POV**: tercera persona limitada muy cercana a Eris durante todo el libro. Tres excepciones: Cap 2 (POV Lirae), Cap 20 (POV Lirae, descubrimiento) y Cap 24 epílogo (POV Nyree).
+- **POV**: tercera persona limitada muy cercana a Eris durante todo el libro. Tres excepciones: Cap 2 (POV Lirae), Cap 20 (POV Lirae, descubrimiento) y Cap 23 epílogo (POV Nyree).
 - **Canon en `/canon` es la fuente única de verdad**. Si aparece un término nuevo, consultar `canon/glosario.md` primero.
 - **Cambios bloqueantes siempre con Marcos** antes de escribir: edad, pasado, intención de personajes, ubicaciones.
 

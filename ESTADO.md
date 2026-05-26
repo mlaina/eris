@@ -1,7 +1,7 @@
 # Estado del proyecto — *Eris*
 
 **Última sesión**: 2026-05-25 (limpieza y grafo Obsidian + verificación de enriquecimiento de lore).
-**Próxima decisión bloqueante**: hipótesis tritón–Eris en cap 13 (opciones en [[sesiones/2026-05-16-cap20-descubrimiento-lirae]]); decisiones del cap 12 (Reunión de Las Manos) en [[draft/acto-III-rediseno]].
+**Próxima decisión bloqueante**: ninguna grande. Sólo relectura de Marcos de caps tocados/escritos hoy (9, 12, 13, 16, 17 ajustado, 21 nuevo, 22 reescrito, 23 con ajuste, 24 con duplicación arreglada).
 
 ---
 
@@ -44,31 +44,32 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 ### Acto III — Revelación
 
-| # | Archivo | Estado |
-|---|---|---|
-| 11 | [[estructura/capitulos/acto-III/11-corte-hueca]] | 🔄 sólo cambios mecánicos (Virim→Aluren); toda la estructura se reescribe según [[draft/acto-III-rediseno]] |
-| 12 | [[estructura/capitulos/acto-III/12-reunion-manos]] | 🔄 reescrito desde cero 2026-05-25 (Reunión de Las Manos, asunto (a) Iretha + roces (b) Loroa). Pendiente relectura de Marcos |
-| 13 | [[estructura/capitulos/acto-III/13-bajo-palacio]] | 🔄 reescrito desde cero 2026-05-02 (descenso accidental, Eris sola, tritón). Pendiente confirmar versión + integrar canon nuevo del cap 20 |
-| 14 | [[estructura/capitulos/acto-III/14-lirae-pared]] | 🔄 depende del rediseño Acto III |
-| 15 | [[estructura/capitulos/acto-III/15-aislamiento]] | 🔄 depende del rediseño Acto III |
+| #   | Archivo                                            | Estado                                                                                                                                                                                                                                                     |
+| --- | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 11  | [[estructura/capitulos/acto-III/11-corte-hueca]]   | 🔄 sólo cambios mecánicos (Virim→Aluren); toda la estructura se reescribe según [[draft/acto-III-rediseno]]                                                                                                                                                |
+| 12  | [[estructura/capitulos/acto-III/12-reunion-manos]] | 🔄 reescrito desde cero 2026-05-25 (Reunión de Las Manos, asunto (a) Iretha + roces (b) Loroa). Pendiente relectura de Marcos                                                                                                                              |
+| 13  | [[estructura/capitulos/acto-III/13-bajo-palacio]]  | ✅ validado 2026-05-25 (reescrito + canon cap 20 integrado + monólogo interno antes del rey + contexto post-Nurn + conflicto Eldara antes de seguir + habilidad infiltración/oscuridad + impacto adrenalina post-criatura; coherencia cap 13↔20 verificada) |
+| 14  | [[estructura/capitulos/acto-III/14-lirae-pared]]   | 🔄 depende del rediseño Acto III                                                                                                                                                                                                                           |
+| 15  | [[estructura/capitulos/acto-III/15-aislamiento]]   | 🔄 depende del rediseño Acto III                                                                                                                                                                                                                           |
 
 ### Acto IV — Fuga
 
-| # | Archivo | Estado |
-|---|---|---|
-| 16 | [[estructura/capitulos/acto-IV/16-cena-confesiones]] | 🔄 retoques mecánicos aplicados, pendiente pulido |
-| 17 | [[estructura/capitulos/acto-IV/17-huida-haris]] | 🔄 retoques mecánicos, pendiente pulido |
-| 18 | [[estructura/capitulos/acto-IV/18-viaje-ygoran]] | 🔄 primera pasada |
-| 19 | [[estructura/capitulos/acto-IV/19-ygoran-rebelde]] | 🔄 primera pasada |
-| 20 | [[estructura/capitulos/acto-IV/20-descubrimiento-lirae]] | ✅ validado 2026-05-16 (POV Lirae, descubrimiento del tritón) |
+| #   | Archivo                                                  | Estado                                                                                                                                                           |
+| --- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 16  | [[estructura/capitulos/acto-IV/16-cena-confesiones]]     | 🔄 pulido 2026-05-25 (3 zonas Nexalita conversacional reescritas a voz + pulso sensorial; Elerian sin italics; errata "vela cera cocinada"). Pendiente relectura |
+| 17  | [[estructura/capitulos/acto-IV/17-huida-haris]]          | 🔄 retoques mecánicos, pendiente pulido                                                                                                                          |
+| 18  | [[estructura/capitulos/acto-IV/18-viaje-ygoran]]         | 🔄 primera pasada                                                                                                                                                |
+| 19  | [[estructura/capitulos/acto-IV/19-ygoran-rebelde]]       | 🔄 primera pasada                                                                                                                                                |
+| 20  | [[estructura/capitulos/acto-IV/20-descubrimiento-lirae]] | ✅ validado 2026-05-16 (POV Lirae, descubrimiento del tritón)                                                                                                     |
 
 ### Acto V — Tragedia
 
-| # | Archivo | Estado |
-|---|---|---|
-| 21 | [[estructura/capitulos/acto-V/21-asalto-ygoran]] | 🔄 primera pasada, pulir |
-| 22 | [[estructura/capitulos/acto-V/22-muerte-eris]] | 🔄 primera pasada, pulir. Tono contenido máximo. ✅ ajuste *"ahora sí"* aplicado 2026-05-25 |
-| 23 | [[estructura/capitulos/acto-V/23-epilogo-nyree]] | 🔄 primera pasada, pulir. POV Nyree |
+| #   | Archivo                                          | Estado                                                                                     |
+| --- | ------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 21  | [[estructura/capitulos/acto-V/21-tejado-ygoran]] | 🔄 NUEVO 2026-05-25 (pausa en Ygoran; Nyree-Eris-Haris; Haris se quita la Nexalita; Eris la conserva como última carta). Pendiente relectura |
+| 22  | [[estructura/capitulos/acto-V/22-asalto-ygoran]] | 🔄 reescrito 2026-05-25 (caoticidad + Muoro lidera + Theim aparte + Eris usa la Nexalita ofensivamente). Pendiente relectura |
+| 23  | [[estructura/capitulos/acto-V/23-muerte-eris]]   | 🔄 primera pasada, pulir. Tono contenido máximo. ✅ ajuste *"ahora sí"* aplicado 2026-05-25 |
+| 24  | [[estructura/capitulos/acto-V/24-epilogo-nyree]] | 🔄 primera pasada (duplicación arreglada + cifras suavizadas 2026-05-25). POV Nyree        |
 
 ---
 
@@ -76,18 +77,16 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 ### 🟢 Pulido de capítulos validados a medias
 
-- Cap 13 — confirmar versión actual e integrar canon nuevo del cap 20 (hipótesis Mirisar, por qué el tritón no apagó la magia a Eris).
-- Cap 16 — pulido.
-- Caps 21-23 Acto V — pulido.
+- Caps 23-24 Acto V — pulido (cap 23 muelle, cap 24 epílogo Nyree).
 
 ### 🔴 Ajustes obligatorios pendientes
 
-- **Outline maestro desincronizado**: [[estructura/outline-5actos]] tiene numeración vieja (22 caps; los archivos reales suman 23 con cap 20 nuevo + Acto V ya renumerado a 21-23 + cap 12 reescrito como Reunión de Las Manos). Resincronizar al final.
+- **Outline maestro desincronizado**: [[estructura/outline-5actos]] tiene numeración vieja (22 caps; los archivos reales suman **24** con cap 20 POV Lirae + cap 12 Reunión de Las Manos + cap 21 nuevo "El tejado" + Acto V renumerado a 22-24). Resincronizar al final.
 
 ### 🟡 Decisiones narrativas para futuras sesiones
 
-- Hipótesis a decidir al revisar cap 13: por qué el tritón no apagó la magia a Eris. Opciones en [[sesiones/2026-05-16-cap20-descubrimiento-lirae]].
-- Caps 11, 12, 14, 15: dependen de la reescritura del Acto III.
+- Hipótesis tritón–Eris: ✅ decidida 2026-05-25 — (a)+(c) con matiz (b). Eris no canalizaba + Faree ocupaba al tritón en el ritual; lo que dispara la reacción es la **medición activa** (Lirae con péndulo y esferas encendidas en cap 20).
+- Caps 11, 14, 15: dependen de la reescritura del Acto III.
 - Caps 17, 18, 19: Acto IV intermedio sin marcar como claros aún.
 
 ---
@@ -118,15 +117,16 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 **Acto IV — Fuga y rebelión**
 - Cap 16: La cena. Eris y Haris salen esa misma noche.
-- Cap 17: Huida. [[canon/personajes/lyris]] da sobre "asunto de las velas". Extracción de Nexalita.
+- Cap 17: Huida. [[canon/personajes/lyris]] da sobre "asunto de las velas". Eris y Haris llegan a Ygoran con la Nexalita puesta.
 - Cap 18: Al norte. Trece días. Tum tum los alcanza en Liga Kovax.
 - Cap 19: Ygoran. [[canon/personajes/nyree]] los acepta con reservas. 23 días.
 - Cap 20: POV Lirae. Descubrimiento del tritón. Nunca más se sabrá de ella.
 
 **Acto V — Tragedia**
-- Cap 21: Asalto. [[canon/personajes/muoro]] al frente. [[canon/personajes/theim]] mata a [[canon/personajes/haris]].
-- Cap 22: Muelle al amanecer. Corte de las dos manos. Decapitación en elipsis.
-- Cap 23 — **POV [[canon/personajes/nyree]]**. 22 muertos. Aparece [[canon/personajes/velerian]]. Cierre ambiguo.
+- Cap 21: El tejado. Ygoran en calma. Nyree le dice a Eris que ya no sabe para qué se levanta. [[canon/personajes/haris]] se quita la Nexalita; Eris la conserva como última carta.
+- Cap 22: Asalto. [[canon/personajes/muoro]] lidera. [[canon/personajes/theim]] aparte, con orden personal del rey. Eris usa la Nexalita ofensivamente. Theim mata a Haris.
+- Cap 23: Muelle al amanecer. Corte de las dos manos. Decapitación en elipsis.
+- Cap 24 — **POV [[canon/personajes/nyree]]**. ~22 muertos. Aparece [[canon/personajes/velerian]]. Cierre ambiguo.
 
 ---
 
@@ -172,5 +172,5 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 - Cap 2: POV [[canon/personajes/lirae]].
 - Cap 20: POV [[canon/personajes/lirae]].
-- Cap 23 (tras renumeración): POV [[canon/personajes/nyree]].
+- Cap 24 (epílogo): POV [[canon/personajes/nyree]].
 - Resto del libro: POV Eris en tercera persona limitada muy cercana.

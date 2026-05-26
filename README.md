@@ -16,7 +16,7 @@
   - [[estructura/capitulos/acto-II/05-audiencia-larien|05 Audiencia del Larien]] · [[estructura/capitulos/acto-II/06-nurn-dia|06 Nurn día]] · [[estructura/capitulos/acto-II/07-cena-elerian|07 Cena con Elerian]] · [[estructura/capitulos/acto-II/08-atentado|08 Atentado tintoreros]] · [[estructura/capitulos/acto-II/09-mision-135|09 Misión 135]] · [[estructura/capitulos/acto-II/10-pesadillas|10 Pesadillas]]
   - [[estructura/capitulos/acto-III/11-corte-hueca|11 La corte hueca]] · [[estructura/capitulos/acto-III/12-reunion-manos|12 Reunión de Las Manos]] · [[estructura/capitulos/acto-III/13-bajo-palacio|13 Bajo el palacio]] · [[estructura/capitulos/acto-III/14-lirae-pared|14 Lirae y la pared]] · [[estructura/capitulos/acto-III/15-aislamiento|15 Aislamiento]]
   - [[estructura/capitulos/acto-IV/16-cena-confesiones|16 La cena: confesiones]] · [[estructura/capitulos/acto-IV/17-huida-haris|17 Huida con Haris]] · [[estructura/capitulos/acto-IV/18-viaje-ygoran|18 Viaje a Ygoran]] · [[estructura/capitulos/acto-IV/19-ygoran-rebelde|19 Ygoran rebelde]] · [[estructura/capitulos/acto-IV/20-descubrimiento-lirae|20 Descubrimiento (POV Lirae)]]
-  - [[estructura/capitulos/acto-V/21-asalto-ygoran|21 Asalto Ygoran]] · [[estructura/capitulos/acto-V/22-muerte-eris|22 Muerte de Eris]] · [[estructura/capitulos/acto-V/23-epilogo-nyree|23 Epílogo (POV Nyree)]]
+  - [[estructura/capitulos/acto-V/21-tejado-ygoran|21 El tejado (Ygoran en calma)]] · [[estructura/capitulos/acto-V/22-asalto-ygoran|22 Asalto a Ygoran]] · [[estructura/capitulos/acto-V/23-muerte-eris|23 Muerte de Eris (muelle)]] · [[estructura/capitulos/acto-V/24-epilogo-nyree|24 Epílogo (POV Nyree)]]
 
 ### El mundo
 
