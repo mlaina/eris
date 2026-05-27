@@ -1,4 +1,4 @@
-"""Build Eris-v0.docx from the markdown sources.
+"""Build Eris-vX.docx from the markdown sources.
 
 Structure:
   - Cover page (title)
@@ -7,14 +7,20 @@ Structure:
   - Glosario
   - Lugares
   - Personajes
+
+Modes:
+  default          → A4, 6.5in image, no page numbers (digital reading).
+  --print          → A5, smaller image, page numbers in footer (imprimir
+                     2-up en A4 doble cara desde Word/PDF).
 """
 
+import argparse
 import os
 import re
 from pathlib import Path
 
 from docx import Document
-from docx.shared import Pt, Inches, RGBColor
+from docx.shared import Pt, Inches, RGBColor, Mm
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK
 from docx.oxml.ns import qn
 from docx.oxml import OxmlElement
@@ -23,7 +29,34 @@ ROOT = Path(__file__).resolve().parent.parent
 CAPS_DIR = ROOT / "estructura" / "capitulos"
 CANON_DIR = ROOT / "canon"
 MAP_PNG = ROOT / "build" / "mapa.png"
-OUT = ROOT / "build" / "Eris-v0.docx"
+
+# Configurable per build via CLI.
+parser = argparse.ArgumentParser()
+parser.add_argument("--print", dest="print_mode", action="store_true",
+                    help="A5 + page numbers (imprimir 2-up en A4 a doble cara).")
+parser.add_argument("--out", default=None, help="Override output filename.")
+args = parser.parse_args()
+
+if args.print_mode:
+    OUT = ROOT / "build" / (args.out or "Eris-v2-print.docx")
+    PAGE_W = Mm(148)
+    PAGE_H = Mm(210)
+    MARGIN_TOP = Mm(14)
+    MARGIN_BOT = Mm(14)
+    MARGIN_L = Mm(15)
+    MARGIN_R = Mm(15)
+    MAP_WIDTH = Inches(4.7)
+    PAGE_NUMBERS = True
+else:
+    OUT = ROOT / "build" / (args.out or "Eris-v2.docx")
+    PAGE_W = Inches(8.5)
+    PAGE_H = Inches(11)
+    MARGIN_TOP = Inches(1)
+    MARGIN_BOT = Inches(1)
+    MARGIN_L = Inches(1)
+    MARGIN_R = Inches(1)
+    MAP_WIDTH = Inches(6.5)
+    PAGE_NUMBERS = False
 
 CHAPTERS = [
     ("acto-I", [
@@ -242,6 +275,50 @@ def page_break(doc):
     p.add_run().add_break(WD_BREAK.PAGE)
 
 
+def configure_page(doc):
+    """Aplicar tamaño y márgenes a todas las secciones."""
+    for section in doc.sections:
+        section.page_width = PAGE_W
+        section.page_height = PAGE_H
+        section.top_margin = MARGIN_TOP
+        section.bottom_margin = MARGIN_BOT
+        section.left_margin = MARGIN_L
+        section.right_margin = MARGIN_R
+
+
+def add_page_number_field(paragraph):
+    """Insertar campo PAGE en el párrafo (numeración automática Word)."""
+    run = paragraph.add_run()
+    fldChar1 = OxmlElement("w:fldChar")
+    fldChar1.set(qn("w:fldCharType"), "begin")
+    instrText = OxmlElement("w:instrText")
+    instrText.set(qn("xml:space"), "preserve")
+    instrText.text = "PAGE"
+    fldChar2 = OxmlElement("w:fldChar")
+    fldChar2.set(qn("w:fldCharType"), "end")
+    run._r.append(fldChar1)
+    run._r.append(instrText)
+    run._r.append(fldChar2)
+
+
+def configure_page_numbers(doc):
+    """Footer centrado con número de página en todas las secciones."""
+    for section in doc.sections:
+        footer = section.footer
+        footer.is_linked_to_previous = False
+        # Limpiar paragraph existente y añadir el campo
+        p = footer.paragraphs[0]
+        p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        # Borrar runs existentes para evitar duplicados al regenerar
+        for run in list(p.runs):
+            run._element.getparent().remove(run._element)
+        add_page_number_field(p)
+        # Aplicar fuente al run insertado
+        for run in p.runs:
+            run.font.name = "Garamond"
+            run.font.size = Pt(10)
+
+
 def add_cover(doc):
     # Espacio vertical
     for _ in range(6):
@@ -271,7 +348,7 @@ def add_cover(doc):
 
     p = doc.add_paragraph()
     p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    run = p.add_run("Versión v0 — 2026-05-26")
+    run = p.add_run("Versión v2 — 2026-05-27")
     run.font.size = Pt(10)
     run.italic = True
     page_break(doc)
@@ -289,8 +366,7 @@ def add_map(doc):
         p = doc.add_paragraph()
         p.alignment = WD_ALIGN_PARAGRAPH.CENTER
         run = p.add_run()
-        # Ajustar al ancho de página manteniendo proporción.
-        run.add_picture(str(MAP_PNG), width=Inches(6.5))
+        run.add_picture(str(MAP_PNG), width=MAP_WIDTH)
     page_break(doc)
 
 
@@ -341,6 +417,7 @@ def add_glosario(doc):
 def main():
     doc = Document()
     set_default_font(doc)
+    configure_page(doc)
 
     add_cover(doc)
     add_map(doc)
@@ -355,6 +432,9 @@ def main():
     add_glosario(doc)
     add_canon_section(doc, "Lugares", LUGARES_ORDER, CANON_DIR / "lugares")
     add_canon_section(doc, "Personajes", PERSONAJES_ORDER, CANON_DIR / "personajes")
+
+    if PAGE_NUMBERS:
+        configure_page_numbers(doc)
 
     OUT.parent.mkdir(parents=True, exist_ok=True)
     doc.save(OUT)

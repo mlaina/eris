@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sesiones/2026-05-26-critica-sanderson.md",
+                "file": "estructura/capitulos/acto-I/01-prologo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-26-critica-sanderson"
+              "title": "01-prologo"
             }
           }
         ],
@@ -202,8 +202,16 @@
   },
   "active": "dd4849e554ddb54e",
   "lastOpenFiles": [
-    "estructura/capitulos/acto-III/14-lirae-pared.md",
+    "build/Eris-v2-print.docx",
     "sesiones/2026-05-26-critica-sanderson.md",
+    "build/Eris-v2.docx",
+    "estructura/capitulos/acto-V/24-epilogo-nyree.md.tmp.14184.1779833748724",
+    "sesiones/2026-05-27-critica-sanderson-v1.md",
+    "estructura/capitulos/acto-I/02-elis-lirae.md.tmp.14184.1779832826870",
+    "estructura/capitulos/acto-IV/20-descubrimiento-lirae.md.tmp.14184.1779832743404",
+    "estructura/capitulos/acto-III/15-aislamiento.md.tmp.14184.1779832522202",
+    "build/Eris-v1.docx",
+    "estructura/capitulos/acto-III/14-lirae-pared.md",
     "sesiones/2026-05-26-adaptacion-final-caps23-24.md",
     "sesiones/2026-05-26-reescritura-acto-IV-cap21.md",
     "ESTADO.md",
@@ -222,23 +230,15 @@
     "tools",
     "build",
     "estructura/capitulos/acto-IV/16-cena-confesiones.md",
-    "estructura/capitulos/acto-V/24-epilogo-nyree.md.tmp.14184.1779806676796",
     "estructura/capitulos/acto-V/22-asalto-ygoran.md",
     "estructura/capitulos/acto-V/23-el-muelle.md",
-    "estructura/capitulos/acto-V/23-el-muelle.md.tmp.14184.1779793937109",
-    "estructura/capitulos/acto-V/23-el-muelle.md.tmp.14184.1779793900322",
-    "estructura/capitulos/acto-V/23-el-muelle.md.tmp.14184.1779793334858",
-    "estructura/capitulos/acto-V/22-asalto-ygoran.md.tmp.14184.1779788142048",
     "sesiones/2026-05-25-propuestas-mejora-capitulos.md",
     "draft/revision-v1-partes-criticas.md",
-    "estructura/outline-5actos.md.tmp.12356.1779722458762",
     "estructura/capitulos/acto-V/21-tejado-ygoran.md",
     "estructura/capitulos/acto-V/23-muerte-eris.md",
     "memory/feedback_dictado_wispr.md",
     "estructura/capitulos/acto-III/13-bajo-palacio.md",
     "AGENTS.md",
-    "CODEX.md",
-    "CLAUDE.md",
     "Sin título.canvas",
     "draft/referencias-marcos/prologo-fabrica-entrada.jpeg",
     "mapa.svg",

@@ -12,6 +12,8 @@ Salieron sin despedirse. No dieron parte. Muoro no estaba en el patio. Aluren ta
 
 No había esperado.
 
+Al cruzar el umbral, Eris pensó un segundo en los dos nombres que no había vuelto a cruzar antes de salir. Aluren, que la dejaría pasar o no — eso ya no era cosa de Eris —. Muoro, que le había dejado una puerta abierta tres tardes antes y que no iba a estar abierta cuando Eris volviera, si volvía. Los dos quedaban dentro.
+
 Haris cerró la puerta sur detrás de ellos con la mano abierta, sin golpe.
 
 —*Tiempo* —dijo.
@@ -122,11 +124,21 @@ Lirae negó una vez.
 
 —Ya.
 
-Se abrazaron un segundo. Breve, lateral, mal hecho. Suficiente.
+Se abrazaron un segundo más largo que el primero. Lirae le pasó dos dedos por el dorso de la mano, despacio, sin apretar — el mismo gesto de pregunta sin palabras que llevaba treinta años haciendo —. Esta vez no era pregunta.
 
 Al separarse, Eris cogió la pluma de la mesa. La del mango de madera oscura con la marca quemada. Lirae la vio hacerlo y no dijo nada.
 
-—Vete —dijo.
+Eris fue al armario del fondo. No abrió el armario. Cogió la lasca de plomo que Lirae había dejado encima — el regalo de Oren, la piedra de ajustar el peso del mundo cuando hacía falta —. La sopesó un instante.
+
+—Llévatela —dijo Lirae.
+
+—No, Lirae.
+
+—Llévatela. La quiero contigo.
+
+Eris no insistió. Guardó la lasca junto a la pluma, en el bolsillo interior de la capa.
+
+—Vete —dijo Lirae.
 
 Eris salió.
 
@@ -239,6 +251,12 @@ Eris lo cogió y lo guardó junto a la pluma de Lirae.
 —No al rey.
 
 —Hoy no es la misma cosa.
+
+Pausa breve.
+
+—Llevo cuatro siglos al lado de Faree. Se ve cuándo un hombre deja de pesar el reino y empieza a pesarse a sí mismo. Faree lleva siete meses haciéndolo.
+
+Eris no preguntó qué quería decir. Lo supo.
 
 La primera pareja de guardias dobló el arco superior de la avenida. Armadura clara de palacio. Lanzas cortas. Sin escudo. Detrás venían otros cuatro.
 

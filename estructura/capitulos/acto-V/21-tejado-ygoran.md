@@ -354,7 +354,7 @@ Haris la sostuvo entre los dedos un segundo. Pequeña, oscura, plana. Después l
 
 —Más bajo. Más cerca. Como si oyera el puerto por primera vez.
 
-Eris registró que Haris hablaba ya con voz un grado más amplia que cinco minutos antes. Los Eldara comprimían la frase porque la Nexalita rellenaba el resto. Sin ella, el aliento se ensanchaba sin pedir permiso.
+Eris notó que Haris hablaba ya con voz un grado más amplia que cinco minutos antes. Los Eldara comprimían la frase porque la Nexalita rellenaba el resto. Sin ella, el aliento se ensanchaba sin pedir permiso.
 
 —Te suena la gente —dijo Eris.
 
@@ -523,8 +523,6 @@ Las iba a ver morir, probablemente, en los próximos días.
 Una. Quizá dos.
 
 Y si morían, no moriría sólo una línea peor entrenada que la suya. Moriría una cocina. Una hermana. Una mano que sabía reparar vendas. Una voz que sabía callar a un niño enfermo por la noche.
-
-Eris registró eso.
 
 No se durmió.
 

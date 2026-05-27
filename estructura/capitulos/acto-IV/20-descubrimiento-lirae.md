@@ -88,6 +88,8 @@ Una esfera blanca apareció a un metro por delante de la palma — del tamaño d
 
 Lirae no era lumínica. Era gravitatoria. La luz le costaba el doble que a una Mirisar dominante. Pero había aprendido las otras formas en silencio, sin alardear de ello, y la luz simple era lo primero que se aprendía. Un dedo, un foco.
 
+La mano fue al cinturón por costumbre, a buscar la lasca de plomo. No estaba. Se la había dado a Eris cinco días antes. Bajaba sin pesa. A medir sin instrumento.
+
 Siguió.
 
 La curva a la derecha. La sala de los tres caminos. No necesitó pensar cuál tomar — el péndulo había marcado suroeste, el pasaje izquierdo bajaba al suroeste —. Fue por el izquierdo.
@@ -289,6 +291,10 @@ La cabeza del tritón no se movió.
 Los ojos no parpadearon.
 
 El *tum tum* subió un grado más.
+
+*Ya*, pensó Lirae, sin palabras. *Ya me lleva.*
+
+No tuvo miedo en esa última línea. Tuvo otra cosa — la cosa que tiene quien lleva sesenta años midiendo algo y por fin lo toca con la mano —. Le duró el segundo que le duró.
 
 La mota se apagó.
 

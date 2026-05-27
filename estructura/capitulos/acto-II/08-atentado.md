@@ -50,7 +50,7 @@ Faree, Lyris, Kroma y los dos delegados Naggar bajaron al patio detrás de ella.
 
 Le dolía a Eris la cabeza un grado, no más. Llevaba dentro la noche entera — la cena, el cigarrillo, el azul de los iris en el espejo, el pan con la sensación olvidada, la vuelta por los tejados. El cuerpo le respondía pero a un compás más lento de lo habitual. Los hombros pesaban distinto. Los párpados estaban donde tenían que estar y un poco más abajo.
 
-Eris registró todo eso al cruzar el patio y lo dejó atrás. Tenía día por delante.
+Eris lo dejó atrás al cruzar el patio. Tenía día por delante.
 
 Haris la miró al entrar. La habitual. Después siguió mirando los tejados.
 
@@ -92,7 +92,7 @@ Caminaron despacio.
 
 Faree retomó la conversación con el delegado de archivos a los pocos pasos de salir, a media voz. Algo sobre un protocolo de inventario que tendría que actualizarse al volver. La delegada de comercio caminaba al lado del rey en silencio, las manos en las mangas de la túnica al estilo viejo. Faree respondía midiendo. Era el tono de la mañana — lo justo de cordial para que se notara que tres días en Nerath le habían bastado y le habían sobrado dos.
 
-La Nexalita, en el cuello de Eris, llevaba el ritmo bajo de la escuadra de seis. Los Eldara despiertos, atentos sin estarlo.
+La Nexalita, en el cuello de Eris, llevaba el ritmo bajo de la escuadra de seis. Los Eldara despiertos, atentos sin estarlo. La placa, en mínimos, sólo recibía; en máximos, también emitía. En Lorin se enseñaba el día doscientos: la red podía pasar miedo, dolor o falsa muerte si el emisor decidía mentir. Nadie la usaba así. Romper la lectura común para meter ruido fabricado dejaba al emisor con dos segundos de cabeza en blanco, y dos segundos en operación eran dos segundos demasiados. Era teoría de cuartel. No oficio.
 
 Eris caminaba por el lateral izquierdo. Haris a su altura, los ojos en los tejados por oficio.
 
@@ -180,6 +180,8 @@ Cuatro cuerpos. En el aire, el olor nuevo: metal, sangre caliente, aceite quemad
 
 Faree no se había movido un palmo. Kroma tampoco. Theim había hecho el trabajo.
 
+Theim no se apartó del último cuerpo en seguida. Se quedó medio segundo de más mirando la cara del joven contra la pared. Los dedos de la mano izquierda — la que no llevaba la hoz — se le habían cerrado en puño, sin razón visible, como cierran los dedos en la cama de quien sueña algo que no se acuerda al despertarse. Eris lo registró sin mirar directo. Theim soltó la mano. La cara no le cambió. Cuando se dio la vuelta hacia el rey, los ojos rojos ya no destellaban.
+
 Detrás del rey, los dos delegados Naggar habían retrocedido medio paso hacia el centro de la formación. La cara compuesta, los dos: la expresión que se enseñaba en palacio para estos momentos — no horror, no aprobación, una ausencia de gesto que un humano podía leer como serenidad y que de hecho era entrenamiento. La delegada de comercio tenía las manos todavía dentro de las mangas. El delegado de archivos tenía la mandíbula un grado más tensa de lo que correspondía. Eris los registró sin mirarlos directamente.
 
 El rey caminó hasta el último cuerpo — el del joven, contra la pared — y se detuvo a dos pasos. No se agachó. Miró la cara del hombre durante un segundo. Después la pared detrás. Después se volvió hacia Eris.
@@ -196,7 +198,7 @@ Era otra. Una expresión dura, contenida, sin teatro. La que le salía cuando al
 
 —Sí, majestad.
 
-Eris registró un segundo. Los gemelos cubrían los flancos. Haris había probado los tejados. Ella misma se quedaba con el rey. Therel y Nerei eran los que mejor podía soltar.
+Eris pensó un segundo. Los gemelos cubrían los flancos. Haris había probado los tejados. Ella misma se quedaba con el rey. Therel y Nerei eran los que mejor podía soltar.
 
 —Therel. Nerei.
 
@@ -250,7 +252,7 @@ No lo hizo. La Kalari de Coria no dormía en una Arteria con el rey a tres metro
 
 Faree, al otro lado del haz, miraba un punto en el aire. No hablaba con nadie. Lyris tampoco, las dos esferas suyas apagadas durante el tránsito como hacía siempre por costumbre vieja. Theim se había quedado inmóvil contra la pared interior del haz. Kroma, los cuatro brazos extendidos por el equilibrio.
 
-Eris registró el silencio del tránsito como un descanso parcial. No era el primero. No iba a ser el último de la semana.
+El silencio del tránsito le sirvió de descanso parcial. No era el primero. No iba a ser el último de la semana.
 
 Dos horas después, la Arteria los dejó en el Orio de Elis.
 
@@ -272,7 +274,7 @@ La comitiva se deshizo en el patio exterior. Faree se fue al palacio con Kroma, 
 
 Theim no la miró al pasar.
 
-Eris los vio irse hacia la colina del palacio. El sol estaba en lo alto sobre Kiral Ree y la torre principal cortaba la luz en un ángulo que Eris conocía sin tener que mirar. Elis al mediodía no era Nerath: aquí no había dos luces, había una. Limpia, blanca, alta. Eris la registró sin comentar. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
+Eris los vio irse hacia la colina del palacio. El sol estaba en lo alto sobre Kiral Ree y la torre principal cortaba la luz en un ángulo que Eris conocía sin tener que mirar. Elis al mediodía no era Nerath: aquí no había dos luces, había una. Limpia, blanca, alta. Eris la miró sin comentar. Después se dio la vuelta y bajó con su escuadrón por el paso del sur a Lorin.
 
 ---
 

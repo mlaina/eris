@@ -92,6 +92,8 @@ Cargó.
 
 Lanza al pecho. Estocada larga, los dos pies por detrás, el peso entero. Theim se inclinó tres pulgadas — el cuerpo entero, no la cabeza — y la lanza pasó por su hombro derecho sin tocar. La hoz subió en respuesta. Pulgada de filo contra el muslo de Eris, no cortó. Aviso.
 
+Eris lo registró. Theim podía haberla matado en ese gesto. Theim había bajado el filo dos dedos en el último momento. Era la primera pista de que la orden no era *Eris muerta a la primera*. La orden era otra. La orden iba a llevar su tiempo.
+
 Eris recompuso. Devolvió con la culata al costado izquierdo de Theim. Theim no estaba. Ya había rotado dos pasos al sur.
 
 Eris volvió a cargar. Tajo lateral con la lanza al cuello. Theim bajó el cuerpo medio palmo y la lanza pasó por encima. La cara seguía con la sonrisa de loco. Los ojos rojos empezaron a destellar despacio.

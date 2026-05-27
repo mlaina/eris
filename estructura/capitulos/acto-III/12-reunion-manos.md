@@ -70,7 +70,7 @@ Aluren se inclinó un dedo hacia delante. Habló sin levantar la voz. El despach
 
 —Operación 135 cerrada al octavo día tras la entrega del parte. El cortijo desmantelado. Treinta y un combatientes neutralizados. Ocho rendidos entregados a la guardia local de Iretha con instrucciones de retención breve. El jefe humano, Durek, muerto en el patio. Una baja propia.
 
-Aluren no dijo el nombre de Ravys. La baja propia no se nombraba en sala salvo en el patio del armero. Eris registró que tampoco se nombraba allí.
+Aluren no dijo el nombre de Ravys. La baja propia no se nombraba en sala salvo en el patio del armero. Allí tampoco se nombraba.
 
 —Los depósitos del cortijo — siguió Aluren — los hemos pasado al regular del norte. Trigo, lanza nueva por estrenar, una correspondencia menor que se está cotejando con el archivo. Los cuatro civiles del sótano, repatriados a sus aldeas con doce días de manutención.
 
@@ -120,13 +120,13 @@ Eris asintió con ellos.
 
 Lo hizo a tiempo. Las catorce mujeres y adolescentes que habían salido del sótano por la trampilla, las tres chicas de quince, el chico de catorce que había caído sobre el escudo de Eris junto al pozo del patio, no entraron en la sala. Nadie había contado las catorce en la cifra de Aluren. *Treinta y un combatientes neutralizados.* Treinta y uno era el total. La aritmética del régimen no separaba.
 
-Eris registró eso. No abrió la boca. Si la abría, tendría que abrirla mucho. La cerró.
+Eris no abrió la boca. Si la abría, tendría que abrirla mucho. La cerró.
 
 Daerin no la miró. Iralen sí, un segundo. Le devolvió un guiño minúsculo que no era para celebrar nada — era para decirle *te he visto* —. Eris no le respondió.
 
 Lirae, al fondo izquierdo, levantó los ojos por primera vez. Miró a Eris una vez. Una sola. No movió la boca. Volvió a bajar la mirada a la mesa.
 
-Eris registró eso también.
+Eris la sostuvo.
 
 ---
 
@@ -174,7 +174,7 @@ Eris volvió a mirar a Faree.
 
 Lo miró de cerca. Faree tenía pelo blanco impecable, sonrisa serena, túnica sin un pliegue fuera de sitio. Eso era lo que se veía siempre. Pero esa mañana, debajo de la línea de la mandíbula derecha, en el sitio donde la piel del cuello entraba en la túnica, había una arruga pequeña que Eris no recordaba haberle visto. No era arruga de viejo. Era arruga de cansancio reciente. La piel se había hundido un milímetro y no se había vuelto a estirar.
 
-Eris la registró sin parpadear.
+Tres semanas atrás, en la audiencia del Larien anterior a Nurn, Eris no la había visto. Lo que había en el mundo entre la audiencia de hace tres semanas y la mesa de esa mañana era el viaje a Nerath, la calle de los tintoreros, Iretha. Y algo más, debajo de todo eso — algo que las anomalías de Lirae estaban midiendo al norte. Lirae había dicho, hacía dos semanas, que la frecuencia subía. Si lo de abajo subía, lo de arriba bajaba. Eris no terminó de cerrar la cuenta. La hizo sin terminar.
 
 Lyris, en el extremo de la mesa, tenía la cabeza inclinada hacia Faree un grado. No mucho. Lo suficiente para que las dos esferas blancas también estuvieran inclinadas hacia el rey. Era una postura que se le veía a Lyris en mil audiencias. Pero esta mañana la cabeza no estaba inclinada para atender. Estaba inclinada para medir. Eris conocía esa postura. Era la misma con la que Lirae se inclinaba sobre el péndulo cuando una anomalía no le cuadraba con la pesa que esperaba.
 
@@ -218,7 +218,7 @@ Levantó la cortina con dos dedos. Pasó.
 
 La cortina volvió a su sitio.
 
-Lyris no lo siguió.
+Lyris no lo siguió. Las dos esferas blancas quedaron suspendidas a la altura de su hombro, sin moverse del eje, en una pausa que no era pausa protocolaria — la Kirala no se pausaba protocolariamente: la Kirala iba detrás del rey —. Hoy se quedó. Las esferas no oscilaron ni medio grado.
 
 ---
 

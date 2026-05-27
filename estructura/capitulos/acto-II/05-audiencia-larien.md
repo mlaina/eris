@@ -44,7 +44,7 @@ Hoy había siete ocupados. Dos vacíos.
 
 Eris los fue registrando al subir, sin girar la cabeza.
 
-**Lyris** estaba en su estrado propio, entre la grada y el trono — la Kirala no se sentaba exactamente en los bancos de las Manos, tenía protocolo aparte, pero protocolariamente contaba como presente. Las dos esferas de luz blanca bailaban lentamente entre ellas delante de su pecho.
+**Lyris** estaba en su estrado propio, entre la grada y el trono — la Kirala no se sentaba exactamente en los bancos de las Manos, tenía protocolo aparte, pero protocolariamente contaba como presente. Las dos esferas de luz blanca bailaban lentamente entre ellas delante de su pecho. Eran dos, no más: el oficio en público de la Kirala era llevar dos. En la Sandrie, antes del cargo, Lyris había sido lumínica de excepción — diez focos a la vez sin esfuerzo visible, una promoción al primer ciento, registro que llevaba doscientos años sin batirse —. Pero esos diez focos no se desplegaban en una audiencia. Sólo dos. Por costumbre.
 
 **Daerin Numari** en el primer sitio — privilegio de sangre. Primo de Faree, cabeza de la rama colateral del linaje Numari. Naggar de unos ochocientos años. Pelo plateado, porte erudito, voz baja; en la mano izquierda, el anillo antiguo del archivo dinástico. Sin cargo de Estado: peso de linaje y memoria. De él Eris había aprendido una línea que no olvidaba: *"Tu padre y el conde Gabara cenaron tres veces. La tercera fue la víspera de la firma del pacto."* Daerin le hizo una inclinación mínima de barbilla al entrar. Eris la devolvió.
 
@@ -246,7 +246,7 @@ El Anvur no tenía que confirmar. Kroma iba donde iba Faree.
 
 —Theim.
 
-Theim asintió una sola vez, sin hablar. Tampoco tenía que hablar.
+Theim asintió una sola vez, sin hablar. Tampoco tenía que hablar. Pero cuando Faree apartó la mirada, Theim se quedó medio segundo más mirándolo — un segundo en que la cara de Theim no era la de servir a un rey, era la de servir a un cuerpo conocido. Después se cerró otra vez. Eris lo vio. Faree no.
 
 Faree miró una última vez al escriba.
 

@@ -106,6 +106,18 @@ O la miró sin mover los ojos. Con Lyris era lo mismo.
 
 ---
 
+Esa tarde, antes de bajar al patio, Eris se quedó un rato sola en el almacén del armero viejo. Olía a cuero y aceite. No pensó nada concreto.
+
+Subió primero Muoro, dos plantas más abajo, hablándole al preso del mes pasado con la paciencia de quien lleva cuatrocientos años sin levantar la voz. Subió Illia después, entrenando con Nerei al fondo del patio sin haber vuelto a mirar a Eris desde Iretha.
+
+Y, sin pedir permiso, también un humano. Rastas blancas, una hoja oscura con veta clara, ojos grises. El otro que se había quedado fuera del Cuerpo y se había puesto a cobrar entrada en un coliseo. Eris no lo había vuelto a ver. Sólo guardó el nombre.
+
+*Maelor.*
+
+Eris se levantó del banco del armero viejo y salió al patio.
+
+---
+
 Esa noche, Eris bajó al patio del armero cuando ya no quedaban aprendices.
 
 Haris estaba en el banco de siempre. No fingió casualidad.
@@ -240,7 +252,7 @@ Hacia el final de la tarde, el patio de Lorin volvió a parecer normal.
 
 Illia entrenaba con Nerei al fondo. Therel revisaba correajes. Dos aprendices discutían por una hebilla rota. El cocinero del refectorio gritó algo desde una ventana. Haris estaba junto al banco del armero, demasiado quieto para quien afilaba una daga.
 
-Eris cruzó el patio despacio.
+Eris cruzó el patio despacio. Al pasar por la línea de entrenamiento de Illia, Illia levantó la vista del ejercicio. Un grado, no más. La sostuvo un instante. No fue mirada de reproche; fue mirada de quien todavía no había decidido si lo era. Después bajó otra vez al filo de Nerei. Eris siguió andando. La cuenta de Ravys seguía abierta entre las dos y ninguna de las dos iba a cerrarla esa tarde.
 
 El palacio blanco estaba al otro lado del puente, intacto. Kiral Ree no parecía una jaula. Ese era su talento. Nunca parecía lo que era hasta que la puerta se cerraba.
 

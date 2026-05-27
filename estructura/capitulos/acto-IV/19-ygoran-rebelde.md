@@ -412,7 +412,9 @@ No hizo preguntas.
 
 —Bien.
 
-Se fue.
+Se fue. Detrás de Berys, asomada al quicio sin entrar, una Ssilvaris de dos metros con la espada ancha colgada a la espalda registró a los dos visitantes con la cara cerrada. Escamas verde oscuro, vetas grises. No saludó. Cuando los dos visitantes le entraron en la cuenta, hizo un grado de asentimiento hacia Nyree y se fue por el corredor con la misma cadencia que Berys.
+
+—Krela —dijo Nyree, sin alzar la voz—. Mi segunda. Lleva treinta años aprendiendo a no decir lo que piensa delante de gente que aún no ha decidido si es de la casa.
 
 Nyree se levantó.
 

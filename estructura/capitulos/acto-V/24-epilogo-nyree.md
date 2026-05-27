@@ -244,6 +244,14 @@ Un hilo frío le cruzó la nuca a Nyree.
 
 —Ahora sí.
 
+Pausa.
+
+—Su péndulo sigue. Nadie lo ha parado. Yo lo oigo desde aquí. Marca todavía el suroeste.
+
+—¿Sigue solo.
+
+—Sigue solo. Eso es lo que mide bien — lo que sigue cuando ya no hay nadie que lo lea.
+
 Silencio.
 
 Nyree midió la distancia al banco, la distancia de Krela, la distancia de las dos dagas. El Yll no parecía medir nada. Eso no la tranquilizó.
@@ -269,6 +277,12 @@ Nyree respiró una vez.
 —Eso es cuento.
 
 —Los cuentos salen de cosas que comen bastante tiempo.
+
+—¿Comen qué.
+
+El Yll tardó medio segundo más de lo necesario.
+
+—Eso lo saben tres personas en este continente. Faree es una. Theim quizá la segunda. La tercera, una Yll que vive en el oeste y que aún no me ha querido decir lo suyo. Lo que sé es que el rey no come bien desde hace tres meses y que la criatura, cuando se la mide, está más despierta de lo que estaba hace un año. Algo se está pagando más caro últimamente. O algo se está pidiendo más cantidad. Una de las dos.
 
 —Y tú cazas cuentos.
 
@@ -308,7 +322,17 @@ Nyree dio un paso hacia él.
 
 —No solo.
 
-Nyree lo miró.
+—¿Quién más?
+
+Velerian se tomó un segundo antes de contestar. La voz le bajó un grado.
+
+—Un humano que sobrevivió a un Kretus. Lo perdimos hace seis años en Sesset. La Jauría sabe dónde respira. Si tú entras, yo lo despierto. Cuando lo despierte, Theim sabrá su nombre antes de la cena.
+
+—Maelor.
+
+—Maelor.
+
+Nyree dejó pasar dos segundos. El nombre, en la boca del Yll, había sonado sin teatro — como quien nombra una herramienta vieja que aún corta.
 
 —La Jauría no toma partido.
 

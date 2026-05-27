@@ -70,7 +70,7 @@ Eris asintió.
 
 — **Nyree**. Mujer. Sin apellido. El Mirisar dijo que no supo más. Le hicieron repetirlo dos veces. Lo dijo igual las dos.
 
-Eris registró el nombre. No lo había oído antes. Lo guardó.
+Eris guardó el nombre. No lo había oído antes.
 
 —¿Procedencia.
 
@@ -184,7 +184,7 @@ El plan se desordenó.
 
 La columna del sur había contado con neutralizar a veintidós. Eran cuarenta. La mitad de los cuarenta eran adolescentes y mujeres con lanza. Algunos Eldara siguieron el ritmo de Muoro y mataron sin distinguir; otros — los del flanco oeste sobre todo — pararon a las chicas con el escudo sin clavar, como hacía Eris. El escuadrón había dejado de moverse a una sola voz.
 
-Eris lo registró. No corrigió por la Nexalita.
+Eris no corrigió por la Nexalita.
 
 Durek apareció entonces.
 

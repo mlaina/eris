@@ -234,7 +234,7 @@ La cosa había notado que ella existía.
 
 No supo cómo lo supo. Lo supo.
 
-Tampoco supo por qué la dejó estar. Lo dejó.
+Tampoco supo por qué la dejó estar. La Nexalita la llevaba al mínimo desde el patio del estanque, sin canalizar nada — fondo apagado, sin foco abierto, sin medida pendiente. Eris no estaba *tirando* de nada. La cosa la dejó.
 
 ---
 

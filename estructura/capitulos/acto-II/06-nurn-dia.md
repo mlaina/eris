@@ -58,11 +58,11 @@ El Senescal era un humano de unos sesenta años, cara cansada, barba gris corta,
 
 Faree saludó con el protocolo exacto. El Senescal le respondió en común. Hablaron media hora. Eris no alcanzó a seguir todo — deferencias, tratados viejos, quejas civilizadas sobre rutas comerciales, una conversación sobre el trigo del verano siguiente, otra sobre una boda que no se iba a celebrar —. Nada imprescindible. Nada revelador. El protocolo por el protocolo. Un rey visitando a un imperio sin dueño para que ninguno de los dos tuviera después que explicar qué se había dicho.
 
-Eris lo registró todo sin mover la cara. Registró también, durante la media hora, lo que no se decía.
+Eris escuchó todo sin mover la cara. Y, durante la media hora, también lo que no se decía.
 
 A la izquierda del salón, en el muro lateral, había una puerta alta. No estaba tapiada. No había tela. Era una puerta normal de palacio, cerrada con un cerrojo de hierro grande y dos sellos de lacre sobre la madera — uno rojo del propio imperio, uno negro de la casa de juramentados del Silmarita. Detrás de esa puerta estaba la cámara contigua. Allí yacía **Tyrus, el Silmarita de la Sangre, en coma** desde el final de la Invasión Oscura. Cerrada hacia fuera, abierta sólo para los juramentados de la casa y los médicos que lo atendían. De Coria no había entrado nadie nunca — ni siquiera Theim, juramentado del mismo Silmarita pero nacido y criado al servicio de Faree —. Hoy tampoco iban a entrar. No estaba en el protocolo y el Senescal no lo ofreció.
 
-Theim, detrás de Faree, no miró hacia la puerta durante la media hora. Era la única parte de la sala a la que no miró. Eris lo registró también.
+Theim, detrás de Faree, no miró hacia la puerta durante la media hora. Era la única parte de la sala a la que no miró. Eso a Eris no se le pasó.
 
 Salieron cuando se cumplió la media hora pautada. El Senescal les deseó buena estancia en Nerath. Faree le agradeció la hospitalidad con la elegancia exacta — ni más, ni menos — con la que se agradece a un hombre cuyo oficio consiste en mantener abierta la casa de un dueño que lleva siglos sin levantarse de la cama del cuarto de al lado.
 
@@ -192,7 +192,7 @@ Se adelantó hasta la barandilla del palco, sin preguntar, sin esperar señal de
 
 Faree no lo mandó volver. Miró un segundo la espalda de Theim — sólo un segundo — y dejó caer la mano derecha en el brazo del trono. Permiso tácito.
 
-Eris lo registró. Registró también, sin mirar directamente, que Theim estaba respirando más despacio de lo normal. No era calma. Era espera.
+Eris lo vio. Y, sin mirar directamente, vio también que Theim respiraba más despacio de lo normal. No era calma. Era espera.
 
 Eris y los suyos se colocaron a un lado del palco, de pie, en posición de escolta protocolaria. Haris quedó a la altura de su hombro izquierdo. Los gemelos en la puerta del palco, cubriendo la entrada.
 
@@ -288,7 +288,7 @@ Eris lo vio entero sin pestañear. No era que Maelor fuera más rápido — era 
 
 —Lobo... —dijo Faree muy bajo, para sí mismo.
 
-Theim, en la barandilla, había apoyado la mano en el mango de la hoz. No como quien va a usarla. Como quien reconoce un par. Eris lo registró y no dijo nada.
+Theim, en la barandilla, había apoyado la mano en el mango de la hoz. No como quien va a usarla. Como quien reconoce un par. Eris no dijo nada.
 
 Maelor saludó a la grada con un gesto mínimo. Apenas levantó la espada corta una pulgada. El público rugió más. Maelor se dio la vuelta y caminó hacia el portón del sur como quien vuelve del baño.
 

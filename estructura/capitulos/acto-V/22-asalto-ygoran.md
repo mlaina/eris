@@ -38,6 +38,14 @@ Nyree no preguntó cómo.
 
 —Más de diez. Menos de veinte.
 
+Nyree apretó la mandíbula medio grado.
+
+—Pocos.
+
+—Pocos.
+
+—Bien. Coria no quiere romper Ygoran. Coria sólo quiere romperla a ella. Si trajeran regular, los Valagost del puerto cerrarían la bahía y se les iría la operación en explicaciones diplomáticas durante un año. Esto es Lorin entrando con paso de visita.
+
 —Krela.
 
 —Sí.

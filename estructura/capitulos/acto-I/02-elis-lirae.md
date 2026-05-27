@@ -30,7 +30,7 @@ Más anomalías. Más frecuencia. Más intensidad.
 
 Lirae cerró el libro.
 
-Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Uno de los estudiantes de segundo curso la saludó con una reverencia al cruzarse con ella en el rellano. Erion. Primer-ciento, rubio, los ojos todavía azul saturado de haber canalizado por la mañana. Había firmado entrada hacía catorce meses y había sobrevivido los doce primeros, que eran los duros. Lirae le devolvió el saludo. Algunos nombres se quedaban más rato.
+Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Uno de los estudiantes de segundo curso la saludó con una reverencia al cruzarse con ella en el rellano. Erion. Primer-ciento, rubio, los ojos todavía azul saturado de haber canalizado por la mañana. Tenía un mechón corto encima de la oreja izquierda que se le quedaba siempre fuera del cordón por mucho que se lo aplastara — manía de pelo de Naggar joven que aún no había aprendido a no pelear con su propia cabeza. Había firmado entrada hacía catorce meses y había sobrevivido los doce primeros, que eran los duros. Lirae le devolvió el saludo. Algunos nombres se quedaban más rato.
 
 En la planta baja, Tirva la estaba esperando.
 
@@ -222,7 +222,13 @@ Ocho anomalías al día en seis meses, pensó, si la progresión es lineal. Diez
 
 Había escrito "¿Y qué?" en el margen de una página del libro grande hacía tres semanas. Lo había tachado. Lyris tenía razón —Lyris la tenía siempre—. No todo lo que se apuntaba en un libro grande se leía con cabeza.
 
-Se levantó. Fue a la mesa. Sacó el libro grande del día. En la entrada de las anomalías, tachó la columna de la derecha con una línea fina y cuidada y escribió al lado, con letra más pequeña, *datos anulados por error de calibración.* Firmó. Selló.
+Se levantó. Fue a la mesa. Sacó el libro grande del día.
+
+La mano se le quedó un segundo encima sin moverse. Setenta años de método tirando hacia un lado, una petición de Lyris tirando hacia el otro. La diferencia entre las dos cosas, de fondo, era una pulgada de pluma. La pulgada de pluma se la jugaba ella.
+
+Le bajó el latido medio grado. Después se le acompasó.
+
+En la entrada de las anomalías, tachó la columna de la derecha con una línea fina y cuidada y escribió al lado, con letra más pequeña, *datos anulados por error de calibración.* Firmó. Selló.
 
 Puso el libro en su sitio.
 
@@ -244,7 +250,9 @@ Así medía mejor, cuando el cuerpo también estaba en un foco. Era oficio viejo
 
 Se quedó un rato. La red azul del antebrazo se le encendió y no hizo nada por bajarla.
 
-Bajó el cuerpo despacio. Cerró su propio foco primero, luego el de la lasca. El plomo le cayó en la palma.
+A los pocos minutos, la espalda empezó a quemarle por dentro — no el músculo, otra capa, la que sostenía el foco que no debería estar puesto sobre sí misma —. Era el coste viejo del oficio: cuanto más sostenía el foco propio, más le ardía el sitio donde la red azul nacía. Oren le había dicho hacía sesenta años que algún día le pasaría factura entera. Aún no le había pasado factura entera. Pero pasaba un anticipo cada vez.
+
+Bajó el cuerpo despacio. Cerró su propio foco primero, luego el de la lasca. El plomo le cayó en la palma. La red azul se aplacó. La quemadura interna tardó un minuto más en bajar.
 
 ---
 

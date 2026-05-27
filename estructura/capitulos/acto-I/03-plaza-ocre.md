@@ -146,7 +146,7 @@ La Nexalita transmitió una oleada instantánea. La humillación del veterano re
 
 Haris, entre la multitud, detectó al culpable: un hombre joven con capa gris, el brazo aún en alto. Se movió rápido. Lo inmovilizó con una llave en el codo, lo empujó tres pasos hasta la formación y lo entregó al grupo de Muoro.
 
-Muoro ni siquiera se quitó la pintura. Le rompió la nariz con el borde del escudo en un único golpe. El hombre se derrumbó. Dos soldados lo arrastraron hacia la celda más próxima.
+Muoro ni siquiera se quitó la pintura. Le rompió la nariz con el borde del escudo en un único golpe — un gesto que había repetido cuatrocientos años y que ya no le pedía permiso al brazo —. El hombre se derrumbó. Dos soldados lo arrastraron hacia la celda más próxima.
 
 La multitud, al ver aquello, se replegó un paso.
 
@@ -239,6 +239,8 @@ Eris lanzó.
 La lanza salió con un silbido agudo. Recorrió los cuatro metros que separaban la fuente de la tribuna en un tiempo que no habría permitido reaccionar a nadie. Se clavó en la boca abierta de la mujer. La atravesó. La sujetó contra el mástil detrás de ella.
 
 El grito se cortó. La mujer se derrumbó contra el mástil, la cabeza torcida contra la tela de la bandera, el cuerpo inerte colgando de la lanza que lo sostenía medio en pie.
+
+A Eris se le pegó al esternón el silencio dos latidos. Después dejó de pegársele.
 
 La plaza se quedó muda.
 

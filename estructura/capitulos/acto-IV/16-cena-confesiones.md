@@ -428,6 +428,8 @@ Esa fue la parte peor.
 
 No igual. Mejor. Más contenido. Más limpio. Menos generoso. Había tomado lo que había funcionado en ella aquella noche y lo había afilado. Ya no era una comida que abría. Era una comida que recordaba haber abierto.
 
+Eso pedía días de prueba. Pan negro afilado no se hacía en una mañana — había que probar harinas, ajustar el agua, repetir la corteza tres veces antes de cerrar el grosor. La cena de esa noche llevaba planeándose una semana, al menos. Faree había mandado a Elerian a Kiral Ree antes de que Eris hubiera entendido qué pregunta le estaba haciendo el rey.
+
 Eris tragó.
 
 —Está bueno —dijo.

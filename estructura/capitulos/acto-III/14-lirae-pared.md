@@ -152,7 +152,7 @@ Eris esperó.
 
 Eris no respondió.
 
-—Efecto de luz. Sustancia en el agua. Haiz administrado de una forma que no conocemos. Un Mirisar viejo deformado por exposición prolongada. Una criatura real pero no consciente. Una lectura tuya contaminada por el *tum*. Interferencia Sandrie. Proyección bajo Nexalita. Incluso una combinación de todo.
+—Efecto de luz. Sustancia en el agua. Haiz administrado de una forma que no conocemos — en comida, en humo, sin que el cuerpo registre el nombre —. Un Mirisar viejo deformado por exposición prolongada. Una criatura real pero no consciente. Una lectura tuya contaminada por el *tum*. Interferencia Sandrie. Proyección bajo Nexalita. Incluso una combinación de todo.
 
 —La Nexalita estaba al mínimo.
 
@@ -164,7 +164,7 @@ Eris no respondió.
 
 Eris la miró.
 
-Lirae sostuvo la mirada.
+Lirae sostuvo la mirada un segundo más de lo necesario. Después bajó los ojos al cuaderno cerrado sobre la mesa. La red azul del antebrazo se le marcó un instante, muy fina, sin foco. Después se aplacó. Lirae volvió a mirarla.
 
 —No estoy diciendo que no, Eris. Estoy diciendo que no puedo saltar desde "vi algo" hasta "Coria se sostiene por un tritón que rejuvenece al rey". Esa frase rompe demasiadas cosas. Para romperlas tengo que medir.
 

@@ -94,7 +94,9 @@ Eris se tomó un segundo. La pregunta era en apariencia administrativa — Ygora
 
 —A nosotros también, paradójicamente. Una ciudad que se ocupa de ser Ygoran es una ciudad que no intenta ser Elis. Eso vale algo.
 
-Eris asintió medio grado.
+Eris asintió medio grado. Por dentro, sin pedir permiso, el cuerpo guardó el nombre — *Ygoran, Nyree, red* — junto al otro que Muoro le había traído del Mirisar de Indra hacía semanas. Dos nombres pegados ya.
+
+Lo guardó.
 
 Faree la miró otro instante.
 

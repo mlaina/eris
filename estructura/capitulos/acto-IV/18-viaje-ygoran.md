@@ -48,6 +48,10 @@ La había visto antes.
 
 No en Elis. No en un informe limpio. En el cuaderno de Iretha. En tres márgenes, al lado de depósitos y nombres de familia. Una marca pequeña que entonces no había sabido colocar.
 
+Cinco semanas después la tenía otra vez delante, dibujada limpia, con un Naggar mayor diciéndole cómo llegar a la matriz.
+
+Eris tardó dos segundos en hablar.
+
 —¿Qué es? —preguntó Haris.
 
 Vanir miró a Eris, no a Haris.
@@ -105,6 +109,8 @@ No durmieron.
 La primera ruta bajaba por un camino de piedra vieja entre bancales sin cultivar. El cielo estaba claro. La luna quedaba baja, a la derecha. Detrás, Tegro desapareció antes de que amaneciera.
 
 Eris iba delante. Haris detrás, un cuerpo de caballo.
+
+El zurrón le pesaba sobre el muslo a cada paso del caballo. Dentro, el cuaderno de Iretha en el fondo. Encima, la pluma de Lirae con la marca quemada y, pegada al mango, la lasca de plomo. Sumaban menos peso que una daga. Eris lo notaba a cada paso.
 
 Las dos Nexalitas seguían al mínimo. Desde la Arteria, la red de Lorin había quedado como un ruido bajo en la nuca, remoto y mal colocado. No eran palabras. No eran órdenes. Eran catorce cuerpos que seguían existiendo en algún sitio detrás de ella.
 
@@ -294,7 +300,7 @@ Ygoran a ras de calle era ruido.
 
 Valagost de piel azul con marcas rojas cruzaban entre puestos de pescado. Humanos cargaban cajas. Un Naggar menor discutía con una mujer Ssilvaris por el precio de una cuerda. Un niño corría con una sardina viva en la mano. Al fondo del muelle, un Yll viejo y delgado caminaba sin báculo, los ojos vendados, el cuello desnudo. Nadie le abría paso, pero todos se apartaban.
 
-Eris lo registró y siguió.
+Eris siguió andando.
 
 No habían venido por él.
 

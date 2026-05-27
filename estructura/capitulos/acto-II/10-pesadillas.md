@@ -78,7 +78,9 @@ El niño se sorprendió de que Eris supiera su nombre. Eris se sorprendió de ha
 
 *Gravedad y luz a la vez*, registró el cuerpo de Eris al pasar. *Un niño. Solo en el rellano. A las cuatro de la mañana.*
 
-No se detuvo a pensarlo. La puerta de la sala de Lirae estaba cerrada. Eris no tocó. Empujó.
+No se detuvo a pensarlo. Pero el cuerpo lo guardó. Los Mirisar tenían dominante. Un curso de la Sandrie lo aprendía antes de fin del primer año. Erion, con catorce meses dentro, ya hacía dos a la vez en un rellano sin que el ojo se le saturara. Eso no se enseñaba. Eso no se entrenaba. Eso a veces era enfermedad y a veces otra cosa. Lirae no lo había mencionado nunca con esa palabra.
+
+La puerta de la sala de Lirae estaba cerrada. Eris no tocó. Empujó.
 
 ---
 

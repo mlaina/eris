@@ -396,6 +396,10 @@ Se quedaron un momento sin hablar. Lirae se frotó el antebrazo izquierdo, distr
 
 —Me miró un minuto.
 
+—Comprobarlo, sólo se comprueba cara a cara. Otra Mirisar sónica delante, dos focos abiertos, una palabra entre las dos. Mientras esa mujer no se siente enfrente, lo único que puedo darte son hipótesis.
+
+—Ya.
+
 Silencio.
 
 —¿Y lo de esta mañana en el Orio.

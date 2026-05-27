@@ -12,7 +12,7 @@ Siete para la misión. Los otros ocho, en Lorin. Se elegía la mitad cuando la m
 
 Contacto en veinte segundos.
 
-Cierra los ojos. La Nexalita vibra en la nuca con el ritmo bajo del grupo. Tensión. No nerviosismo, no estrés: la tensión antes del deporte. Refuerza la estabilidad. La siente propagarse.
+Cierra los ojos. Una vibración baja en la base de la nuca — pulso ajeno superpuesto al suyo, seis pulsos pegados a la piel sin sonido —. La Nexalita. Tensión. No nerviosismo, no estrés: la tensión antes del deporte. Refuerza la estabilidad. La siente propagarse.
 
 Dos sombras Eldara abandonan el barco antes de que sienta el retroceso. Tiempo. El casco toca la madera. De inmediato otros cuatro con armaduras negras desembarcan en absoluto silencio. Eris abre los ojos. Salta al muelle sin hacer ruido. La superficie cede ligeramente bajo la suela. No necesita mirar: Therel y Nerei ya están subiendo por una pared lateral hacia el tejado más alto del almacén de enfrente, aligerando el peso sobre las tejas como aligeran los Eldara cuando quieren ser cigüeñas.
 
@@ -398,7 +398,7 @@ Illia, sin levantar la vista de la piedra:
 
 —Miente —confirma Eris.
 
-Ravys baja la pernera, sin prisa. Sonríe por un lado de la boca.
+Ravys baja la pernera, sin prisa. Sonríe por un lado de la boca — sólo por el izquierdo; el derecho no le subía nunca, manía de la cara desde que se rompió el pómulo a los veintidós y le soldó torcido.
 
 —Entonces he mentido.
 
