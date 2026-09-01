@@ -10,8 +10,8 @@
 ## Registro general
 
 - **Sobrio, preciso, contenido**.
-- Cuanto más grave el momento, **más sobria la prosa**.
-- **No melodrama**. La tragedia es más tragedia cuando la voz no llora.
+- Cuanto más grave el momento, **más contenida la prosa — nunca ausente**. La sobriedad es una tapa sobre presión visible: si el lector no ve la presión, no hay contención, hay distancia. En cada golpe emocional, **una fuga**: un beat breve (cuerpo primero, significado después) donde se ve lo que la tapa sujeta. Después la tapa vuelve. *(Doctrina "Sicario con fuga", 2026-09-01 — ver [[../draft/mapa-de-promesas]] §2.)*
+- **No melodrama** — y melodrama es **emoción no ganada**, no emoción. La emoción ganada en escena es obligatoria. La única vez que Eris llora en el libro (cap 23, las manos) funciona precisamente porque es la única: la doctrina es **racionar**, no prohibir.
 - **Frases claras**. No barroquismo. No ornamentación.
 
 ## Tono por escenario

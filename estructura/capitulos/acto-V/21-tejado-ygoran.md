@@ -512,6 +512,8 @@ También era lo que Coria no sabía construir.
 
 A las once, Eris bajó al cuarto del tercer piso. Haris detrás.
 
+Antes de acostarse hizo una cosa pequeña. Abrió el zurrón, sacó la lasca de Lirae y se la guardó en el bolsillo interior, contra el esternón. No lo pensó mucho. Había cosas que podían quedarse en una bolsa y cosas que no.
+
 Se acostaron en los dos colchones. Eris cerró los ojos. El *tum tum* lejano del sur seguía como fondo. La Nexalita al mínimo. Nadie al otro lado.
 
 A los cuarenta minutos seguía despierta.

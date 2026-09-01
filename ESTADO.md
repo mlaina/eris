@@ -1,7 +1,8 @@
 # Estado del proyecto — *Eris*
 
-**Última sesión**: 2026-05-26 (adaptación sprint final caps 23-24 tras refinado de Ygoran/Puertas Rojas).
-**Próxima decisión bloqueante**: ninguna grande. Relectura de Marcos de caps tocados/escritos hoy, especialmente 16-19, 21, 23 y 24.
+**Última sesión**: 2026-09-01 — **arranca la v2**. Diagnóstico "alma" + rediseño del contrato de promesas + **alineación completa de Big P, falla-raíz, relaciones y progreso con Marcos** (40 decisiones). **Puerta de entrada: [[v2/README]] → [[v2/decisiones]]** (el log maestro, manda sobre canon v1 donde contradiga).
+**Progreso y recompensa: cerrados** (D41-D48). **Outline-v2 generado**: [[v2/outline-v2]] — 25 capítulos con beats obligatorios, estado y palabras objetivo. **Siguiente**: validación de Marcos del outline-v2 y arranque de reescritura (orden: cap 1 → 18 → 21b → 14 → cirugías).
+**Nota**: [[estilo/tono]] y [[estilo/restricciones]] enmendados 2026-09-01 (doctrina "Sicario con fuga", deseo ≠ duda). Los drafts [[draft/acto-III-rediseno]], [[draft/enriquecimiento-lore-2026-05-19]] y [[draft/revision-pivotes-actos-I-II]] pasan a considerarse **históricos/integrados** — no consultarlos como fuente activa.
 
 ---
 
@@ -24,12 +25,12 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 
 ### Acto I — Gloria
 
-| # | Archivo | Estado |
-|---|---|---|
-| 1 | [[estructura/capitulos/acto-I/01-prologo]] | ✅ validado |
-| 2 | [[estructura/capitulos/acto-I/02-elis-lirae]] | ✅ validado (POV Lirae) |
-| 3 | [[estructura/capitulos/acto-I/03-plaza-ocre]] | ✅ validado |
-| 4 | [[estructura/capitulos/acto-I/04-libro-pequeno]] | ✅ validado |
+| #   | Archivo                                          | Estado                 |
+| --- | ------------------------------------------------ | ---------------------- |
+| 1   | [[estructura/capitulos/acto-I/01-prologo]]       | ✅ validado             |
+| 2   | [[estructura/capitulos/acto-I/02-elis-lirae]]    | ✅ validado (POV Lirae) |
+| 3   | [[estructura/capitulos/acto-I/03-plaza-ocre]]    | ✅ validado             |
+| 4   | [[estructura/capitulos/acto-I/04-libro-pequeno]] | ✅ validado             |
 
 ### Acto II — Grietas
 
@@ -78,6 +79,12 @@ Numeración actual = numeración de los archivos. La columna *outline* indica si
 ### 🟢 Relectura de capítulos ajustados
 
 - Caps 16-19, 21, 23 y 24 — relectura en frío de Marcos tras los cambios de anclas, fuga, Puertas Rojas, red civil de Ygoran y sprint final.
+- **2026-09-01**: 4 micro-ediciones "de alma" aplicadas como demo (reversibles, documentadas en [[sesiones/2026-09-01-diagnostico-alma]] §4): cap 17 (fix continuidad lasca/pluma → zurrón), cap 21 (lasca al bolsillo, última noche), cap 23 (duelo por Haris en la calle de los aparejos + lasca en la muerte). Revisar en la misma relectura.
+
+### 🔵 Plan "alma" (2026-09-01) — pendiente de decisiones
+
+- Diagnóstico duro en [[sesiones/2026-09-01-diagnostico-alma]]: el libro es técnicamente excepcional pero **Eris no quiere nada** (falla madre), la herida de Itsu nunca sube a página, la tragedia no es causal, no hay try-fail entre caps 9 y 22, y el presupuesto de palabras está invertido (mundo 2×, corazón ½).
+- Sprints propuestos A-D en §5 del diagnóstico. Ninguno arranca sin las 4 decisiones bloqueantes de Marcos.
 
 ### 🔴 Ajustes obligatorios pendientes
 

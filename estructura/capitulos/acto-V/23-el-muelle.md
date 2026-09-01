@@ -36,6 +36,12 @@ Eris no miró atrás.
 
 Salió al puerto por la rampa de la calle de los aparejos.
 
+*Aparejo de trinquete.*
+
+La voz llegó sola. Haris a la vuelta de Indra, el libro pequeño, los nombres de los cabos leídos en voz alta por el gusto de oírlos. *Ese también*, había dicho.
+
+A Eris se le rompió el apoyo medio paso. Lo recuperó. El siguiente pensamiento no se lo permitió.
+
 El paseo de piedra del muelle se abría a la izquierda y a la derecha. El agua oscura. Las farolas del puerto ardían bajas, una sí y dos no, sin nadie que las vigilara. 
 
 En el cuarto embarcadero, un mercante mediano. Velas izadas. Maroma todavía echada al pilote pero floja. Cuatro tripulantes humanos en cubierta — uno en la proa, dos en la maroma, uno en la rueda —. Listos para soltar.
@@ -242,6 +248,10 @@ Eris cerró los ojos.
 Vio, sin querer.
 
 No fue una cara. No fueron palabras. Fue un calor pequeño en el centro del pecho, ahí donde el cuerpo Eldara había aprendido a no dejar nada suelto.
+
+Contra el esternón, dentro de la ropa, la lasca de plomo seguía en su sitio. Ya no quedaba mano que pudiera sacarla. No hacía falta. *La quiero contigo*, había dicho Lirae.
+
+Estaba.
 
 Elerian. Lirae. Haris.
 

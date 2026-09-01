@@ -1,6 +1,6 @@
 # Outline — Estructura de los 5 actos
 
-> ⚠️ **Outline desincronizado con los archivos reales.** Esta arquitectura es la base estructural del libro, pero las **descripciones individuales de capítulos** abajo tienen numeración antigua (22 caps; los archivos reales son **24**). La sincronización completa se hará al final del proyecto. Mientras tanto, **la fuente de verdad de la numeración real es [[../ESTADO]] § "Estado de los capítulos"** y la tabla resumen al final de este archivo.
+> 🛑 **DEPRECADO (2026-09-01).** Numeración vieja (22 caps; los reales son 24) y arquitectura anterior al rediseño de promesas. **No usar como fuente.** La arquitectura vigente se está decidiendo en [[../draft/mapa-de-promesas]]; cuando Marcos cierre los forks, este outline se regenerará desde ese mapa. Se conserva solo como referencia histórica. Numeración real: [[../ESTADO]] § "Estado de los capítulos".
 
 Arquitectura general del libro. Los **actos son agrupaciones de capítulos**; los **capítulos tienen tipología** (algunos son "Misión N", otros títulos temáticos).
 

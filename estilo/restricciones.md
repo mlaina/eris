@@ -14,6 +14,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 
 ## Sobre Eris
 
+- ✅ **Deseo personal ≠ duda política** *(aclaración 2026-09-01)*. Que Eris quiera algo propio desde el Acto I (volver a Itsu, enterrar a los suyos, un sitio al que pertenecer) **no viola** "no dudar pronto": el deseo convive con el orgullo de Coria y lo tensa sin cuestionarlo. Lo prohibido es la duda ideológica temprana, no el querer. Sin deseo no hay conflicto; sin conflicto no hay novela.
 - ❌ **No hacerla dudar demasiado pronto.**
 - En Acto I y II es **orgullosa de Coria**. Su disciplina es real, su fe en el régimen es real.
 - Las grietas son **sensoriales y emocionales** antes que racionales.

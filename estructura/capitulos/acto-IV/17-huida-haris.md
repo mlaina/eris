@@ -136,7 +136,7 @@ Eris fue al armario del fondo. No abrió el armario. Cogió la lasca de plomo qu
 
 —Llévatela. La quiero contigo.
 
-Eris no insistió. Guardó la lasca junto a la pluma, en el bolsillo interior de la capa.
+Eris no insistió. Guardó la lasca junto a la pluma, en el fondo del zurrón, con el cuaderno.
 
 —Vete —dijo Lirae.
 
