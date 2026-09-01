@@ -10,19 +10,19 @@
 
 ## Acto I — Gloria (reloj: ¿qué es el sonido?) — ~12.800
 
-### 1 — Misión 133 🔴 3.600
+### 1 — Misión 133 ✍️ borrador v2 escrito 2026-09-01 (3.175 palabras) — [[capitulos/01-mision-133]] · pendiente lectura de Marcos
 **Plot**: una redada perfecta que le cuesta la vuelta a casa. **Pregunta**: ¿quién manda sobre el tiempo de Eris?
 **Beats**: primera página = la familia en la nuca (Nexalita: nunca sola y siempre sola; D28) · la redirección como primer robo — el conflicto en página 1 · fuga de Itsu (la ingravidez → el hermano que la llevaba; sin explicar) · el humo de la vigía (la violencia cuesta desde el minuto uno) · el duelo del mirisar se conserva (competencia, D47) · «hay quien ha escrito poesía sobre esa luz… le basta un minuto» — se fija la vara del minuto (D42) · libro de cabos de Haris (siembra 23) · menos tránsito/transferencia.
 
-### 2 — Lirae 🟢 2.900
+### 2 — Lirae ✍️ borrador v2 escrito 2026-09-01 (2.911 palabras) — [[capitulos/02-lirae]] · pendiente lectura de Marcos
 **Plot**: una medidora encuentra una anomalía imposible y falsifica el registro oficial por primera vez en setenta años. **Pregunta**: ¿qué mide el péndulo — y por qué esconderlo?
 **Beats**: como v1 (la apertura ya es la vara de D43) · péndulo = metrónomo global queda armado · hoja dorada de Lyris (paga en 24) · solo pasada de tics.
 
-### 3 — La Plaza Ocre 🟡 3.200
+### 3 — La Plaza Ocre ✍️ borrador v2 escrito 2026-09-01 (3.277 palabras) — [[capitulos/03-plaza-ocre]] · pendiente lectura de Marcos
 **Plot**: contener una plaza sin masacre; lo logra con una sola muerte que se le queda. **Pregunta**: ¿cuánto cuesta restaurar el orden — y quién es la mujer que sabe lo que Eris oye?
 **Beats**: apertura nueva (no tránsito) · la encapuchada ES Nyree (D23-D24) — no cambia el texto visible, cambia cómo se escribe su mirada (reconocimiento, no amenaza) · la mujer de la bandera muere por un guion heredado (patrón del tema, D2) · tics.
 
-### 4 — Libro pequeño 🟡 3.100
+### 4 — Libro pequeño ✍️ borrador v2 escrito 2026-09-01 (3.016 palabras) — [[capitulos/04-libro-pequeno]] · pendiente lectura de Marcos
 **Plot**: volver con la humillación seca encima y encontrar en Lirae el único descanso que no es de Coria. **Pregunta**: ¿dónde descansa un arma?
 **Beats**: ancla de hermandad explícita — Lirae como la primera pieza de familia que Eris rellenó en Elis (D16) · levitación/vino/hombro se quedan (calor fraterno) · hipótesis sónica de Lirae (queda como pista falsa razonable, D24) · «cuide el pensamiento».
 

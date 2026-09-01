@@ -1,7 +1,7 @@
 # Estado del proyecto — *Eris*
 
 **Última sesión**: 2026-09-01 — **arranca la v2**. Diagnóstico "alma" + rediseño del contrato de promesas + **alineación completa de Big P, falla-raíz, relaciones y progreso con Marcos** (40 decisiones). **Puerta de entrada: [[v2/README]] → [[v2/decisiones]]** (el log maestro, manda sobre canon v1 donde contradiga).
-**Progreso y recompensa: cerrados** (D41-D48). **Outline-v2 generado**: [[v2/outline-v2]] — 25 capítulos con beats obligatorios, estado y palabras objetivo. **Siguiente**: validación de Marcos del outline-v2 y arranque de reescritura (orden: cap 1 → 18 → 21b → 14 → cirugías).
+**Progreso y recompensa: cerrados** (D41-D48). **Outline-v2 generado**: [[v2/outline-v2]] — 25 capítulos con beats obligatorios, estado y palabras objetivo. **Acto I v2 escrito del tirón** (2026-09-01): [[v2/capitulos/01-mision-133]] (3.175) · [[v2/capitulos/02-lirae]] (2.911) · [[v2/capitulos/03-plaza-ocre]] (3.277) · [[v2/capitulos/04-libro-pequeno]] (3.016) + crítica en frío en [[v2/critica-acto-I]]. **Siguiente**: Marcos lee el acto entero + la crítica y decide las 4 podas propuestas. Después: 18 (barcaza) → 21b → 14 → cirugías.
 **Nota**: [[estilo/tono]] y [[estilo/restricciones]] enmendados 2026-09-01 (doctrina "Sicario con fuga", deseo ≠ duda). Los drafts [[draft/acto-III-rediseno]], [[draft/enriquecimiento-lore-2026-05-19]] y [[draft/revision-pivotes-actos-I-II]] pasan a considerarse **históricos/integrados** — no consultarlos como fuente activa.
 
 ---

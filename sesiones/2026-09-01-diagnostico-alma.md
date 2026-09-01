@@ -217,3 +217,15 @@ Con esto el libro conserva todo lo que ya hace excepcional (estructura, magia, m
 ---
 
 *Diagnóstico y plan preparados tras relectura íntegra de los 24 capítulos + lectures 2025 de Sanderson (fuente). Complementa, y en parte enmienda, [[2026-05-26-critica-sanderson]] y [[2026-05-27-critica-sanderson-v1]].*
+
+---
+
+## Cierre de sesión (2026-09-01, noche)
+
+**Hecho hoy, tras el diagnóstico**:
+- Debate completo de arquitectura con Marcos → 51 decisiones en `v2/decisiones.md` (Big P, falla-raíz "las luchas propias matan", relaciones, Nyree = la encapuchada de Valdara, Nexalita-faro, progreso, recompensa, arranque acelerado, declaración de Haris).
+- `v2/outline-v2.md`: 25 capítulos con beats, estado y palabras. Mapas visuales en artifact.
+- **Acto I v2 escrito del tirón**: `v2/capitulos/01-mision-133.md` (reescritura completa, 3.175 palabras), `02-lirae.md` (2.911), `03-plaza-ocre.md` (3.277), `04-libro-pequeno.md` (3.016). Corregidos dos fallos de continuidad heredados de la v1 (el preso "esta mañana"; las 36 horas).
+- Crítica en frío del acto en `v2/critica-acto-I.md` (fluye / tiene sentido / agradable), con 4 podas propuestas.
+
+**Próxima sesión**: Marcos lee el Acto I v2 entero + la crítica. Decide las podas. Después: cap 18 (barcaza) → 21b → 14 → cirugías.
