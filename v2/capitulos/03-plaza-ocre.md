@@ -12,7 +12,7 @@ El gobernador había mandado una guardia humana a recibirlos. Cuatro hombres cor
 
 —Suban ustedes —dijo Eris—. Nosotros primero recorremos.
 
-Eran quince. La redirección desde Orio los había metido a todos en la misma ventana y la Arteria los había dejado juntos.
+Eran quince. Habían esperado en el Orio a los ocho de Lorin, llegados en el siguiente tránsito. Muoro comprobó la formación antes de que se acercara el oficial.
 
 El oficial dudó un instante. Muoro, a la derecha de Eris, no se movió. El oficial terminó la duda por donde empieza: asintió.
 
@@ -66,7 +66,7 @@ Ellos no se acordaban. Sus abuelos sí. Sus padres menos. Esta generación canta
 
 No era asunto suyo explicárselo. Había venido por oficio, no por memoria.
 
-Eris se asomó desde el balcón del despacho del gobernador, una planta por encima del nivel de la multitud. Dos Eldara a sus costados. Muoro, al pie del balcón, con otros dos esperando. Ravys cubría el flanco oeste con dos más; Illia el este, otros dos con él. Dos Eldara en los tejados, con línea visual sobre toda la plaza. Haris, entre la gente, sin yelmo, pasando por uno más.
+Eris se asomó desde el balcón del despacho del gobernador, una planta por encima del nivel de la multitud. Dos Eldara a sus costados. Muoro, al pie del balcón, con otros dos esperando. Ravys cubría el flanco oeste con dos más; Illia el este, con otros dos. Dos Eldara en los tejados, con línea visual sobre toda la plaza. Haris, entre la gente, sin yelmo, pasando por uno más.
 
 Eris cerró los ojos un segundo. La Nexalita le trajo el mapa entero: Muoro al pie, los gemelos en los flancos, los dos de los tejados, Haris entre la gente.
 
@@ -88,7 +88,7 @@ Eris parpadeó una vez. La multitud seguía gritando. La niebla seguía subiendo
 
 —Pues respira.
 
-Eris se llevó dos dedos a la sien. Otra vez no. Era la tercera vez esa noche. La primera en el Orio, la segunda al cruzar el primer callejón. Y ahora, aquí. Tres veces en dos horas. Nunca le había pasado antes.
+Eris se llevó dos dedos a la sien. Los golpes habían empezado en el Orio, vuelto en el primer callejón. Ahora se repetían mientras miraba la plaza.
 
 Inhaló. Dejó que el olor a humo y mar penetrara. Exhaló despacio.
 
@@ -148,7 +148,7 @@ A medio camino de la fuente, un frasco de cristal cortó el aire. Eris lo sigui�
 
 El frasco reventó contra el casco de Muoro. Una nube de líquido rojo explotó, escurrió por la visera, le chorreó por el cuello. Pintura. Olor a pigmento, a vinagre, a algo más. La imagen simulaba una herida: como si Muoro hubiera recibido un impacto brutal y sangrara por la cabeza.
 
-La Nexalita transmitió una oleada instantánea. La humillación del veterano recorrió a los catorce como si la hubieran sentido en su propio cuello. Eris notó que se le endurecía la mandíbula.
+Por la Nexalita llegó el golpe, el rojo tapando la vista de Muoro. Eris notó que se le endurecía la mandíbula. El veterano mantuvo el paso y pidió la posición del lanzador.
 
 Haris, entre la multitud, detectó al culpable: un hombre joven con capa gris, el brazo aún en alto. Se movió rápido. Lo inmovilizó con una llave en el codo, lo empujó tres pasos hasta la formación y lo entregó al grupo de Muoro.
 
@@ -282,7 +282,7 @@ Eris tiró de la lanza. Salió con resistencia. El cuerpo cayó por delante. Eri
 
 La bandera de Targo cayó encima, cubriéndola casi por entero.
 
-Eris se quedó mirando el kraken bordado un segundo. Era de su abuelo. La palabra también. Ella sólo había puesto la boca.
+Eris se quedó mirando el kraken bordado un segundo.
 
 Muoro subió a la tribuna detrás de ella. Venía con la pintura seca en el casco.
 
@@ -290,21 +290,21 @@ Muoro subió a la tribuna detrás de ella. Venía con la pintura seca en el casc
 
 —Hecho.
 
-—¿Está bien?
+—¿Estás bien?
 
 —Sí.
 
 Muoro no insistió.
 
-Eris se quitó el yelmo. El aire frío del anochecer le dio en la cara. La niebla ya había llegado a la plaza: se filtraba por los pies, trepaba por las piernas, desdibujaba los bordes de las cosas. La estatua del gobernador, detrás de ella, seguía en pie. Marcada por la lanza en el ángulo donde había rozado antes de entrar en la mujer.
+Eris se quitó el yelmo. El aire frío de la noche le dio en la cara. La niebla ya había llegado a la plaza: se filtraba por los pies, trepaba por las piernas, desdibujaba los bordes de las cosas. La estatua del gobernador, detrás de ella, seguía en pie. Marcada por la lanza en el ángulo donde había rozado antes de entrar en la mujer.
 
-—¿Tum tum? —preguntó Muoro sin mirarla.
+—¿La cabeza? —preguntó Muoro sin mirarla.
 
 Eris giró la cabeza hacia él.
 
 Muoro tenía los ojos fijos al frente, en la plaza vacía.
 
-—Has dicho *nel* dos veces seguidas con los ojos cerrados hace quince minutos —dijo él—. Eso no te lo he visto hacer nunca.
+—Te has llevado los dedos a la sien en el balcón —dijo él—. Antes del golpe.
 
 Eris se puso el yelmo bajo el brazo.
 
@@ -312,11 +312,11 @@ Muoro no insistió tampoco esa vez.
 
 ---
 
-La plaza se fue cerrando. La guardia humana sacó a los detenidos. Los Eldara recogieron a sus heridos —ninguno grave— y, con el cuerpo de la mujer envuelto en la bandera, lo subieron en una camilla hacia la casa del gobernador. Los cadáveres de los dos atacantes de Eris quedaron a cargo del forense municipal.
+La plaza se fue cerrando. La guardia humana sacó a los detenidos. Los Eldara recogieron a sus heridos —ninguno grave— y, con el cuerpo de la mujer envuelto en la bandera, lo subieron en una camilla hacia la casa del gobernador. El atacante muerto quedó a cargo del forense municipal. Al otro se lo llevaron entre dos guardias, todavía inconsciente.
 
 Eris se quedó la última en la tribuna. Apoyada en la lanza, con el yelmo en la mano izquierda. Miraba la plaza desolada. La fuente apagada. La estatua marcada. El adoquinado manchado de pintura y de sangre. Los listones de la tribuna, oscurecidos de pisadas y más pisadas.
 
-Una muerte.
+Dos muertes.
 
 Eso era todo lo que había costado restaurar el orden, esta vez.
 
@@ -338,8 +338,12 @@ Entraron en la niebla.
 
 ---
 
-## Notas v2 (para revisión — no forman parte del texto)
+## Notas de revisión (no forman parte del texto)
 
-**Estado**: 🟡 cirugía media. **Cambios**: (1) apertura nueva stealth-thesis (D43): el primer *tum tum* en la primera línea, al pisar la rejilla — la v1 abría con tránsito; (2) **la encapuchada es Nyree** (D23-D25): reescrita su mirada como *reconocimiento* — «como quien reconoce a alguien en una calle extranjera», ve a Eris con los dedos en la sien, forma *tum tum* y **asiente** «como se asiente a un conocido al otro lado de una calle»; el sonido vuelve «como si alguien acabara de decirle su nombre». Nada explica; paga en el cierre del 19; (3) el guion heredado (D2): *«Les habían dejado la palabra en herencia, como se deja una casa; la cantaban sin haber entrado nunca»* y, sobre el cuerpo, *«Era de su abuelo. La palabra también. Ella sólo había puesto la boca»*; (4) tics: fuera «una milésima», «cuatrocientos años» (tercera métrica), «Eris no contestó» ×2 → acciones; «bajó un grado». Se conserva la fuga del esternón (D37).
+**Revisión integral posterior a la lectura crítica, 2026-09-07.** La llegada de los ocho refuerzos ocurre en el siguiente tránsito y precede al recorrido de la plaza. Se conservan las dos bajas y la otra oyente. **Pendiente de lectura y validación de Marcos.** Las notas siguientes documentan la versión anterior.
+
+**Pasada 2026-09-07**: dos muertos (primer atacante y abanderada), segundo atacante inconsciente; continuidad con el parte del capítulo 4. Muoro pregunta por el malestar observable, sin conocer el sonido, y responde al frasco desde el procedimiento, sin humillación narrada (D20). Se retira la genealogía atribuida a la abanderada. Se corrigen el recuento de episodios del sonido, el tuteo y una referencia al anochecer cuando ya es de noche.
+
+Se conservan la muerte de la abanderada, la fuga corporal y el reconocimiento de la encapuchada (D23-D25). Despliegue verificado: Eris + dos en balcón + Muoro y dos + Ravys y dos + Illia y dos + dos en tejados + Haris = quince. **Estado**: corregido, pendiente de lectura y validación de Marcos.
 
 **Canon**: [[../../canon/personajes/eris]] · [[../../canon/personajes/nyree]] (la encapuchada) · [[../../canon/personajes/muoro]] · [[../../canon/personajes/haris]] · [[../../canon/lugares/valdara]] · [[../../canon/razas/valagost]] · [[../../canon/sistemas/triton]] · [[../decisiones]] · [[../outline-v2]]

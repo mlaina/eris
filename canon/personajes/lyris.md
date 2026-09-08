@@ -48,14 +48,11 @@ Como todo Mirisar graduado (ver `canon/sistemas/mirisar.md`), **Lyris cruzó el 
 - En Cap 2 ya aparece con ese filo: visita a Lirae en el patio de los robles y le pide que falsifique los datos del péndulo del libro grande. No amenaza, sugiere. Sabe más de lo que dice.
 - En Cap 4 advierte a Eris sin reprenderla: "cuide el pensamiento, comandante, no por usted, por los catorce". Lo mismo: sabe ver.
 
-## Rol pendiente de definir
+## Criterio fijado para v2 — 2026-09-08
 
-⚠️ Pendiente con Marcos: ¿aliada silenciosa de Eris en la huida del Acto IV (les da paso sin explicar)? ¿peón de Faree que vigila? ¿doble agente con motivaciones propias? Decidir antes de escribir Cap 14 (Huida).
+Marcos aprobó aplicar las soluciones de la revisión completa. Lyris quiere que Coria sobreviva a las decisiones de Faree; conserva personas y pruebas como alternativas al rey. No es una aliada incondicional de Eris.
 
-Posibilidades que encajan:
-- **Aliada por institución**: no salva a Eris por afecto, sino porque **Coria** que ella sirve no es la misma que Faree ha corrompido. Si hay que elegir entre rey y orden, elige orden.
-- **Peón consciente**: sabe todo lo que pasa y lo permite por lealtad a Faree.
-- **Observadora fría**: se sitúa al margen, vigila, informa. Ni salva ni hunde.
+En el 17 deja una autorización de paso firmada en el registro del Orio del norte. Asume que Faree la leerá. En el 24 el documento vuelve ante el rey: el compromiso es visible; no se fija un castigo fuera de escena. Continúa trabajando con Faree y protege la conservación de los originales de Lirae. Su objetivo último sigue sin explicarse al lector.
 
 ## Distinción Lyris vs Lirae (CRÍTICO)
 

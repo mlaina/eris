@@ -262,3 +262,8 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 ---
 
 **Nota**: Este glosario es trabajo vivo. Actualizar cuando aparezcan términos nuevos durante la escritura.
+
+
+## Alumnas de Ygoran — actualización v2 (2026-09-07)
+
+**Nima**, **Sira**, **Taria** y **Berys (la alumna)**: las cuatro alumnas de Eris. Nima es el nombre elegido con autorización de Marcos. Berys, la alumna, se distingue de Berys de cocina. Ver [[personajes/alumnas-ygoran]].

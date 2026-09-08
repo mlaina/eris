@@ -1,6 +1,6 @@
 # Capítulo 4 — Libro pequeño
 
-Las cuarenta y ocho horas llegaron un día y una noche tarde, con pintura seca en el casco.
+Las cuarenta y ocho horas llegaron a la mañana siguiente, con pintura seca en el casco.
 
 La Arteria los dejó en el Orio de Elis al amanecer. Roe, el guardián de siempre, recibió a Eris en la rejilla con la misma sonrisa pequeña. Esta vez no le ofreció la mano. Los Eldara que vuelven con pintura seca no se reciben como los Eldara que vuelven de una misión limpia.
 
@@ -16,6 +16,8 @@ Roe no preguntó por Valdara. Eris no contó. El escriba del Orio levantó el pa
 
 —Sí.
 
+Eris miró la luz del amanecer sobre la rejilla. Podría acostarse un rato en Lorin, con tiempo para levantarse, limpiarse y subir al palacio. Ordenó esas horas alrededor del informe mientras el escriba cerraba el parte.
+
 ---
 
 Bajaron a Lorin por el paso del sur.
@@ -24,7 +26,7 @@ Lorin ocupaba una meseta más baja que Norel, al suroeste del palacio, junto al 
 
 En el patio del armero, descargaron.
 
-Illia soltó el Glóbulo común con un golpe sordo. Ravys le tendió a Eris una jarra de agua sin decir nada. Eris bebió de pie, sin quitarse el yelmo.
+Illia dejó caer los bultos de equipo que habían sacado del Glóbulo en el Orio. Ravys le tendió a Eris una jarra de agua sin decir nada. Eris bebió de pie, sin quitarse el yelmo.
 
 —Esa pintura no sale —dijo Illia.
 
@@ -42,7 +44,7 @@ Nadie dijo nada. La libertad, en Lorin, era un artículo tan infrecuente que la 
 
 —Muoro.
 
-—Estaré en las celdas. El mirisar habla en dos días. Son dos días.
+—Iré a Norel. El mirisar habla en dos días. Son dos días.
 
 —Tú también libre.
 
@@ -76,7 +78,7 @@ Eris le tocó el hombro al pasar. Una vez. Salió de Lorin sola, por la puerta e
 
 ---
 
-Entró en Elis por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron una pulgada más de la que se habrían apartado otro día. La pintura seca del casco y del escudo lo explicaba todo. Ella los dejó apartarse. No le pesaba.
+Entró en Elis por el puente mayor y cruzó dos plazas sin detenerse. Los Naggar que la vieron pasar, civiles de la ciudad, se apartaron al ver la pintura seca del casco. Ella siguió entre ellos.
 
 Al mediodía estaba en Kiral Ree.
 
@@ -94,15 +96,15 @@ Eris se sentó. Dejó el yelmo sobre la mesa, con la pintura hacia arriba. Lyris
 
 Eris informó.
 
-Lo hizo en doce frases. La llegada al Orio de Valdara. El despliegue. Los tejados, las esquinas, la fuente. El primer frasco contra Muoro. Haris capturando al culpable. El discurso desde la tribuna. El segundo frasco contra ella. La caída. Los dos atacantes. La mujer de la bandera. La lanza. El golpe de las lanzas contra los escudos. La dispersión. Los detenidos.
+Empezó por el despliegue y siguió el orden de la operación. El frasco contra Muoro, la detención, la advertencia desde la tribuna. Su caída y los dos atacantes: uno muerto, otro inconsciente. La mujer de la bandera. Terminó con la dispersión y los detenidos que quedaban a cargo de la guardia local.
 
-Las doce frases duraron tres minutos. La Valagost de la capucha no estaba en ninguna de las doce. Eris no había decidido dejarla fuera; el informe la había dejado fuera solo.
+El informe duró tres minutos. Al terminar, Eris recordó a la Valagost de la capucha. Su mirada, los labios. Sólo le había hablado a ella. Eris dejó las manos sobre las rodillas y esperó la respuesta de Lyris.
 
 Al terminar, Lyris no dijo nada durante diez segundos. Las esferas de luz hicieron un giro entero.
 
-—Una baja civil.
+—Dos bajas civiles.
 
-—Una.
+—Dos. El hombre que me atacó con el palo y la mujer de la bandera.
 
 —Una mujer con bandera.
 
@@ -130,7 +132,7 @@ Otra pausa. Las esferas, lentas. Lyris posó las dos manos sobre la mesa. Los de
 
 Eris levantó la mirada.
 
-Lyris no la estaba amenazando. Lo dijo como quien le dice a un escultor que cuide el brazo de golpe porque esa noche va a llover. Era una observación meteorológica.
+Eris conocía aquel consejo. Una distracción suya podía alcanzar a los catorce por la placa. Afirmó los pies bajo la silla.
 
 —Gracias, Kirala.
 
@@ -142,7 +144,7 @@ Lyris se levantó.
 
 —No. Está ocupado esta semana. Pide que descanse.
 
-—¿Cuánto.
+—¿Cuánto?
 
 —Hasta que él llame.
 
@@ -194,13 +196,13 @@ Eris medio sonrió. Le costaba el gesto. Le dolía algo en la mandíbula desde e
 
 Subieron juntas. Eris tardó más de lo que correspondía en la espiral; las piernas le pesaban. Lirae la oía detrás y no dijo nada: a veces se suben los escalones más despacio porque sí.
 
-En la sala del segundo piso, Eris dejó el yelmo en la mesa con la pintura hacia arriba y el escudo apoyado contra la pared. Lirae cerró la puerta al entrar. Nunca cerraba la puerta en Norel. Hoy sí.
+En la sala del segundo piso, Eris dejó el yelmo en la mesa con la pintura hacia arriba. Lirae cerró la puerta al entrar. Eris la miró al oír el pestillo.
 
 Eris no había traído a nadie a Elis. La familia se había quedado en el desierto o en la guerra, y el Cuerpo no contaba como traer: el Cuerpo se lo habían dado. Lirae era lo único que se había buscado ella sola en la ciudad blanca. Una hermana escogida, sin sangre y sin orden. Lo pensaba pocas veces. Lo pensó al oír la puerta.
 
 —Siéntate.
 
-—¿Dónde.
+—¿Dónde?
 
 —El sofá.
 
@@ -208,7 +210,9 @@ Eris no había traído a nadie a Elis. La familia se había quedado en el desier
 
 —Pues no duermas. Siéntate.
 
-El sofá de la sala era uno de esos muebles bajos que Lirae había heredado de Oren y que cualquier otro Mirisar habría tirado hacía mucho. Tela ocre gastada, brazos de madera bien labrada. Eris se sentó. Un día y una noche tarde. Cerró los ojos medio segundo.
+El sofá de la sala era uno de esos muebles bajos que Lirae había heredado de Oren y que cualquier otro Mirisar habría tirado hacía mucho. Tela ocre gastada, brazos de madera bien labrada. Eris se sentó. Tendría que haber llegado la noche anterior. Había pasado el viaje imaginando aquella habitación. Ahora le costaba mantener los ojos abiertos.
+
+Se frotó la cara con ambas manos. Quería quedarse despierta un rato con Lirae.
 
 —Vino.
 
@@ -230,7 +234,7 @@ Eris rió muy poco. Un escape corto por la nariz.
 
 Lirae se sentó a su lado.
 
-—¿Cuándo has dormido.
+—¿Cuándo has dormido?
 
 —En la Arteria. Una hora.
 
@@ -244,7 +248,7 @@ Se quedaron un rato en silencio. Fuera, las cascadas seguían su sonido de fondo
 
 —Lyris.
 
-—¿Cuánto se ha pasado contigo.
+—¿Cuánto se ha pasado contigo?
 
 —Tres minutos.
 
@@ -286,7 +290,7 @@ Un tercer dedo. Lirae se elevó también, un palmo de la alfombra, sin hacerlo v
 
 —No.
 
-—¿Oren.
+—¿Oren?
 
 —Tampoco. A veces aprendo cosas yo solita.
 
@@ -294,7 +298,7 @@ Un tercer dedo. Lirae se elevó también, un palmo de la alfombra, sin hacerlo v
 
 —Es útil. Descansa la espalda. Respira.
 
-Eris respiró. Se le soltó algo en los hombros. La risa fue más entera esta vez, la primera en dos días.
+Eris respiró. Se le soltó algo en los hombros. La risa fue más entera esta vez.
 
 Lirae las bajó a ambas despacio. Cerró los focos. La red azul se aplacó. Volvió a apoyarse a su lado.
 
@@ -314,29 +318,13 @@ Eris miró. La página llena de columnas. Fechas, horas, milímetros. Firmadas. 
 
 —Anomalías gravitatorias. Pequeñas. Están subiendo.
 
-—¿Dónde.
+—¿Dónde?
 
-—Prefiero no decírtelo aún.
+Lirae miró el ventanal. Eris siguió sus ojos hasta el palacio.
 
-—Lirae.
+—Debajo —dijo Lirae.
 
-—Si te lo digo, tendrás que fingir que no lo sabes. Prefiero que todavía no lo sepas. Yo lo sé, y por eso duermo peor. Tú duerme bien.
-
-—Lirae.
-
-—Es mejor.
-
-Eris no insistió. Puso dos dedos sobre el borde del libro.
-
-—¿Está cerca.
-
-—Está cerca.
-
-—¿Debajo de algo.
-
-—Debajo de algo.
-
-Eris asintió.
+Eris puso dos dedos sobre el borde del libro.
 
 —¿Lo sabe Lyris?
 
@@ -344,7 +332,17 @@ Eris asintió.
 
 —¿Por qué accediste?
 
-—Porque Lyris nunca me ha pedido nada que no fuera razonable. Y por primera vez me ha pedido algo que lo es pero no lo suena.
+—Porque me advirtió de quién podía leerlas. Los datos siguen aquí. En el archivo está mi firma diciendo que me equivoqué.
+
+Eris volvió a mirar las columnas. Las había firmado todas, una por una.
+
+—¿Qué necesitas?
+
+Lirae dejó la mano sobre las hojas.
+
+—Que me cuentes si notas algo. Aunque parezca una tontería.
+
+Eris se enderezó en el sofá y puso la copa sobre la mesa.
 
 Lirae cerró el libro pequeño y lo devolvió al armario. Recogió la lasca del sofá y se la volvió a enganchar al cinturón.
 
@@ -358,7 +356,7 @@ Se volvió a sentar. Eris la miró con los ojos casi cerrados.
 
 —¿Qué?
 
-—En Valdara. Lo escuché tres veces. Dentro de la cabeza. Dos golpes cortos. Tum tum.
+—En Valdara. Varias veces. Dentro de la cabeza. Dos golpes cortos. Tum tum.
 
 Lirae se giró despacio.
 
@@ -372,59 +370,33 @@ Al final no dijo nada durante un buen rato. Cerró los ojos. Era raro. Eris la h
 
 Los abrió.
 
-—¿Y si fuera sónica.
+—Podría ser una Mirisar sónica.
 
-—¿Quién.
+—La mujer.
 
-—La mujer. La piel azul puede ser Valagost, puede ser Mirisar, puede ser las dos a la vez. Lo raro no es la piel. Lo raro es que te eligiera a ti en una plaza.
+—Sí. Pueden hacerte oír un sonido sin que lo oiga quien está a tu lado. Si te estaba mirando, habría podido fijar el foco en ti.
 
-—¿Una Mirisar.
+Eris se volvió hacia ella.
 
-—Sónica. Gradúan a pocas al siglo en la Sandrie. Tan pocas que las conocemos por el nombre. Pero existen. Y hacen eso — meterte un sonido corto, limpio, en la oreja de dentro, sin que nadie alrededor oiga nada. Un dedo, un foco, un instante.
+—Empezó antes de que la viera.
 
-Eris dejó la copa en el brazo del sofá.
+—Tendría que haberte seguido desde el Orio.
 
-—Desde abajo. En medio de mil personas.
+—Y esta mañana, aquí.
 
-—Desde abajo. No necesita mucho.
+Lirae se frotó el antebrazo izquierdo.
 
-—Tendría que conocerme. Saber cómo vibro.
+—Eso encaja peor. Podría haberte quedado el sonido. O podría seguir cerca. Necesitaría comprobarlo.
 
-—No necesariamente...
+—¿Crees que me seguía?
 
-Se quedaron un momento sin hablar. Lirae se frotó el antebrazo izquierdo, distraída, como si la red azul le escociera sin escocer.
+—Por ahora sólo tenemos su mirada y tus golpes. Quizá los oía también y te vio reaccionar.
 
-—Puede que no hiciera falta —siguió—. Una frecuencia no es una contraseña. Es una forma de vibrar. Se lee desde fuera si la persona está cerca y llevas tiempo mirándola. Un minuto. Dos.
+Eris recordó los labios bajo la capucha, el gesto de la cabeza.
 
-—Me miró un minuto.
+—Parecía un saludo.
 
-—Comprobarlo, sólo se comprueba cara a cara. Otra Mirisar sónica delante, dos focos abiertos, una palabra entre las dos. Mientras esa mujer no se siente enfrente, lo único que puedo darte son hipótesis.
-
-—Ya.
-
-Silencio.
-
-—¿Y lo de esta mañana en el Orio.
-
-Lirae abrió la boca, se paró, la cerró. Le salió después, más bajo:
-
-—No lo sé. Pueden pasar dos cosas. Una: te lo has quedado tú, y volverá cuando el cuerpo esté cansado. Dos: la mujer sigue cerca y tira cuando le conviene. Desde aquí no las distingo.
-
-Eris asintió despacio.
-
-—¿Y si sólo quería provocarme.
-
-—Podría ser.
-
-—¿Lo crees.
-
-Lirae tardó en contestar. Dio un sorbo, dejó la copa. Miró la mesa.
-
-—No. Prefiero creer que oía lo mismo que tú. Creer lo otro — que una desconocida pasara la noche buscando exactamente esa palabra para cazarte — pide demasiada intención. Ninguna de las dos es probable. Pero la simple se mira primero.
-
-—Disciplina Mirisar.
-
-—Es lo que me enseñaron.
+—Entonces guardemos también esa posibilidad.
 
 Le acercó la copa otra vez. Eris bebió.
 
@@ -438,7 +410,7 @@ Lirae apagó dos de las tres candelas de la habitación. Se subió otra vez al s
 
 —Allí.
 
-—¿Te lo imaginas.
+—¿Te lo imaginas?
 
 —No.
 
@@ -450,7 +422,7 @@ Silencio.
 
 Lirae asintió.
 
-—No la conocía. Pero sé cómo respiraba. La Nexalita te lo dice, a veces. Cuando pones la lanza a alguien así y esperas un segundo antes de lanzar. Te dice cómo respira. Y te queda. No se quita.
+—No la conocía. Pero la vi tomar aire. Tenía la lanza levantada y ella cogió aire para seguir gritando. Me acuerdo de eso.
 
 Lirae no dijo nada. Le pasó un brazo por detrás de los hombros, sin apretar.
 
@@ -466,30 +438,28 @@ Eris medio sonrió.
 
 Se quedaron mirando la mole blanca del palacio otro rato.
 
-En algún momento Eris se dio cuenta de que estaba apoyando el hombro contra el de Lirae. Era el primer contacto sostenido que había tenido con otra persona desde que entró al barco de Indra, un día y una noche antes. La Nexalita estaba apagada en la nuca, donde siempre, y sin embargo el hombro le dijo más en un segundo que la conexión entera de sus catorce en el día completo. Catorce en la nuca, una al lado. Las cuentas también salían así.
+En algún momento Eris se dio cuenta de que estaba apoyando el hombro contra el de Lirae. Dejó caer el peso. La Nexalita seguía al mínimo en la nuca. Catorce allí, una al lado. Las cuentas también salían así.
 
 Cerró los ojos.
 
 *Tum tum* —oyó, muy bajo.
 
-No lo dijo. Lirae no podía oírlo. Ni la lasca, ni el péndulo, ni nadie.
+Eris abrió los ojos. Lirae seguía a su lado, con la copa entre las manos.
 
-Sólo ella.
-
-Y la mujer de piel azul, en alguna parte de Valdara, que también lo oía.
-
-Eris, por primera vez en la semana, no se sintió sola con el sonido.
+Quizá la mujer de la plaza también lo oyera. Recordó el saludo, la cabeza inclinándose entre la gente. Dejó salir el aire despacio.
 
 Se durmió contra el hombro de Lirae sin haberlo pretendido.
 
-Lirae se quedó despierta una hora más, por si volvía. No volvió.
-
-A medianoche, apagó la última candela y dejó que la luna llevara toda la luz.
-
 ---
 
-## Notas v2 (para revisión — no forman parte del texto)
+## Notas de revisión (no forman parte del texto)
 
-**Estado**: 🟡 cirugía media. **Cambios**: (1) apertura stealth-thesis (D43) que paga la cuenta del cap 1 con retraso: *«Las cuarenta y ocho horas llegaron treinta y seis horas tarde, con pintura seca en el casco»*; el sofá llega también «treinta y seis horas tarde»; (2) **ancla de hermandad explícita** (D16): *«Lirae era lo único que se había buscado ella sola en la ciudad blanca. Una hermana escogida, sin sangre y sin orden»* — con la familia «en el desierto o en la guerra» (coherente con D11: el padre y los gemelos siguen vivos en Itsu); (3) el informe a Lyris omite a la Valagost — *«el informe la había dejado fuera solo»* — primera cosa que Eris guarda fuera del papel (siembra del cuaderno del 9 y del motivo números/nombres); (4) en el relato a Lirae, Eris menciona el gesto de cabeza de la mujer «como un saludo» sin saber explicarlo (D25 preparado); (5) *«Catorce en la nuca, una al lado. Las cuentas también salían así»* — cierra el motivo de las cuentas del cap 1; (6) tics: fuera «un grado», «hacía veinte años» (tercera métrica), un «—Ya.». Se conserva íntegra la hipótesis sónica (D24: pista falsa razonable) y la frase *«la mujer de piel azul… que también lo oía»* — ahora literalmente cierta.
+**Revisión integral posterior a la lectura crítica, 2026-09-07.** Equipo descargado del Glóbulo en el Orio y transportado como bultos hasta Lorin. Corrección de interrogaciones. Sofá y descanso se conservan. **Pendiente de lectura y validación de Marcos.** Las notas siguientes documentan la versión anterior.
+
+**Refuerzo 2026-09-07, pedido por Marcos**: Eris organiza las primeras horas libres alrededor del informe obligatorio al mediodía. Al llegar al sofá quiere seguir despierta con Lirae, pero el cansancio dificulta disfrutar del descanso esperado. Se conservan la levitación, el vino y el cierre cálido.
+
+**Pasada 2026-09-07**: parte de dos bajas coherente con la plaza; descanso recibido a la mañana siguiente y sofá alcanzado después del mediodía, sin cuantificar mal el retraso. El escudo queda en Lorin; Muoro va a Norel a ver al preso. La omisión de la desconocida se hace consciente sin proclamar disidencia. Eris pregunta qué necesita Lirae; la petición de compartir percepciones enlaza con su relato del sonido.
+
+La hipótesis sónica se condensa y contrasta con la secuencia observada. La posibilidad de que la desconocida también oiga queda como hipótesis, preservando D25. La respiración de la abanderada llega por observación, conforme al alcance funcional de la Nexalita. El cierre permanece con Eris al dormirse. Se mantienen hermandad explícita, vino, levitación y hombro. **Estado**: corregido, pendiente de lectura y validación de Marcos.
 
 **Canon**: [[../../canon/personajes/eris]] · [[../../canon/personajes/lirae]] · [[../../canon/personajes/lyris]] · [[../../canon/personajes/haris]] · [[../../canon/personajes/theim]] · [[../../canon/lugares/coria-elis]] · [[../../canon/sistemas/mirisar]] · [[../../canon/sistemas/triton]] · [[../decisiones]] · [[../outline-v2]]

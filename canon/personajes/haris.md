@@ -20,7 +20,7 @@
 - **I Gloria**: presencia luminosa en los primeros capítulos. Eris lo mira con cariño de hermana mayor/cuidadora.
 - **II–III**: testigo cercano de las grietas. Hace preguntas que Eris todavía no se atreve a hacer.
 - **IV Fuga**: huye con Eris a Ygoran. Lealtad absoluta. Es lo único que queda cuando todo se rompe.
-- **V Tejado**: se quita la Nexalita en Ygoran. Acto consciente de ruptura con el Cuerpo: siguió a Eris por ella, no por la Kalari ni por la red Eldara.
+- **V Tejado (v2, 2026-09-08)**: ambos se han quitado las placas al llegar a Ygoran por seguridad. Haris abandona la suya en el murete: deja de guardarla para un regreso. Sigue junto a Eris por elección propia.
 - **V Tragedia**: **asesinado por Theim** en el piso franco de Ygoran. Decapitación brutal. Marca la pérdida definitiva de la humanidad en la vida de Eris.
 
 ## Función narrativa

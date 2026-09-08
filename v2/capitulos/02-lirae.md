@@ -2,9 +2,9 @@
 
 La anomalía se repitió por quinta vez a media tarde.
 
-Lirae lo anotó en el cuaderno de mediciones sin apartar los ojos del péndulo. Cinco veces en seis horas. Horas más o menos constantes: cada setenta u ochenta minutos. La aguja del péndulo no se movía —era una buena aguja, hecha para no moverse—, pero el peso, debajo, oscilaba hacia el norte con una fuerza que no debería existir en la meseta.
+Lirae lo anotó en el cuaderno de mediciones sin apartar los ojos del péndulo. Cinco veces desde las diez. Cada setenta u ochenta minutos. La aguja, fijada al soporte, marcaba el reposo; debajo, el peso oscilaba hacia el norte con una fuerza que no debería existir en la meseta.
 
-Apoyó la yema del índice derecho en el borde de la mesa y abrió un foco contra el plomo del péndulo. La red fina de venas azuladas que le recorría la cara interna del antebrazo izquierdo se marcó un poco más, como cada vez que canalizaba; la dejó. El Poisé respondió debajo, indiferente y exacto, con la misma desviación que la aguja había escrito por sí sola. Veinte mililitros. Había días que llegaba a treinta.
+Apoyó la yema del índice derecho en el borde de la mesa y abrió un foco contra el plomo del péndulo. La red fina de venas azuladas que le recorría la cara interna del antebrazo izquierdo se marcó un poco más, como cada vez que canalizaba; la dejó. El Poisé, la fuente de energía a la que abría paso con el cuerpo, respondió con la misma desviación que acababa de medir. Veinte milímetros. Había días que llegaba a treinta.
 
 Escribió el número. Cerró el cuaderno. Cerró el foco. Se apartó del péndulo.
 
@@ -12,7 +12,7 @@ La sala del segundo piso de Norel daba al norte, hacia el palacio. Pequeña, cua
 
 Afuera, las cascadas del oeste seguían cayendo. El sonido llegaba distinto según la hora y el viento. A media tarde, como ahora, llegaba limpio.
 
-Lirae se frotó la nuca con el canto de la mano. Había subido y bajado al péndulo entre firmas y audiencias a lo largo del día, como cualquier otro día de los últimos meses; en ese turno se había quedado arriba a ver el ciclo completo. Cinco anomalías: una a las ocho, otra a las nueve y veinte, una tercera a media mañana, la cuarta a las doce, y esta a las tres. Si la pauta se mantenía, la sexta sería sobre las cuatro y diez. Se quedaría a verlo. La Sandrie podía esperar una hora.
+Lirae se frotó la nuca con el canto de la mano. Había subido y bajado al péndulo entre firmas y audiencias a lo largo del día, como cualquier otro día de los últimos meses; en ese turno se había quedado arriba a ver el ciclo completo. Cinco anomalías: a las diez, a las once y quince, a las doce y media, a la una y cuarenta y cinco, y esta a las tres. Si la pauta se mantenía, la sexta sería sobre las cuatro y cuarto. Se quedaría a verlo. La Sandrie, la academia que dirigía, podía esperar una hora.
 
 Había pensado que iba a ver a Eris esa tarde. Pero no iba a verla.
 
@@ -22,15 +22,15 @@ Nada grave, había escrito Lyris. Lyris escribía "nada grave" cuando algo era g
 
 ---
 
-A las cuatro y doce minutos, la sexta anomalía llegó. La aguja se movió veintitrés mililitros hacia el norte. Lirae la midió, la anotó, la firmó. Limpió el péndulo. Sacó el registro del día y lo pasó al libro grande del archivo.
+A las cuatro y doce, la sexta anomalía llegó. El peso se desplazó veintitrés milímetros hacia el norte de la aguja. Lirae lo midió, lo anotó, firmó. Limpió el péndulo. Sacó el registro del día y lo pasó al libro grande del archivo.
 
 Al hacerlo, notó —como llevaba notando cada día de los últimos dos meses— que la columna derecha del libro estaba más cargada que la izquierda. La izquierda era la lectura de hace cinco años. La derecha, la de ahora. La diferencia entre ambas cabía en una sola palabra: más.
 
 Más anomalías. Más frecuencia. Más intensidad.
 
-Lirae cerró el libro.
+Lirae cerró el libro. Pasó el resto de la tarde cotejando las lecturas con los registros anteriores. Cuando la luz empezó a retirarse de las mesas, dejó la pluma.
 
-Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Uno de los estudiantes de segundo curso la saludó con una reverencia al cruzarse con ella en el rellano. Erion. Primer-ciento, rubio, los ojos todavía azul saturado de haber canalizado por la mañana. Tenía un mechón corto encima de la oreja izquierda que se le quedaba siempre fuera del cordón por mucho que se lo aplastara — manía de pelo de Naggar joven que aún no había aprendido a no pelear con su propia cabeza. Había firmado entrada hacía catorce meses y había sobrevivido los doce primeros, que eran los duros. Lirae le devolvió el saludo. Algunos nombres se quedaban más rato.
+Bajó por la escalera de caracol de Norel. La piedra de los peldaños estaba fría. A esa hora la luz del día entraba en diagonal por las ventanas estrechas y dejaba rayas doradas en el muro interior. Erion la saludó en el rellano. El niño llevaba el libro abierto contra el pecho y un mechón rubio fuera del cordón. Sus ojos tenían aquel azul profundo, cristalino, que conservaban incluso al despertar. Lirae le devolvió el saludo. Esperó a que terminara de bajar el tramo antes de seguir.
 
 En la planta baja, Tirva la estaba esperando.
 
@@ -114,7 +114,7 @@ Lyris dejó pasar un momento antes de volver a hablar.
 
 —Ocho. O diez. Si la progresión se mantiene. Pero podría acelerarse.
 
-Lyris miró hacia el palacio. Era la primera vez en los cuatro siglos que Lirae la conocía que le veía mirar el palacio como un edificio. No con la mirada de Kirala. Sino como miraría una torre cualquiera, una ciudad cualquiera, una cosa que alguien había puesto ahí en un momento determinado.
+Lyris miró hacia el palacio. Sus ojos recorrieron las ventanas inferiores y se detuvieron en una. Lirae siguió la mirada hasta el hueco oscuro.
 
 Lirae se decidió a empujar.
 
@@ -160,7 +160,7 @@ Las dos esferas de luz se juntaron un instante y luego volvieron a separarse. Er
 
 Lirae la miró directamente.
 
-—¿Por qué.
+—¿Por qué?
 
 —Porque en el libro grande las leen otros. Y no siempre entienden lo que leen.
 
@@ -220,7 +220,7 @@ Ocho anomalías al día en seis meses, pensó, si la progresión es lineal. Diez
 
 ¿Y qué?
 
-Había escrito "¿Y qué?" en el margen de una página del libro grande hacía tres semanas. Lo había tachado. Lyris tenía razón —Lyris la tenía siempre—. No todo lo que se apuntaba en un libro grande se leía con cabeza.
+Había escrito "¿Y qué?" en el margen de una página del libro grande hacía tres semanas. Lo había tachado. Quería creer que Lyris tenía razón. No todo lo que se apuntaba en un libro grande se leía con cabeza.
 
 Se levantó. Fue a la mesa. Sacó el libro grande del día.
 
@@ -240,60 +240,26 @@ Lirae cenó frente al ventanal, mirando al palacio.
 
 Las ventanas negras de las plantas inferiores seguían sin iluminarse. Como no se iluminaban nunca. Como no se habían iluminado desde que Lirae tenía memoria.
 
-Después de cenar, apartó el plato. Cruzó las piernas en el centro de la sala, sacó la lasca de plomo del cinturón y la dejó en la palma.
+Después de cenar, apartó el plato. Se sentó en el suelo y sacó la lasca de plomo del cinturón, el regalo de Oren. Abrió dos focos: uno sobre la lasca, otro sobre sí misma. El plomo quedó suspendido frente a su mano mientras ella se invertía despacio, con las piernas cruzadas y el pelo cayendo hacia el suelo.
 
-Levantó el índice y el corazón. Dos focos. Uno lo fijó sobre la lasca y la dejó suspendida a dos dedos por encima de su mano. El otro se lo aplicó a sí misma. Se invirtió despacio: la túnica le resbaló a los hombros, el pelo le cayó hacia el suelo, las piernas siguieron cruzadas. Se quedó a un palmo del techo, bocabajo, los dos focos sostenidos sin esfuerzo visible. Abrió los ojos.
+Desde un palmo bajo el techo, el ventanal le devolvía el palacio del revés. Los jardines colgaban hacia arriba. La lasca tembló hacia el norte y Lirae sintió el tirón también en el foco que sostenía su cuerpo.
 
-Desde ahí, el ventanal le devolvía el palacio del revés. La masa blanca invertida, los huecos oscuros, los jardines colgados hacia arriba. La lasca, entre ella y el palacio, temblaba muy levemente hacia el norte.
+Mantuvo la posición hasta que le empezó a arder la espalda. Bajó despacio y cerró los focos. El plomo le cayó en la palma. Se quedó sentada, esperando a que cediera la quemadura.
 
-Así medía mejor, cuando el cuerpo también estaba en un foco. Era oficio viejo, inventado por ella con el tiempo; Oren le habría dicho que para qué. Habría dicho también que cuidara la espalda, que cien años no eran quinientos.
+En el armario estaba el registro verdadero. Abajo, el preso que había enviado Eris. Tendría que verlo por la mañana. Había pasado el día aplazándolo.
 
-Se quedó un rato. La red azul del antebrazo se le encendió y no hizo nada por bajarla.
+Guardó la lasca. Cuando Eris volviera, le contaría lo del péndulo con todas las letras. El tirón, las lecturas, la firma al pie de una mentira.
 
-A los pocos minutos, la espalda empezó a quemarle por dentro — no el músculo, otra capa, la que sostenía el foco que no debería estar puesto sobre sí misma —. Era el coste viejo del oficio: cuanto más sostenía el foco propio, más le ardía el sitio donde la red azul nacía. Oren le había dicho hacía sesenta años que algún día le pasaría factura entera. Aún no le había pasado factura entera. Pero pasaba un anticipo cada vez.
-
-Bajó el cuerpo despacio. Cerró su propio foco primero, luego el de la lasca. El plomo le cayó en la palma. La red azul se aplacó. La quemadura interna tardó un minuto más en bajar.
+A través del ventanal, Elis seguía blanca bajo la luna.
 
 ---
 
-Esa noche, tarde, salió al balcón de Norel.
+## Notas de revisión (no forman parte del texto)
 
-Elis, a la luz de la luna, era una ciudad de plata. Puentes blancos, torres blancas, agua negra cayendo por la grieta. Ningún ruido salvo el agua.
+**Revisión integral posterior a la lectura crítica, 2026-09-07.** Corrección de un cierre de interrogación. Se conserva íntegra la decisión de falsear el registro y el resto de la escena. **Pendiente de lectura y validación de Marcos.** Las notas siguientes documentan la versión anterior.
 
-Le dolía la espalda. Se apoyó en la baranda.
+**Pasada 2026-09-07**: unidades e intervalos del péndulo coherentes; aguja fija de referencia y peso móvil. La sexta lectura sigue a las 16:12 y la bajada de Lirae ocurre al terminar la tarde, después del trabajo de archivo, compatible con la llegada del preso. Erion recupera su identidad canónica de niño humano. Se elimina la referencia a cuatro siglos de trato con Lyris. Se condensa la secuencia posterior a la falsificación: palacio invertido, coste corporal y decisión de contar a Eris lo sucedido.
 
-Kiral Ree, delante, parecía flotar.
-
-Lirae se llevó una mano al cinturón. En el cinturón, enganchada siempre, llevaba la lasca de plomo —regalo de Oren—, una piedra de ajustar el peso del mundo cuando era necesario. No la solía sacar al aire. Esa noche la sacó.
-
-La sostuvo a un brazo de distancia, entre los dedos, sobre la baranda.
-
-Respiró.
-
-Notó, muy débilmente, una inclinación. La lasca no se movió —era demasiado pequeña para moverse— pero ella sí sintió la tensión en los tendones de los dedos, la microfuerza, el tirón casi imperceptible hacia el norte.
-
-Hacia el palacio.
-
-Desde Norel no debería haber tirón. Estaba a dos kilómetros.
-
-Lirae cerró la mano. Guardó la lasca en el cinturón.
-
-Dentro de la habitación, la vela en el candil se movió con una corriente que no venía de ninguna ventana abierta.
-
-Lirae se quedó un rato más en el balcón. El aire estaba frío. Abajo, las cascadas seguían. Más abajo todavía, en la celda chica de la planta baja, el preso sin manos dormía o no dormía. Lirae no había bajado a verlo. Ya bajaría por la mañana.
-
-Pensó, por primera vez en meses, que igual no era una tontería contarle a Eris lo del péndulo con todas las letras cuando volviera. Ya no como curiosidad de Mirisar. Como otra cosa.
-
-Entró. Cerró las puertas del balcón.
-
-Elis siguió, detrás del vidrio, pareciendo eterna.
-
-Pero las cascadas, esa noche, sonaban un poco más bajas.
-
----
-
-## Notas v2 (para revisión — no forman parte del texto)
-
-**Estado**: 🟢 casi intacto respecto a v1 — la apertura ya era la vara de D43 y el capítulo arma el metrónomo global (D41: 4/día → 6). **Cambios**: pasada de tics (fuera «medio centímetro», «medio grado», dos «no contestó» y un «registró»; los silencios ahora son acciones). Se conservan la primera mentira de Lirae (*la pulgada de pluma*), la hoja dorada de Lyris (paga en el 24, D35) y **las dos copas, aunque sólo una iba a beber** — espejo exacto de las cuentas de Eris en el cap 1 v2 (*la segunda copa que nunca terminaba*). Erion queda sembrado (D34). La relación se lee ya como hermandad (D16): *«No era por la cena. Era por saber que estaba.»*
+Se conservan la firma de la mentira, la hoja dorada, las dos copas y el metrónomo de las anomalías. **Estado**: corregido, pendiente de lectura y validación de Marcos.
 
 **Canon**: [[../../canon/personajes/lirae]] · [[../../canon/personajes/lyris]] · [[../../canon/personajes/nino-prodigio|Erion]] · [[../../canon/sistemas/mirisar]] · [[../../canon/sistemas/triton]] · [[../decisiones]] · [[../outline-v2]]

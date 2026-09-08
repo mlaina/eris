@@ -70,3 +70,7 @@ Nyree POV. Tras la muerte de Eris:
 **Razas**: [[../razas/valagost]]
 **Otros**: [[../organizaciones|Puertas Rojas / La Jauría / Amaroth]]
 **Capítulos clave**: [[../../estructura/capitulos/acto-IV/19-ygoran-rebelde|cap 19 (recibe a Eris y cuenta su pasado)]] · [[../../estructura/capitulos/acto-V/21-tejado-ygoran|cap 21 (Eris entiende la red civil)]] · [[../../estructura/capitulos/acto-V/24-epilogo-nyree|epílogo cap 24 (POV Nyree, alianza con Velerian)]].
+
+## Revisión v2 autorizada — 2026-09-08
+
+Exige retirar las placas al llegar a la casa; conoce la detección recíproca. En el asalto acepta con Eris el riesgo de conectarla para dirigir la evacuación. Dos supervivientes de Iretha confirman los rehenes antes del capítulo 21: identifican a dos de los cuatro, sin nuevos nombres en página. Nyree reserva dinero del cargamento para ayudar a los liberados si lo aceptan, encarga buscarlos a Illen y sustituye el trabajo pagado de descarga por trabajo propio. Eris se ofrece a cargar, sin decidir por Haris. No se da por reparado el daño ni se confirma un encuentro con los cuatro.

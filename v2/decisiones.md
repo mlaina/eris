@@ -98,3 +98,51 @@
 
 - Validación de Marcos del **outline-v2** ([[outline-v2]]) y arranque de la reescritura (cap 1 primero, D28).
 - Ejecución de detalle al escribir: mecánica exacta de cada beat nuevo (se pregunta al llegar, si hace falta).
+
+
+## Aplicación de la revisión continua — 2026-09-07
+
+Marcos pidió trabajar en todos los puntos de [[lectura-continua-actos-I-III-2026-09-07]] y continuar. Aplicación en los borradores, pendiente de su lectura; no equivale a validación de capítulos.
+
+- **D18:** Elerian informa del Haiz antes de que Eris lo acepte. Conserva menú único, oficio y placer; Eris modifica el ritmo y participa en las decisiones. Esta ejecución sustituye el ofrecimiento sin aviso del texto anterior.
+- **D47:** la concesión práctica de Lirae —medir primero desde Norel, dejar aviso y no bajar ese día— basta como victoria parcial. No requiere que Eris corrija un fallo básico de la científica. La competencia permite decisiones moralmente terribles: en Iretha Eris mata al chico que ya ha soltado el arma.
+- **D50a:** conservar el micro-arco de captura y su pago de oficio. El objetivo de la fábrica ya está anunciado; no añadir un segundo misterio únicamente para cumplir la formulación inicial.
+- **D50b–c:** los pagos conducen del preso a Nyree; una carta de Iretha permite reconocer Ygoran. La inquietud por Itsu produce preguntas y una petición de cartas en el 5; se retira la frase críptica sobre partir la mesa.
+- **14→15:** Eris permanece para intentar sacar a Lirae y conservar la posibilidad de viajar con permiso y regresar. Visita Norel; la demora tiene coste para su vínculo con el superviviente. La disponibilidad formal la lleva a preparar una fecha propia con Haris.
+- La carta de GoEtsu desarrolla el pacto con Gabara ya establecido, sin nueva biografía. El texto del 13 expresa la pérdida de confianza y el miedo de Eris a haber visto la dependencia secreta del rey, sin fijar precio del pacto ni confirmar que Faree la haya descubierto. D13 sigue sin nombre; el pasado completo sigue reservado al 18.
+
+
+## Ejecución del acto IV — 2026-09-07
+
+Marcos pidió continuar tras aplicar la revisión de los actos I–III. Los borradores 16–20 desarrollan D16–D19, D25, D27, D31–D32 y D44; detalle en [[../sesiones/2026-09-07-acto-IV-v2]]. Pendientes de su lectura, sin validación implícita.
+
+**Coherencia del 20 con el 14 v2:** Lirae ya acepta el testimonio de Eris. Se conserva su descenso y destino, pero «No la creí» se sustituye por «Me lo dijo»: confió en poder medir y retirarse. Lleva a término las mediciones desde Norel y deja aviso para Tirva, cumpliendo lo acordado antes de bajar. No se restaura la incredulidad del capítulo v1.
+
+**Ejecución de los costes D27:** guardián del Orio lesionado y retenido en el 17; barquero herido y pérdida de sal en el canal del 18, compensadas con dinero y trabajo; intento de llevar a Eris a la viga con una cuerda, detenido por Krela, en el 19. Sin nuevos nombres o edades para esos secundarios ni nuevo destino fijado para el guardián. D13 sigue sin nombre.
+
+
+## Ejecución del acto V — 2026-09-07
+
+Marcos pidió escribir el último acto. Creados 21, 21b, 22, 23 y 24; pendientes de lectura y validación. Detalle en [[../sesiones/2026-09-07-acto-V-v2]].
+
+- **Nombre autorizado:** al preguntar por la cuarta alumna, Marcos respondió «invéntatelo tú». Se fija **Nima** en [[../canon/personajes/alumnas-ygoran]]. No se fija el nombre del gemelo superviviente de Eris: D13 sigue pendiente.
+- **D29:** el ensayo recorre armario → bajada junto al sótano → patio trasero. Berys de cocina aprende a levantar la barra con un niño en brazos; mano con mano y banco apartado regresan en el 24. Nima y su hermano son distintos de los tres niños de esa evacuación.
+- **D14 y D30:** Eris tiene salida por el tejado antes de bajar para dar tiempo a evacuar. Muoro localiza su placa al entrar en el barrio; la red es la de su antiguo escuadrón, no una conexión universal. Illia permanece enlazada al morir; se elimina la contradicción del original que la aislaba después de perseguir a Eris por Nexalita.
+- **D51b:** la culpa unifica la dependencia de Haris y el descenso de Lirae. Se expresa como comprensión y autorreproche de Eris; Lirae creyó el relato verdadero, conforme al 14–20 revisado. Se conserva la elección propia de Haris como compañía final.
+- **D33:** el cuaderno de Iretha queda incautado; el libro de rutas que logra sacar Illen es otro. Los avisos a familias preceden a los traslados de material.
+- **Recuento del 24:** veintidós muertos incluyendo a Eris; el subtotal de anónimos baja en uno para no sumar a Eris una segunda vez. Dos identidades aún están por confirmar en el parte. No se inventan nombres para cerrar artificialmente la lista.
+- **D35:** coral exterior de Elis después de Nyree, sin interioridades añadidas. Lyris pregunta «¿Duele?» y Faree responde «Sí» antes de abrir la carpeta con los nombres; afecto y posesión siguen juntos. El aviso y mapa de Lirae llegan a Lyris a través de Tirva; no se resuelve el destino de su cuerpo.
+
+## Aplicación autorizada de la revisión completa — 2026-09-08
+
+Marcos: «me gusta, aplica las soluciones», referido a [[soluciones-revision-completa-2026-09-07]]. Esta actualización prevalece sobre la puesta en escena anterior donde difiera; no implica validación de los nuevos borradores.
+
+- **D30 / D44 / D47:** placas puestas en la fuga y barcaza, retiradas por exigencia de Nyree al llegar (19). Haris abandona la suya en el tejado; Eris la guarda (21). Ante alerta imprecisa, Eris y Nyree aceptan conectar para orientar la evacuación. Muoro, ya más cerca de lo calculado, encuentra la casa (22). Se conservan faro, sobrecarga y bajada voluntaria. Sin reglas nuevas de alcance o reconexión.
+- **D51 / D9:** se mantiene «Ella había sido su Coria», se separa la decisión investigadora de Lirae del seguimiento de Haris y se conserva el autorreproche de Eris como tal. Permanece la ironía del verdugo y la compañía final.
+- **Nyree:** dos testimonios confirman la retención forzosa de los cuatro rehenes. Dos nombres conocidos, dos pendientes; búsqueda por Illen y reserva de recursos. Eris se ofrece a cargar para compensar el coste de personal. La reparación no se declara cumplida.
+- **Lyris:** lealtad a la supervivencia de Coria más allá de Faree. Conserva personas y pruebas; se compromete con una autorización de paso registrada en el 17 y leída por Faree en el 24. Sin nuevo castigo fijado.
+- **D18 / D32:** Faree encarga menú de Nerath; Elerian aporta pan y caldo para Eris al saber que asiste. Se retira el intercambio del veneno y se reduce la insinuación del hijo. Elerian no traiciona.
+- **D35 / D46:** se abrevia Velerian y el tramo de Tirva sin suprimir cosecha, Maelor, venda, nombre, dolor de Faree o anomalías. Se elimina «Faltaban dos días para el asalto» del 21. El 21b conserva su calor y la única esperanza de traer a Lirae.
+- **Identificación:** «Berys, la alumna» y «Berys de cocina», sin renombrar. D13 sigue pendiente.
+
+Detalle y comprobaciones: [[../sesiones/2026-09-08-aplicacion-soluciones-v2]].

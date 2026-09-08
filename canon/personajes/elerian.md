@@ -67,3 +67,7 @@
 **Lugares**: [[../lugares/nurn]] · [[../lugares/coria-elis|Elis (palacio)]] · [[../lugares/itsu|Itsu (vía sus platos)]]
 **Sistemas**: [[../sistemas/silmaritas|Haiz (en sus cigarrillos)]]
 **Capítulos clave**: [[../../estructura/capitulos/acto-II/07-cena-elerian|cap 7 (cena en Nerath)]] · [[../../estructura/capitulos/acto-IV/16-cena-confesiones|cap 16 (cocina para Faree)]].
+
+## Cena real v2 — aplicación autorizada 2026-09-08
+
+Faree encarga el menú de Nerath y el servicio comunica que Eris asistirá. Elerian incorpora por iniciativa propia el pan y el caldo que recuerda que le gustaron. No traiciona a Eris ni informa del encuentro sexual; Faree aprovecha el gesto durante la cena. La percepción de apropiación pertenece a Eris y no demuestra que el rey conozca todos los detalles de su noche.
