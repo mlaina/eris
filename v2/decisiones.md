@@ -67,9 +67,9 @@
 - **D35. Coral de Elis**: **confirmado** en el 24 — Faree cenando («¿Duele.» / «Sí.»), otra hoja dorada de Lyris, el tum tum que sigue.
 - **D36. Espirales de Theim**: plantar en el 13 (el borde de piedra tallado) para pagar el 23.
 
-## 7. Doctrina de prosa (ya aplicada en estilo/)
+## 7. Doctrina de prosa (historial; enmienda vigente del 2026-09-08 al final)
 
-- **D37. «Sicario con fuga»**: sobriedad = tapa sobre presión visible; una fuga por golpe emocional; melodrama = emoción no ganada, no emoción. ([[../estilo/tono]] enmendado.)
+- **D37. «Sicario con fuga» — sustituida el 2026-09-08 por D52.** Se conserva aquí como historial de la decisión anterior. No aplicar ya la cuota de una fuga por golpe ni la sequedad obligatoria.
 - **D38. Tics — presupuesto** (medición 2026-09-01 → objetivo): micro-medidas 78→≤20 · «No era X. Era Y.» 69→≤25 · «no contestó» 46→≤12 · «registró/guardó» 32→≤10 · «—Ya.» 30→≤10 · «No hacía falta» 11→≤4.
 - **D39. Presupuesto de palabras**: pirámide invertida corregida — objetivo por capítulo en [[../draft/mapa-de-promesas]] §5 (total ~82.300; Acto V del 14,6% al ~19%).
 - **D40. Deseo ≠ duda**: querer algo propio desde el Acto I no viola «no dudar pronto». ([[../estilo/restricciones]] enmendado.)
@@ -146,3 +146,24 @@ Marcos: «me gusta, aplica las soluciones», referido a [[soluciones-revision-co
 - **Identificación:** «Berys, la alumna» y «Berys de cocina», sin renombrar. D13 sigue pendiente.
 
 Detalle y comprobaciones: [[../sesiones/2026-09-08-aplicacion-soluciones-v2]].
+
+## Lectura de Marcos del capítulo 1 — 2026-09-08
+
+**Fuente explícita:** 47 comentarios del DOCX descargado y una respuesta posterior en Google Docs. Marcos pide aprender, guardar los criterios, reescribir el capítulo y usarlos en el resto del libro. Esta enmienda prevalece sobre formulaciones anteriores incompatibles; el resultado narrativo sigue pendiente de lectura y validación.
+
+- **D52. Cadencia y profundidad:** se sustituye D37. Prosa clara y natural con tiempo para comprender, sentir y convivir. Se conservan sobriedad y precisión cuando sirven a la escena; se retiran fragmentos, monosílabos y elipsis obligatorios. Desarrollar intenciones de secundarios, conversación, humor, obstáculos y consecuencias. Conservar lo que Marcos destacó como disfrute.
+- **D53. Eris y descanso:** Eris disfruta de hacer un trabajo perfecto, y al principio ese deseo pesa más que el cansancio. Mantener el deseo de un par de días con Lirae, hermana por elección, sin deuda del cuartel ni contador de cuarenta y ocho horas. Ajusta D40, D42 y el pago del 4. El minuto de belleza conserva función, con motivación comprensible.
+- **D54. Nexalita:** estados y sensaciones directas, sin frases, imágenes, sonidos, noticias ni contexto complejo. Palabras, gestos y observación aportan detalles. Se conserva detección recíproca, proximidad y sobrecarga; no se fijan rangos numéricos. D30 sigue vigente, pero la escena del 22 debe adaptar cómo Eris obtiene rutas e información. No dar esa adaptación por ejecutada al actualizar el canon.
+- **D55. Mundo y tratamiento:** tatuajes de Eris y Muoro; Igies casi huecos al alcanzar la superficie, edificios esculpidos, ramas retorcidas y plataformas/muelles; grados Mirisar 1–5 medidos por pruebas, el del 1 de grado 2, concentración y dedos como anclas; Kalari habitual entre Naggar salvo mucha intimidad. Sin grados nuevos para otros personajes ni nuevas biografías.
+- **D56. Refuerzo:** los ocho ya están en Valdara cuando Eris recibe la orden en Elis. Sustituye el refuerzo enviado después por ella. Enlace corregido también en el capítulo 3.
+- **D57. Extensión:** Marcos quiere superar 80.000 palabras y le gustaría alcanzar 100.000, sujeto a lectura. Los objetivos anteriores de D39 son orientación histórica, no un techo ni una cuota. Crecer mediante desarrollo narrativo; preservar progresos y recompensas.
+
+## Respuestas de Marcos a la verificación — 2026-09-09
+
+**Fuente explícita:** cuatro preguntas respondidas en sesión con Claude tras verificar la pasada de Codex. Sustituyen la interpretación sobre los deudores.
+
+- **D58. Haris quiere que Eris descanse:** en el barco tras Indra, Haris se preocupa por ella y le pide que suba a Norel esa noche, que no baje al cuartel al día siguiente y que duerma hasta que Lirae la despierte; se ofrece a llevar el parte. Eris cede a medias («un par de días, si nadie viene a buscarme») y la orden de Valdara los frustra a ambos. La petición de noticias sobre los deudores desaparece del 1 y no deja promesa para el 5. Desarrolla el cuidado que Eris no se permite (canon Haris) sin romance ni biografía nueva.
+- **D59. Los Eldara hablan más, no menos:** aclaración del comentario 34. Frases completas también en operación, en voz baja, cuando hay tiempo; la orden seca se reserva para el instante del asalto. Deroga la compresión «1-2 palabras por frase» de CLAUDE.md y ESTADO. Aplicado al 1; pendiente en el resto.
+- **D60. Nagani en el humor y aforismo:** más Nagani en la broma de la rodilla (*Ilare, Kalaree* irónico, *Nel*, *Kalari*). Se recupera «Siempre acompañada. Siempre sola. Cabían las dos cosas en la misma nuca.» tras la presentación de la placa; el cierre «Eris dejó de calcular a qué hora volvería.» se mantiene.
+
+Guía detallada: [[../estilo/criterios-lectura-marcos-cap1-2026-09-08]]. Continuación: [[plan-reescritura-desde-comentarios-cap1]]. Respuestas preparadas y estado de Drive: [[../sesiones/2026-09-08-respuestas-comentarios-cap1]]. D13 sigue pendiente.

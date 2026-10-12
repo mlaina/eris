@@ -12,7 +12,7 @@ El gobernador había mandado una guardia humana a recibirlos. Cuatro hombres cor
 
 —Suban ustedes —dijo Eris—. Nosotros primero recorremos.
 
-Eran quince. Habían esperado en el Orio a los ocho de Lorin, llegados en el siguiente tránsito. Muoro comprobó la formación antes de que se acercara el oficial.
+Eran quince. Los ocho enviados desde Lorin ya los esperaban en el Orio de Valdara cuando llegaron. Muoro reunió a ambas partes del escuadrón y comprobó la formación antes de que se acercara el oficial.
 
 El oficial dudó un instante. Muoro, a la derecha de Eris, no se movió. El oficial terminó la duda por donde empieza: asintió.
 
@@ -339,6 +339,8 @@ Entraron en la niebla.
 ---
 
 ## Notas de revisión (no forman parte del texto)
+
+**Enlace con el capítulo 1, 2026-09-08:** los ocho ya están en Valdara, conforme al comentario 45 de Marcos. Sustituye la llegada posterior indicada en las notas históricas siguientes. El resto del capítulo espera la reescritura con los nuevos criterios de estilo y Nexalita.
 
 **Revisión integral posterior a la lectura crítica, 2026-09-07.** La llegada de los ocho refuerzos ocurre en el siguiente tránsito y precede al recorrido de la plaza. Se conservan las dos bajas y la otra oyente. **Pendiente de lectura y validación de Marcos.** Las notas siguientes documentan la versión anterior.
 

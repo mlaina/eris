@@ -29,7 +29,7 @@
 
 ### Cómo escribir
 
-- [[estilo/tono]] — voz Sicario, regla "nunca prosa de ficha".
+- [[estilo/tono]] — voz clara y natural, con desarrollo de personajes; regla "nunca prosa de ficha". [[estilo/criterios-lectura-marcos-cap1-2026-09-08|Aprendizaje de los comentarios de Marcos]] sustituye la doctrina Sicario.
 - [[estilo/restricciones]] — prohibiciones del brief.
 - [[memory/MEMORY|Memoria activa]] — reglas atemporales de estilo y proceso.
 

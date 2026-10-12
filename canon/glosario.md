@@ -37,7 +37,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 
 ## E
 
-- **Eldara** — élite militar de Coria. Eris es comandante. Llevan Nexalita y tatuajes de manos.
+- **Eldara** — élite militar de Coria. Eris es comandante. Se coordinan mediante Nexalita, entrenamiento, señales y voz. Los tatuajes de manos y antebrazos descritos pertenecen a Eris y Muoro; no son comunes a todo el cuerpo (Marcos, 2026-09-08).
 - **Elkorn** — Silmarita de la Caza, albino, en Túnderor. Amenaza Deengar.
 - **Enorian** — antigua unificación imperial onírica (lore histórico).
 - **Erion** — niño humano, ~10 años, único Mirisar nacido con el puente abierto al Poisé. Tutelado por Lirae en la Sandrie. Controla las seis formas naturalmente. Rubio, ojos azul profundo cristalino (azul de nacimiento, distinto del azul Haiz saturado). Ver `canon/personajes/nino-prodigio.md`.
@@ -82,7 +82,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Ilar** — "hacia" en Nagani.
 - **Ilare, Kalaree** — fórmula ceremonial Nagani.
 - **Ilir** — "de / posesión" en Nagani.
-- **Igies** — árboles colosales que nacen en los fondos marinos. Hogar de los Valagost. Madera petrificada por la sal, ideal para construcción naval. Semillas en vainas verdes flotantes. Ver `canon/razas/valagost.md`.
+- **Igies** — árboles colosales que nacen en los fondos marinos. Hogar de los Valagost. Troncos casi huecos al llegar a la superficie, con edificios esculpidos, ramas retorcidas y muelles/plataformas añadidos. Madera petrificada por la sal, ideal para construcción naval. Semillas en vainas verdes flotantes. Ver `canon/razas/valagost.md`.
 - **Ildrian** — príncipe Valagost de **Taorun**. Mejor amigo de Mae. Ambos en Amaroth como Kretus.
 - **Ilnadir** — Yll sin marcas de Thuay, gemelo del líder de La Jauría. Miembro destacado de Amaroth, uno de los "cuatro grandes".
 - **Indra** — capital de Kelios, Valagost.
@@ -98,7 +98,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 
 ## K
 
-- **Kalari** — vocativo y tratamiento Nagani para el **comandante Eldara**. Lo usan los Eldara entre sí y los Naggar de rango en ceremonial. Humanos dicen "comandante". Ver `canon/nagani.md`.
+- **Kalari** — vocativo y tratamiento Nagani para el **comandante Eldara**. Tratamiento habitual de Eris entre Naggar; su nombre se reserva para mucha amistad o intimidad. Humanos dicen "comandante". Ver `canon/nagani.md`.
 - **Kaurün** — ciudad de renegados construida en el esqueleto de un zoocante muerto. Vigilada por los Elerias en las cuencas de los ojos. Ver `canon/lugares/kaurun.md`.
 - **Kereth** — árbol central del bosque de Irithin (Deengar). Salón del trono Yll, tallado en madera unida al árbol. Lámina del Kereth anterior cuelga detrás como símbolo del poder.
 - **Kirala** — vocativo y tratamiento Nagani para la **Mayordoma Real de Coria** (actualmente Lyris). Humanos dicen "mayordomo". Ver `canon/nagani.md`.
@@ -148,7 +148,7 @@ Términos propios del mundo. Orden alfabético. Para cada entrada, referencia al
 - **Nat'nei** — Yll heredera de Deengar, hija del rey Prian. Formada en Amaroth. Una de las Yll con mayor capacidad onírica conocida. Pieza clave del equipo Kretus.
 - **Nel** — negación en Nagani.
 - **Nerath** — capital del Imperio Nurn. Ciudad amurallada. En el salón del trono yace Tyrus en coma. El Orio está extramuros. Ver `canon/lugares/nurn.md`.
-- **Nexalita** — placa/complemento en la nuca para conectar Eldara. Ver `canon/sistemas/nexalita.md`.
+- **Nexalita** — placa/complemento en la nuca que enlaza estados y sensaciones directas entre Eldara de una misma red próxima. No transmite frases, imágenes, noticias ni información compleja. Ver `canon/sistemas/nexalita.md`.
 - **Neidimia** — reino vecino de Coria, independiente pero dinásticamente vinculado. Gobernado por **Turtei Numari**, hermano mediano del rey Faree.
 - **Ni, Na, Nar, Nina, Nana, Narna** — pronombres Nagani.
 - **Norel** — torre-biblioteca en Elis.

@@ -69,8 +69,17 @@ Podrían existir formas raras o híbridas (magnética, química, etc.). No se fi
 
 ## Reglas duras del sistema
 
+### Grados de poder — decisión de Marcos, 2026-09-08
+
+- Existen **cinco grados de poder, del 1 al 5**, cuantificados mediante distintas pruebas. La escala mide poder; no es el cargo académico ni el número de dedos o focos.
+- El **mirisar de la fábrica de Indra es de grado 2**. Necesita concentrarse y utiliza los dedos como anclas para canalizar. En el capítulo 1 Eris estima el grado por el efecto y el esfuerzo observables; no está realizando una prueba reglada.
+- No están fijados los protocolos concretos de las pruebas, sus umbrales numéricos ni los grados de Lirae, Lyris o Erion. No inventarlos al ampliar una explicación.
+- Se conserva la mecánica de focos siguiente. El comentario no autoriza a deducir que un grado 2 tiene un máximo de dos focos, ni que todos los grados superiores prescinden de los dedos.
+
+Fuente: comentario 26 en [[../../estilo/criterios-lectura-marcos-cap1-2026-09-08]].
+
 ### 1. Un dedo, un foco
-- La canalización se hace con las **manos/dedos** como antena.
+- La canalización utiliza las **manos/dedos como anclas** para fijar los focos. En el mirisar de grado 2 del capítulo 1, concentración y anclaje son parte visible de la dificultad.
 - **Cada dedo levantado** sostiene **un foco activo** en el mundo físico (un punto donde se aplica energía). Con un dedo, un foco. Con dos, dos. Máximo diez por Mirisar.
 - Soltar un foco (bajar el dedo) libera ese punto; añadir otro (levantar otro dedo) cuesta concentración y roba atención del resto.
 - **Perder los dedos inhabilita al Mirisar** casi completamente — como pasó al mirisar del prólogo. Recuperar canalización sin dedos exige entrenar otra vía (voz, pies, herramienta), lo que lleva años y rara vez recupera la precisión original.

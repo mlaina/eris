@@ -12,14 +12,14 @@ Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia polític
 2. `README.md` — estructura del proyecto.
 3. `estilo/tono.md` — voz narrativa, tono Sicario, regla crítica "nunca prosa de ficha".
 4. `estilo/restricciones.md` — prohibiciones del brief.
-5. `canon/sistemas/nexalita.md` — efecto sobre el habla (Eldara compactos vs corte con soltura).
+5. `canon/sistemas/nexalita.md` — qué transmite el vínculo (estados y sensaciones, nunca frases) y cómo hablan los Eldara.
 6. `estructura/outline-5actos.md` — arco completo del libro.
 
 ## Reglas importantes que NO debes olvidar
 
-- **Tono**: Sicario. Sobrio, operativo, frases cortas, observacional. No melodrama ni barroco épico.
+- **Tono**: claro y natural, con tiempo para comprender, sentir y convivir (Marcos rechazó la rigidez Sicario el 2026-09-08; ver `estilo/criterios-lectura-marcos-cap1-2026-09-08.md`). Sobriedad y precisión cuando sirven a la escena; sin cuota de frases cortas ni melodrama ni barroco épico.
 - **Prosa nunca en ficha**: toda información táctica/estructural va en narrativa continua. Sin bullets, sin "Objetivo:", sin notas meta entre paréntesis.
-- **Habla Eldara**: 1-2 palabras por frase entre ellos (Nexalita rellena contexto). Orgullo militar. En palacio los Naggar se enorgullecen de lo contrario: soltura y retórica larga.
+- **Habla Eldara**: hablan más, no menos (Marcos, 2026-09-09). Frases completas también en operación, en voz baja, cuando hay tiempo; la orden seca se reserva para el instante del asalto. La Nexalita transmite estados y sensaciones, no sustituye la palabra. En palacio los Naggar cultivan la retórica larga; los Eldara tutean y llaman a Eris **Kalari**.
 - **POV**: tercera persona limitada muy cercana a Eris durante todo el libro. Tres excepciones: Cap 2 (POV Lirae), Cap 20 (POV Lirae, descubrimiento) y Cap 24 epílogo (POV Nyree).
 - **Canon en `/canon` es la fuente única de verdad**. Si aparece un término nuevo, consultar `canon/glosario.md` primero.
 - **Cambios bloqueantes siempre con Marcos** antes de escribir: edad, pasado, intención de personajes, ubicaciones.

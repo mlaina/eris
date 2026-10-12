@@ -1,6 +1,6 @@
 # AGENTS.md — instrucciones para Codex
 
-Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia política y militar ambientada en Anira/Aniradnam. Draft objetivo: ~300 páginas, 22 capítulos, 5 actos. Idioma: **español**.
+Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia política y militar ambientada en Anira/Aniradnam. V2: 25 capítulos (1–24 más 21b), 5 actos. Marcos quiere superar 80.000 palabras y le gustaría acercarse a 100.000, sujeto a lectura. Idioma: **español**.
 
 ## Antes de nada: lee `ESTADO.md`
 
@@ -10,17 +10,17 @@ Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia polític
 
 1. `ESTADO.md` — estado actual y próximos pasos.
 2. `README.md` — estructura del proyecto.
-3. `estilo/tono.md` — voz narrativa, tono Sicario, regla crítica "nunca prosa de ficha".
+3. `estilo/tono.md` y `estilo/criterios-lectura-marcos-cap1-2026-09-08.md` — voz vigente y aprendizaje de sus comentarios; **Sicario queda sustituido**.
 4. `estilo/restricciones.md` — prohibiciones del brief.
 5. `canon/sistemas/nexalita.md` — efecto sobre el habla (Eldara compactos vs corte con soltura).
-6. `estructura/outline-5actos.md` — arco completo del libro.
+6. `v2/decisiones.md` y `v2/outline-v2.md` — decisiones y arco vigente. `estructura/outline-5actos.md` está deprecado.
 
 ## Reglas importantes que NO debes olvidar
 
-- **Tono**: Sicario. Sobrio, operativo, frases cortas, observacional. No melodrama ni barroco épico.
+- **Tono**: claro, natural, con tiempo para comprender, sentir y convivir. Marcos rechazó la rigidez de Sicario el 2026-09-08. Variar la sintaxis; no imponer fragmentos, monosílabos ni una sola frase por emoción. Eris disfruta de su competencia al principio.
 - **Prosa nunca en ficha**: toda información táctica/estructural va en narrativa continua. Sin bullets, sin "Objetivo:", sin notas meta entre paréntesis.
-- **Habla Eldara**: 1-2 palabras por frase entre ellos (Nexalita rellena contexto). Orgullo militar. En palacio los Naggar se enorgullecen de lo contrario: soltura y retórica larga.
-- **POV**: tercera persona limitada muy cercana a Eris durante todo el libro. Tres excepciones: Cap 2 (POV Lirae), Cap 20 (POV Lirae, descubrimiento) y Cap 23 epílogo (POV Nyree).
+- **Habla Eldara**: economía en operación con referentes claros; conversación natural fuera de ella. La Nexalita transmite estados y sensaciones, **no información compleja ni frases**. Para detalles, gestos, observación o voz. Usar sentir/percibir, no visión ni audición por la placa. Entre Naggar, **Kalari** salvo mucha intimidad.
+- **POV**: tercera persona limitada muy cercana a Eris. Excepciones: 2 y 20 (Lirae), 24 (Nyree, más coda exterior de Elis autorizada).
 - **Canon en `/canon` es la fuente única de verdad**. Si aparece un término nuevo, consultar `canon/glosario.md` primero.
 - **Cambios bloqueantes siempre con Marcos** antes de escribir: edad, pasado, intención de personajes, ubicaciones.
 
@@ -34,8 +34,8 @@ Este directorio es el proyecto de **novela "Eris"** de Marcos. Tragedia polític
 
 ## Cómo se organiza el trabajo
 
-- **Capítulos escritos**: `estructura/capitulos/acto-N/NN-titulo.md` (agrupados por acto: `acto-I/`, `acto-II/`, `acto-III/`, `acto-IV/`, `acto-V/`).
-- **Outline**: `estructura/outline-5actos.md`.
+- **Capítulos vigentes**: `v2/capitulos/`. V1 en `estructura/capitulos/acto-N/` queda como referencia intacta.
+- **Outline vigente**: `v2/outline-v2.md`; decisiones: `v2/decisiones.md`; continuación de la reescritura: `v2/plan-reescritura-desde-comentarios-cap1.md`.
 - **Canon**: `canon/personajes/`, `canon/lugares/`, `canon/razas/`, `canon/sistemas/`, `canon/glosario.md`, `canon/cronologia.md`, `canon/nagani.md`.
 - **Estilo**: `estilo/tono.md`, `estilo/restricciones.md`.
 - **Referencias** de Marcos (notas a mano, fotos): `draft/referencias-marcos/`.

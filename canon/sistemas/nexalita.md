@@ -1,84 +1,56 @@
 # Nexalita
 
-**Sistema de coordinación mental de los Eldara.** Conecta combatientes sin palabras. Símbolo de disciplina militar — y también de control arcano.
+**Vínculo mental y emocional de los Eldara.** Reglas actualizadas por los comentarios de Marcos del 2026-09-08 (13, 20, 37–38, 41), que prevalecen sobre las descripciones anteriores de «contexto completo» y mensajes mentales. Ver [[../../estilo/criterios-lectura-marcos-cap1-2026-09-08]].
 
 ## Qué hace
 
-- **Se acopla a la nuca** — es un **complemento**, no un implante quirúrgico. Se pone y se quita sin operación, sin sangre, sin ceremonia médica.
-- **Conecta emocional y mentalmente a los combatientes** enlazados.
-- Permite **coordinación táctica sin palabras**.
-- **Transmite sensaciones**: shock, urgencia, tensión, dolor agudo.
-- Puede usarse de forma **ofensiva o extrema** en combate — un Eldara entrenado puede **emitir estados falsos** (pánico, dolor, alarma) a otros Eldara enlazados para confundirlos. Truco reservado a comandantes; Eris lo sabe hacer.
-- Tiene un **coste**: su uso extremo **consume/desgasta** al usuario.
+- Se acopla a la nuca como complemento, sin implante ni operación.
+- Enlaza a miembros de una misma red de escuadrón dentro de una proximidad razonable. La distancia exacta no está fijada; no asignarle una cifra nueva.
+- Transmite **estados, emociones y sensaciones directas en la mente**: calma, disposición, urgencia, miedo, dolor, agotamiento, reconocimiento de una presencia.
+- Facilita la coordinación junto con entrenamiento, gestos, órdenes y planes compartidos. Una alarma puede hacer que el compañero se detenga y busque la causa.
+- Conserva la detección recíproca ya fijada: conectarse permite que miembros próximos de esa red detecten también al usuario. Sentir una presencia no equivale a recibir un plano de la posición y las rutas.
+- Un Eldara entrenado puede emitir estados falsos de alarma, dolor o pánico para confundir a quienes siguen enlazados. El esfuerzo extremo desgasta y puede hacer colapsar al usuario.
 
-## Lo que la Nexalita NO es
+## Qué no transmite
 
-- **No es un sistema de comunicación del reino**. No llegan órdenes de palacio por Nexalita. Las órdenes, mensajes y redirecciones de la corte hacia los Eldara en misión llegan por **mensajero** — persona a caballo o a pie con **papel firmado y sello de Kiral Ree en lacre rojo**, entregado a los guardianes de los Orios o al escuadrón directamente. Formal, físico, trazable.
-- **No es telepatía universal**. Sólo funciona entre Eldara enlazados a la misma red del escuadrón. Dos Eldara de escuadrones distintos no comparten Nexalita salvo reconfiguración específica.
-- **No es radio ni señal a distancia arbitraria**. Requiere proximidad razonable (la distancia exacta no está fijada en canon; depende de la escena).
-- **No la gestiona la corte ni Lyris**. Es un sistema **Eldara**: se administra en Lorin, se coloca en los cadetes al entrar al cuerpo, se desconfigura al morir o ser expulsado.
+No transmite frases, preguntas, nombres, noticias, imágenes, sonidos, expedientes ni instrucciones complejas. Tampoco permite ver a través de los ojos del otro, conocer lo que encontró en una habitación o recibir su lectura completa del terreno.
 
-## Forma física
+La voz, un gesto observado o un contexto establecido deben aportar el detalle. Ejemplo: Eris siente la alarma de Haris, se detiene y ve dónde señala; entonces localiza al vigía. Al llegar una redirección, el grupo percibe en Eris el paso de descanso a deber; sabe que viajarán a Valdara cuando ella lo dice o lee la orden.
 
-- **Complemento acoplado a la nuca** — una placa pequeña, del tamaño de una uña del pulgar, metálica/cristalina, sujeta por un sistema de presión y contacto contra la piel de la base del cráneo. Se ajusta con dos dedos. Se quita con dos dedos. No requiere herramienta.
-- Asociada visualmente a **tatuajes en las manos** de los Eldara (ceremonial, identitario). Los tatuajes sí son permanentes.
-- La "marca Eldara" — nuca con Nexalita + manos tatuadas — es la pertenencia simbólica al cuerpo. La placa se puede retirar; los tatuajes no.
-- **Retirarla a un Eldara vivo es rito de deserción**: el cuerpo no sufre herida, pero la identidad sí. *No se retira nunca* fuera de la muerte o la expulsión.
+Las órdenes del reino llegan físicamente, mediante mensajero y papel firmado, con el sello del palacio en lacre. La corte y Lyris no administran la Nexalita: el sistema pertenece al cuerpo Eldara y se gestiona en Lorin.
 
-## Uso narrativo por acto
+No es telepatía universal. Escuadrones distintos no comparten enlace sin reconfiguración específica. No funciona a distancia arbitraria ni proporciona noticias de quienes quedaron lejos.
 
-- **Acto I**: **símbolo de disciplina, unidad y perfección militar**. Eris y su escuadrón se mueven como un solo organismo. Espectáculo de competencia Eldara.
-- **Acto II**: primeras fricciones — la conexión revela emociones que Eris no quiere compartir (dudas morales tras Plaza Ocre).
+## Forma y pertenencia
+
+Placa pequeña, del tamaño aproximado de la uña del pulgar, metálica/cristalina, sujeta por presión y contacto contra la piel en la base del cráneo. Se ajusta y se retira con dos dedos, sin herramientas, cirugía ni sangre.
+
+Los **tatuajes grises de manos y antebrazos pertenecen a Eris y Muoro** según la corrección de Marcos. No son un requisito ni una marca uniforme de todos los Eldara. No deducir de este dato una ley de rango o raza aún no acordada. Los tatuajes de Eris conservan su peso identitario y el sentido de su mutilación final.
+
+Retirar la Nexalita puede tener una carga de ruptura y deserción, pero su mecanismo físico es sencillo. La pérdida del vínculo deja al personaje sin acceso a estados que antes percibía de los suyos; su reacción debe desarrollarse en escena, no reducirse a una fórmula de soledad.
+
+## Lenguaje narrativo y diálogo
+
+Se **siente**, **percibe** o **reconoce** directamente. No se «ve por la placa» ni se «oye por la nuca». Evitar metáforas de volumen, voces, rumores y canales de radio atribuidas al mecanismo. Puede variar la intensidad o claridad de la sensación.
+
+Presentar el nombre Nexalita y su contacto físico pronto. Después alternar Nexalita, placa y nuca según se esté hablando del vínculo, del objeto o de la piel. La repetición del término ayuda al primer lector a aprenderlo.
+
+La economía militar procede del entrenamiento y de la urgencia, no de que el aparato rellene toda una conversación. **Aclaración de Marcos, 2026-09-09: quiere que los Eldara hablen más, no menos.** La Nexalita no sustituye la palabra: en operación se hablan en voz baja con frases completas siempre que hay tiempo (una cuerda en el muelle, la pared por la que subir, un guardia que no estaba en la cuenta), y la orden seca queda para el instante del asalto. Fuera de operación conversan sin límite. Haris tiene una voz propia más curiosa y afectiva; el resto del grupo también habla con frases completas.
+
+La corte Naggar conserva su orgullo de retórica y protocolo. Eris puede hablar con frases más directas sin convertirse en un telegrama. Entre Eldara se tutean y el tratamiento habitual de la comandante es Kalari; el nombre se reserva para mucha amistad e intimidad.
+
+## Recorrido narrativo vigente en v2
+
+- **I:** unidad, confianza y placer de la coordinación militar. En las Arterias disminuye la intensidad del vínculo; Eris necesita concentrarse más para distinguir los estados de quienes viajan con ella.
+- **II:** el enlace hace perceptibles malestares que Eris preferiría reservar, pero no comunica automáticamente su causa. Los demás necesitan preguntar.
+- **III:** crece su carga de pertenencia y control. El sustrato arcano no se explica como un manual técnico.
+- **IV, capítulos 17–19:** Eris y Haris viajan con las placas al mínimo; Nyree exige retirarlas al llegar a la puerta roja por el riesgo de detección recíproca. Ambos las guardan.
+- **V, 21:** Haris abandona su placa en el murete; Eris guarda la suya como recurso. La diferencia expresa una elección, además del estado físico de los objetos.
+- **V, 22:** ante la alerta del barrio, Eris y Nyree aceptan el riesgo de reconectar. Se conserva que Muoro detecta a Eris y que ella decide bajar para ayudar a evacuar. **La puesta en escena anterior de «rutas del ataque» transmitidas por la Nexalita debe reescribirse:** estados/presencias más observación, ruido físico, mensajeros o diálogo aportarán la información concreta. Esta actualización de canon no afirma que el capítulo 22 ya esté corregido.
+- **V, 23:** la placa permanece en la nuca de Eris al morir. Theim no la recoge; la mutilación de las manos destruye su pertenencia personal y su relación con Las Manos de Coria.
+
+El diseño técnico y el origen último del sistema siguen sin explicación cerrada. No inventar capacidades para resolver un obstáculo de trama.
 
 ## Conexiones
 
-**Quien la usa**: [[../personajes/escuadron-eris|el escuadrón Eldara]] (Eris, Muoro, Haris, Illia, Ravys, Therel, Nerei...)
-**Quien la administra**: [[../lugares/sandrie|Lorin]] (cuerpo Eldara) — no la corte, no [[../personajes/lyris|Lyris]]
-**Sistemas relacionados**: [[mirisar]] · [[arterias-de-luz]]
-**Capítulos críticos v2**: 19, retirada física de ambas placas por seguridad; 21, Haris abandona la suya y Eris la guarda; 22, Eris la acopla ante la alerta para localizar al escuadrón y Muoro obtiene su posición.
-- **Acto III**: la Nexalita deja de ser solo técnica; se insinúa su **sustrato arcano**. No es solo tecnología — hay algo más profundo.
-- **Acto IV v2**: huyen y viajan con las placas al mínimo. En la puerta roja, Nyree exige retirarlas porque la detección es recíproca. Ambos las guardan.
-- **Acto V v2**: Haris deja definitivamente la placa en el murete; Eris conserva la suya en una bolsa como arma. Ante una alerta del barrio, Eris y Nyree aceptan el riesgo de conectarla para conocer las rutas del ataque. Muoro está más cerca de lo calculado y localiza la casa. La información permite dirigir la evacuación y detectar el segundo frente. En el muelle, **Theim corta las manos tatuadas de Eris** — destruye no solo el cuerpo sino **la pertenencia simbólica**. La Nexalita queda en su nuca al morir; Theim no la recoge: no es esa la marca que él desagrega.
-
-## Dimensión temática
-
-- Empieza como **"genialidad técnica militar"** (admirable).
-- Se revela como **"sistema de control"** — la Nexalita enlaza, pero también vigila.
-- El corte de manos en el final **no es tortura gratuita**: es **ritual de desagregación**.
-
-## Efecto sobre el habla (importante para la voz narrativa)
-
-La Nexalita **rellena todo el contexto que no necesita decirse en voz alta**: emociones, referentes, intenciones, nombres de personas ausentes, disposición del terreno, lectura del otro. Por eso los Eldara hablan entre sí con **una palabra o dos por frase**: la voz sólo pronuncia lo que no puede ir por la conexión mental — el nombre del tema, la orden, la confirmación.
-
-Por eso los intercambios Eldara suenan casi **como apaches**: economía brutal de palabras. No es frialdad, es densidad. "Rodilla" / "Rodilla" / "Enseña" contiene toda una conversación.
-
-Esta compresión es **orgullo de cuerpo militar**. En Lorin se enseña: *"No malgastamos aliento. El aliento es para las cosas que cuestan."* Gastar palabras se entiende como falta de disciplina. La Nexalita refuerza la costumbre: lo que se puede ahorrar en voz, se ahorra.
-
-## Contraste con la corte Naggar
-
-En **Elis, en palacio, en el Larien**, los Naggar cultivan **exactamente lo contrario**: se enorgullecen de hablar **con soltura, con retórica, con subordinada larga**. Faree es el epítome — puede decir tres ideas en treinta frases, y hacerlo parecer necesario. La elipsis en la corte sonaría tosca, militar, campesina.
-
-Son **dos orgullos Naggar contrapuestos** en el mismo pueblo:
-- **Eldara**: la economía del aliento es el oficio.
-- **Cortesano**: la construcción elaborada es la medida del refinamiento.
-
-Eris se mueve entre ambos registros. Con Muoro es mínima; con Lyris se permite una frase algo más larga; con Faree en audiencia, frases breves de respeto que a él le sonarían cortantes si no fueran ella — y ella lo sabe.
-
-**Consecuencias narrativas**:
-- Con **otros Naggar sin Nexalita** (Lirae, Lyris): las frases se ensanchan un poco, pero siguen compactas.
-- Con **Haris** (joven, siglo recién cumplido): es el único del escuadrón que todavía no ha gastado la boca. Por eso él es quien **saca a Eris de sus imperativos** con comentarios ligeramente más largos ("Pero igual", "Ya, bueno. Tú dices muchas cosas").
-- Con **humanos y razas no-Naggar sin Nexalita** (Elerian, la guardia humana de Valdara): Eris tiene que **verbalizar mucho más**, porque el contexto no viaja por la nuca. Ese esfuerzo la incomoda y es útil narrativamente — revela lo que el idioma Eldara le ahorraba antes.
-- **Con Faree en la corte**: Eris sostiene el registro Eldara frente a la retórica real. El contraste **es político**: cuando ella responde corto, está afirmando su oficio; cuando se le alarga la frase, está aceptando el idioma de palacio. Material clave para las escenas de Acto III–IV (corte hueca, cena).
-- **En Ygoran v2** ambos están desconectados desde el 19 y deben verbalizar el contexto. En el 21 Haris abandona la intención de volver al vínculo; Eris guarda el arma. La diferencia física vuelve en el 22: Eris conectada, Haris sin placa. La apertura de voz es gradual y conserva hábitos de oficio.
-
-## Notas de escritura
-
-- En combate con Nexalita activa: **frases cortas, sincopadas, sensaciones compartidas** — como si los Eldara fueran un cuerpo colectivo con varias voces.
-- Cuando Eris la corta: **sensación de soledad súbita, silencio interior**. Descripción por contraste.
-- **No explicarla como manual**. Dejar que su funcionamiento emerja del uso.
-
-## Limitaciones
-
-- El uso extremo agota al combatiente (hasta colapso si se fuerza).
-- La desconexión deliberada es posible pero **trauma identitario**.
-- Quién la diseñó o cómo funciona a nivel técnico: **no se explica** — es parte del misterio.
+[[../personajes/escuadron-eris]] · [[../personajes/eris]] · [[../personajes/haris]] · [[../personajes/muoro]] · [[../lugares/sandrie|Lorin]] · [[mirisar]] · [[arterias-de-luz]] · [[../../estilo/tono]] · [[../../v2/plan-reescritura-desde-comentarios-cap1]]

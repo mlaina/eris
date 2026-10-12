@@ -44,6 +44,7 @@ Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — T
 - Disciplinada, metódica, tácticamente brillante.
 - Ágil, escaladora, precisa en combate.
 - Inicialmente obediente y orgullosa de Coria.
+- **Disfruta haciendo bien su trabajo y dirigiendo al grupo.** Al inicio, su deseo de un trabajo perfecto pesa más que el cansancio. Aspira a un par de días de tiempo elegido con Lirae, su hermana por elección; el cuartel no le debe cuarenta y ocho horas regladas. Corrección de Marcos (comentarios 5–7 y 44, 2026-09-08).
 - Busca **equilibrio entre firmeza y comprensión** (no es fría).
 - **Tarda en dudar**, pero cuando duda lo hace de verdad.
 - Usa la Nexalita con maestría (conexión mental con su escuadrón).

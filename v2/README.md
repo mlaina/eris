@@ -5,7 +5,7 @@ Espacio de trabajo del **rediseño completo** del libro (2026-09-01 →). Aquí 
 ## Orden de lectura
 
 1. [[decisiones]] — **el log maestro**: todo lo decidido por Marcos (D1-D51 y aplicaciones posteriores). Manda sobre canon v1 y capítulos v1 donde contradiga.
-2. [[../draft/mapa-de-promesas]] — el contrato con el lector (conflicto, hilos, presupuesto de palabras, tics).
+2. [[../estilo/criterios-lectura-marcos-cap1-2026-09-08]] — criterios vigentes para la reescritura desde la lectura del capítulo 1. [[../draft/mapa-de-promesas]] conserva la arquitectura de promesas; sus presupuestos y doctrina se subordinan a estas indicaciones.
 3. Mapas visuales: https://claude.ai/code/artifact/101e1141-e0b8-4c18-934c-e0eabf330f5d
 4. [[../sesiones/2026-09-01-diagnostico-alma]] — el diagnóstico que originó todo (fallas F1-F7).
 
@@ -20,7 +20,7 @@ Espacio de trabajo del **rediseño completo** del libro (2026-09-01 →). Aquí 
 Correcciones de continuidad aplicadas tras la lectura completa y soluciones narrativas propuestas: [[soluciones-revision-completa-2026-09-07]]. Soluciones aplicadas el 2026-09-08; detalle en [[../sesiones/2026-09-08-aplicacion-soluciones-v2]]. Los borradores esperan lectura y validación.
 
 - Nada se escribe sin decisión que lo cubra; si falta decisión, se pregunta a Marcos (los 🔴 de siempre).
-- Doctrina de prosa: **Sicario con fuga** ([[../estilo/tono]]) + presupuesto de tics (D38) + presupuesto de palabras (D39).
+- Prosa vigente: [[../estilo/tono]] y [[../estilo/criterios-lectura-marcos-cap1-2026-09-08]]. La rigidez de Sicario queda sustituida. Continuación: [[plan-reescritura-desde-comentarios-cap1]]. El horizonte de extensión se acerca a 100.000 palabras, sujeto a lectura y desarrollo real.
 - El estado por capítulo (qué es reescritura, qué cirugía, qué intacto) se marcará en `outline-v2.md`.
 
 ## Acto IV para leer

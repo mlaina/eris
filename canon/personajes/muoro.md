@@ -13,6 +13,7 @@
 - Veterano, curtido, estoico.
 - Intimidante — su presencia se siente antes de que hable.
 - Respeto absoluto por la cadena de mando.
+- **Tatuajes grises en manos y antebrazos, compartidos en el escuadrón sólo con Eris** (corrección de Marcos, 2026-09-08). No generalizarlos a todos los Eldara ni deducir una nueva regla de rango.
 - **Símbolo de la vieja lealtad a Coria**: lleva siglos sirviendo al orden.
 - Hombre (o mujer) de pocas palabras; su silencio pesa.
 

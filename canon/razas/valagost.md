@@ -17,6 +17,7 @@ Los Valagost viven en los bosques de los **Igies**: árboles colosales que nacen
 - La **madera de los Igies** es extraordinariamente dura porque la sal marina la **petrifica parcialmente** — ideal para construcción naval.
 - Las **semillas** son grandes **vainas verdes flotantes** que viajan con las mareas hasta hundirse en el fondo marino y crecer.
 - Los Igies son **tan grandes que albergan ciudades enteras**.
+- **Al llegar a la superficie, los troncos son casi huecos**: los habitantes esculpen edificios dentro, retuercen ramas y amplían la anchura con muelles y plataformas. Indra lo muestra en el capítulo 1. Corrección de Marcos, 2026-09-08; no sustituye las cámaras sumergidas ya fijadas.
 - Algunas ciudades Valagost están en **cámaras de aire dentro de troncos sumergidos**, accesibles solo a través de **aberturas en la parte inferior del tronco**.
 - Para recibir a embajadores **no-Valagost**, han desarrollado **burbujas de acceso**.
 - Pasarelas y cuerdas conectan los Igies entre sí y permiten lanzarse al agua rápidamente.

@@ -8,7 +8,8 @@
 
 - **Sin puerto** — toda la ciudad es puerto. Los barcos se amarran en cualquier tramo de la negra madera.
 - **Pasarelas entrelazadas** a distintas alturas.
-- **Estructuras elevadas** sobre los troncos gemelos Igies.
+- **Troncos casi huecos al llegar a la superficie**, con edificios esculpidos en su interior. **Ramas retorcidas** para sostener y comunicar construcciones; **muelles y plataformas ensanchan la ciudad** sobre el agua. Decisión explícita de Marcos, comentario 8 del 2026-09-08.
+- **Estructuras elevadas** que prolongan la arquitectura tallada dentro de los troncos gemelos Igies.
 - **Balcones abiertos al vacío**.
 - **Madera negra dominante** — color, olor, textura de la ciudad.
 - **Entradas directas** a almacenes y calles-mercado desde cualquier amarre. Sin separación entre muelle y calle.

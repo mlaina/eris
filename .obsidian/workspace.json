@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "ESTADO"
             }
+          },
+          {
+            "id": "0db01acfa8126471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "v2/capitulos/01-mision-133.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-mision-133"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -43,7 +58,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -80,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 270.8359184265137
   },
   "right": {
     "id": "ef979af9a3df05b2",
@@ -185,11 +202,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "082e804e1af68feb",
+  "active": "0db01acfa8126471",
   "lastOpenFiles": [
+    "v2/outline-v2.md.tmp.27996.1fcd8aabd348",
+    "ESTADO.md.tmp.27996.03991697bbf0",
+    "sesiones/2026-09-02-lectura-cap1-reglas.md",
+    "sesiones/2026-09-02-lectura-cap1-reglas.md.tmp.27996.4a914753d5d6",
+    "v2/capitulos/01-mision-133.md.tmp.27996.7841dee311d7",
+    "ESTADO.md",
     "estructura/capitulos/acto-III/12-reunion-manos.md",
     "canon/razas/naggar.md",
-    "ESTADO.md",
     "canon/sistemas/mirisar.md",
     "estructura/capitulos/acto-I/01-prologo.md",
     "build/Eris-v2-print.docx",
@@ -213,17 +235,12 @@
     "sesiones/2026-05-26-pulido-cap10.md",
     "estructura/capitulos/acto-II/10-pesadillas.md",
     "build/mapa.png",
-    "build/Eris-v0.docx",
-    "tools/build_docx.py",
-    "tools",
     "estructura/capitulos/acto-IV/16-cena-confesiones.md",
     "estructura/capitulos/acto-V/22-asalto-ygoran.md",
     "estructura/capitulos/acto-V/23-el-muelle.md",
     "sesiones/2026-05-25-propuestas-mejora-capitulos.md",
     "draft/revision-v1-partes-criticas.md",
     "estructura/capitulos/acto-V/21-tejado-ygoran.md",
-    "estructura/capitulos/acto-V/23-muerte-eris.md",
-    "memory/feedback_dictado_wispr.md",
     "Sin título.canvas",
     "draft/referencias-marcos/prologo-fabrica-entrada.jpeg",
     "mapa.svg",

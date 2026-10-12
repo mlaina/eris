@@ -47,6 +47,10 @@ Idioma ritual y oficial de Coria. **Uso puntual** en la prosa: saludos, órdenes
 
 ## Títulos
 
+**Preferencia vigente de Marcos (2026-09-08, comentarios 36 y 39):** los Naggar se dirigen habitualmente a Eris como **Kalari**, incluso fuera de una ceremonia. «Eris» se reserva para mucha amistad o intimidad. El título puede formar parte del humor de compañeros, como en la escena de la rodilla. Las fórmulas largas siguen dosificadas; no inventar Nagani decorativo ni sustituir conversación natural por monosílabos.
+
+**Ampliación (2026-09-09):** Marcos pidió más Nagani en la broma de la rodilla. Queda fijado que entre compañeros Eldara el Nagani de ceremonia puede usarse con ironía: Ravys saluda a Eris con *Ilare, Kalaree* para que lo deje en paz, e Illia niega con *Nel* antes de seguir en común. El contexto glosa la palabra; no se explica. Este uso humorístico no anula la regla de dosis baja en escenas serias.
+
 - **Kalari** — vocativo y tratamiento Nagani para **comandante Eldara**. Raíz **kal-** (honor/reconocimiento, la misma de *Kalaree*) + sufijo **-ari** (rango/femenino). Lo usan los Eldara entre sí al dirigirse a su comandante. Lo pueden usar también otros Naggar de rango en registro ceremonial (Lyris, Faree en audiencia). **Los no-Naggar (humanos, otras razas) nunca lo usan** — ellos dicen "comandante" en común. Plural: *Kalarina*.
 - **Kirala** — tratamiento Nagani para **Mayordoma/o Real de Coria** (actualmente Lyris). Raíz **Kiral-** (real, de Kiral Ree, la casa del rey) + sufijo **-a** (femenino, o neutral para el cargo). Lo usan los Naggar en la corte y los Eldara en audiencia formal. Humanos dicen "mayordomo" en común. Masc: *Kiralo*. Plural neutro: *Kirali*.
 

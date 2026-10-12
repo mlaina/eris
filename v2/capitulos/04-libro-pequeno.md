@@ -1,6 +1,6 @@
 # Capítulo 4 — Libro pequeño
 
-Las cuarenta y ocho horas llegaron a la mañana siguiente, con pintura seca en el casco.
+Eris volvió a Elis a la mañana siguiente, con pintura seca en el casco y ganas de llegar por fin a Norel.
 
 La Arteria los dejó en el Orio de Elis al amanecer. Roe, el guardián de siempre, recibió a Eris en la rejilla con la misma sonrisa pequeña. Esta vez no le ofreció la mano. Los Eldara que vuelven con pintura seca no se reciben como los Eldara que vuelven de una misión limpia.
 
@@ -36,21 +36,21 @@ Illia dejó caer los bultos de equipo que habían sacado del Glóbulo en el Orio
 
 Eris dejó la jarra. Le pesaban los hombros.
 
-—Pulid los cascos. Comed. Dormid. Cuarenta y ocho horas. Libres.
+—Pulid los cascos, comed y descansad. Os quiero un par de días fuera del armero. Os avisaré si llega algo.
 
-Nadie dijo nada. La libertad, en Lorin, era un artículo tan infrecuente que la mayoría no sabía cómo recibirla sin recelo.
+Haris miró a los gemelos y dejó el escudo junto al banco. Eris quería darles el descanso que ella también había esperado al salir de Indra. Ahora tendría que buscar el suyo entre el informe del mediodía y la visita a Lirae.
 
 —Kalari —dijo Muoro.
 
 —Muoro.
 
-—Iré a Norel. El mirisar habla en dos días. Son dos días.
+—Iré a Norel. Quiero comprobar cómo está el mirisar antes de preparar el interrogatorio.
 
 —Tú también libre.
 
 —Trabajar no me cansa. Con permiso.
 
-Eris lo miró. Muoro había vivido cuatrocientos años; las cuarenta y ocho horas, para él, eran un parpadeo administrativo. El trabajo no era trabajo: era respirar por el método que conocía.
+Eris lo miró. Muoro había vivido cuatrocientos años y seguía eligiendo cómo terminar un trabajo antes de pensar en lo que haría después. Dejar el interrogatorio preparado era su manera de cerrar la misión.
 
 —Bien.
 
@@ -453,6 +453,8 @@ Se durmió contra el hombro de Lirae sin haberlo pretendido.
 ---
 
 ## Notas de revisión (no forman parte del texto)
+
+**Enlace con el capítulo 1, 2026-09-08:** el descanso deja de ser una deuda de cuarenta y ocho horas. Eris concede tiempo a los suyos y busca el suyo entre el informe y Lirae. El interrogatorio depende de estabilizar al preso, sin réplica críptica de «dos días». Ajuste de continuidad; la reescritura completa de este capítulo sigue pendiente.
 
 **Revisión integral posterior a la lectura crítica, 2026-09-07.** Equipo descargado del Glóbulo en el Orio y transportado como bultos hasta Lorin. Corrección de interrogaciones. Sofá y descanso se conservan. **Pendiente de lectura y validación de Marcos.** Las notas siguientes documentan la versión anterior.
 

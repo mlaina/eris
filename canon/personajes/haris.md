@@ -31,6 +31,10 @@
 
 ## Notas de escritura
 
+**Lectura de Marcos, 2026-09-08:** desarrollar qué quiere Haris en cada conversación, permitir frases completas y conservar humor, curiosidad y cuidado. Su carácter no se limita a humanizar a Eris. Ver [[../../estilo/criterios-lectura-marcos-cap1-2026-09-08]].
+
+**Decisión de Marcos, 2026-09-09 (D58):** en el capítulo 1, **Haris quiere que Eris descanse**. Le preocupa ella, no el caso: le pide que suba a Norel esa noche, que no baje al cuartel al día siguiente y que duerma hasta que Lirae la despierte; se ofrece a llevar el parte. Ella cede a medias y la orden de Valdara los frustra a los dos. Sustituye la versión en que pedía noticias de los deudores. Es cuidado, sin romance declarado; siembra el «te conozco» que pesa cuando muere.
+
 - No hacerle demasiado inocente ni demasiado trágico desde el inicio. Debe ser joven, pero competente.
 - Su diálogo es más directo y afectivo que el de Eris.
 - Tiene sentido del humor — único personaje que hace reír a Eris.

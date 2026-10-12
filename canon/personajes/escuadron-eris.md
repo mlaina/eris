@@ -32,6 +32,8 @@ Parejas e infiltrados distribuidos en operaciones (tejados, esquinas, emboscada)
 
 ## Equipamiento Eldara (el mismo para todos)
 
+**Excepción de apariencia fijada por Marcos, 2026-09-08:** los tatuajes grises de manos y antebrazos corresponden a **Eris y Muoro**, no a todos los Eldara. No forman parte del equipamiento común. En la Misión 133 viajan siete; los otros ocho han sido enviados de Lorin a Valdara y ya esperan allí cuando el grupo de Eris llega al Orio de Elis.
+
 - **Armaduras negras ceñidas y flexibles**, perfectamente ajustadas, que se adaptan al movimiento sin hacer ruido.
 - **Yelmos negros** simples pero imponentes.
 - **Lanzas** adornadas con cintas negras y doradas. Arma principal.

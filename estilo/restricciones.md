@@ -2,6 +2,8 @@
 
 Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada escena.
 
+**Actualización vinculante, 2026-09-08:** [[criterios-lectura-marcos-cap1-2026-09-08]] y [[tono]] prevalecen sobre la antigua doctrina Sicario y cualquier regla que imponga elipsis, monosílabos o sequedad. Explicaciones integradas, conversación natural y desarrollo emocional están permitidos y son necesarios. Eris disfruta de su competencia desde el inicio; querer tiempo con Lirae no equivale a dudar de Coria. Los tatuajes son de Eris y Muoro; la Nexalita transmite estados y sensaciones, nunca noticias o frases.
+
 ---
 
 ## Sobre Faree
@@ -32,7 +34,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 ## Sobre el worldbuilding
 
 - ❌ **No explicarlo como enciclopedia.**
-- Que emerja **por uso**, no por exposición.
+- Que emerja por uso y por **explicaciones integradas** cuando el lector las necesite. Presentar los términos y desarrollar las reglas en contexto; la explicación de las Arterias gustó a Marcos.
 - Nada de párrafos tipo "los Naggar son una raza de..." salvo en diálogo natural y breve.
 - Las reglas del mundo se demuestran en escena, no se listan.
 
@@ -54,7 +56,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 ## Sobre la tragedia de Eris
 
 - ❌ **No melodrama.**
-- **Contención emocional**. Cuanto más grave, más sobria la prosa.
+- La emoción debe ganarse y disponer de espacio para que el lector la viva. La contención puede usarse, pero no imponer sequedad ni una cuota de una frase por golpe emocional.
 - No lágrimas cinematográficas, no discursos finales.
 - La muerte es un **hecho físico**. El drama está en la inevitabilidad, no en la dramatización.
 
@@ -126,7 +128,7 @@ Prohibiciones explícitas del brief maestro. Se consultan antes de escribir cada
 ## Sobre tautologías reflexivas "X era X" / "X sabía a X"
 
 - ❌ **No usar tautologías del tipo** *"el caldo sabía al caldo"*, *"una mujer Naggar de túnica oscura era una mujer Naggar de túnica oscura"*, *"un hombre era un hombre"*.
-- Aparentan profundidad y son frases vacías. Rompen la cadencia Sicario sin pagar nada — ocupan línea, no entregan información, no entregan imagen.
+- Aparentan profundidad y son frases vacías: ocupan línea sin entregar información o imagen. La revisión de Marcos pide referentes concretos y naturalidad.
 - Si la idea es *"es lo que es, sin más / sin secreto / sin truco"*, hay alternativas mejores:
   - *"No tenía secreto."*
   - *"Era caldo, sin más."*

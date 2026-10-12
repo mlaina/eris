@@ -1,10 +1,12 @@
 # Outline v2 — capítulo a capítulo
 
+**Reescritura desde la lectura de Marcos, 2026-09-08:** capítulo 1 desarrollado con los nuevos criterios (6.996 palabras por espacios, sin notas), enlaces corregidos en 3–4. **Total vigente: 76.380 palabras, 25 capítulos.** Borradores pendientes de validación. La doctrina Sicario y la cuota de una fuga quedan sustituidas por [[../estilo/criterios-lectura-marcos-cap1-2026-09-08]]. Continuación: [[plan-reescritura-desde-comentarios-cap1]]. Las entradas y presupuestos anteriores que siguen conservan valor histórico.
+
 **Revisión integral 2026-09-07:** aplicadas las prioridades de la lectura continua de los actos I–III; detalle en [[../sesiones/2026-09-07-revision-integral-actos-I-III]]. Los recuentos de capítulos 1–15 reflejan esta revisión; siguen pendientes de validación.
 
 **Generado**: 2026-09-01 desde [[decisiones]] (D1-D48). Sustituye al outline v1 (🛑 deprecado).
 **Formato por capítulo**: plot · pregunta · reloj · beats obligatorios · estado (🆕 nuevo / 🔴 reescritura completa / 🟠 cirugía mayor / 🟡 cirugía media-leve / 🟢 casi intacto) · palabras objetivo.
-**Reglas transversales en TODOS los caps**: apertura stealth-thesis (D43) · presupuesto de tics (D38) · una fuga por golpe emocional (D37) · el minuto de belleza y la voz como medidores (D42) · el péndulo acelerando de fondo (D41).
+**Reglas transversales vigentes**: claridad, profundidad y conversación natural (D52–D57); progresos y recompensas reconocibles; minuto de belleza comprensible y crecimiento afectivo (D42 enmendado); péndulo acelerando de fondo (D41). Las antiguas restricciones de apertura y tics ceden cuando dificultan la experiencia del lector.
 
 **Borrador completo 2026-09-07**: 73.210 palabras (por espacios, sin notas), 25 capítulos, todos pendientes de validación v2. **Total objetivo inicial**: ~82.500 palabras. Lectura completa realizada; soluciones aplicadas el 2026-09-08. Se conserva la extensión necesaria sin rellenar hasta una cifra.
 
@@ -14,23 +16,23 @@
 
 ## Acto I — Gloria (reloj: ¿qué es el sonido?) — ~12.800
 
-### 1 — Misión 133 ✍️ corregido 2026-09-07 (3875 palabras, conteo por espacios) — [[capitulos/01-mision-133]] · pendiente lectura y validación de Marcos
-**Plot**: una redada perfecta que le cuesta la vuelta a casa. **Pregunta**: ¿quién manda sobre el tiempo de Eris?
-**Beats**: primera página = la familia en la nuca (Nexalita: nunca sola y siempre sola; D28) · la redirección como primer robo — el conflicto en página 1 · fuga de Itsu (la ingravidez → el hermano que la llevaba; sin explicar) · el humo de la vigía (la violencia cuesta desde el minuto uno) · el duelo del mirisar se conserva (competencia, D47) · «hay quien ha escrito poesía sobre esa luz… le basta un minuto» — se fija la vara del minuto (D42) · libro de cabos de Haris (siembra 23) · menos tránsito/transferencia.
+### 1 — Misión 133 ✍️ reescrito 2026-09-08 (6996 palabras, conteo por espacios) — [[capitulos/01-mision-133]] · pendiente lectura y validación de Marcos
+**Plot**: Eris disfruta de dirigir una captura difícil y espera volver con Lirae; una redirección frustra el descanso. **Pregunta**: ¿cuándo podrá disponer de su tiempo?
+**Beats**: Lorin como casa; seis presencias y ocho ausentes · deseo de un par de días elegido, sin deuda ni contador · Indra e Igies esculpidos · despliegue por entrenamiento, gestos y estados · mirisar de grado dos y amputación legible · Haris pide noticias de los deudores; Eris deja solicitud escrita · humor y cuidado de Ravys · Arterias como comprensión y viaje · recuerdo de Itsu sin adelantar el relato del 18 · minuto de belleza explicado · ocho ya en Valdara. Se conservan libro de cabos, humo y cierre de partida.
 
 ### 2 — Lirae ✍️ corregido 2026-09-07 (2444 palabras, conteo por espacios) — [[capitulos/02-lirae]] · pendiente lectura y validación de Marcos
 **Plot**: una medidora encuentra una anomalía imposible y falsifica el registro oficial por primera vez en setenta años. **Pregunta**: ¿qué mide el péndulo — y por qué esconderlo?
 **Beats**: como v1 (la apertura ya es la vara de D43) · péndulo = metrónomo global queda armado · hoja dorada de Lyris (paga en 24) · solo pasada de tics.
 
-### 3 — La Plaza Ocre ✍️ corregido 2026-09-07 (3254 palabras, conteo por espacios) — [[capitulos/03-plaza-ocre]] · pendiente lectura y validación de Marcos
+### 3 — La Plaza Ocre ✍️ enlace corregido 2026-09-08 (3261 palabras, conteo por espacios) — [[capitulos/03-plaza-ocre]] · pendiente reescritura y validación
 **Plot**: contener una plaza sin masacre; la dispersa con dos muertos y la abanderada se le queda. **Pregunta**: ¿cuánto cuesta restaurar el orden — y quién es la mujer que sabe lo que Eris oye?
 **Beats**: apertura nueva (no tránsito) · la encapuchada ES Nyree (D23-D24) — no cambia el texto visible, cambia cómo se escribe su mirada (reconocimiento, no amenaza) · la mujer de la bandera muere por un guion heredado (patrón del tema, D2) · tics.
 
-### 4 — Libro pequeño ✍️ corregido 2026-09-07 (2734 palabras, conteo por espacios) — [[capitulos/04-libro-pequeno]] · pendiente lectura y validación de Marcos
+### 4 — Libro pequeño ✍️ enlace corregido 2026-09-08 (2776 palabras, conteo por espacios) — [[capitulos/04-libro-pequeno]] · pendiente reescritura y validación
 **Plot**: volver con la humillación seca encima y encontrar en Lirae el único descanso que no es de Coria. **Pregunta**: ¿dónde descansa un arma?
 **Beats**: ancla de hermandad explícita — Lirae como la primera pieza de familia que Eris rellenó en Elis (D16) · levitación/vino/hombro se quedan (calor fraterno) · hipótesis sónica de Lirae (queda como pista falsa razonable, D24) · «cuide el pensamiento».
 
-**Nota de revisión 2026-09-07**: la recompensa del capítulo 1 es operativa. El objetivo de la fábrica ya se anuncia en la primera página; no se da por ejecutado el micro-misterio de D50a. La revisión integral concilia la Nexalita con su alcance local y envía el refuerzo por orden escrita. D50a se paga con el micro-arco de captura, sin añadir otro misterio al arranque.
+**Continuidad vigente del Acto I:** la captura paga un micro-arco de competencia; el deseo de descanso con Lirae sigue vivo, sin deuda reglada. La Nexalita transmite estados y sensaciones, no mensajes detallados. Los ocho ya esperan en Valdara. La solicitud de noticias sobre los trabajadores de Indra debe retomarse en el capítulo 5; aún no se ha decidido ni narrado su resultado.
 
 ## Acto II — Grietas (reloj: la fe + la herida) — ~24.900
 
