@@ -28,7 +28,7 @@
 - **Operaciones de control público / represión / formación ceremonial**: se envía el escuadrón completo (15).
 - **Misiones mixtas** (ej. pasar de infiltración a operación abierta): se empieza con media plantilla y se refuerza.
 
-Parejas e infiltrados distribuidos en operaciones (tejados, esquinas, emboscada). Los secundarios anónimos aparecen por función: "los tiradores del tejado", "la pareja del sur", etc.
+Parejas e infiltrados distribuidos en operaciones (tejados, esquinas, emboscada). En una operación, los Eldara que no tienen peso en la escena pueden aparecer por su posición: "los del tejado", "la pareja del sur". Ver la regla de D64 más abajo para los que importan.
 
 ## Equipamiento Eldara (el mismo para todos)
 
@@ -48,13 +48,24 @@ Todos los Eldara **saben usar arco**. No lo llevan por defecto. Cuando la misió
 
 Otros equipos opcionales: cuerdas largas, garfios, ropas civiles para infiltración, drogas de sueño, antídotos. Se asignan por misión, no por soldado.
 
+## Enfrentarse a los Eldara — palabras de Marcos (2026-10-14)
+
+**Procedencia: Marcos, en conversación, con sus palabras.** Como Eris desconfía de su propio juicio fuera de lo militar ([[eris]], núcleo del personaje), enfrentarse a sus hermanos Eldara es más doloroso: cuando por fin se fía de sí misma, al otro lado están quienes siguen creyendo lo que ella creía. Marcos: «eso hace que haya que construir muuuy bien lo que hay que hacer».
+
+**Reglas cambiadas por Marcos (2026-10-14: «cambiemos las normas lo que necesitemos»).**
+- Illia y Ravys tienen presencia propia desde el Acto I: humor, fricción y cuidado de hermanos visibles antes de la pérdida. Sustituye «desarrollo mínimo en Acto I».
+- Todo Eldara que Eris tenga delante en el enfrentamiento final con peso en la escena tiene nombre y un momento propio antes del Acto V. Nunca una masa sin rostro cuando se enfrentan a ella.
+- Muoro: D20 sustituida por D64 en [[../../v2/decisiones]]. Su cuidado se ve en actos; su horror final es que una persona reconocible siga fiel al sistema.
+
+**Criterio de construcción — propuesta de Claude a partir de D64, pendiente de validación de Marcos.** Cada Eldara que importe necesitaría: un momento propio en el que sea persona y no formación; un vínculo privado con Eris; una fe en Coria con razones que se entiendan; y una elección suya en el final que no sea sólo obedecer. Referente: la caída de Boromir duele porque antes le vimos enseñar a Merry y Pippin a manejar la espada.
+
 ## Notas de escritura
 
-- Los secundarios sin nombre aparecen por función: "los tiradores en el tejado", "la pareja del sur", etc.
+- Los Eldara sin peso en una escena pueden aparecer por posición; los que importan, según la regla de D64 de arriba.
 - Illia y Ravys funcionan como **unidad** — rara vez separados.
 - Ningún Eldara del núcleo nombrado muere en Acto I-IV (salvo decisión específica de Marcos).
 - **Haris es ancla emocional** del lector — no debe morir hasta Acto V.
-- Desarrollo mínimo de Illia/Ravys en Acto I; se van perfilando solo cuando la trama lo pide.
+- Illia y Ravys con presencia propia desde el Acto I (D64; coincide con [[../../estilo/tono]]).
 
 ## Conexiones
 

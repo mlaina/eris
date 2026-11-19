@@ -58,9 +58,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"

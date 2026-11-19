@@ -1,0 +1,76 @@
+{
+ "lectura": [
+  "Tu tesis se sostiene hoy en un tercio. La primera parte sí: a Eris le dicen constantemente cómo son las cosas. La segunda casi no: solo dos veces cree una versión ajena porque piensa que sabe menos, el parte del parricidio en el 10 y el muelle en el 23. El resto es obediencia sin creencia, como «Entiendo, majestad» o «Lo hizo a tiempo».",
+  "La tercera parte se cumple en lo que percibe, como el sonido, la Valagost, las familias de Iretha o la crueldad de Theim, pero no en política. Entre el 6 y el 13, Faree no tiene razón contra ella ni una sola vez, y su única intuición política, en el muelle, la desmiente Theim con «Lo elegí».",
+  "Por eso la curva va al revés de tu arco. Empieza con la confianza al máximo en el capítulo 1 y acaba en el mínimo en el 23. Allí toma por hechos tres opiniones de su verdugo: que ella les dio la casa, que Lirae bajó por ella y que fue la Coria de Haris. El propio libro había mostrado antes lo contrario, y el narrador hace suya la versión de Theim.",
+  "Hoy Eris no es alguien que duda de su juicio. Es alguien con juicio alto que solo lo ejerce en secreto y que, al final, deja que el verdugo le cuente su vida.",
+  "Hay dos caminos, y elegir es tuyo. Uno es tu tesis tal cual: falta una escena entre el 6 y el 13 en la que Faree tenga razón contra ella en algo político, ella adopte su versión y los hechos la desmientan después. El hueco natural es la conversación del 11 sobre que «la ciudad sirve»: que se lo crea y el cuaderno de Iretha lo desmonte. Y que el parte del parricidio se contraste alguna vez; bastaría una carta del hermano.",
+  "El otro es el libro que ya tienes, dicho de otra manera: vio bien, lo dijo tarde y en voz baja, y murió creyéndose la versión del verdugo. Para que sea una tragedia deliberada, el narrador tiene que dejar de hacer suya la versión de Theim, y Eris necesita un momento de saber que acertó. En el 19, cuando Nyree le dice «Salvamos dos porque tú escondiste el cuaderno», hoy responde «No lo hice por ti»; ahí cabe que lo acepte.",
+  "Los dos caminos comparten lo que el texto ya construye: «Si las manos eran mías». Obedecer también fue elegir, y quien delega su juicio se lo entrega a otro."
+ ],
+ "eldara": [
+  {
+   "nombre": "Haris",
+   "momento_propio": "Varios. El peso del vigía («Pesaba más de lo que parecía —dijo, casi sin voz.», 1). Es la voz moral del cortijo («Hemos matado niños, Kalari.», 9).",
+   "vinculo_con_eris": "El más fuerte del libro. La espera tres horas en el armero y la empuja a decir lo que ve («Entonces no me dejes hablando solo.», 8).",
+   "fe_en_coria_con_razones": "La tiene delegada en Eris, no en Coria: «Tú creías en Coria —siguió él—. Yo creía en ti. Mientras tú servías, yo sabía que se podía servir.» (21).",
+   "eleccion_propia": "Sí, y con razones: «No me arrastras. Estoy.» (9), «Si vuelvo, vuelvo a eso. No vuelvo.» (19) y dejar la placa en el murete (21).",
+   "estado": "construido",
+   "que_falta": "No es un hermano al que enfrentarse, porque está de su lado; no sirve para el dolor del final."
+  },
+  {
+   "nombre": "Muoro",
+   "momento_propio": "Pocos y siempre vistos desde fuera: corrige a Eris y acierta (1).",
+   "vinculo_con_eris": "Es testigo y no insiste («Te has llevado los dedos a la sien en el balcón —dijo él—. Antes del golpe.», 3).",
+   "fe_en_coria_con_razones": "La única razón articulada que da un Eldara para obedecer: «Quien firma, mata. La lanza, no.» (9). Justifica al soldado, no a Coria.",
+   "eleccion_propia": "Elige el orden escrito (15) y la caza: «Kalari. Suelta las armas. Ponte de rodillas con las manos tras la cabeza.» (22).",
+   "estado": "a_medias",
+   "que_falta": "Interioridad, y una escena cara a cara antes del asalto en la que su doctrina choque con la de Eris."
+  },
+  {
+   "nombre": "Illia",
+   "momento_propio": "Sí. El duelo por su gemelo («Tenía las dos manos en el yelmo de su gemelo, una a cada lado, sin moverlo.», 9) y la confrontación del 15 («Entonces…",
+   "vinculo_con_eris": "Un arco completo en tres puntos: lealtad («Le dije que esperara.",
+   "fe_en_coria_con_razones": "Ninguna. Usa el cierre institucional como un muro («El parte ya está cerrado.», 15), no como convicción.",
+   "eleccion_propia": "Implícita: carga sola con la parihuela («Illia no contestó.», 9) y se presenta a cazarla sin yelmo («Sin yelmo. Cara descubierta.», 22).",
+   "estado": "a_medias",
+   "que_falta": "Su motivo. Desaparece entre el 15 y el 22 y en el asalto no dice una palabra: no sabemos si caza a Eris por Ravys, por Coria o por las dos cosas."
+  },
+  {
+   "nombre": "Ravys",
+   "momento_propio": "Sólo en el cap. 1: insolencia y una mentira cariñosa («Ya, bueno. Tú dices muchas cosas, Kalari.»; «Illia me dijo que saltara, en realidad.»).",
+   "vinculo_con_eris": "Le da un cuidado silencioso (la jarra de agua, 4) y recibe la corrección del 1.",
+   "fe_en_coria_con_razones": "Ninguna.",
+   "eleccion_propia": "Saltar contra la orden en el 1.",
+   "estado": "a_medias",
+   "que_falta": "Una escena viva entre el 4 y el 9. Hoy muere casi sin haber existido para el lector, y su muerte es el motor de Illia, de la culpa de Eris y del…"
+  },
+  {
+   "nombre": "Therel",
+   "momento_propio": "Uno: «Therel, en la pinza del este, paró el golpe en alto y no lo bajó. Nerei a su lado lo bajó por él.» (9).",
+   "vinculo_con_eris": "Ninguno propio; ejecuta tareas: la cuerda, el perímetro, las declaraciones.",
+   "fe_en_coria_con_razones": "Ninguna.",
+   "eleccion_propia": "Frenarse ante una muchacha en el cortijo (9).",
+   "estado": "solo_funcion",
+   "que_falta": "Voz, y presencia después del 15: no está en el asalto. Su duda del 9 era la semilla de un hermano que podría estar del otro lado y dudar."
+  },
+  {
+   "nombre": "Nerei",
+   "momento_propio": "Mata por Therel en el 9. Aprende de Eris («Nerei alzó el escudo, cargó sobre la pierna como Eris acababa de enseñarle y esperó el golpe.», 15).",
+   "vinculo_con_eris": "Alumna sin palabra.",
+   "fe_en_coria_con_razones": "Ninguna.",
+   "eleccion_propia": "Ninguna visible.",
+   "estado": "solo_funcion",
+   "que_falta": "Voz, interioridad y un papel en el final; desaparece después del 15."
+  },
+  {
+   "nombre": "Los otros ocho (sin nombre)",
+   "momento_propio": "Sólo en bloque: parte del escuadrón deja de matar en el cortijo («pararon a las chicas con el escudo sin clavar, como hacía Eris.», 9).",
+   "vinculo_con_eris": "Colectivo y a través de la placa: «Eris conocía el intervalo entre aquellos pasos, la espera compartida antes de cruzar una calle.» (22).",
+   "fe_en_coria_con_razones": "Ninguna. En el 19 quedan reducidos a «los Eldara que seguirían una orden de captura sin hacer preguntas».",
+   "eleccion_propia": "Un Eldar duda entre el «A mí» de Eris y Muoro («El otro se quedó a media zancada, esperando orden.», 22). El texto no lo explota.",
+   "estado": "solo_funcion",
+   "que_falta": "Nombres. Eris mata en el recibidor a uno de su antiguo escuadrón sin registrarlo. Con hermanos sin cara, el enfrentamiento no puede doler."
+  }
+ ]
+}

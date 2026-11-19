@@ -28,6 +28,10 @@
 
 El brief lo marca como "muy potente". Muoro no es un traidor: es **lo que Eris habría sido** si hubiera seguido sirviendo. Su lealtad no es venal — es la creencia genuina de que **el orden, aun corrompido, es mejor que el caos**. Esa postura es coherente y humana. No es un villano.
 
+## Construcción — Marcos, 2026-10-14
+
+Enfrentarse a Muoro debe doler (D64 en [[../../v2/decisiones]]). Por eso su cuidado por Eris y por el escuadrón se ve en actos desde el Acto I, sin discursos. Se retira la regla de septiembre que pedía «cero sentimiento en página»; contradecía este canon y el brief.
+
 ## Notas de escritura
 
 - Voz grave, frases breves y sentenciosas.

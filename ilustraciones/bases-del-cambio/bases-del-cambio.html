@@ -1,0 +1,383 @@
+<title>Las bases del cambio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Spectral+SC:wght@500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Composición: una columna de lectura, como una libreta de laboratorio de Norel; la balanza ocupa el ancho de la columna. */
+:root{
+  --paper:#EDEFF2; --card:#F7F8FA; --ink:#16181D; --muted:#596070; --rule:#CBD0D8;
+  --haiz:#2B4CC9; --oro:#8E6411; --haiz-soft:#DCE3FA; --oro-soft:#F2E6CC;
+  --serif:"Spectral",Georgia,"Times New Roman",serif; --sc:"Spectral SC","Spectral",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111318; --card:#171A21; --ink:#E7E8EB; --muted:#9BA2AF; --rule:#2B3039;
+  --haiz:#93AAFF; --oro:#D8B460; --haiz-soft:#1C2645; --oro-soft:#33290F; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111318; --card:#171A21; --ink:#E7E8EB; --muted:#9BA2AF; --rule:#2B3039;
+  --haiz:#93AAFF; --oro:#D8B460; --haiz-soft:#1C2645; --oro-soft:#33290F; color-scheme:dark}
+html{background:var(--paper)}
+body{background:var(--paper);color:var(--ink);font:17px/1.6 var(--serif);padding-inline:16px;padding-block:28px 64px}
+main{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-weight:600;text-wrap:balance;margin:0;line-height:1.2}
+h1{font-size:clamp(34px,6vw,52px);letter-spacing:-.01em}
+h2{font-family:var(--sc);font-weight:500;font-size:clamp(24px,4vw,30px);letter-spacing:.02em}
+h3{font-size:19px}
+p{margin:0}
+.eyebrow{font:500 12px/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.lead{font-size:20px;color:var(--muted);max-width:62ch}
+.stack{display:flex;flex-direction:column;gap:14px}
+.section{display:flex;flex-direction:column;gap:20px}
+.note{font-size:15px;color:var(--muted);max-width:65ch}
+nav.toc{display:flex;flex-wrap:wrap;gap:8px}
+nav.toc a{font:13px/1 var(--mono);color:var(--ink);text-decoration:none;border:1px solid var(--rule);padding:8px 10px;border-radius:999px;background:var(--card)}
+nav.toc a:hover,nav.toc a:focus-visible{border-color:var(--haiz);outline:none}
+.metodo{display:flex;flex-wrap:wrap;gap:6px 18px;font:13px/1.5 var(--mono);color:var(--muted)}
+.quote{font-style:italic;font-size:clamp(20px,3.2vw,25px);line-height:1.45;max-width:58ch}
+.quote cite{display:block;margin-top:10px;font:13px/1.4 var(--mono);font-style:normal;color:var(--muted)}
+.trio{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.trio div{background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.trio b{font-weight:600}
+.trio span{font-size:15px;color:var(--muted)}
+.figura{border:1px solid var(--rule);border-radius:6px;overflow:hidden;background:var(--card)}
+.figura iframe{display:block;width:100%;height:880px;border:0}
+.figura a{display:block;padding:10px 14px;font:13px/1.4 var(--mono);color:var(--haiz);border-top:1px solid var(--rule)}
+.dos{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media (max-width:720px){.dos{grid-template-columns:1fr}}
+.dos > div{min-width:0;display:flex;flex-direction:column;gap:12px}
+ul.items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+ul.items li{padding-left:14px;border-left:2px solid var(--rule)}
+ul.items.real li{border-left-color:var(--haiz)}
+ul.items.eco li{border-left-color:var(--oro)}
+.src{display:block;font:12px/1.5 var(--mono);color:var(--muted);margin-top:3px}
+.tag{display:inline-block;font:500 11px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:5px 7px;border-radius:3px}
+.tag.real{background:var(--haiz-soft);color:var(--haiz)}
+.tag.eco{background:var(--oro-soft);color:var(--oro)}
+.bars{display:flex;flex-direction:column;gap:14px}
+.bar{display:grid;grid-template-columns:110px 1fr;gap:10px;align-items:center}
+.bar .lbl{font:13px/1.3 var(--mono)}
+.bar .lbl small{display:block;color:var(--muted)}
+.track{display:flex;height:22px;border-radius:3px;overflow:hidden;background:var(--rule)}
+.track span{display:block;height:100%}
+.k-autor{background:var(--haiz)}.k-taller{background:var(--muted)}.k-maquina{background:var(--oro)}.k-borrador{background:color-mix(in srgb,var(--oro) 45%,var(--rule))}
+.leyenda{display:flex;flex-wrap:wrap;gap:6px 16px;font:12px/1.4 var(--mono);color:var(--muted)}
+.leyenda i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.card .cap{font:12px/1 var(--mono);color:var(--muted)}
+.card blockquote{margin:0;font-style:italic;font-size:17px}
+.card p{font-size:15px}
+.card .como{font-size:14px;color:var(--muted)}
+ol.cambios{margin:0;padding:0;list-style:none;counter-reset:c;display:flex;flex-direction:column;gap:26px}
+ol.cambios > li{counter-increment:c;display:grid;grid-template-columns:44px 1fr;gap:4px 12px}
+ol.cambios > li::before{content:counter(c);font:500 28px/1 var(--mono);color:var(--haiz);grid-row:span 4}
+ol.cambios h3{grid-column:2}
+ol.cambios p, ol.cambios .detalle{grid-column:2;min-width:0}
+.detalle{font-size:15px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
+.detalle q{font-style:italic;color:var(--ink)}
+.grupo{display:flex;flex-direction:column;gap:12px}
+.grupo h3{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.mec{border-top:1px solid var(--rule);padding-top:12px;display:flex;flex-direction:column;gap:4px}
+.mec b{font-weight:600}
+.mec p{font-size:15px}
+.mec .en{color:var(--muted)}
+.tabla{overflow-x:auto;border:1px solid var(--rule);border-radius:6px}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:640px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}
+th{font:500 11px/1.3 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--card)}
+tr:last-child td{border-bottom:0}
+.estado{font:500 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.05em;padding:5px 7px;border-radius:3px;white-space:nowrap}
+.estado.construido{background:var(--haiz-soft);color:var(--haiz)}
+.estado.a_medias{background:var(--oro-soft);color:var(--oro)}
+.estado.solo_funcion{background:var(--rule);color:var(--ink)}
+.resumen{display:flex;flex-wrap:wrap;gap:8px 18px;font:13px/1.4 var(--mono);color:var(--muted)}
+.dec{display:grid;grid-template-columns:52px 1fr;gap:4px 12px;padding:12px 0;border-bottom:1px solid var(--rule)}
+.dec .id{font:500 13px/1.5 var(--mono);color:var(--muted)}
+.dec .t{font-weight:600}
+.dec .x{font-size:14px;color:var(--muted);grid-column:2}
+.dec .bot{grid-column:2;display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.bot button{font:13px/1 var(--mono);padding:8px 10px;border-radius:4px;border:1px solid var(--rule);background:var(--card);color:var(--ink);cursor:pointer}
+.bot button[aria-pressed="true"]{border-color:var(--haiz);background:var(--haiz-soft);color:var(--haiz)}
+.bot button[data-v="no"][aria-pressed="true"]{border-color:var(--oro);background:var(--oro-soft);color:var(--oro)}
+.bot button:focus-visible,.preg button:focus-visible,textarea:focus-visible{outline:2px solid var(--haiz);outline-offset:2px}
+.bot button:disabled,.preg button:disabled{cursor:not-allowed;opacity:.55}
+.marca{font:11px/1 var(--mono);color:var(--haiz);margin-left:6px}
+.aviso{font:13px/1.5 var(--mono);color:var(--muted);padding:10px 12px;border:1px dashed var(--rule);border-radius:4px}
+.preg{display:flex;flex-direction:column;gap:8px;padding:14px 0;border-bottom:1px solid var(--rule)}
+.preg label{font-weight:600}
+.preg textarea{font:16px/1.5 var(--serif);color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:10px;min-height:84px;resize:vertical;width:100%;box-sizing:border-box}
+.preg .fila{display:flex;align-items:center;gap:12px}
+.preg button{font:13px/1 var(--mono);padding:9px 12px;border-radius:4px;border:1px solid var(--haiz);background:var(--haiz);color:var(--paper);cursor:pointer}
+.preg .ok{font:12px/1 var(--mono);color:var(--muted)}
+ol.metodo-lista{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:10px}
+footer{font:12px/1.6 var(--mono);color:var(--muted);border-top:1px solid var(--rule);padding-top:16px}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
+</style>
+
+<main>
+  <header class="stack">
+    <p class="eyebrow">Eris · revisión del 14 de octubre de 2026</p>
+    <h1>Las bases del cambio</h1>
+    <p class="lead">Qué es real en el libro, qué es eco de tanto trabajar con máquinas y qué cambiar, contado para que puedas reescribir con tu mano.</p>
+    <div class="metodo"><span>3 lectores a ciegas</span><span>prueba ciega de 5 escenas</span><span>10 lectores de storytelling, verificados uno a uno</span><span>mapa de intuiciones capítulo a capítulo</span></div>
+    <p class="note">Todos los lectores son modelos de IA. Leyeron sin los documentos del proyecto y con tres modelos distintos para no compartir los mismos puntos ciegos. Eso reduce el eco, pero no lo elimina: de la v2, solo tú has leído un capítulo.</p>
+    <nav class="toc" aria-label="Secciones">
+      <a href="#mensaje">El mensaje</a><a href="#real">Real y eco</a><a href="#ciega">Prueba ciega</a><a href="#funciona">Lo que funciona</a><a href="#cambiar">Qué cambiar</a><a href="#herramientas">Herramientas</a><a href="#eldara">Los Eldara</a><a href="#decisiones">Tus decisiones</a><a href="#preguntas">Preguntas</a><a href="#metodo">Cómo seguir</a>
+    </nav>
+  </header>
+
+  <section class="section" id="mensaje">
+    <h2>El mensaje grande</h2>
+    <p class="quote">«La gente le dice que las cosas hay que hacerlas de una manera, y ella les cree porque piensa que sabe menos. Con el tiempo se da cuenta de que sus intuiciones estaban más cerca de la realidad.»<cite>Marcos, 14 de octubre. Guardado como D61 a D64.</cite></p>
+    <div class="trio">
+      <div><b>Opiniones frente a hechos</b><span>Lo que los demás le presentan como hechos son opiniones. Lo que ella intuía nacía de lo que veía.</span></div>
+      <div><b>Confía donde tiene pruebas</b><span>En lo militar es la mejor y lo sabe. En política y en liderazgo duda frente a la genialidad de Faree.</span></div>
+      <div><b>Se construye eligiendo</b><span>Como Vinny en Bleed for This: todos le dicen «no es tan fácil» y ella responde haciéndolo.</span></div>
+    </div>
+    <div class="figura">
+      <iframe id="balanza" title="La balanza de Eris, capítulo a capítulo" loading="lazy" src="balanza-light.html"></iframe>
+      <a id="balanza-link" href="balanza-light.html" target="_blank" rel="noopener">Abrir la balanza a pantalla completa</a>
+    </div>
+    <div class="stack">
+      <h3>Lo que dice la balanza del texto actual</h3>
+      <p>Tu tesis se sostiene hoy en un tercio. La primera parte sí: a Eris le dicen constantemente cómo son las cosas. La segunda casi no: solo dos veces cree una versión ajena porque piensa que sabe menos, el parte del parricidio en el 10 y el muelle en el 23. El resto es obediencia sin creencia, como «Entiendo, majestad» o «Lo hizo a tiempo».</p><p>La tercera parte se cumple en lo que percibe, como el sonido, la Valagost, las familias de Iretha o la crueldad de Theim, pero no en política. Entre el 6 y el 13, Faree no tiene razón contra ella ni una sola vez, y su única intuición política, en el muelle, la desmiente Theim con «Lo elegí».</p><p>Por eso la curva va al revés de tu arco. Empieza con la confianza al máximo en el capítulo 1 y acaba en el mínimo en el 23. Allí toma por hechos tres opiniones de su verdugo: que ella les dio la casa, que Lirae bajó por ella y que fue la Coria de Haris. El propio libro había mostrado antes lo contrario, y el narrador hace suya la versión de Theim.</p><p>Hoy Eris no es alguien que duda de su juicio. Es alguien con juicio alto que solo lo ejerce en secreto y que, al final, deja que el verdugo le cuente su vida.</p><p>Hay dos caminos, y elegir es tuyo. Uno es tu tesis tal cual: falta una escena entre el 6 y el 13 en la que Faree tenga razón contra ella en algo político, ella adopte su versión y los hechos la desmientan después. El hueco natural es la conversación del 11 sobre que «la ciudad sirve»: que se lo crea y el cuaderno de Iretha lo desmonte. Y que el parte del parricidio se contraste alguna vez; bastaría una carta del hermano.</p><p>El otro es el libro que ya tienes, dicho de otra manera: vio bien, lo dijo tarde y en voz baja, y murió creyéndose la versión del verdugo. Para que sea una tragedia deliberada, el narrador tiene que dejar de hacer suya la versión de Theim, y Eris necesita un momento de saber que acertó. En el 19, cuando Nyree le dice «Salvamos dos porque tú escondiste el cuaderno», hoy responde «No lo hice por ti»; ahí cabe que lo acepte.</p><p>Los dos caminos comparten lo que el texto ya construye: «Si las manos eran mías». Obedecer también fue elegir, y quien delega su juicio se lo entrega a otro.</p>
+    </div>
+  </section>
+
+  <section class="section" id="real">
+    <h2>Lo que es real y lo que es eco</h2>
+    <p class="note">«Real» es lo que sostienen al menos dos fuentes que no se conocen entre sí, o lo que dijiste tú. «Eco» es una creencia del proyecto que los de fuera no confirman, o que nació de la IA y se reforzó capa a capa sin que nadie la leyera.</p>
+    <div class="dos">
+      <div>
+        <span class="tag real">Real</span>
+        <ul class="items real">
+          <li>Los capítulos más fuertes son Iretha, la cámara bajo el palacio, la cena, la muerte de Lirae y el muelle.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Haris es el personaje que más quieren. Illia, Ravys, Lyris y el cameo de Maelor funcionan con muy poco espacio.<span class="src">3 lectores y 3 jueces</span></li>
+          <li>Los capítulos 10 a 15 son un bucle de permisos, visitas a Norel y partes. Los tres pensaron en dejar el libro ahí.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Desde el 13, Eris no hace nada con el secreto y nunca se enfrenta a Faree. Tu estructura original sí lo hacía.<span class="src">3 lectores y tu borrador</span></li>
+          <li>Hay demasiados nombres para lo poco que se dramatizan, y dos personajes se llaman Berys.<span class="src">3 lectores y tú</span></li>
+          <li>El narrador explica lo que la escena ya ha mostrado.<span class="src">lectores, jueces y el detector de huellas</span></li>
+          <li>Las notas de revisión están dentro de los 25 capítulos. Los tres lectores las vieron y leyeron el libro como un texto de taller.<span class="src">lectores y auditoría de procedencia</span></li>
+          <li>Lo mejor recibido nace de ti: el muelle, el «tum tum», la Nexalita como arma, Haris quitándose la placa, la cadena de Ravys a Illia y los dedos que vuelven como manos.<span class="src">procedencia, lectores y jueces</span></li>
+          <li>Como lector aciertas. Cada vez que leíste algo, señalaste lo mismo que hoy señalan los de fuera, y antes que nosotros.<span class="src">tus comentarios frente a los lectores</span></li>
+        </ul>
+      </div>
+      <div>
+        <span class="tag eco">Eco</span>
+        <ul class="items eco">
+          <li>Que la v2 sea un manuscrito hecho. La IA escribió los capítulos 2 a 24, los criticó, propuso soluciones y las aplicó sin que tú los leyeras.<span class="src">auditoría de procedencia</span></li>
+          <li>El 9,2 sobre 10 de la crítica Sanderson de mayo. Cambió de veredicto en cuanto dijiste que el libro no tenía alma.<span class="src">procedencia y lectores</span></li>
+          <li>La doctrina «Sicario». Está derogada, pero los capítulos 2 a 24 se escribieron con ella y la conservan.<span class="src">procedencia y detector</span></li>
+          <li>El permiso de Itsu aplazado una y otra vez. Se diseñó como tensión y se lee como espera.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Que cuanta más contabilidad de promesas, mejor. Los pagos que celebran los lectores son los discretos; los anunciados se ven como taller.<span class="src">lectores y verificación</span></li>
+          <li>Que las decisiones D1 a D51 sean tuyas. La atribución la escribió la IA sin una transcripción que la respalde.<span class="src">auditoría de procedencia</span></li>
+          <li>Que el capítulo 1 actual responda a tu «más explicación». Los lectores piden que se explique el mundo, y el texto explica sobre todo lo que siente Eris.<span class="src">lectores y jueces</span></li>
+          <li>Que la IA leyendo su propio texto equivalga a una lectura. Los lectores a ciegas encontraron fallos que esas lecturas no corrigieron.<span class="src">lectores y procedencia</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">Sin decidir todavía: si tu borrador <em>Eris.docx</em> pasó por ChatGPT, si conviene volver a la primera persona y el presente de tu Misión 131, y qué significa el final, si liberación o muerte sin hogar.</p>
+  </section>
+
+  <section class="section" id="ciega">
+    <h2>La prueba ciega</h2>
+    <p>Cinco escenas que existen en tu borrador original, en la v1 y en la v2. Tres jueces las ordenaron sin saber cuál era cuál: un editor de fantasía, una editora literaria y un lector de series.</p>
+    <div class="bars" role="img" aria-label="Primeros puestos sobre 15 votos: v2 11, v1 4, original 0">
+      <div class="bar"><span class="lbl">v2<small>11 de 15 primeros</small></span><div class="track"><span class="k-autor" style="width:73.3%"></span></div></div>
+      <div class="bar"><span class="lbl">v1<small>4 de 15 primeros</small></span><div class="track"><span class="k-autor" style="width:26.7%"></span></div></div>
+      <div class="bar"><span class="lbl">Original<small>0 de 15, siempre último</small></span><div class="track"><span class="k-autor" style="width:0%"></span></div></div>
+    </div>
+    <h3>A qué les sonó cada versión</h3>
+    <div class="bars" role="img" aria-label="Etiquetas de los jueces por versión, sobre 15">
+      <div class="bar"><span class="lbl">v2</span><div class="track"><span class="k-autor" style="width:73.3%"></span><span class="k-taller" style="width:20%"></span><span class="k-maquina" style="width:6.7%"></span></div></div>
+      <div class="bar"><span class="lbl">v1</span><div class="track"><span class="k-autor" style="width:53.3%"></span><span class="k-taller" style="width:20%"></span><span class="k-maquina" style="width:20%"></span><span class="k-borrador" style="width:6.7%"></span></div></div>
+      <div class="bar"><span class="lbl">Original</span><div class="track"><span class="k-maquina" style="width:66.7%"></span><span class="k-borrador" style="width:33.3%"></span></div></div>
+    </div>
+    <div class="leyenda"><span><i class="k-autor"></i>autor con algo que decir</span><span><i class="k-taller"></i>taller de escritura</span><span><i class="k-maquina"></i>texto de máquina</span><span><i class="k-borrador"></i>borrador sin pulir</span></div>
+    <ul class="items">
+      <li>La ventaja de la v2 sobre la v1 es menor de lo que parece. En la Plaza Ocre las dos versiones solo se diferencian en un pronombre. Donde difieren de verdad, la v2 gana 8 de 12 votos.</li>
+      <li>La v2 gana en el epílogo, el reencuentro con Lirae y el muelle: el duelo cabe en objetos y no en adjetivos. Pierde en Indra, el capítulo 1: gana claridad y pierde voz, porque explica por qué el plan es bueno y qué siente Eris.</li>
+      <li>Tu original pierde por su prosa de catálogo, con fórmulas como «silencio ensordecedor» o «instinto infalible». Pero sus ideas son el esqueleto que heredan las otras dos, y la Misión 131 y tus hojas a mano tienen una voz concreta que los jueces echaron de menos.</li>
+      <li>Los jueces recomiendan no elegir una versión sino montar: el cuerpo y la claridad de la v2, el riesgo de la v1 y las intuiciones de tu original.</li>
+    </ul>
+    <p class="note">Aviso: los jueces son modelos, y preferir la prosa pulida por modelos puede ser gusto de máquina. Lo atenúa que también llamaron taller o máquina a 4 de los 15 fragmentos de la v2.</p>
+  </section>
+
+  <section class="section" id="funciona">
+    <h2>Lo que ya funciona</h2>
+    <p>Momentos donde el libro ya hace lo que admiras en El Señor de los Anillos y en Dune. Sirven de vara para el resto.</p>
+    <div class="cards">
+      <div class="card"><span class="cap">Cap 3</span><blockquote>Era lo único que no gritaba en la plaza, y por eso la vio.</blockquote><p>La encapuchada queda definida por lo que no hace, y desaparece antes de explicarse.</p><p class="como">Como Trancos en la esquina del Poney Pisador.</p></div>
+      <div class="card"><span class="cap">Cap 6</span><blockquote>—¿Y tú quién eres?</blockquote><p>Maelor rechaza el duelo de leyendas que el lector espera, y en ese rechazo quedan definidos los dos.</p><p class="como">Carisma sin acaparar, en tres frases.</p></div>
+      <div class="card"><span class="cap">Cap 7</span><blockquote>Había dejado el trozo grande junto al cuenco y se estaba comiendo el pequeño.</blockquote><p>Un gesto que Eris no decide, que Elerian lee y que nadie explica. Su sentido llega tres capítulos después.</p><p class="como">Un pago a larga distancia, sin cartel.</p></div>
+      <div class="card"><span class="cap">Cap 13</span><blockquote>se vieron negras durante dos segundos. Después gris.</blockquote><p>Lo más imposible del libro llega en un detalle físico medido en segundos.</p><p class="como">Como la cara de Bilbo que cambia un instante en Rivendel.</p></div>
+      <div class="card"><span class="cap">Cap 15</span><blockquote>—Entonces deja a Ravys fuera de lo que te hizo matarlo.</blockquote><p>Illia rechaza el papel que Eris le había escrito y le devuelve la culpa con su propia lógica.</p><p class="como">Una secundaria que quiere otra cosa que la trama.</p></div>
+      <div class="card"><span class="cap">Cap 17</span><blockquote>—No esta noche.</blockquote><p>Una frase pequeña, dicha con cariño, que el lector carga durante tres capítulos sin que el narrador la subraye.</p><p class="como">El encargo dicho de pasada, como el de Gandalf a Sam.</p></div>
+      <div class="card"><span class="cap">Cap 22</span><blockquote>Podía irse por los tejados. Bajó.</blockquote><p>La elección decisiva se ve y no se comenta.</p><p class="como">Boromir en Amon Hen, en dos frases.</p></div>
+      <div class="card"><span class="cap">Cap 23</span><blockquote>La mano buscó a su lado el brazo que habría estado allí para sostenerla. Encontró la pared.</blockquote><p>El duelo por Haris lo dispara el nombre de una calle y aterriza en el cuerpo, sin una palabra sobre el duelo.</p><p class="como">Lo ligero que vuelve como duelo.</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="cambiar">
+    <h2>Qué cambiar</h2>
+    <p>Por orden de importancia. Cada punto dice quién lo confirma. Los del diagnóstico interno se han reducido a su alcance real después de que un lector escéptico comprobara cada cita y buscara contraejemplos.</p>
+    <ol class="cambios">
+      <li><h3>Que Eris elija donde duda</h3><p>Hoy elige mucho en lo militar y en lo personal: sigue al rey, prepara la bolsa, se enfrenta a Illia, gira hacia Norel. Pero en lo que tú dices que duda, la política y Faree, apenas elige en página. Nunca le planta cara al rey y el final lo resuelve Theim. Es justo el arco de opiniones frente a hechos, y hoy le falta su pago.</p><div class="detalle"><span><b>Evidencia:</b> «Podía irse por los tejados. Bajó.» es la gran elección de ese tipo, y llega en el capítulo 22.</span><span><b>Herramienta:</b> La testigo que no aplaude, y la llave que fabrican los excluidos.</span><span><b>Lo confirman:</b> los 3 lectores a ciegas, la verificación del diagnóstico interno y tu estructura original, con «Discordia», «Vuelta a Coria» y «La cena: confesiones».</span></div></li>
+<li><h3>Que los capítulos 10 a 15 avancen</h3><p>Permisos pedidos y aplazados, visitas casi iguales a Norel, turnos y partes. Lo que se diseñó como tensión se lee como espera. Los lectores proponen fundir ese tramo en dos o tres capítulos.</p><div class="detalle"><span><b>Lo confirman:</b> los 3 lectores a ciegas pensaron en dejar el libro ahí.</span></div></li>
+<li><h3>Darle cara al escuadrón antes de restarlo</h3><p>De los catorce, solo Haris y Muoro tienen presencia sostenida. Ravys llega a su muerte sin una escena propia en el acto II, y Therel y Nerei no dicen una línea suya. En el asalto mueren dos antiguos compañeros sin que Eris sepa ni diga quiénes eran. La firma de cada uno en la placa ya existe en los capítulos 1, 8, 18 y 22: es la base para construirlos.</p><div class="detalle"><span><b>Evidencia:</b> «Doce voces del escuadrón», en el 9, y «Los dos en el suelo. Los dos muertos», en el 22.</span><span><b>Herramienta:</b> La economía de la Compañía, y lo ligero que vuelve como duelo.</span><span><b>Lo confirman:</b> la verificación del diagnóstico interno y tu D64.</span></div></li>
+<li><h3>Que el narrador no cobre el pago antes que el lector</h3><p>Cuando una rima o una ironía ya se ha entendido en la imagen, el texto a veces añade una frase que la nombra. No es un vicio de todo el libro: se concentra en los capítulos 9, 14, 17 y 23.</p><div class="detalle"><span><b>Evidencia:</b> «La frase había hecho el trabajo», en el 9.</span><span><b>Herramienta:</b> «Bajó», en el 22, ya hace lo contrario: la elección se ve y nadie la comenta.</span><span><b>Lo confirman:</b> lectores a ciegas, jueces y la verificación, que lo reduce a esos capítulos.</span></div></li>
+<li><h3>Que los que importan entren haciendo algo</h3><p>Faree en el 5, Maelor en el 6, Nyree en el 19 y el Yll en el 24 entran con un bloque de raza, edad, piel, ropa y armas antes de hacer nada. Nyree, el personaje más esperado del libro, entra como un inventario.</p><div class="detalle"><span><b>Herramienta:</b> Silueta antes que nombre, como Trancos en el Poney Pisador.</span><span><b>Lo confirman:</b> la verificación del diagnóstico interno y los lectores a ciegas.</span></div></li>
+<li><h3>Que alguien se equivoque sobre Eris</h3><p>Los secundarios dicen en voz alta cómo está Eris y aciertan siempre. Con tu idea de opiniones frente a hechos, alguno debería equivocarse sobre ella, y el lector notarlo antes que ella.</p><div class="detalle"><span><b>Evidencia:</b> «Pues respira», en el 3, y «Ha adelgazado por dentro», en el 11.</span><span><b>Lo confirman:</b> la verificación del diagnóstico interno, que lo relaciona con tu D61.</span></div></li>
+<li><h3>Quitar el taller de la página</h3><p>Las notas de revisión están dentro de los 25 capítulos. Además, «no contestó» aparece 24 veces, «Eris esperó» 15 y el molde «No era X. Era Y.» sigue ahí. Cada caso es defendible, pero juntos dibujan una protagonista que archiva lo que siente en vez de sentirlo.</p><div class="detalle"><span><b>Lo confirman:</b> los lectores a ciegas, el detector de huellas y la verificación.</span></div></li>
+<li><h3>Menos nombres, más presencias</h3><p>Hay demasiados nombres e instituciones para lo poco que se dramatizan. Dos personajes se llaman Berys, y el hermano superviviente de Itsu no tiene nombre.</p><div class="detalle"><span><b>Lo confirman:</b> los 3 lectores a ciegas y tus propios comentarios.</span></div></li>
+    </ol>
+  </section>
+
+  <section class="section" id="herramientas">
+    <h2>Herramientas de El Señor de los Anillos y de Dune</h2>
+    <p>No son reglas para cumplir. Son maneras de hacer que puedes tener a mano cuando reescribas. Una idea las resume: las promesas que el lector siente suyas se las hacen los personajes entre ellos, y se cobran con una elección y con un cuerpo.</p>
+    <div class="grupo"><h3>Promesas</h3>
+      <div class="mec"><b>El encargo dicho de pasada</b><p>Gandalf le pide a Sam que no deje solo a Frodo. Sam lo cumple casi ahogándose. La promesa más fuerte de la trilogía es un trámite entre dos personajes.</p><p class="en">En Eris: Lirae decide contarle lo del péndulo y lo cumple en el 4. Que más promesas nazcan así, de un personaje a otro, y menos del narrador.</p></div>
+      <div class="mec"><b>Prometer lo que se va a perder</b><p>La versión extendida se queda mucho en la Comarca antes de que llegue el peligro. Uno no se enamora del poder, sino de la cocina que hay dentro.</p><p class="en">En Eris: Lorin como casa, el patio, el armero, el escuadrón con sus bromas. Es lo que luego duele perder.</p></div>
+      <div class="mec"><b>El mundo que no te espera</b><p>Stilgar escupe delante del duque y nadie lo traduce hasta después. El mundo existe antes del lector y no se le explica.</p><p class="en">En Eris: el Nagani, la cortesía de la corte y el habla del puerto, usados sin glosa.</p></div>
+      <div class="mec"><b>Promesas que no se pagan</b><p>Aragorn canta la historia de Lúthien y nadie la vuelve a mencionar. No es un cabo suelto: es un mundo más viejo que la historia.</p><p class="en">En Eris: una zona de textura que no entra en el mapa de promesas.</p></div>
+    </div>
+    <div class="grupo"><h3>Pagos</h3>
+      <div class="mec"><b>La elección moral decide</b><p>El Monte del Destino no lo resuelve una habilidad. Lo resuelve una piedad elegida mucho antes.</p><p class="en">En Eris: la piedad de Iretha ya tiene coste. Falta que alguna elección temprana de Eris decida algo al final.</p></div>
+      <div class="mec"><b>Lo ligero vuelve como duelo</b><p>Los fuegos artificiales de Gandalf vuelven en Lothlórien, cuando ya ha caído.</p><p class="en">En Eris: la rodilla de Ravys y sus bromas. Cuantas más risas tenga el escuadrón al principio, más pesa cada ausencia.</p></div>
+      <div class="mec"><b>El pago literal que horroriza</b><p>El Lisan al-Gaib se cumple al pie de la letra, y esa es la tragedia.</p><p class="en">En Eris: la placa que en el 1 es familia y en el 22 es lo que la delata.</p></div>
+    </div>
+    <div class="grupo"><h3>Personajes</h3>
+      <div class="mec"><b>Silueta antes que nombre</b><p>Trancos es una capucha, una pipa y unos ojos. Su identidad la dicen otros, a trozos.</p><p class="en">En Eris: que Faree, Maelor, Nyree y el Yll entren haciendo algo, no con una ficha de raza, edad y ropa.</p></div>
+      <div class="mec"><b>La economía de la Compañía</b><p>Nueve caminantes con poco tiempo y todos inolvidables: un deseo, una habilidad que importa una vez, un gesto que vuelve.</p><p class="en">En Eris: el escuadrón. Seis nombres con algo propio antes de que la cuenta empiece a restar.</p></div>
+      <div class="mec"><b>La testigo que no aplaude</b><p>Chani ama a Paul y no cree en la profecía. El final de la Parte Dos es suyo.</p><p class="en">En Eris: Lirae, que mide antes de creer.</p></div>
+      <div class="mec"><b>La cortesía como arma</b><p>En Shōgun, el consejo se amenaza de muerte con fórmulas de respeto. El registro es el personaje.</p><p class="en">En Eris: la retórica de Faree es el «no es tan fácil» con el que Coria posee a la gente.</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="eldara">
+    <h2>Los Eldara</h2>
+    <p>Enfrentarse a ellos al final tiene que doler. Para eso cada uno necesita un momento propio, un vínculo con Eris, una fe en Coria con razones y una elección suya. Así está hoy cada uno, según el texto.</p>
+    <div class="tabla"><table><thead><tr><th>Eldara</th><th>Momento propio</th><th>Vínculo con Eris</th><th>Fe en Coria</th><th>Elección propia</th><th>Estado</th><th>Qué falta</th></tr></thead><tbody><tr><td><b>Haris</b></td><td>Varios. El peso del vigía («Pesaba más de lo que parecía —dijo, casi sin voz.», 1). Es la voz moral del cortijo («Hemos matado niños, Kalari.», 9).</td><td>El más fuerte del libro. La espera tres horas en el armero y la empuja a decir lo que ve («Entonces no me dejes hablando solo.», 8).</td><td>La tiene delegada en Eris, no en Coria: «Tú creías en Coria —siguió él—. Yo creía en ti. Mientras tú servías, yo sabía que se podía servir.» (21).</td><td>Sí, y con razones: «No me arrastras. Estoy.» (9), «Si vuelvo, vuelvo a eso. No vuelvo.» (19) y dejar la placa en el murete (21).</td><td><span class="estado construido">construido</span></td><td>No es un hermano al que enfrentarse, porque está de su lado; no sirve para el dolor del final.</td></tr><tr><td><b>Muoro</b></td><td>Pocos y siempre vistos desde fuera: corrige a Eris y acierta (1).</td><td>Es testigo y no insiste («Te has llevado los dedos a la sien en el balcón —dijo él—. Antes del golpe.», 3).</td><td>La única razón articulada que da un Eldara para obedecer: «Quien firma, mata. La lanza, no.» (9). Justifica al soldado, no a Coria.</td><td>Elige el orden escrito (15) y la caza: «Kalari. Suelta las armas. Ponte de rodillas con las manos tras la cabeza.» (22).</td><td><span class="estado a_medias">a medias</span></td><td>Interioridad, y una escena cara a cara antes del asalto en la que su doctrina choque con la de Eris.</td></tr><tr><td><b>Illia</b></td><td>Sí. El duelo por su gemelo («Tenía las dos manos en el yelmo de su gemelo, una a cada lado, sin moverlo.», 9) y la confrontación del 15 («Entonces…</td><td>Un arco completo en tres puntos: lealtad («Le dije que esperara.</td><td>Ninguna. Usa el cierre institucional como un muro («El parte ya está cerrado.», 15), no como convicción.</td><td>Implícita: carga sola con la parihuela («Illia no contestó.», 9) y se presenta a cazarla sin yelmo («Sin yelmo. Cara descubierta.», 22).</td><td><span class="estado a_medias">a medias</span></td><td>Su motivo. Desaparece entre el 15 y el 22 y en el asalto no dice una palabra: no sabemos si caza a Eris por Ravys, por Coria o por las dos cosas.</td></tr><tr><td><b>Ravys</b></td><td>Sólo en el cap. 1: insolencia y una mentira cariñosa («Ya, bueno. Tú dices muchas cosas, Kalari.»; «Illia me dijo que saltara, en realidad.»).</td><td>Le da un cuidado silencioso (la jarra de agua, 4) y recibe la corrección del 1.</td><td>Ninguna.</td><td>Saltar contra la orden en el 1.</td><td><span class="estado a_medias">a medias</span></td><td>Una escena viva entre el 4 y el 9. Hoy muere casi sin haber existido para el lector, y su muerte es el motor de Illia, de la culpa de Eris y del…</td></tr><tr><td><b>Therel</b></td><td>Uno: «Therel, en la pinza del este, paró el golpe en alto y no lo bajó. Nerei a su lado lo bajó por él.» (9).</td><td>Ninguno propio; ejecuta tareas: la cuerda, el perímetro, las declaraciones.</td><td>Ninguna.</td><td>Frenarse ante una muchacha en el cortijo (9).</td><td><span class="estado solo_funcion">solo funcion</span></td><td>Voz, y presencia después del 15: no está en el asalto. Su duda del 9 era la semilla de un hermano que podría estar del otro lado y dudar.</td></tr><tr><td><b>Nerei</b></td><td>Mata por Therel en el 9. Aprende de Eris («Nerei alzó el escudo, cargó sobre la pierna como Eris acababa de enseñarle y esperó el golpe.», 15).</td><td>Alumna sin palabra.</td><td>Ninguna.</td><td>Ninguna visible.</td><td><span class="estado solo_funcion">solo funcion</span></td><td>Voz, interioridad y un papel en el final; desaparece después del 15.</td></tr><tr><td><b>Los otros ocho (sin nombre)</b></td><td>Sólo en bloque: parte del escuadrón deja de matar en el cortijo («pararon a las chicas con el escudo sin clavar, como hacía Eris.», 9).</td><td>Colectivo y a través de la placa: «Eris conocía el intervalo entre aquellos pasos, la espera compartida antes de cruzar una calle.» (22).</td><td>Ninguna. En el 19 quedan reducidos a «los Eldara que seguirían una orden de captura sin hacer preguntas».</td><td>Un Eldar duda entre el «A mí» de Eris y Muoro («El otro se quedó a media zancada, esperando orden.», 22). El texto no lo explota.</td><td><span class="estado solo_funcion">solo funcion</span></td><td>Nombres. Eris mata en el recibidor a uno de su antiguo escuadrón sin registrarlo. Con hermanos sin cara, el enfrentamiento no puede doler.</td></tr></tbody></table></div>
+  </section>
+
+  <section class="section" id="decisiones">
+    <h2>Tus decisiones</h2>
+    <p>El registro dice que estas decisiones son tuyas, pero la atribución la escribió la IA. Marca cada una: si es tuya, si la aceptaste cuando te la propusimos o si no la reconoces. Lo que marques queda guardado y lo leeré en la próxima sesión.</p>
+    <div class="resumen" id="dec-resumen" aria-live="polite"></div>
+    <div id="dec-aviso" class="aviso" hidden></div>
+    <div id="dec-lista"></div>
+  </section>
+
+  <section class="section" id="preguntas">
+    <h2>Preguntas que solo tú puedes contestar</h2>
+    <p>Escribe lo que quieras; cada respuesta se guarda al pulsar Guardar.</p>
+    <div id="preg-aviso" class="aviso" hidden></div>
+    <div id="preg-lista"></div>
+  </section>
+
+  <section class="section" id="metodo">
+    <h2>Cómo seguir sin eco</h2>
+    <ol class="metodo-lista">
+      <li>Nada se reescribe, critica ni corrige si tú no has leído antes ese capítulo. Tu lectura marca el ritmo.</li>
+      <li>Cada decisión lleva su procedencia: tus palabras, una propuesta que aceptaste o una idea de la IA sin validar.</li>
+      <li>Antes de convertir una conclusión de IA en regla, se contrasta con lectores a ciegas que no ven los documentos del proyecto.</li>
+      <li>El manuscrito solo contiene texto. Las notas, las decisiones numeradas y los presupuestos de tics viven fuera.</li>
+      <li>En esta fase escribes tú. La IA lee, señala, comprueba y prepara material.</li>
+      <li>Se protege lo que funciona y es tuyo: el muelle, Iretha, los gemelos, el «tum tum» y Haris.</li>
+      <li>Cuando el texto esté afinado, lectores humanos en frío con tres preguntas: dónde pararon, quién les importa y qué esperaban.</li>
+    </ol>
+  </section>
+
+  <footer>Fuentes: lectura de los 25 capítulos de la v2 (81.388 palabras), comparación con la v1 y con Eris.docx, decisiones D1 a D64. Las citas del libro se han comprobado literalmente en el texto.</footer>
+</main>
+
+<script type="application/json" id="d-decisiones">[{"id": "D1", "titulo": "Conflicto clave / MDQ", "texto": "«Eris pertenece a Coria. El libro es su intento de pertenecerse — y Coria cobra cada intento.» Pregunta: ¿De quién es Eris?", "marcos": false}, {"id": "D2", "titulo": "Tema universal", "texto": "la MDQ se extiende a «¿de quién es la vida que vivimos?» — vidas envueltas en narrativas ajenas, peleando cosas que en el fondo no son nuestras (idea de Marcos). Se encarna en", "marcos": false}, {"id": "D3", "titulo": "Doble hélice", "texto": "externa = el secreto que sostiene Coria (rey joven ↔ criatura); interna = el conflicto de propiedad. Se cruzan en 13, 16, 22, 24", "marcos": false}, {"id": "D4", "titulo": "Motor de caza (Actos IV-V)", "texto": "recuperarla; plan B, callarla. Faree la quiere de vuelta; cuando queda claro que no vuelve, la orden muta: que deje de ser una Mano — y que no hable. Explica el ritual de Theim (las manos primero)", "marcos": false}, {"id": "D5", "titulo": "Qué sabe Faree del cap 13", "texto": "sospecha, no sabe. La cena del 16 es una prueba y una oferta; su ambigüedad (¿padre o dueño?) sobrevive hasta el final", "marcos": false}, {"id": "D6", "titulo": "Temperatura del final", "texto": "brasa en la ceniza — derrota casi total con cosecha mínima y concreta (pasadizo, lasca, la verdad viajando)", "marcos": false}, {"id": "D7", "titulo": "La muerte de Eris", "texto": "sorpresa sin traición. No se anuncia; se hace inevitable: (a) la escalada de muertes queridas enseña la regla; (b) el faro hace la muerte obra suya; (c) la promesa del libro nunca es sobrevivir — es responder la MDQ, y se…", "marcos": false}, {"id": "D8", "titulo": "Libro vs saga", "texto": "cerrado con ventana. La tragedia se cierra completa; el 24 abre UNA ventana medida (Velerian, Apnio, Maelor)", "marcos": false}, {"id": "D9", "titulo": "Beat final de la MDQ", "texto": "cuando Theim corta las manos y dice «ya no eres una Mano de Coria», un beat interior mínimo de Eris registra la ironía: el verdugo acaba de liberarla. Una línea, Sicario, sin explicar", "marcos": false}, {"id": "D10", "titulo": "La falla", "texto": "«las luchas propias matan». Su padre y un gemelo murieron por luchar sus luchas; el hermano que la crió murió por una ajena. Respuesta de la superviviente: no tener lucha propia jamás — eligió el guion de Coria precisamente…", "marcos": false}, {"id": "D11", "titulo": "Cronología de Itsu — \"la familia muere a plazos\"", "texto": "Niñez: hambruna; el tercer hermano se la lleva de Itsu. El también evitaba — rechazó la vía del padre y la rabia del gemelo; él le enseñó el trauma. Padre y gemelos se quedan", "marcos": false}, {"id": "D12", "titulo": "Cómo llega la noticia", "texto": "parte oficial de inteligencia (la corte sabía antes; su padre muerto es un párrafo de informe) + Lyris se la da en mano, aparte — primer gesto humano de la Kirala, siembra su ayuda del 17", "marcos": false}, {"id": "D13", "titulo": "El gemelo superviviente (el vengador)", "texto": "nombrado, nunca visto. Existe en la noticia y en la barcaza; Eris muere sin verlo. Ventana del libro 2", "marcos": false}, {"id": "D14", "titulo": "El pivote de la falla (cap 22)", "texto": "beat explícito mínimo — «Podía irse por los tejados. Bajó.» Eris elige su primera lucha propia; todo lo que sigue es su precio", "marcos": false}, {"id": "D15", "titulo": "Itsu nunca se ve", "texto": "sin flashback. El desierto existe solo en la voz de Eris (la barcaza, cap 18)", "marcos": false}, {"id": "D16", "titulo": "Lirae", "texto": "hermandad explícita y marcada. Limar todo lo que roce romance (reescribir la despedida del 17: fuera el «No contestes»); nombrar claramente más de una vez; anclar pronto que Lirae es la primera pieza de familia que Eris…", "marcos": false}, {"id": "D17", "titulo": "Haris", "texto": "hermano elegido — ocupa el hueco del tercer hermano. Se suelda en la barcaza (18). Su decapitación rima con el hermano perdido. El centímetro del tejado = familia: cercanía sin posesión", "marcos": false}, {"id": "D18", "titulo": "Elerian", "texto": "placer y disfrute — libertad, ni amor ni anhelo. La única cosa de su vida fuera de todo guion. Verlo con Faree (16) = Coria tomando lo único que la hizo libre. Elerian jamás traiciona: es un instrumento más de Faree. Sin beats…", "marcos": false}, {"id": "D19", "titulo": "Faree", "texto": "afecto real e instrumental a la vez, indistinguibles hasta el final (ni él sabe separarlos). Pago: coral de Elis en el 24 — «¿Duele.» / «Sí.»", "marcos": false}, {"id": "D20", "titulo": "Muoro", "texto": "Lo que Eris habría sido si hubiera seguido sirviendo. Profesional y de pocas palabras, con su cuidado visible en actos desde el Acto I. Sustituye a la versión de septiembre, «cero sentimiento en página».", "marcos": false}, {"id": "D21", "titulo": "Illia", "texto": "try-fail afectivo en el cap 15 — Eris intenta cerrar la cuenta de Ravys con Illia y falla; Illia no se deja. El 22 cobra con la cuenta abierta en página", "marcos": false}, {"id": "D22", "titulo": "Nyree", "texto": "la primera igual — ni madre ni amiga: la primera que la trata como adulta libre sin poseerla. Las chicas: la primera cosecha — la primera vez que Eris da en vez de ejecutar. El 21b se construye sobre esos dos ejes", "marcos": false}, {"id": "D23", "titulo": "La encapuchada del cap 3 ES Nyree", "texto": "(no la Jauría). La Jauría será aliada de la banda en el libro 2", "marcos": false}, {"id": "D24", "titulo": "Cómo sabe del tum tum", "texto": "Nyree también lo oye. Nacida junto al agua, otra de «los que oyen» sin saber qué. En la plaza reconoció los gestos de alguien oyendo lo que ella oye. La hipótesis sónica de Lirae (cap 4) queda como pista falsa razonable", "marcos": false}, {"id": "D25", "titulo": "El reveal", "texto": "al cierre del cap 19, frase de salida de Nyree: «Te vi antes de hoy. En Valdara. Oíste lo que yo oigo.» Recontextualiza el cap 3 y explica por qué acepta a la carnicera de Iretha. El vínculo crece sobre esa base en 21-21b", "marcos": false}, {"id": "D26", "titulo": "Eco en el 24", "texto": "cuando Velerian dice «tritón», le está dando nombre a lo que Nyree lleva oyendo toda la vida — por eso acaba creyendo", "marcos": false}, {"id": "D27", "titulo": "Try-fails del tramo medio (los cinco)", "texto": "14 (intenta llevarse a Lirae, fracasa) · 15 (Illia) · 17 (la fuga cuesta: alguien paga en escena por ayudarla) · 18 (la ruta se tuerce — complicación con acción: el único combate entre el 9 y el 22) · 19 (la viga del mercado…", "marcos": false}, {"id": "D28", "titulo": "Cap 1", "texto": "reescritura completa (~3.600 palabras). Primera página = la familia en la nuca (la Nexalita: nunca sola y siempre sola); la redirección como primer robo (conflicto en página 1); fuga de Itsu; el humo de la vigía (la violencia…", "marcos": false}, {"id": "D29", "titulo": "Cap 21b «Los días buenos»", "texto": "verde (~3.000 palabras). Ejes: la primera igual + la primera cosecha. El pan negro partido con la regla de la madre («el trozo más grande para quien más haya caminado»), las cuatro chicas con nombre, el simulacro del pasadizo,…", "marcos": false}, {"id": "D30", "titulo": "Nexalita-faro", "texto": "la placa de Eris guio el asalto; el oído fue Muoro. Beats en 22 (Eris lo entiende: vienen hacia mí) y/o 23 (Theim: «te oímos»)", "marcos": false}, {"id": "D31", "titulo": "La formulación del tema", "texto": "en la barcaza (18), al terminar de contar Itsu. Sobre Illia muerta (22) queda el eco sin palabras", "marcos": false}, {"id": "D32", "titulo": "Hijo de Faree", "texto": "insinuado en el 16 (2 líneas: «una señal que no le correspondía seguir» + el click interior de Eris), jamás confirmado", "marcos": false}, {"id": "D33", "titulo": "Cuaderno de Iretha", "texto": "lo tiene Coria (línea en el 24: entre lo que la guardia se llevó antes de quemar). Los nombres de las familias en el escritorio del rey — gasolina del libro 2", "marcos": false}, {"id": "D34", "titulo": "Erion", "texto": "semilla marcada del libro 2 (una línea de Lyris o Tirva que lo fije como misterio consciente)", "marcos": false}, {"id": "D35", "titulo": "Coral de Elis", "texto": "confirmado en el 24 — Faree cenando («¿Duele.» / «Sí.»), otra hoja dorada de Lyris, el tum tum que sigue", "marcos": false}, {"id": "D36", "titulo": "Espirales de Theim", "texto": "plantar en el 13 (el borde de piedra tallado) para pagar el 23", "marcos": false}, {"id": "D38", "titulo": "Tics — presupuesto", "texto": "(medición 2026-09-01 → objetivo): micro-medidas 78→≤20 · «No era X. Era Y.» 69→≤25 · «no contestó» 46→≤12 · «registró/guardó» 32→≤10 · «—Ya.» 30→≤10 · «No hacía falta» 11→≤4", "marcos": false}, {"id": "D39", "titulo": "Presupuesto de palabras", "texto": "pirámide invertida corregida — objetivo por capítulo en  §5 (total ~82.300; Acto V del 14,6% al ~19%)", "marcos": false}, {"id": "D40", "titulo": "Deseo ≠ duda", "texto": "querer algo propio desde el Acto I no viola «no dudar pronto». ( enmendado.)", "marcos": false}, {"id": "D41", "titulo": "Relojes", "texto": "un reloj dominante por acto — I: ¿qué es el sonido? · II: las grietas (fe + herida de Itsu) · III: el cerco cerrándose · IV: la distancia de Coria / quién es sin ella · V: la cuenta atrás del asalto — y el péndulo de Lirae…", "marcos": false}, {"id": "D42", "titulo": "Medidores del deshielo", "texto": "(progreso interno sensible sin explicación): (1) el minuto de belleza — cap 1 fija «le basta con verla un minuto»; el minuto crece por acto (Nurn casi dos; el tejado de Ygoran hasta las estrellas) y paga en el muelle: la…", "marcos": false}, {"id": "D43", "titulo": "Aperturas «stealth thesis» — regla dura v2", "texto": "todo capítulo abre con una primera frase/párrafo que carga la pregunta del capítulo sin resumirla. Vara: cap 2 («La anomalía se repitió por quinta vez a media tarde»). Prohibida la apertura de puro tránsito", "marcos": false}, {"id": "D44", "titulo": "La huida como «desvestirse de Coria»", "texto": "(caps 17-19, una capa por parada): 17 la capa física (ya escrito: en la mano del guardia) → 18 el título y la lengua (nadie dice Kalari; el Nagani enmudece) → 19 la mirada (deja de leer la sala como soldado)", "marcos": false}, {"id": "D45", "titulo": "Moneda principal", "texto": "comprensión + intimidad racionada. El premio dominante es entender (el mundo, el secreto, a Eris); el calor es escaso y por eso vale oro. La competencia y el espectáculo son moneda secundaria", "marcos": false}, {"id": "D46", "titulo": "Cap 21b plenamente cálido, sin sombra.", "texto": "La escena más feliz del libro, sin mal augurio interno: la sombra la pone el lector (sabe lo de Lirae desde el 20). Gandalf invertido", "marcos": false}, {"id": "D47", "titulo": "Competencia protegida", "texto": "pierde cosas, nunca deja de ser brillante. Cada fracaso viene del mundo o de sus decisiones, jamás de la incompetencia; cada try-fail lleva al lado una victoria parcial de oficio", "marcos": false}, {"id": "D48", "titulo": "El cuchillo de Lirae", "texto": "un solo beat de esperanza en el 21b — Eris piensa en traer a Lirae algún día (o les habla de ella a las chicas) mientras el lector sabe. Uno, no dos", "marcos": false}, {"id": "D49", "titulo": "Protocolo de suficiencia de recompensa", "texto": "regla de cadencia (moneda pequeña por capítulo, mediana por acto, grandes del libro; sequía = 2 caps sin recompensa) + prueba de fin de capítulo (gancho, o premio + gancho) + verificación con lecturas en frío (¿dónde paraste?…", "marcos": false}, {"id": "D50", "titulo": "El arranque acelerado", "texto": "(propuesto por Marcos: «¿podríamos meter alguna recompensa pequeña pronto?»; diseñado por Claude con autonomía delegada). Cuatro piezas: (a) confianza inmediata — el cap 1 contiene un micro-arco que abre y paga dentro del…", "marcos": false}, {"id": "D51", "titulo": "La declaración de Haris y la realización de Eris", "texto": "(pedido por Marcos). Haris actuó toda su vida igual que Eris — servicio, obediencia, seguimiento — por el motivo opuesto: ella seguía el guion heredado de Coria; él la seguía a ella (su hermana), y creía en la mentira con la…", "marcos": false}, {"id": "D52", "titulo": "Cadencia y profundidad", "texto": "se sustituye D37. Prosa clara y natural con tiempo para comprender, sentir y convivir. Se conservan sobriedad y precisión cuando sirven a la escena; se retiran fragmentos, monosílabos y elipsis obligatorios. Desarrollar…", "marcos": false}, {"id": "D53", "titulo": "Eris y descanso", "texto": "Eris disfruta de hacer un trabajo perfecto, y al principio ese deseo pesa más que el cansancio. Mantener el deseo de un par de días con Lirae, hermana por elección, sin deuda del cuartel ni contador de cuarenta y ocho horas.…", "marcos": false}, {"id": "D54", "titulo": "Nexalita", "texto": "estados y sensaciones directas, sin frases, imágenes, sonidos, noticias ni contexto complejo. Palabras, gestos y observación aportan detalles. Se conserva detección recíproca, proximidad y sobrecarga; no se fijan rangos…", "marcos": false}, {"id": "D55", "titulo": "Mundo y tratamiento", "texto": "tatuajes de Eris y Muoro; Igies casi huecos al alcanzar la superficie, edificios esculpidos, ramas retorcidas y plataformas/muelles; grados Mirisar 1–5 medidos por pruebas, el del 1 de grado 2, concentración y dedos como…", "marcos": false}, {"id": "D56", "titulo": "Refuerzo", "texto": "los ocho ya están en Valdara cuando Eris recibe la orden en Elis. Sustituye el refuerzo enviado después por ella. Enlace corregido también en el capítulo 3", "marcos": false}, {"id": "D57", "titulo": "Extensión", "texto": "Marcos quiere superar 80.000 palabras y le gustaría alcanzar 100.000, sujeto a lectura. Los objetivos anteriores de D39 son orientación histórica, no un techo ni una cuota. Crecer mediante desarrollo narrativo; preservar…", "marcos": false}, {"id": "D58", "titulo": "Haris quiere que Eris descanse", "texto": "en el barco tras Indra, Haris se preocupa por ella y le pide que suba a Norel esa noche, que no baje al cuartel al día siguiente y que duerma hasta que Lirae la despierte; se ofrece a llevar el parte. Eris cede a medias («un…", "marcos": false}, {"id": "D59", "titulo": "Los Eldara hablan más, no menos", "texto": "aclaración del comentario 34. Frases completas también en operación, en voz baja, cuando hay tiempo; la orden seca se reserva para el instante del asalto. Deroga la compresión «1-2 palabras por frase» de CLAUDE.md y ESTADO.…", "marcos": false}, {"id": "D60", "titulo": "Nagani en el humor y aforismo", "texto": "más Nagani en la broma de la rodilla (Ilare, Kalaree irónico, Nel, Kalari). Se recupera «Siempre acompañada. Siempre sola. Cabían las dos cosas en la misma nuca.» tras la presentación de la placa; el cierre «Eris dejó de…", "marcos": false}, {"id": "D61", "titulo": "Opiniones frente a hechos", "texto": "los demás le dicen a Eris cómo hay que hacer las cosas y ella les cree porque al principio piensa que sabe menos. Con el tiempo descubre que sus ideas e intuiciones estaban más cerca de la realidad. «La revelación de las…", "marcos": true}, {"id": "D62", "titulo": "Confianza repartida", "texto": "en lo militar es la mejor y lo sabe. En sociología, política e incluso liderazgo duda frente a la genialidad de Faree, aunque ella es más auténtica y mejor líder. Desconfiar de su juicio es su rasgo más humano: increíble en…", "marcos": true}, {"id": "D63", "titulo": "Construida por elecciones", "texto": "el personaje se construye a partir de sus elecciones. Piedra de toque: la escena de Bleed for This en la que a Vinny todos le repiten «no es tan fácil» y él responde haciéndolo", "marcos": true}, {"id": "D64", "titulo": "Enfrentarse a los Eldara", "texto": "la inseguridad de D62 hace más doloroso enfrentarse a sus hermanos Eldara, que siguen creyendo lo que ella creía. Marcos: «eso hace que haya que construir muuuy bien lo que hay que hacer». Marcos autorizó cambiar las normas…", "marcos": true}]</script>
+<script type="application/json" id="d-preguntas">[{"id": "q1", "texto": "¿Escribiste Eris.docx tú solo, o alguna parte pasó por ChatGPT u otro asistente? ¿Qué partes reconoces como tuyas?"}, {"id": "q2", "texto": "Cuando pediste «más explicación» en el capítulo 1, ¿te referías al mundo (Arterias, Sandrie, quién es quién) o a lo que siente Eris y por qué hace lo que hace?"}, {"id": "q3", "texto": "¿Puedo sacar las notas de revisión de los 25 capítulos a archivos aparte, para que el manuscrito sea solo texto?"}, {"id": "q4", "texto": "¿Qué tenías pensado para «La duda», «Discordia», «Vuelta a Coria» y «La cena: confesiones»? ¿Eris volvía a Coria sabiendo y fingiendo? ¿Se enfrentaba a Faree?"}, {"id": "q5", "texto": "La falla de septiembre, «las luchas propias matan»: ¿se queda como origen de la inseguridad de Eris, o se quita?"}, {"id": "q6", "texto": "¿Quieres una escena equivalente a la de Bleed for This dentro del libro? Si es así, ¿ante quién se planta Eris?"}, {"id": "q7", "texto": "¿Qué tesis manda en el final: «la verdad no basta» y una Eris sin hogar moral, o la compañía y la liberación del muelle?"}, {"id": "q8", "texto": "¿Cómo se llama el hermano superviviente de Itsu, y quieres que aparezca en el libro?"}, {"id": "q9", "texto": "¿Quieres probar una escena en primera persona y presente, como tu Misión 131, antes de fijar la voz del libro?"}, {"id": "q10", "texto": "¿Qué escenas o personajes concretos de El Señor de los Anillos y de Dune te dieron esa sensación de «raro, medido, especial»? ¿Qué personajes de Eris te la dan hoy?"}, {"id": "q11", "texto": "¿Echas de menos la escala continental (Geoda, Sountor, Neidimia) o para ti este libro es una tragedia de cámara?"}]</script>
+<script>
+(function(){
+  // Balanza: tema del visor y altura real del iframe.
+  const fr = document.getElementById("balanza"), link = document.getElementById("balanza-link");
+  const oscuro = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const elegir = () => { const src = oscuro() ? "balanza.html" : "balanza-light.html"; if (fr.getAttribute("src") !== src) { fr.setAttribute("src", src); link.setAttribute("href", src); } };
+  elegir();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", elegir);
+  new MutationObserver(elegir).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  const ajustar = () => { try { const h = fr.contentDocument && fr.contentDocument.documentElement.scrollHeight; if (h && h > 300) fr.style.height = h + "px"; } catch (e) {} };
+  fr.addEventListener("load", () => { ajustar(); setTimeout(ajustar, 600); });
+  addEventListener("resize", () => setTimeout(ajustar, 200));
+
+  const DEC = JSON.parse(document.getElementById("d-decisiones").textContent);
+  const PREG = JSON.parse(document.getElementById("d-preguntas").textContent);
+  const OPC = [["mia", "Es mía"], ["aceptada", "La acepté"], ["no", "No la reconozco"]];
+  const estado = {}; const respuestas = {};
+  let db = null;
+
+  const listaD = document.getElementById("dec-lista");
+  DEC.forEach((d) => {
+    const row = document.createElement("div"); row.className = "dec"; row.dataset.id = d.id;
+    const id = document.createElement("span"); id.className = "id"; id.textContent = d.id;
+    const t = document.createElement("span"); t.className = "t"; t.textContent = d.titulo;
+    if (d.marcos) { const m = document.createElement("span"); m.className = "marca"; m.textContent = "tus palabras, hoy"; t.appendChild(m); }
+    const x = document.createElement("span"); x.className = "x"; x.textContent = d.texto;
+    const bot = document.createElement("div"); bot.className = "bot";
+    OPC.forEach(([v, label]) => {
+      const b = document.createElement("button"); b.type = "button"; b.dataset.v = v; b.textContent = label; b.setAttribute("aria-pressed", "false"); b.disabled = true;
+      b.addEventListener("click", () => marcar(d.id, v));
+      bot.appendChild(b);
+    });
+    row.append(id, t, x, bot); listaD.appendChild(row);
+  });
+  function pintarDec() {
+    let n = { mia: 0, aceptada: 0, no: 0 };
+    listaD.querySelectorAll(".dec").forEach((row) => {
+      const v = estado[row.dataset.id] || "";
+      if (n[v] !== undefined) n[v]++;
+      row.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.v === v)));
+    });
+    const total = DEC.length, hechas = n.mia + n.aceptada + n.no;
+    document.getElementById("dec-resumen").textContent = hechas + " de " + total + " marcadas · " + n.mia + " tuyas · " + n.aceptada + " aceptadas · " + n.no + " no reconocidas";
+  }
+  async function marcar(id, v) {
+    if (!db) return;
+    const nuevo = estado[id] === v ? "" : v;
+    estado[id] = nuevo; pintarDec();
+    try { await db.collection("decisiones").doc(id).set({ estado: nuevo, cuando: new Date().toISOString() }); }
+    catch (e) { aviso("dec-aviso", "No se ha podido guardar: " + (e && e.message ? e.message : "error") + "."); }
+  }
+
+  const listaP = document.getElementById("preg-lista");
+  PREG.forEach((p) => {
+    const box = document.createElement("div"); box.className = "preg";
+    const lab = document.createElement("label"); lab.htmlFor = "p-" + p.id; lab.textContent = p.texto;
+    const ta = document.createElement("textarea"); ta.id = "p-" + p.id; ta.disabled = true;
+    const fila = document.createElement("div"); fila.className = "fila";
+    const b = document.createElement("button"); b.type = "button"; b.textContent = "Guardar"; b.disabled = true;
+    const ok = document.createElement("span"); ok.className = "ok"; ok.setAttribute("aria-live", "polite");
+    b.addEventListener("click", async () => {
+      if (!db) return;
+      try { await db.collection("respuestas").doc(p.id).set({ texto: ta.value, pregunta: p.texto, cuando: new Date().toISOString() }); ok.textContent = "Guardado"; }
+      catch (e) { ok.textContent = "No se ha podido guardar"; }
+    });
+    ta.addEventListener("input", () => { ok.textContent = ""; });
+    fila.append(b, ok); box.append(lab, ta, fila); listaP.appendChild(box);
+  });
+
+  function aviso(id, txt) { const el = document.getElementById(id); el.textContent = txt; el.hidden = false; }
+  pintarDec();
+
+  (async () => {
+    db = window.claude && window.claude.use ? await window.claude.use("db") : null;
+    if (!db) {
+      const t = "Para marcar y guardar, abre esta página con tu sesión de claude.ai.";
+      aviso("dec-aviso", t); aviso("preg-aviso", t); return;
+    }
+    document.querySelectorAll(".dec button, .preg button, .preg textarea").forEach((el) => { el.disabled = false; });
+    db.collection("decisiones").onSnapshot((snap) => { snap.docs.forEach((d) => { const v = d.data(); estado[d.id] = v && v.estado ? v.estado : ""; }); pintarDec(); },
+      () => aviso("dec-aviso", "No se han podido leer las marcas guardadas."));
+    db.collection("respuestas").onSnapshot((snap) => {
+      snap.docs.forEach((d) => { const v = d.data(); const ta = document.getElementById("p-" + d.id); if (ta && v && typeof v.texto === "string" && document.activeElement !== ta) { ta.value = v.texto; respuestas[d.id] = v.texto; } });
+    }, () => aviso("preg-aviso", "No se han podido leer las respuestas guardadas."));
+  })();
+})();
+</script>

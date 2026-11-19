@@ -1,0 +1,376 @@
+<title>Las bases del cambio</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,600;1,400&family=Spectral+SC:wght@500&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Composición: una columna de lectura, como una libreta de laboratorio de Norel; la balanza ocupa el ancho de la columna. */
+:root{
+  --paper:#EDEFF2; --card:#F7F8FA; --ink:#16181D; --muted:#596070; --rule:#CBD0D8;
+  --haiz:#2B4CC9; --oro:#8E6411; --haiz-soft:#DCE3FA; --oro-soft:#F2E6CC;
+  --serif:"Spectral",Georgia,"Times New Roman",serif; --sc:"Spectral SC","Spectral",Georgia,serif;
+  --mono:"IBM Plex Mono",ui-monospace,"SFMono-Regular",Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#111318; --card:#171A21; --ink:#E7E8EB; --muted:#9BA2AF; --rule:#2B3039;
+  --haiz:#93AAFF; --oro:#D8B460; --haiz-soft:#1C2645; --oro-soft:#33290F; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#111318; --card:#171A21; --ink:#E7E8EB; --muted:#9BA2AF; --rule:#2B3039;
+  --haiz:#93AAFF; --oro:#D8B460; --haiz-soft:#1C2645; --oro-soft:#33290F; color-scheme:dark}
+html{background:var(--paper)}
+body{background:var(--paper);color:var(--ink);font:17px/1.6 var(--serif);padding-inline:16px;padding-block:28px 64px}
+main{max-width:760px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-weight:600;text-wrap:balance;margin:0;line-height:1.2}
+h1{font-size:clamp(34px,6vw,52px);letter-spacing:-.01em}
+h2{font-family:var(--sc);font-weight:500;font-size:clamp(24px,4vw,30px);letter-spacing:.02em}
+h3{font-size:19px}
+p{margin:0}
+.eyebrow{font:500 12px/1.4 var(--mono);letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.lead{font-size:20px;color:var(--muted);max-width:62ch}
+.stack{display:flex;flex-direction:column;gap:14px}
+.section{display:flex;flex-direction:column;gap:20px}
+.note{font-size:15px;color:var(--muted);max-width:65ch}
+nav.toc{display:flex;flex-wrap:wrap;gap:8px}
+nav.toc a{font:13px/1 var(--mono);color:var(--ink);text-decoration:none;border:1px solid var(--rule);padding:8px 10px;border-radius:999px;background:var(--card)}
+nav.toc a:hover,nav.toc a:focus-visible{border-color:var(--haiz);outline:none}
+.metodo{display:flex;flex-wrap:wrap;gap:6px 18px;font:13px/1.5 var(--mono);color:var(--muted)}
+.quote{font-style:italic;font-size:clamp(20px,3.2vw,25px);line-height:1.45;max-width:58ch}
+.quote cite{display:block;margin-top:10px;font:13px/1.4 var(--mono);font-style:normal;color:var(--muted)}
+.trio{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px}
+.trio div{background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:14px 16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.trio b{font-weight:600}
+.trio span{font-size:15px;color:var(--muted)}
+.figura{border:1px solid var(--rule);border-radius:6px;overflow:hidden;background:var(--card)}
+.figura iframe{display:block;width:100%;height:880px;border:0}
+.figura a{display:block;padding:10px 14px;font:13px/1.4 var(--mono);color:var(--haiz);border-top:1px solid var(--rule)}
+.dos{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media (max-width:720px){.dos{grid-template-columns:1fr}}
+.dos > div{min-width:0;display:flex;flex-direction:column;gap:12px}
+ul.items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px}
+ul.items li{padding-left:14px;border-left:2px solid var(--rule)}
+ul.items.real li{border-left-color:var(--haiz)}
+ul.items.eco li{border-left-color:var(--oro)}
+.src{display:block;font:12px/1.5 var(--mono);color:var(--muted);margin-top:3px}
+.tag{display:inline-block;font:500 11px/1 var(--mono);letter-spacing:.06em;text-transform:uppercase;padding:5px 7px;border-radius:3px}
+.tag.real{background:var(--haiz-soft);color:var(--haiz)}
+.tag.eco{background:var(--oro-soft);color:var(--oro)}
+.bars{display:flex;flex-direction:column;gap:14px}
+.bar{display:grid;grid-template-columns:110px 1fr;gap:10px;align-items:center}
+.bar .lbl{font:13px/1.3 var(--mono)}
+.bar .lbl small{display:block;color:var(--muted)}
+.track{display:flex;height:22px;border-radius:3px;overflow:hidden;background:var(--rule)}
+.track span{display:block;height:100%}
+.k-autor{background:var(--haiz)}.k-taller{background:var(--muted)}.k-maquina{background:var(--oro)}.k-borrador{background:color-mix(in srgb,var(--oro) 45%,var(--rule))}
+.leyenda{display:flex;flex-wrap:wrap;gap:6px 16px;font:12px/1.4 var(--mono);color:var(--muted)}
+.leyenda i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:6px;vertical-align:-1px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--rule);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.card .cap{font:12px/1 var(--mono);color:var(--muted)}
+.card blockquote{margin:0;font-style:italic;font-size:17px}
+.card p{font-size:15px}
+.card .como{font-size:14px;color:var(--muted)}
+ol.cambios{margin:0;padding:0;list-style:none;counter-reset:c;display:flex;flex-direction:column;gap:26px}
+ol.cambios > li{counter-increment:c;display:grid;grid-template-columns:44px 1fr;gap:4px 12px}
+ol.cambios > li::before{content:counter(c);font:500 28px/1 var(--mono);color:var(--haiz);grid-row:span 4}
+ol.cambios h3{grid-column:2}
+ol.cambios p, ol.cambios .detalle{grid-column:2;min-width:0}
+.detalle{font-size:15px;color:var(--muted);display:flex;flex-direction:column;gap:4px}
+.detalle q{font-style:italic;color:var(--ink)}
+.grupo{display:flex;flex-direction:column;gap:12px}
+.grupo h3{font-family:var(--mono);font-size:13px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.mec{border-top:1px solid var(--rule);padding-top:12px;display:flex;flex-direction:column;gap:4px}
+.mec b{font-weight:600}
+.mec p{font-size:15px}
+.mec .en{color:var(--muted)}
+.tabla{overflow-x:auto;border:1px solid var(--rule);border-radius:6px}
+table{border-collapse:collapse;width:100%;font-size:14px;min-width:640px}
+th,td{padding:10px 12px;border-bottom:1px solid var(--rule);text-align:left;vertical-align:top}
+th{font:500 11px/1.3 var(--mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);background:var(--card)}
+tr:last-child td{border-bottom:0}
+.estado{font:500 11px/1 var(--mono);text-transform:uppercase;letter-spacing:.05em;padding:5px 7px;border-radius:3px;white-space:nowrap}
+.estado.construido{background:var(--haiz-soft);color:var(--haiz)}
+.estado.a_medias{background:var(--oro-soft);color:var(--oro)}
+.estado.solo_funcion{background:var(--rule);color:var(--ink)}
+.resumen{display:flex;flex-wrap:wrap;gap:8px 18px;font:13px/1.4 var(--mono);color:var(--muted)}
+.dec{display:grid;grid-template-columns:52px 1fr;gap:4px 12px;padding:12px 0;border-bottom:1px solid var(--rule)}
+.dec .id{font:500 13px/1.5 var(--mono);color:var(--muted)}
+.dec .t{font-weight:600}
+.dec .x{font-size:14px;color:var(--muted);grid-column:2}
+.dec .bot{grid-column:2;display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.bot button{font:13px/1 var(--mono);padding:8px 10px;border-radius:4px;border:1px solid var(--rule);background:var(--card);color:var(--ink);cursor:pointer}
+.bot button[aria-pressed="true"]{border-color:var(--haiz);background:var(--haiz-soft);color:var(--haiz)}
+.bot button[data-v="no"][aria-pressed="true"]{border-color:var(--oro);background:var(--oro-soft);color:var(--oro)}
+.bot button:focus-visible,.preg button:focus-visible,textarea:focus-visible{outline:2px solid var(--haiz);outline-offset:2px}
+.bot button:disabled,.preg button:disabled{cursor:not-allowed;opacity:.55}
+.marca{font:11px/1 var(--mono);color:var(--haiz);margin-left:6px}
+.aviso{font:13px/1.5 var(--mono);color:var(--muted);padding:10px 12px;border:1px dashed var(--rule);border-radius:4px}
+.preg{display:flex;flex-direction:column;gap:8px;padding:14px 0;border-bottom:1px solid var(--rule)}
+.preg label{font-weight:600}
+.preg textarea{font:16px/1.5 var(--serif);color:var(--ink);background:var(--card);border:1px solid var(--rule);border-radius:4px;padding:10px;min-height:84px;resize:vertical;width:100%;box-sizing:border-box}
+.preg .fila{display:flex;align-items:center;gap:12px}
+.preg button{font:13px/1 var(--mono);padding:9px 12px;border-radius:4px;border:1px solid var(--haiz);background:var(--haiz);color:var(--paper);cursor:pointer}
+.preg .ok{font:12px/1 var(--mono);color:var(--muted)}
+ol.metodo-lista{margin:0;padding-left:22px;display:flex;flex-direction:column;gap:10px}
+footer{font:12px/1.6 var(--mono);color:var(--muted);border-top:1px solid var(--rule);padding-top:16px}
+@media (prefers-reduced-motion: reduce){*{scroll-behavior:auto}}
+</style>
+
+<main>
+  <header class="stack">
+    <p class="eyebrow">Eris · revisión del 14 de octubre de 2026</p>
+    <h1>Las bases del cambio</h1>
+    <p class="lead">Qué es real en el libro, qué es eco de tanto trabajar con máquinas y qué cambiar, contado para que puedas reescribir con tu mano.</p>
+    <div class="metodo"><span>3 lectores a ciegas</span><span>prueba ciega de 5 escenas</span><span>10 lectores de storytelling, verificados uno a uno</span><span>mapa de intuiciones capítulo a capítulo</span></div>
+    <p class="note">Todos los lectores son modelos de IA. Leyeron sin los documentos del proyecto y con tres modelos distintos para no compartir los mismos puntos ciegos. Eso reduce el eco, pero no lo elimina: de la v2, solo tú has leído un capítulo.</p>
+    <nav class="toc" aria-label="Secciones">
+      <a href="#mensaje">El mensaje</a><a href="#real">Real y eco</a><a href="#ciega">Prueba ciega</a><a href="#funciona">Lo que funciona</a><a href="#cambiar">Qué cambiar</a><a href="#herramientas">Herramientas</a><a href="#eldara">Los Eldara</a><a href="#decisiones">Tus decisiones</a><a href="#preguntas">Preguntas</a><a href="#metodo">Cómo seguir</a>
+    </nav>
+  </header>
+
+  <section class="section" id="mensaje">
+    <h2>El mensaje grande</h2>
+    <p class="quote">«La gente le dice que las cosas hay que hacerlas de una manera, y ella les cree porque piensa que sabe menos. Con el tiempo se da cuenta de que sus intuiciones estaban más cerca de la realidad.»<cite>Marcos, 14 de octubre. Guardado como D61 a D64.</cite></p>
+    <div class="trio">
+      <div><b>Opiniones frente a hechos</b><span>Lo que los demás le presentan como hechos son opiniones. Lo que ella intuía nacía de lo que veía.</span></div>
+      <div><b>Confía donde tiene pruebas</b><span>En lo militar es la mejor y lo sabe. En política y en liderazgo duda frente a la genialidad de Faree.</span></div>
+      <div><b>Se construye eligiendo</b><span>Como Vinny en Bleed for This: todos le dicen «no es tan fácil» y ella responde haciéndolo.</span></div>
+    </div>
+    <div class="figura">
+      <iframe id="balanza" title="La balanza de Eris, capítulo a capítulo" loading="lazy" src="balanza-light.html"></iframe>
+      <a id="balanza-link" href="balanza-light.html" target="_blank" rel="noopener">Abrir la balanza a pantalla completa</a>
+    </div>
+    <div class="stack">
+      <h3>Lo que dice la balanza del texto actual</h3>
+      __LECTURA_BALANZA__
+    </div>
+  </section>
+
+  <section class="section" id="real">
+    <h2>Lo que es real y lo que es eco</h2>
+    <p class="note">«Real» es lo que sostienen al menos dos fuentes que no se conocen entre sí, o lo que dijiste tú. «Eco» es una creencia del proyecto que los de fuera no confirman, o que nació de la IA y se reforzó capa a capa sin que nadie la leyera.</p>
+    <div class="dos">
+      <div>
+        <span class="tag real">Real</span>
+        <ul class="items real">
+          <li>Los capítulos más fuertes son Iretha, la cámara bajo el palacio, la cena, la muerte de Lirae y el muelle.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Haris es el personaje que más quieren. Illia, Ravys, Lyris y el cameo de Maelor funcionan con muy poco espacio.<span class="src">3 lectores y 3 jueces</span></li>
+          <li>Los capítulos 10 a 15 son un bucle de permisos, visitas a Norel y partes. Los tres pensaron en dejar el libro ahí.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Desde el 13, Eris no hace nada con el secreto y nunca se enfrenta a Faree. Tu estructura original sí lo hacía.<span class="src">3 lectores y tu borrador</span></li>
+          <li>Hay demasiados nombres para lo poco que se dramatizan, y dos personajes se llaman Berys.<span class="src">3 lectores y tú</span></li>
+          <li>El narrador explica lo que la escena ya ha mostrado.<span class="src">lectores, jueces y el detector de huellas</span></li>
+          <li>Las notas de revisión están dentro de los 25 capítulos. Los tres lectores las vieron y leyeron el libro como un texto de taller.<span class="src">lectores y auditoría de procedencia</span></li>
+          <li>Lo mejor recibido nace de ti: el muelle, el «tum tum», la Nexalita como arma, Haris quitándose la placa, la cadena de Ravys a Illia y los dedos que vuelven como manos.<span class="src">procedencia, lectores y jueces</span></li>
+          <li>Como lector aciertas. Cada vez que leíste algo, señalaste lo mismo que hoy señalan los de fuera, y antes que nosotros.<span class="src">tus comentarios frente a los lectores</span></li>
+        </ul>
+      </div>
+      <div>
+        <span class="tag eco">Eco</span>
+        <ul class="items eco">
+          <li>Que la v2 sea un manuscrito hecho. La IA escribió los capítulos 2 a 24, los criticó, propuso soluciones y las aplicó sin que tú los leyeras.<span class="src">auditoría de procedencia</span></li>
+          <li>El 9,2 sobre 10 de la crítica Sanderson de mayo. Cambió de veredicto en cuanto dijiste que el libro no tenía alma.<span class="src">procedencia y lectores</span></li>
+          <li>La doctrina «Sicario». Está derogada, pero los capítulos 2 a 24 se escribieron con ella y la conservan.<span class="src">procedencia y detector</span></li>
+          <li>El permiso de Itsu aplazado una y otra vez. Se diseñó como tensión y se lee como espera.<span class="src">los 3 lectores a ciegas</span></li>
+          <li>Que cuanta más contabilidad de promesas, mejor. Los pagos que celebran los lectores son los discretos; los anunciados se ven como taller.<span class="src">lectores y verificación</span></li>
+          <li>Que las decisiones D1 a D51 sean tuyas. La atribución la escribió la IA sin una transcripción que la respalde.<span class="src">auditoría de procedencia</span></li>
+          <li>Que el capítulo 1 actual responda a tu «más explicación». Los lectores piden que se explique el mundo, y el texto explica sobre todo lo que siente Eris.<span class="src">lectores y jueces</span></li>
+          <li>Que la IA leyendo su propio texto equivalga a una lectura. Los lectores a ciegas encontraron fallos que esas lecturas no corrigieron.<span class="src">lectores y procedencia</span></li>
+        </ul>
+      </div>
+    </div>
+    <p class="note">Sin decidir todavía: si tu borrador <em>Eris.docx</em> pasó por ChatGPT, si conviene volver a la primera persona y el presente de tu Misión 131, y qué significa el final, si liberación o muerte sin hogar.</p>
+  </section>
+
+  <section class="section" id="ciega">
+    <h2>La prueba ciega</h2>
+    <p>Cinco escenas que existen en tu borrador original, en la v1 y en la v2. Tres jueces las ordenaron sin saber cuál era cuál: un editor de fantasía, una editora literaria y un lector de series.</p>
+    <div class="bars" role="img" aria-label="Primeros puestos sobre 15 votos: v2 11, v1 4, original 0">
+      <div class="bar"><span class="lbl">v2<small>11 de 15 primeros</small></span><div class="track"><span class="k-autor" style="width:73.3%"></span></div></div>
+      <div class="bar"><span class="lbl">v1<small>4 de 15 primeros</small></span><div class="track"><span class="k-autor" style="width:26.7%"></span></div></div>
+      <div class="bar"><span class="lbl">Original<small>0 de 15, siempre último</small></span><div class="track"><span class="k-autor" style="width:0%"></span></div></div>
+    </div>
+    <h3>A qué les sonó cada versión</h3>
+    <div class="bars" role="img" aria-label="Etiquetas de los jueces por versión, sobre 15">
+      <div class="bar"><span class="lbl">v2</span><div class="track"><span class="k-autor" style="width:73.3%"></span><span class="k-taller" style="width:20%"></span><span class="k-maquina" style="width:6.7%"></span></div></div>
+      <div class="bar"><span class="lbl">v1</span><div class="track"><span class="k-autor" style="width:53.3%"></span><span class="k-taller" style="width:20%"></span><span class="k-maquina" style="width:20%"></span><span class="k-borrador" style="width:6.7%"></span></div></div>
+      <div class="bar"><span class="lbl">Original</span><div class="track"><span class="k-maquina" style="width:66.7%"></span><span class="k-borrador" style="width:33.3%"></span></div></div>
+    </div>
+    <div class="leyenda"><span><i class="k-autor"></i>autor con algo que decir</span><span><i class="k-taller"></i>taller de escritura</span><span><i class="k-maquina"></i>texto de máquina</span><span><i class="k-borrador"></i>borrador sin pulir</span></div>
+    <ul class="items">
+      <li>La ventaja de la v2 sobre la v1 es menor de lo que parece. En la Plaza Ocre las dos versiones solo se diferencian en un pronombre. Donde difieren de verdad, la v2 gana 8 de 12 votos.</li>
+      <li>La v2 gana en el epílogo, el reencuentro con Lirae y el muelle: el duelo cabe en objetos y no en adjetivos. Pierde en Indra, el capítulo 1: gana claridad y pierde voz, porque explica por qué el plan es bueno y qué siente Eris.</li>
+      <li>Tu original pierde por su prosa de catálogo, con fórmulas como «silencio ensordecedor» o «instinto infalible». Pero sus ideas son el esqueleto que heredan las otras dos, y la Misión 131 y tus hojas a mano tienen una voz concreta que los jueces echaron de menos.</li>
+      <li>Los jueces recomiendan no elegir una versión sino montar: el cuerpo y la claridad de la v2, el riesgo de la v1 y las intuiciones de tu original.</li>
+    </ul>
+    <p class="note">Aviso: los jueces son modelos, y preferir la prosa pulida por modelos puede ser gusto de máquina. Lo atenúa que también llamaron taller o máquina a 4 de los 15 fragmentos de la v2.</p>
+  </section>
+
+  <section class="section" id="funciona">
+    <h2>Lo que ya funciona</h2>
+    <p>Momentos donde el libro ya hace lo que admiras en El Señor de los Anillos y en Dune. Sirven de vara para el resto.</p>
+    <div class="cards">
+      <div class="card"><span class="cap">Cap 3</span><blockquote>Era lo único que no gritaba en la plaza, y por eso la vio.</blockquote><p>La encapuchada queda definida por lo que no hace, y desaparece antes de explicarse.</p><p class="como">Como Trancos en la esquina del Poney Pisador.</p></div>
+      <div class="card"><span class="cap">Cap 6</span><blockquote>—¿Y tú quién eres?</blockquote><p>Maelor rechaza el duelo de leyendas que el lector espera, y en ese rechazo quedan definidos los dos.</p><p class="como">Carisma sin acaparar, en tres frases.</p></div>
+      <div class="card"><span class="cap">Cap 7</span><blockquote>Había dejado el trozo grande junto al cuenco y se estaba comiendo el pequeño.</blockquote><p>Un gesto que Eris no decide, que Elerian lee y que nadie explica. Su sentido llega tres capítulos después.</p><p class="como">Un pago a larga distancia, sin cartel.</p></div>
+      <div class="card"><span class="cap">Cap 13</span><blockquote>se vieron negras durante dos segundos. Después gris.</blockquote><p>Lo más imposible del libro llega en un detalle físico medido en segundos.</p><p class="como">Como la cara de Bilbo que cambia un instante en Rivendel.</p></div>
+      <div class="card"><span class="cap">Cap 15</span><blockquote>—Entonces deja a Ravys fuera de lo que te hizo matarlo.</blockquote><p>Illia rechaza el papel que Eris le había escrito y le devuelve la culpa con su propia lógica.</p><p class="como">Una secundaria que quiere otra cosa que la trama.</p></div>
+      <div class="card"><span class="cap">Cap 17</span><blockquote>—No esta noche.</blockquote><p>Una frase pequeña, dicha con cariño, que el lector carga durante tres capítulos sin que el narrador la subraye.</p><p class="como">El encargo dicho de pasada, como el de Gandalf a Sam.</p></div>
+      <div class="card"><span class="cap">Cap 22</span><blockquote>Podía irse por los tejados. Bajó.</blockquote><p>La elección decisiva se ve y no se comenta.</p><p class="como">Boromir en Amon Hen, en dos frases.</p></div>
+      <div class="card"><span class="cap">Cap 23</span><blockquote>La mano buscó a su lado el brazo que habría estado allí para sostenerla. Encontró la pared.</blockquote><p>El duelo por Haris lo dispara el nombre de una calle y aterriza en el cuerpo, sin una palabra sobre el duelo.</p><p class="como">Lo ligero que vuelve como duelo.</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="cambiar">
+    <h2>Qué cambiar</h2>
+    <p>Por orden de importancia. Cada punto dice quién lo confirma. Los del diagnóstico interno se han reducido a su alcance real después de que un lector escéptico comprobara cada cita y buscara contraejemplos.</p>
+    <ol class="cambios">
+      __CAMBIOS__
+    </ol>
+  </section>
+
+  <section class="section" id="herramientas">
+    <h2>Herramientas de El Señor de los Anillos y de Dune</h2>
+    <p>No son reglas para cumplir. Son maneras de hacer que puedes tener a mano cuando reescribas. Una idea las resume: las promesas que el lector siente suyas se las hacen los personajes entre ellos, y se cobran con una elección y con un cuerpo.</p>
+    <div class="grupo"><h3>Promesas</h3>
+      <div class="mec"><b>El encargo dicho de pasada</b><p>Gandalf le pide a Sam que no deje solo a Frodo. Sam lo cumple casi ahogándose. La promesa más fuerte de la trilogía es un trámite entre dos personajes.</p><p class="en">En Eris: Lirae decide contarle lo del péndulo y lo cumple en el 4. Que más promesas nazcan así, de un personaje a otro, y menos del narrador.</p></div>
+      <div class="mec"><b>Prometer lo que se va a perder</b><p>La versión extendida se queda mucho en la Comarca antes de que llegue el peligro. Uno no se enamora del poder, sino de la cocina que hay dentro.</p><p class="en">En Eris: Lorin como casa, el patio, el armero, el escuadrón con sus bromas. Es lo que luego duele perder.</p></div>
+      <div class="mec"><b>El mundo que no te espera</b><p>Stilgar escupe delante del duque y nadie lo traduce hasta después. El mundo existe antes del lector y no se le explica.</p><p class="en">En Eris: el Nagani, la cortesía de la corte y el habla del puerto, usados sin glosa.</p></div>
+      <div class="mec"><b>Promesas que no se pagan</b><p>Aragorn canta la historia de Lúthien y nadie la vuelve a mencionar. No es un cabo suelto: es un mundo más viejo que la historia.</p><p class="en">En Eris: una zona de textura que no entra en el mapa de promesas.</p></div>
+    </div>
+    <div class="grupo"><h3>Pagos</h3>
+      <div class="mec"><b>La elección moral decide</b><p>El Monte del Destino no lo resuelve una habilidad. Lo resuelve una piedad elegida mucho antes.</p><p class="en">En Eris: la piedad de Iretha ya tiene coste. Falta que alguna elección temprana de Eris decida algo al final.</p></div>
+      <div class="mec"><b>Lo ligero vuelve como duelo</b><p>Los fuegos artificiales de Gandalf vuelven en Lothlórien, cuando ya ha caído.</p><p class="en">En Eris: la rodilla de Ravys y sus bromas. Cuantas más risas tenga el escuadrón al principio, más pesa cada ausencia.</p></div>
+      <div class="mec"><b>El pago literal que horroriza</b><p>El Lisan al-Gaib se cumple al pie de la letra, y esa es la tragedia.</p><p class="en">En Eris: la placa que en el 1 es familia y en el 22 es lo que la delata.</p></div>
+    </div>
+    <div class="grupo"><h3>Personajes</h3>
+      <div class="mec"><b>Silueta antes que nombre</b><p>Trancos es una capucha, una pipa y unos ojos. Su identidad la dicen otros, a trozos.</p><p class="en">En Eris: que Faree, Maelor, Nyree y el Yll entren haciendo algo, no con una ficha de raza, edad y ropa.</p></div>
+      <div class="mec"><b>La economía de la Compañía</b><p>Nueve caminantes con poco tiempo y todos inolvidables: un deseo, una habilidad que importa una vez, un gesto que vuelve.</p><p class="en">En Eris: el escuadrón. Seis nombres con algo propio antes de que la cuenta empiece a restar.</p></div>
+      <div class="mec"><b>La testigo que no aplaude</b><p>Chani ama a Paul y no cree en la profecía. El final de la Parte Dos es suyo.</p><p class="en">En Eris: Lirae, que mide antes de creer.</p></div>
+      <div class="mec"><b>La cortesía como arma</b><p>En Shōgun, el consejo se amenaza de muerte con fórmulas de respeto. El registro es el personaje.</p><p class="en">En Eris: la retórica de Faree es el «no es tan fácil» con el que Coria posee a la gente.</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="eldara">
+    <h2>Los Eldara</h2>
+    <p>Enfrentarse a ellos al final tiene que doler. Para eso cada uno necesita un momento propio, un vínculo con Eris, una fe en Coria con razones y una elección suya. Así está hoy cada uno, según el texto.</p>
+    __ELDARA__
+  </section>
+
+  <section class="section" id="decisiones">
+    <h2>Tus decisiones</h2>
+    <p>El registro dice que estas decisiones son tuyas, pero la atribución la escribió la IA. Marca cada una: si es tuya, si la aceptaste cuando te la propusimos o si no la reconoces. Lo que marques queda guardado y lo leeré en la próxima sesión.</p>
+    <div class="resumen" id="dec-resumen" aria-live="polite"></div>
+    <div id="dec-aviso" class="aviso" hidden></div>
+    <div id="dec-lista"></div>
+  </section>
+
+  <section class="section" id="preguntas">
+    <h2>Preguntas que solo tú puedes contestar</h2>
+    <p>Escribe lo que quieras; cada respuesta se guarda al pulsar Guardar.</p>
+    <div id="preg-aviso" class="aviso" hidden></div>
+    <div id="preg-lista"></div>
+  </section>
+
+  <section class="section" id="metodo">
+    <h2>Cómo seguir sin eco</h2>
+    <ol class="metodo-lista">
+      <li>Nada se reescribe, critica ni corrige si tú no has leído antes ese capítulo. Tu lectura marca el ritmo.</li>
+      <li>Cada decisión lleva su procedencia: tus palabras, una propuesta que aceptaste o una idea de la IA sin validar.</li>
+      <li>Antes de convertir una conclusión de IA en regla, se contrasta con lectores a ciegas que no ven los documentos del proyecto.</li>
+      <li>El manuscrito solo contiene texto. Las notas, las decisiones numeradas y los presupuestos de tics viven fuera.</li>
+      <li>En esta fase escribes tú. La IA lee, señala, comprueba y prepara material.</li>
+      <li>Se protege lo que funciona y es tuyo: el muelle, Iretha, los gemelos, el «tum tum» y Haris.</li>
+      <li>Cuando el texto esté afinado, lectores humanos en frío con tres preguntas: dónde pararon, quién les importa y qué esperaban.</li>
+    </ol>
+  </section>
+
+  <footer>Fuentes: lectura de los 25 capítulos de la v2 (81.388 palabras), comparación con la v1 y con Eris.docx, decisiones D1 a D64. Las citas del libro se han comprobado literalmente en el texto.</footer>
+</main>
+
+<script type="application/json" id="d-decisiones">__DECISIONES__</script>
+<script type="application/json" id="d-preguntas">__PREGUNTAS__</script>
+<script>
+(function(){
+  // Balanza: tema del visor y altura real del iframe.
+  const fr = document.getElementById("balanza"), link = document.getElementById("balanza-link");
+  const oscuro = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const elegir = () => { const src = oscuro() ? "balanza.html" : "balanza-light.html"; if (fr.getAttribute("src") !== src) { fr.setAttribute("src", src); link.setAttribute("href", src); } };
+  elegir();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", elegir);
+  new MutationObserver(elegir).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+  const ajustar = () => { try { const h = fr.contentDocument && fr.contentDocument.documentElement.scrollHeight; if (h && h > 300) fr.style.height = h + "px"; } catch (e) {} };
+  fr.addEventListener("load", () => { ajustar(); setTimeout(ajustar, 600); });
+  addEventListener("resize", () => setTimeout(ajustar, 200));
+
+  const DEC = JSON.parse(document.getElementById("d-decisiones").textContent);
+  const PREG = JSON.parse(document.getElementById("d-preguntas").textContent);
+  const OPC = [["mia", "Es mía"], ["aceptada", "La acepté"], ["no", "No la reconozco"]];
+  const estado = {}; const respuestas = {};
+  let db = null;
+
+  const listaD = document.getElementById("dec-lista");
+  DEC.forEach((d) => {
+    const row = document.createElement("div"); row.className = "dec"; row.dataset.id = d.id;
+    const id = document.createElement("span"); id.className = "id"; id.textContent = d.id;
+    const t = document.createElement("span"); t.className = "t"; t.textContent = d.titulo;
+    if (d.marcos) { const m = document.createElement("span"); m.className = "marca"; m.textContent = "tus palabras, hoy"; t.appendChild(m); }
+    const x = document.createElement("span"); x.className = "x"; x.textContent = d.texto;
+    const bot = document.createElement("div"); bot.className = "bot";
+    OPC.forEach(([v, label]) => {
+      const b = document.createElement("button"); b.type = "button"; b.dataset.v = v; b.textContent = label; b.setAttribute("aria-pressed", "false"); b.disabled = true;
+      b.addEventListener("click", () => marcar(d.id, v));
+      bot.appendChild(b);
+    });
+    row.append(id, t, x, bot); listaD.appendChild(row);
+  });
+  function pintarDec() {
+    let n = { mia: 0, aceptada: 0, no: 0 };
+    listaD.querySelectorAll(".dec").forEach((row) => {
+      const v = estado[row.dataset.id] || "";
+      if (n[v] !== undefined) n[v]++;
+      row.querySelectorAll("button").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.v === v)));
+    });
+    const total = DEC.length, hechas = n.mia + n.aceptada + n.no;
+    document.getElementById("dec-resumen").textContent = hechas + " de " + total + " marcadas · " + n.mia + " tuyas · " + n.aceptada + " aceptadas · " + n.no + " no reconocidas";
+  }
+  async function marcar(id, v) {
+    if (!db) return;
+    const nuevo = estado[id] === v ? "" : v;
+    estado[id] = nuevo; pintarDec();
+    try { await db.collection("decisiones").doc(id).set({ estado: nuevo, cuando: new Date().toISOString() }); }
+    catch (e) { aviso("dec-aviso", "No se ha podido guardar: " + (e && e.message ? e.message : "error") + "."); }
+  }
+
+  const listaP = document.getElementById("preg-lista");
+  PREG.forEach((p) => {
+    const box = document.createElement("div"); box.className = "preg";
+    const lab = document.createElement("label"); lab.htmlFor = "p-" + p.id; lab.textContent = p.texto;
+    const ta = document.createElement("textarea"); ta.id = "p-" + p.id; ta.disabled = true;
+    const fila = document.createElement("div"); fila.className = "fila";
+    const b = document.createElement("button"); b.type = "button"; b.textContent = "Guardar"; b.disabled = true;
+    const ok = document.createElement("span"); ok.className = "ok"; ok.setAttribute("aria-live", "polite");
+    b.addEventListener("click", async () => {
+      if (!db) return;
+      try { await db.collection("respuestas").doc(p.id).set({ texto: ta.value, pregunta: p.texto, cuando: new Date().toISOString() }); ok.textContent = "Guardado"; }
+      catch (e) { ok.textContent = "No se ha podido guardar"; }
+    });
+    ta.addEventListener("input", () => { ok.textContent = ""; });
+    fila.append(b, ok); box.append(lab, ta, fila); listaP.appendChild(box);
+  });
+
+  function aviso(id, txt) { const el = document.getElementById(id); el.textContent = txt; el.hidden = false; }
+  pintarDec();
+
+  (async () => {
+    db = window.claude && window.claude.use ? await window.claude.use("db") : null;
+    if (!db) {
+      const t = "Para marcar y guardar, abre esta página con tu sesión de claude.ai.";
+      aviso("dec-aviso", t); aviso("preg-aviso", t); return;
+    }
+    document.querySelectorAll(".dec button, .preg button, .preg textarea").forEach((el) => { el.disabled = false; });
+    db.collection("decisiones").onSnapshot((snap) => { snap.docs.forEach((d) => { const v = d.data(); estado[d.id] = v && v.estado ? v.estado : ""; }); pintarDec(); },
+      () => aviso("dec-aviso", "No se han podido leer las marcas guardadas."));
+    db.collection("respuestas").onSnapshot((snap) => {
+      snap.docs.forEach((d) => { const v = d.data(); const ta = document.getElementById("p-" + d.id); if (ta && v && typeof v.texto === "string" && document.activeElement !== ta) { ta.value = v.texto; respuestas[d.id] = v.texto; } });
+    }, () => aviso("preg-aviso", "No se han podido leer las respuestas guardadas."));
+  })();
+})();
+</script>

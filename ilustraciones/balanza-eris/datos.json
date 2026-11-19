@@ -1,0 +1,252 @@
+[
+ {
+  "cap": "1",
+  "titulo": "Misión 133",
+  "acto": "I",
+  "voces": 1,
+  "hechos": 1,
+  "confianza": 5,
+  "eleccion": "Separar a los deudores de los guardias, en la acción y en el parte",
+  "nota": "Lidera y lee a las personas con seguridad: la rodilla y la mentira de Ravys, los deudores separados de los guardias en la acción y en el parte."
+ },
+ {
+  "cap": "2",
+  "titulo": "Lirae",
+  "acto": "I",
+  "voces": 0,
+  "hechos": 1,
+  "confianza": 5,
+  "eleccion": "",
+  "nota": "Sin Eris (POV Lirae); heredado del 1. La única dramatización de «quería creer que tenía razón» es de Lirae con Lyris, no de Eris."
+ },
+ {
+  "cap": "3",
+  "titulo": "La Plaza Ocre",
+  "acto": "I",
+  "voces": 2,
+  "hechos": 2,
+  "confianza": 4,
+  "eleccion": "Matar a la abanderada",
+  "nota": "Lee la plaza con precisión (la capa prohibida «por eso las llevaban», la guardia que «empujaba por empujar»), calla el sonido («No estoy tensa», «Nada») y aplica doctrina para la bandera."
+ },
+ {
+  "cap": "4",
+  "titulo": "Libro pequeño",
+  "acto": "I",
+  "voces": 3,
+  "hechos": 2,
+  "confianza": 4,
+  "eleccion": "Omitir a la Valagost y el empujón en el informe; contárselo a Lirae",
+  "nota": "Omite la Valagost ante Lyris por decisión, rebate la hipótesis experta de Lirae con un dato («Empezó antes de que la viera») y archiva «Hasta que él llame» como lo que es. No cede en nada que crea."
+ },
+ {
+  "cap": "5",
+  "titulo": "El Larien",
+  "acto": "II",
+  "voces": 2,
+  "hechos": 2,
+  "confianza": 3,
+  "eleccion": "Quedarse sentada en vez de seguir a los Atalar (sale tarde)",
+  "nota": "Admiración real por la justicia de Faree, pero no pasividad: «Al acabar iría detrás de los dos hombres», baja al vestíbulo, pide las cartas («Búscalas»). Ve a Theim; también Iralen."
+ },
+ {
+  "cap": "6",
+  "titulo": "Nurn",
+  "acto": "II",
+  "voces": 2,
+  "hechos": 3,
+  "confianza": 4,
+  "eleccion": "Repetir el marco del rey sobre Maelor y corregirlo en silencio al verlo elegir; plantarse ante Theim",
+  "nota": "La lectura de Maelor es suya («Dígame qué ve» → ella habla → «Lo mismo que yo»); los hechos la corrigen a ella y ella lo asume. Se planta ante Theim con una sola palabra («El rey»). Faree no le discute nada en todo el capítulo."
+ },
+ {
+  "cap": "7",
+  "titulo": "El cocinero",
+  "acto": "II",
+  "voces": 0,
+  "hechos": 3,
+  "confianza": 4,
+  "eleccion": "Escaparse de noche, de paisano; probar el Haiz una vez",
+  "nota": "Sale sin permiso, prueba el Haiz y rechaza la segunda calada. No hay voz contraria ni dominio político: el capítulo no debería pesar en la curva."
+ },
+ {
+  "cap": "8",
+  "titulo": "El atentado",
+  "acto": "II",
+  "voces": 2,
+  "hechos": 3,
+  "confianza": 4,
+  "eleccion": "Decirle a Haris que Theim fue cruel",
+  "nota": "Un segundo de protocolo con Haris y dice lo que vio («Se quedó haciéndole daño cuando ya podía matarlo»). Desprecia la teoría de la red («Era teoría de cuartel. No oficio»): exceso de confianza, no falta, que el 22 cobrará."
+ },
+ {
+  "cap": "9",
+  "titulo": "Misión 135",
+  "acto": "II",
+  "voces": 4,
+  "hechos": 4,
+  "confianza": 4,
+  "eleccion": "Esconder el cuaderno de Iretha y mentir a Aluren",
+  "nota": "Confronta a Aluren y no baja la voz, oculta el cuaderno con razonamiento político propio, admite «Por poco». El único instante de duda sobre sí misma del acto («¿Es eso cierto?» ante la frase de Muoro) no la hace ceder."
+ },
+ {
+  "cap": "10",
+  "titulo": "Pesadillas",
+  "acto": "II",
+  "voces": 2,
+  "hechos": 4,
+  "confianza": 2,
+  "eleccion": "«Ya no creo en Coria. Pero sigo sirviendo»; pedir tres días para Itsu",
+  "nota": "El mapa lo llama «pico»; es el capítulo más crédulo del libro: acepta el parte del parricidio («¿Está confirmado?» «Es el parte que tenemos») y no lo contrasta nunca más. «Ya no creo en Coria."
+ },
+ {
+  "cap": "11",
+  "titulo": "La corte hueca",
+  "acto": "III",
+  "voces": 4,
+  "hechos": 4,
+  "confianza": 3,
+  "eleccion": "Ocultar a Faree el nombre y el segundo depósito",
+  "nota": "En público «Entiendo, majestad», pero oculta deliberadamente Ygoran y el segundo depósito al rey y mide cuánto sabe él («Esperó a ver si el rey los ponía entre ambos»). Obediencia exterior, lectura intacta y activa."
+ },
+ {
+  "cap": "12",
+  "titulo": "Reunión de las Manos",
+  "acto": "III",
+  "voces": 5,
+  "hechos": 4,
+  "confianza": 2,
+  "eleccion": "Asentir al «Núcleo limpio»",
+  "nota": "Asiente al «Núcleo limpio» eligiéndolo («Lo hizo a tiempo») y es la única que registra el pliegue del cuello del rey. Punto bajo público, no mínimo absoluto: el mínimo del libro es el 23, donde cree de verdad."
+ },
+ {
+  "cap": "13",
+  "titulo": "Bajo el palacio",
+  "acto": "III",
+  "voces": 1,
+  "hechos": 5,
+  "confianza": 4,
+  "eleccion": "Seguir al rey sin permiso bajo los jardines",
+  "nota": "Sigue al rey sola, ve, y revisa sin borrar («Todo seguía hecho»; «Ahora tenía que preguntarse qué quería lo que vivía debajo»)."
+ },
+ {
+  "cap": "14",
+  "titulo": "Lirae y la pared",
+  "acto": "III",
+  "voces": 2,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "No sacar a Lirae por la fuerza; pactar que mida desde arriba y deje aviso",
+  "nota": "Cede ante Lirae por respeto a su oficio, no por creer que sabe menos: sabe el peligro y lo dice («Y por hacerla puedes morir»). Pacta mínimos (medir desde arriba, aviso a Tirva, «No bajes hoy»)."
+ },
+ {
+  "cap": "15",
+  "titulo": "Aislamiento",
+  "acto": "III",
+  "voces": 4,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "Asumir ante Illia sus dos decisiones; preparar la salida con Haris",
+  "nota": "Asume ante Illia sus dos decisiones («Podía haberlo dejado allí. Lo maté»), lee las cartas del padre, pero vuelve a dar por hecho el parricidio (tacha «llegaré pronto») y defiende a Faree ante su padre («Eris quiso discutirle…"
+ },
+ {
+  "cap": "16",
+  "titulo": "La cena",
+  "acto": "IV",
+  "voces": 5,
+  "hechos": 5,
+  "confianza": 4,
+  "eleccion": "Huir esa misma noche",
+  "nota": "Lee la manipulación al instante (la flor, el pan, Elerian, «Eso dicen siempre los que empiezan a equivocarse»), dice «No necesito cuidado, majestad» y fija la huida esa noche. «La cumple» y «Recibido» son exteriores."
+ },
+ {
+  "cap": "17",
+  "titulo": "La huida",
+  "acto": "IV",
+  "voces": 3,
+  "hechos": 5,
+  "confianza": 4,
+  "eleccion": "Desobedecer la orden del rey en la calle; dejar a Lirae",
+  "nota": "Desobedece («Un siglo de obediencia no se cortaba con una cena. Siguió corriendo»). Cede ante Lirae por segunda vez, por la misma razón que en el 14."
+ },
+ {
+  "cap": "18",
+  "titulo": "Hacia Ygoran",
+  "acto": "IV",
+  "voces": 1,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "Ir a Ygoran antes que a Itsu; no prometer fecha a su hermano",
+  "nota": "La duda es sobre la autoría de su vida («¿De quién ha sido mi vida, entonces?»), no sobre su lectura. La única lectura política nueva la pone Haris («Coria no parece pequeña desde dentro») y ella la acepta con un «Sí»."
+ },
+ {
+  "cap": "19",
+  "titulo": "Ygoran",
+  "acto": "IV",
+  "voces": 3,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "Confesar los treinta y uno y definirse sin bando («Un sitio desde el que no servir al rey»)",
+  "nota": "Sostiene lo que vio («Las cuerdas las cortamos nosotros», «Matamos a treinta y uno»), pero su revelación es trivial allí («Eso no nos sirve») y lo admite («Tarde»); le tiembla la mano. Protege a Lirae callando."
+ },
+ {
+  "cap": "20",
+  "titulo": "Lirae baja",
+  "acto": "IV",
+  "voces": 0,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "",
+  "nota": "Sin Eris (POV Lirae); heredado del 19. El lector ve que Lirae baja por su propia medida («Esa era la medida que podía hacer con su propio cuerpo»."
+ },
+ {
+  "cap": "21",
+  "titulo": "El tejado",
+  "acto": "V",
+  "voces": 3,
+  "hechos": 5,
+  "confianza": 3,
+  "eleccion": "Enseñar a las chicas a salir de la casa rodeada; quedarse la placa",
+  "nota": "Cede ante Nyree con razón («También son vidas»; «Eris bajó la mirada al mapa») y el 22 le dará la razón a ella; «No sé si me corresponde vivir aquí»; reescribe su propio pasado («Pensé que era una amenaza»)."
+ },
+ {
+  "cap": "21b",
+  "titulo": "Los días buenos",
+  "acto": "V",
+  "voces": 0,
+  "hechos": 5,
+  "confianza": 4,
+  "eleccion": "Ensayar la salida mano con mano hasta que salga",
+  "nota": "Lidera enseñando, rectifica su plan (deja a Taria delante), parte el pan como su madre. Nadie le discute nada."
+ },
+ {
+  "cap": "22",
+  "titulo": "El asalto",
+  "acto": "V",
+  "voces": 2,
+  "hechos": 5,
+  "confianza": 5,
+  "eleccion": "Bajar a cubrir la evacuación en vez de irse por los tejados",
+  "nota": "Juicio militar pleno: baja a cubrir en vez de irse por los tejados («Podía irse por los tejados."
+ },
+ {
+  "cap": "23",
+  "titulo": "El muelle",
+  "acto": "V",
+  "voces": 5,
+  "hechos": 5,
+  "confianza": 1,
+  "eleccion": "Decirle a Theim que Faree es el autor; «Púdrete»",
+  "nota": "Con el máximo de hechos toma por hechos tres opiniones del verdugo (la casa, Lirae, Haris) que el 20, el 21 y el 22 han matizado ante el lector; su única intuición política («Te ha manipulado») es refutada («Lo elegí»)."
+ },
+ {
+  "cap": "24",
+  "titulo": "Epílogo",
+  "acto": "V",
+  "voces": 0,
+  "hechos": 5,
+  "confianza": 1,
+  "eleccion": "",
+  "nota": "Sin Eris (POV Nyree); heredado. La razón se la da el epílogo al lector («Eris había protegido a alguien al callarse el camino», el pasadizo, la firma de Lyris, «Los nombres del cuaderno»), no a ella."
+ }
+]

@@ -40,7 +40,8 @@
 - **D17. Haris**: **hermano elegido** — ocupa el hueco del tercer hermano. Se suelda en la barcaza (18). Su decapitación rima con el hermano perdido. El centímetro del tejado = familia: cercanía sin posesión.
 - **D18. Elerian**: **placer y disfrute — libertad, ni amor ni anhelo.** La única cosa de su vida fuera de todo guion. Verlo con Faree (16) = Coria tomando lo único que la hizo libre. **Elerian jamás traiciona: es un instrumento más de Faree.** Sin beats de añoranza 8→16. La visión final del 23 = las tres personas con las que fue libre (hermana, hermano, cuerpo sin guion).
 - **D19. Faree**: afecto **real e instrumental a la vez**, indistinguibles hasta el final (ni él sabe separarlos). Pago: coral de Elis en el 24 — *«¿Duele.» / «Sí.»*
-- **D20. Muoro**: **el profesional puro.** Cero sentimiento en página; el horror es la frialdad — el guion del Cuerpo poseyendo al mejor hombre que produjo. Es **el oído** que encontró la Nexalita de Eris.
+- **D20. Muoro — sustituida el 2026-10-14 por D64** (Marcos: «cambiemos las normas lo que necesitemos»). Formulación vigente: Muoro es **lo que Eris habría sido** si hubiera seguido sirviendo (brief de Marcos, [[../canon/personajes/muoro]]). Profesional, de pocas palabras y fiel al procedimiento, pero su cuidado por Eris y por el escuadrón se ve en actos desde el Acto I, para que su lealtad final al sistema venga de una persona reconocible y enfrentarse a él duela. Sigue siendo **el oído** que encontró la Nexalita de Eris.
+  - *Historial:* la versión del 2026-09-01 decía «el profesional puro. Cero sentimiento en página; el horror es la frialdad». Era una propuesta de IA que contradecía el brief de Marcos.
 - **D21. Illia**: **try-fail afectivo en el cap 15** — Eris intenta cerrar la cuenta de Ravys con Illia y falla; Illia no se deja. El 22 cobra con la cuenta abierta en página.
 - **D22. Nyree**: **la primera igual** — ni madre ni amiga: la primera que la trata como adulta libre sin poseerla. **Las chicas: la primera cosecha** — la primera vez que Eris da en vez de ejecutar. El 21b se construye sobre esos dos ejes.
 
@@ -167,3 +168,13 @@ Detalle y comprobaciones: [[../sesiones/2026-09-08-aplicacion-soluciones-v2]].
 - **D60. Nagani en el humor y aforismo:** más Nagani en la broma de la rodilla (*Ilare, Kalaree* irónico, *Nel*, *Kalari*). Se recupera «Siempre acompañada. Siempre sola. Cabían las dos cosas en la misma nuca.» tras la presentación de la placa; el cierre «Eris dejó de calcular a qué hora volvería.» se mantiene.
 
 Guía detallada: [[../estilo/criterios-lectura-marcos-cap1-2026-09-08]]. Continuación: [[plan-reescritura-desde-comentarios-cap1]]. Respuestas preparadas y estado de Drive: [[../sesiones/2026-09-08-respuestas-comentarios-cap1]]. D13 sigue pendiente.
+
+## Núcleo de Eris en palabras de Marcos — 2026-10-14
+
+**Fuente explícita:** Marcos en conversación con Claude, respondiendo a preguntas directas. Son palabras suyas, no propuestas de IA.
+
+- **D61. Opiniones frente a hechos:** los demás le dicen a Eris cómo hay que hacer las cosas y ella les cree porque al principio piensa que sabe menos. Con el tiempo descubre que sus ideas e intuiciones estaban más cerca de la realidad. «La revelación de las opiniones frente a los hechos.»
+- **D62. Confianza repartida:** en lo militar es la mejor y lo sabe. En sociología, política e incluso liderazgo duda frente a la genialidad de Faree, aunque ella es más auténtica y mejor líder. Desconfiar de su juicio es su rasgo más humano: increíble en muchas cosas, insegura en otras.
+- **D63. Construida por elecciones:** el personaje se construye a partir de sus elecciones. Piedra de toque: la escena de *Bleed for This* en la que a Vinny todos le repiten «no es tan fácil» y él responde haciéndolo.
+- **D64. Enfrentarse a los Eldara:** la inseguridad de D62 hace más doloroso enfrentarse a sus hermanos Eldara, que siguen creyendo lo que ella creía. Marcos: «eso hace que haya que construir muuuy bien lo que hay que hacer». Marcos autorizó cambiar las normas necesarias («cambiemos las normas lo que necesitemos»): D20 sustituida y notas del escuadrón reescritas en [[../canon/personajes/escuadron-eris]].
+- **Abierto:** si D10 («las luchas propias matan») se conserva como origen de la inseguridad de D62 o se retira. Lo decide Marcos.

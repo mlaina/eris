@@ -49,6 +49,17 @@ Las manos llevan **tatuajes ceremoniales** asociados a su identidad Eldara — T
 - **Tarda en dudar**, pero cuando duda lo hace de verdad.
 - Usa la Nexalita con maestría (conexión mental con su escuadrón).
 
+## Núcleo del personaje — palabras de Marcos (2026-10-14)
+
+**Procedencia: Marcos, en conversación, con sus palabras.** No es una propuesta de IA. Prevalece sobre interpretaciones anteriores del carácter de Eris donde choquen.
+
+- **Opiniones frente a hechos.** La gente le dice a Eris que las cosas hay que hacerlas de una manera, y ella les cree porque al principio piensa que sabe menos y no sabe si algo es fácil o no. Con el tiempo se da cuenta de que sus ideas propias y sus intuiciones estaban más cerca de la realidad que lo que decían los demás. Marcos lo resume como «la revelación de las opiniones frente a los hechos».
+- **Dónde confía y dónde duda.** En su profesionalidad, en lo militar, es la mejor y lo sabe. En sociología, en política e incluso en liderazgo duda frente a la genialidad de Faree, aunque ella es más auténtica y en realidad mejor líder.
+- **El rasgo más humano.** Desconfía de su propio juicio. Es increíble en muchas cosas e insegura en otras.
+- **Construida por elecciones.** Marcos quiere que Eris se construya a partir de sus elecciones. Su piedra de toque es la escena de *Bleed for This* en la que a Vinny Pazienza todos le repiten «no es tan fácil» y él responde haciéndolo.
+
+Pendiente de Marcos: si la falla D10 («las luchas propias matan», [[../../v2/decisiones]]) se conserva como origen de esta inseguridad o se retira.
+
 ## Arco narrativo (5 actos)
 
 - **I Gloria**: encarna la propaganda del poder. Admirada, eficaz, segura.
