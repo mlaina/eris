@@ -2,11 +2,11 @@
 
 Seis presencias en la nuca. Los otros ocho se habían quedado en Lorin, en casa.
 
-Eris apoyó la cabeza contra el mástil y dejó que el barco la meciera. La Nexalita, la pequeña placa que llevaba sujeta a la base del cráneo, mantenía a sus compañeros cerca incluso con los ojos cerrados. Sentía la calma de Muoro, la impaciencia de Haris, la disposición de los gemelos, tan parecida que a veces le costaba distinguirlos. Therel y Nerei descansaban. De ellos le llegaba apenas el bienestar del cuerpo en reposo.
+Eris apoyó la cabeza contra el mástil y dejó que el barco la meciera. La Nexalita, la pequeña placa que llevaba sujeta a la base del cráneo, mantenía a sus compañeros cerca incluso con los ojos cerrados. Sentía la calma de Muoro, la impaciencia de Haris, la disposición de los gemelos Illia y Ravys, tan parecida que a veces le costaba distinguirlos. Therel y Nerei descansaban. De ellos le llegaba apenas el bienestar del cuerpo en reposo.
 
-La placa cabía bajo la uña de un pulgar. Se ajustaba con dos dedos, por presión contra la piel, y bastaban los mismos dos dedos para retirarla. Después de tanto tiempo, Eris apenas reparaba en el contacto. Reconocía a los suyos por lo que sentía a través de ella: una alarma repentina, el dolor de un golpe, la confianza del compañero que estaba preparado. Los detalles exigían una señal o una palabra. La tranquilidad de Muoro podía asegurarle que todo seguía bien; para saber qué había encontrado tendría que mirarlo o preguntárselo.
+La placa cabía en la yema de un pulgar. Se ajustaba con dos dedos, por presión contra la piel, y bastaban los mismos dos dedos para retirarla. Después de tanto tiempo, Eris apenas reparaba en el contacto. Reconocía a los suyos por lo que sentía a través de ella: una alarma repentina, el dolor de un golpe, la confianza del compañero que estaba preparado. Los detalles exigían una señal o una palabra. La tranquilidad de Muoro podía asegurarle que todo seguía bien; para saber qué había encontrado tendría que mirarlo o preguntárselo.
 
-Siempre acompañada. Siempre sola. Cabían las dos cosas en la misma nuca.
+Siempre acompañada. Siempre sola. Cabían las dos cosas en la misma mente.
 
 Haris cambió de postura. Había recogido una pierna y apoyaba el pie en el borde del banco, listo para levantarse. A Eris le hizo gracia descubrir en aquel movimiento la impaciencia que llevaba un rato sintiendo.
 
@@ -16,7 +16,7 @@ Haris cambió de postura. Había recogido una pierna y apoyaba el pie en el bord
 
 Volvió a estirar la pierna, aunque mantuvo la mano sobre la lanza.
 
-Eris conocía el carácter de los catorce que tenía a su cargo. En aquel barco viajaban seis con ella; los demás habían permanecido en su cuartel de Elis cuando salieron. A esa distancia sólo podía acordarse de ellos. Pensó en el patio de Lorin, en el ruido del armero al abrir por la mañana, y las ganas de volver se le hicieron más concretas.
+Eris conocía el carácter de los catorce que tenía a su cargo. En aquel barco viajaban seis con ella; los demás habían permanecido en su cuartel de Elis cuando salieron. A esa distancia sólo podía acordarse de ellos.
 
 El viaje había encadenado tres trabajos. Primero, un motín en la guarnición de una colonia. Después, un contrabandista al que habían sacado de la cama en un puerto de pescadores. Hoy les tocaba una fábrica de Haiz, la droga azul que llevaba un año apareciendo en cargamentos sin que consiguieran localizar dónde se procesaba. Al fin tenían una dirección.
 
